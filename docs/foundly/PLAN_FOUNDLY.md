@@ -184,7 +184,7 @@ Con 5–11 € de margen, un anuncio pago que cueste más que eso por venta da p
 | Fase | Qué | Duración (estimación mía) | Gasto (estimación mía) | Pasa a la siguiente si… |
 |---|---|---|---|---|
 | **0. Validar** | Mail a SeaLegacy, muestras de Printful y Teemill, chequear marca y dominio | 3–4 semanas | < 150 € | SeaLegacy o 2–3 fotógrafos dicen que sí y la muestra convence |
-| **1. Acuerdo** | Contrato con fundación y fotógrafos, elegir proyecto de campo | 4–6 semanas | Abogado: sin verificar | Contratos firmados |
+| **1. Acuerdo** | Contrato con fundación y fotógrafos, elegir una fundación por especie | 4–6 semanas | Abogado: sin verificar | Contratos firmados |
 | **2. Tienda Europa** | Shopify + Printful, 5–8 diseños océano, página de impacto, lanzamiento con los aliados | 4 semanas | 300–600 € (**estimación mía**) | 300 remeras en 90 días |
 | **3. EE.UU.** | Revisión legal "commercial co-venturer" por estado, registros, abrir envíos | 6–8 semanas | Sin verificar | Asesor legal da el OK |
 | **4. Escalar** | Nuevas colecciones y fundaciones, sudaderas, bolsas | Continuo | Con lo que genere | |
@@ -199,7 +199,7 @@ Varios estados obligan a registrarse, firmar contrato escrito con la ONG, rendir
 | Riesgo | Probabilidad | Cómo se cubre |
 |---|---|---|
 | SeaLegacy no responde o dice que no | Media | Plan B: fotógrafos independientes de naturaleza + otra fundación de campo |
-| Margen chico se come en devoluciones | Media | Colchón de 2,89 €/unidad; guía de talles clara |
+| Margen chico se come en devoluciones | Media | Colchón de ~1 €/unidad (opción A); guía de talles clara |
 | Acusación de "lavado verde" | Baja si se cumple la sección 3 | Solo frases concretas y comprobables |
 | Que la donación no llegue o no se pueda demostrar | — | Transferencias mensuales con comprobante publicado |
 | Calidad de impresión de foto (DTG) floja | Media | Muestras antes de lanzar; elegir fotos con buen contraste |
@@ -232,7 +232,7 @@ Cristina:
 
 Mi nombre es Damián Reyes. Vivo en Madrid y dirijo un grupo de empresas. Le escribo porque estamos lanzando Foundly, un proyecto pensado para que cualquier persona pueda ayudar a un animal con un gesto pequeño.
 
-La idea es simple: remeras con fotografías de animales del océano. Por cada remera vendida, una parte fija va a un proyecto de conservación de esa especie y otra parte igual al fotógrafo que hizo la imagen. Producción bajo pedido en algodón orgánico, sin stock ni sobrantes.
+La idea es simple: remeras con fotografías de animales del océano. Por cada remera vendida, una parte fija va a la fundación que protege esa especie y otra parte igual al fotógrafo que hizo la imagen. Producción bajo pedido en algodón orgánico, sin stock ni sobrantes.
 
 Quisiéramos que SeaLegacy y sus fotógrafos sean el corazón del proyecto: sus imágenes, sus historias y su mirada. Nosotros nos ocupamos de la tienda, la producción y la operación. Lo que se recaude y lo que se pague a cada fotógrafo se publicará de forma transparente.
 
@@ -251,7 +251,7 @@ Cristina,
 
 My name is Damián Reyes. I'm based in Madrid and run a group of companies. I'm writing because we are launching Foundly, a project designed so that anyone can help an animal with a small gesture.
 
-The idea is simple: t-shirts featuring photographs of ocean wildlife. For every shirt sold, a fixed amount goes to a conservation project for that species, and an equal amount goes to the photographer who took the image. Everything is printed on demand on organic cotton, with no stock and no waste.
+The idea is simple: t-shirts featuring photographs of ocean wildlife. For every shirt sold, a fixed amount goes to the foundation that protects that species, and an equal amount goes to the photographer who took the image. Everything is printed on demand on organic cotton, with no stock and no waste.
 
 We would love SeaLegacy and its photographers to be at the heart of the project: your images, your stories and your voice. We take care of the store, production and operations. Every amount raised and paid to each photographer will be published openly.
 
