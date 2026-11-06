@@ -1,0 +1,205 @@
+[
+  {
+    "common_name_es": "Águila imperial ibérica",
+    "scientific_name": "Aquila adalberti",
+    "continent": "Europa",
+    "countries": ["España", "Portugal"],
+    "region": "Endemismo ibérico: centro y suroeste peninsular. Castilla-La Mancha reúne el 47% de las parejas de España (396 territorios en 2022); también Extremadura, Comunidad de Madrid (109 parejas en 2025), Castilla y León (más de 100 parejas desde 2019) y Andalucía (Doñana, Sierra Morena, recolonización de Cádiz). En Portugal, unas 20 parejas estimadas.",
+    "iucn_status": "Global: Vulnerable (VU), 2021; España: En peligro de extinción (Catálogo Español de Especies Amenazadas) (sin verificar en BOE; confirmado solo por prensa)",
+    "population_estimate": "Mínimo de 841 parejas reproductoras en la península ibérica (821 en España y unas 20 estimadas en Portugal). BirdLife estima 1.060-1.080 individuos maduros (estima 2020).",
+    "population_year": "2021-2022 (último censo coordinado publicado por MITECO en marzo de 2023)",
+    "population_source_url": "https://www.miteco.gob.es/es/prensa/ultimas-noticias/2023/03/el_aguila_imperialibericaserecuperacuentacon841parejasreproducto.html",
+    "trend": "Creciente. Pasó de unas 39 parejas en 1974 a 841 en 2021-2022 (+53% respecto a las 536 parejas de 2017). La prensa habla de una tendencia al alza en 2024 y 2025, pero no hay un censo nacional oficial posterior a 2022 (sin verificar). BirdLife indica que la población podría estar estabilizándose. Sus amenazas principales son el veneno, la electrocución en tendidos eléctricos, los disparos y los aerogeneradores.",
+    "taxonomy_note": "Especie propia, separada del águila imperial oriental (Aquila heliaca), de la que antes se consideraba subespecie. El nombre científico homenajea al príncipe Adalberto de Baviera. Es endémica de la península ibérica.",
+    "foundations": [
+      {
+        "name": "SEO/BirdLife (Sociedad Española de Ornitología)",
+        "hq_country": "España",
+        "hq_city": "Madrid",
+        "website": "https://seo.org",
+        "project_page_url": "no lo tengo (programas citados: Red de Custodia 'Alzando el vuelo', desde 2006, y LIFE PowerLines4Birds como socio colaborador, hasta abril de 2027)",
+        "contact_email": "seo@seo.org (sin verificar; aparece en un folleto del Ayuntamiento de Madrid, no en la web oficial)",
+        "phone": "+34 914 340 910 (sin verificar; fuente EDMO y Fundación Lealtad)",
+        "director_or_president": "Asunción Ruiz, directora ejecutiva (sin verificar; citada así en prensa en 2024 y mayo de 2025)",
+        "director_source_url": "https://www.ecoticias.com/naturaleza/seo-birdlife-barcelona-aniversario",
+        "what_they_do": "Es la ONG ornitológica decana de España y socia de BirdLife International. Trabaja por el águila imperial mediante la custodia del territorio con propietarios de fincas (Alzando el vuelo, en Campo de Montiel y Sierra Morena oriental), campañas para corregir tendidos eléctricos peligrosos, informes sobre veneno (con WWF) y el proyecto LIFE PowerLines4Birds contra la electrocución y la colisión.",
+        "accepts_corporate_partners": "Sí (sin verificar en la web oficial)",
+        "accepts_corporate_partners_evidence_url": "https://www.corresponsables.com/actualidad/seo-birdlife-grupo-espanol-crecimiento-verde-acuerdo-custodia-territorio/"
+      },
+      {
+        "name": "Fundación CBD-Hábitat (Fundación para la Conservación de la Biodiversidad y su Hábitat)",
+        "hq_country": "España",
+        "hq_city": "Madrid (sin verificar)",
+        "website": "https://cbd-habitat.com (sin verificar)",
+        "project_page_url": "no lo tengo",
+        "contact_email": "no lo tengo",
+        "phone": "no lo tengo",
+        "director_or_president": "Nuria El Khadir, directora (sin verificar; dato de 2022)",
+        "director_source_url": "https://www.corresponsables.com/actualidad/bbva-conservacion-biodiversidad-reclaman-esfuerzos-crisis-ambiental/",
+        "what_they_do": "Fundación creada en 1998 para frenar el declive de especies muy amenazadas. Sus especies foco son el lince ibérico, el águila imperial, el buitre negro y la foca monje. Participa en el Plan de Recuperación del Águila Imperial Ibérica y trabaja en la restauración de hábitat. Recibió un Premio Fundación BBVA a la Conservación de la Biodiversidad (XVII edición).",
+        "accepts_corporate_partners": "no lo tengo",
+        "accepts_corporate_partners_evidence_url": "no lo tengo"
+      },
+      {
+        "name": "GREFA (Grupo de Rehabilitación de la Fauna Autóctona y su Hábitat)",
+        "hq_country": "España",
+        "hq_city": "Majadahonda (Madrid). Dirección: Monte del Pilar s/n, 28220",
+        "website": "https://www.grefa.org",
+        "project_page_url": "no lo tengo",
+        "contact_email": "grefa@grefa.org (fuente: Carpeta CENEAM/MITECO, febrero de 2026)",
+        "phone": "91 638 75 50 (fuente: CENEAM/MITECO, febrero de 2026; una nota de prensa de 2018 da 91 637 75 50)",
+        "director_or_president": "Ernesto Álvarez, presidente (sin verificar como cargo vigente; citado en fuentes de 2018 a 2023)",
+        "director_source_url": "https://majadahondamagazin.es/wp-content/uploads/2018/05/NP-GREFA-180510-AQUILA-a-LIFE-liberaciones.pdf",
+        "what_they_do": "Gestiona un hospital de fauna salvaje y un equipo de rescate, y lleva a cabo proyectos de reintroducción y reforzamiento de rapaces (águila de Bonelli, pigargo, milano real). Ha marcado con GPS a 48 águilas imperiales y libera ejemplares rehabilitados de la especie. Su relación con el águila imperial es secundaria, ya que se centra en la rehabilitación y el seguimiento.",
+        "accepts_corporate_partners": "no lo tengo (sin verificar)",
+        "accepts_corporate_partners_evidence_url": "no lo tengo"
+      }
+    ],
+    "photographers": [
+      {
+        "name": "Mario Cea Sánchez",
+        "nationality": "Española (Salamanca)",
+        "website": "no lo tengo",
+        "instagram": "no lo tengo",
+        "species_gallery_url": "no lo tengo (no se encontró ninguna galería de águila imperial; hay una foto suya de águila real en Salamanca en Alamy)",
+        "note": "Ganador del Wildlife Photographer of the Year en 2016 y de FotoAves en 2010, 2013 y 2017. Está especializado en aves y fotografía con flash de alta velocidad. Habría que confirmar si tiene material de águila imperial. Fuente: https://www.xataka.com/entrevistas/hablamos-mario-cea-salamanca-guitarrista-union-uno-mejores-fotografos-naturaleza-mundo"
+      },
+      {
+        "name": "Andoni Canela",
+        "nationality": "Española (Tudela, Navarra, 1969)",
+        "website": "no lo tengo",
+        "instagram": "no lo tengo",
+        "species_gallery_url": "no lo tengo",
+        "note": "Fotógrafo de naturaleza, autor de 'La mirada salvaje. Encuentros con la fauna ibérica' (Blume, 2009). La exposición se hizo con la Fundación Biodiversidad. No está confirmado que incluya águila imperial (sin verificar). Fuente: https://en.wikipedia.org/wiki/Andoni_Canela"
+      },
+      {
+        "name": "Joaquín Figueredo",
+        "nationality": "Española (Extremadura)",
+        "website": "no lo tengo",
+        "instagram": "no lo tengo",
+        "species_gallery_url": "no lo tengo",
+        "note": "Primer premio de FotoAves 2025 con 'Pactando'. Es extremeño, de la región de Monfragüe, una zona con águila imperial, pero no consta que tenga fotos de la especie (sin verificar). Fuente: https://www.ecoticias.com/naturaleza/joaquin-figueredo-ganador-fotoaves-2025"
+      }
+    ],
+    "design_notes": "Rasgo icónico: los hombros (escapulares) blancos del adulto, que la distinguen de otras águilas, sobre un plumaje pardo oscuro casi negro. El joven tiene un tono leonado o pardo claro. Su hábitat es la dehesa y el monte mediterráneo con alcornoques y encinas. Para la camiseta funcionaría una silueta en vuelo o posada en una encina, con la mancha blanca del hombro como único acento de color. Mensaje posible: 'De 39 parejas a más de 800'. Para las fotos de nidos hay que respetar el código de conducta, porque las molestias provocan el abandono del nido. Una opción para conseguir fotos es el Centro Águilas de Fuente Empedrada (Lagartera, Toledo), que ofrece hides en colaboración con Hides de Calera.",
+    "sources": [
+      "https://www.miteco.gob.es/es/prensa/ultimas-noticias/2023/03/el_aguila_imperialibericaserecuperacuentacon841parejasreproducto.html",
+      "https://www.miteco.gob.es/content/dam/miteco/es/prensa/230331elaguilaimperialibericaserecuperaycuentacon841parejasreproductorasenlapeninsulaiberica_tcm30-560988.pdf",
+      "https://datazone.birdlife.org/species/factsheet/spanish-imperial-eagle-aquila-adalberti",
+      "https://www.eldiario.es/castilla-la-mancha/ecologica/toledo-provincia-clave-aguila-imperial-iberica-aleja-riesgo-extincion_132_10095836.html",
+      "https://www.comunidad.madrid/node/104842",
+      "https://www.elespanol.com/ciencia/20260329/donana-sierra-morena-aguila-imperial-iberica-logra-superar-ejemplares-reconquista-espana-dt/1003744181296_0.amp.html",
+      "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/publicaciones/estrategias/estrategiaconservacionaguilaimperial_es_pt_tcm30-468403.pdf",
+      "https://www.ecoticias.com/?p=494314",
+      "https://fundacion-biodiversidad.es/wp-content/uploads/2014/03/np_20060926_01_0.pdf",
+      "https://www.corresponsables.com/actualidad/bbva-conservacion-biodiversidad-reclaman-esfuerzos-crisis-ambiental/",
+      "https://www.biophilia-fbbva.es/wp-content/uploads/sites/3/2022/09/Discurso-agradecimiento-Fundacion-CBD-Habitat.pdf",
+      "https://www.miteco.gob.es/content/dam/miteco/es/ceneam/carpeta-informativa-del-ceneam/numeros-anteriores/Carpeta-Febrero-2026.pdf",
+      "https://edmo.seadatanet.org/report/2115",
+      "https://soyecoturista.com/ecoturismocientifico/en/fundacion/photography-and-conservation-of-the-iberian-imperial-eagle/",
+      "https://lifeimperial.lpn.pt/files/files/CodeofconductLIFE%20Imperial_leaflet_opt.pdf"
+    ]
+  },
+  {
+    "common_name_es": "Urogallo cantábrico",
+    "scientific_name": "Tetrao urogallus cantabricus",
+    "continent": "Europa",
+    "countries": ["España"],
+    "region": "Cordillera Cantábrica, sobre todo en Asturias y León (Castilla y León), en bosques de haya, roble y abedul de montaña con arándano. En León quedan unos 25 cantaderos y alrededor de 70 ejemplares, según el Diario de León (sin verificar). Ha desaparecido o casi de Galicia y Cantabria (sin verificar).",
+    "iucn_status": "Global: Preocupación menor (LC), 2024 (evaluación de la especie Tetrao urogallus; la subespecie no tiene evaluación global propia); España: En peligro de extinción (Catálogo Español de Especies Amenazadas, RD 139/2011) y declarada 'en situación crítica' (Orden TEC/1078/2018)",
+    "population_estimate": "209 ejemplares (117 machos y 92 hembras) según el muestreo genético de toda la cordillera Cantábrica",
+    "population_year": "2024 (publicado por MITECO en junio de 2025)",
+    "population_source_url": "https://www.miteco.gob.es/es/prensa/ultimas-noticias/2025/junio/la-poblacion-de-urogallo-cantabrico-asciende-a-209-ejemplares-en.html",
+    "trend": "A largo plazo, declive muy fuerte, con pérdida de la mayoría de cantaderos en las últimas décadas. A corto plazo, posible estabilización: +8% respecto a los 191 ejemplares de 2019, aunque los análisis solo dan un 75% de probabilidad de que la población de 2024 sea mayor. La proporción de sexos ha mejorado (31,5% de hembras en 2019 y 44% en 2024). En cautividad, el centro de cría de Valsemana (León) logró 76 pollos en 2025, pero la primera suelta experimental (otoño de 2025, ZEPA Alto Sil) tuvo una supervivencia muy baja: según prensa de 2026, de unos 30 ejemplares sobrevivió una hembra.",
+    "taxonomy_note": "Subespecie del urogallo común (Tetrao urogallus) aislada en la cordillera Cantábrica. Es la población más meridional de la especie y la única adaptada a bosques caducifolios. Es distinta de la subespecie pirenaica, T. u. aquitanicus.",
+    "foundations": [
+      {
+        "name": "Fundación Biodiversidad (F.S.P., Ministerio para la Transición Ecológica y el Reto Demográfico)",
+        "hq_country": "España",
+        "hq_city": "Madrid",
+        "website": "https://fundacion-biodiversidad.es",
+        "project_page_url": "https://webgate.ec.europa.eu/life/publicWebsite/project/LIFE09-NAT-ES-000513/conservation-of-the-cantabrian-capercailletetrao-urogallus-cantabricus-in-its-habitat-in-the-cantabrian-mountain-range",
+        "contact_email": "ieeb@fundacion-biodiversidad.es (es el correo de la Iniciativa Española Empresa y Biodiversidad, no un contacto general ni del proyecto urogallo)",
+        "phone": "+34 91 121 09 20 (folleto IEEB)",
+        "director_or_president": "Félix Romero Cañizares, director (nombrado en mayo de 2025)",
+        "director_source_url": "https://www.miteco.gob.es/es/prensa/ultimas-noticias/2025/mayo/felix-romero-canizares--nuevo-director-de-la-fundacion-biodivers.html",
+        "what_they_do": "Coordinó el LIFE+ Urogallo cantábrico (LIFE09 NAT/ES/000513, de octubre de 2010 a diciembre de 2016, con unos 5,9 millones de euros y un 50% de cofinanciación UE). En él participaron SEO/BirdLife, Fundación Iberdrola, Parques Nacionales y los gobiernos de Asturias, Cantabria, Castilla y León y Galicia. Incluyó mejora de hábitat, retirada de tendidos y el inicio de la cría en cautividad en Sobrescobio (Asturias). Hoy financia proyectos de conservación de forma general. El proyecto LIFE está cerrado: conviene confirmar con ellos qué proyecto activo sobre el urogallo podría recibir donaciones.",
+        "accepts_corporate_partners": "Sí: coordina la Iniciativa Española Empresa y Biodiversidad (IEEB), a la que se adhieren empresas, y el LIFE Urogallo tuvo financiación de Fundación Iberdrola",
+        "accepts_corporate_partners_evidence_url": "https://fundacion-biodiversidad.es/wp-content/uploads/2024/04/¿Que-es-la-IEEB.pdf"
+      },
+      {
+        "name": "Fundación Patrimonio Natural de Castilla y León",
+        "hq_country": "España",
+        "hq_city": "Valladolid",
+        "website": "https://patrimonionatural.org",
+        "project_page_url": "no lo tengo (gestiona el Centro de Cría del Urogallo de Valsemana, en La Ercina, León, para la Junta de Castilla y León)",
+        "contact_email": "patrimonionatural@patrimonionatural.org (aparece en la web de la fundación)",
+        "phone": "983 345 850",
+        "director_or_president": "no lo tengo (el patronato lo preside el consejero de Medio Ambiente de la Junta; el dato disponible es de 2018 y no nombra al director de la fundación)",
+        "director_source_url": "no lo tengo",
+        "what_they_do": "Fundación pública de la Junta de Castilla y León. Gestiona el centro de cría en cautividad de Valsemana, que en 2025 sacó adelante 76 pollos con una supervivencia superior al 84%. Ya ha hecho las primeras sueltas experimentales y construye 20 nuevos voladeros de presuelta. El proyecto de presupuestos de 2027 prevé 750.000 € para el centro y 625.000 € para el seguimiento del oso y el urogallo (pendiente de aprobación).",
+        "accepts_corporate_partners": "no lo tengo",
+        "accepts_corporate_partners_evidence_url": "no lo tengo"
+      },
+      {
+        "name": "SEO/BirdLife (Sociedad Española de Ornitología)",
+        "hq_country": "España",
+        "hq_city": "Madrid",
+        "website": "https://seo.org",
+        "project_page_url": "no lo tengo (fue socia del LIFE09 NAT/ES/000513)",
+        "contact_email": "seo@seo.org (sin verificar)",
+        "phone": "+34 914 340 910 (sin verificar)",
+        "director_or_president": "Asunción Ruiz, directora ejecutiva (sin verificar)",
+        "director_source_url": "https://www.ecoticias.com/naturaleza/seo-birdlife-barcelona-aniversario",
+        "what_they_do": "Socia del LIFE+ Urogallo cantábrico. Ha trabajado en custodia del territorio con propietarios (con el Gobierno de Cantabria y la Fundación Oxígeno), en la protección de refugios invernales y en voluntariado para mejorar el hábitat. Publicó un manual de conservación (2013) y guías para los sectores ganadero, cinegético y turístico. No se encontró ningún proyecto suyo sobre el urogallo activo en 2025 (sin verificar).",
+        "accepts_corporate_partners": "Sí (sin verificar en la web oficial)",
+        "accepts_corporate_partners_evidence_url": "https://www.corresponsables.com/actualidad/seo-birdlife-grupo-espanol-crecimiento-verde-acuerdo-custodia-territorio/"
+      }
+    ],
+    "photographers": [
+      {
+        "name": "Edgar Madrenys",
+        "nationality": "no lo tengo (probablemente española, sin verificar)",
+        "website": "no lo tengo",
+        "instagram": "no lo tengo",
+        "species_gallery_url": "https://www.aav.org/news/659648/The-Cantabrian-capercaillie-a-critically-endangered-species-from-Northern-Spain.htm",
+        "note": "Firma las fotos de machos y hembras de urogallo cantábrico, incluido un macho en el cantadero, en un artículo de la AAV sobre la subespecie. No consta ningún premio (sin verificar)."
+      },
+      {
+        "name": "Andoni Canela",
+        "nationality": "Española (Tudela, Navarra, 1969)",
+        "website": "no lo tengo",
+        "instagram": "no lo tengo",
+        "species_gallery_url": "no lo tengo",
+        "note": "Su exposición itinerante 'La mirada salvaje', presentada con la Fundación Biodiversidad, incluía urogallos entre la fauna ibérica. Fuente: https://fundacion-biodiversidad.es/wp-content/uploads/2014/03/np_20100701_01_0.pdf"
+      },
+      {
+        "name": "Mario Cea Sánchez",
+        "nationality": "Española (Salamanca)",
+        "website": "no lo tengo",
+        "instagram": "no lo tengo",
+        "species_gallery_url": "no lo tengo",
+        "note": "Ganador del Wildlife Photographer of the Year en 2016 y de FotoAves en 2010, 2013 y 2017. No consta que tenga material de urogallo cantábrico (sin verificar). Es candidato si se busca un fotógrafo español con premios."
+      }
+    ],
+    "design_notes": "Es un ave grande, de aspecto de gallo de bosque. El macho es gris oscuro con pecho verde metálico, cola en abanico, barba de plumas y una carúncula roja sobre el ojo. La hembra es parda y barrada. Para la camiseta funcionaría el macho en el cantadero, con la cola desplegada y el pico hacia arriba, sobre un hayedo con arándanos. La 'ceja' roja podría ser el único acento de color. Mensaje posible: 'Quedan 209'. Los cantaderos son lugares sensibles: no conviene publicar ubicaciones y las fotos deben hacerse desde hides autorizados.",
+    "sources": [
+      "https://www.miteco.gob.es/es/prensa/ultimas-noticias/2025/junio/la-poblacion-de-urogallo-cantabrico-asciende-a-209-ejemplares-en.html",
+      "https://www.miteco.gob.es/content/dam/miteco/es/prensa/25.05.06_Ndp_La%20población%20de%20urogallo%20cantábrico%20asciende%20a%20209%20ejemplares%20en%202024.pdf",
+      "https://miteco.gob.es/content/dam/miteco/es/biodiversidad/publicaciones/estrategias/estrategia-urogallo-2025.pdf",
+      "https://www.miteco.gob.es:443/content/dam/miteco/es/biodiversidad/temas/conservacion-de-especies/comite-cientifico/Dictamen%20CC%2063%202020%20Tetrao%20urogallus_poblaci%C3%B3n%20Pirineos.pdf",
+      "https://datazone.birdlife.org/species/factsheet/western-capercaillie-tetrao-urogallus",
+      "https://webgate.ec.europa.eu/life/publicWebsite/project/LIFE09-NAT-ES-000513/conservation-of-the-cantabrian-capercailletetrao-urogallus-cantabricus-in-its-habitat-in-the-cantabrian-mountain-range",
+      "https://fundacion-biodiversidad.es/wp-content/uploads/2016/11/16.11.15_seminario_final_proyecto_life_urogallo_cantabrico.pdf",
+      "https://www.miteco.gob.es/es/prensa/ultimas-noticias/2025/mayo/felix-romero-canizares--nuevo-director-de-la-fundacion-biodivers.html",
+      "https://fundacion-biodiversidad.es/wp-content/uploads/2024/04/¿Que-es-la-IEEB.pdf",
+      "https://www.diariodeleon.es/castilla-y-leon/260425/2082927/castilla-leon-centro-urogallo-valsemana-logra-sobrevivan-76-pollos-temporada-pasada-84-4-huevos-eclosionados.html",
+      "https://www.diariodeleon.es/leon/provincia/260530/2086724/hembra-sobrevive-primera-suelta-urogallos-criados-cautividad.html",
+      "https://www.eldebate.com/sociedad/sociedad-medio-ambiente/20260604/fracaso-reintroduccion-urogallo-cantabrico-sueltan-30-ejemplares-mueren-29-devorados-depredadores_425054_amp.html",
+      "https://patrimonionatural.org/noticias/13",
+      "https://www.ecoticias.com/naturaleza/88802_noticia-medio-ambiente-seminario-urogallo-custodia-territorio",
+      "https://www.aav.org/news/659648/The-Cantabrian-capercaillie-a-critically-endangered-species-from-Northern-Spain.htm",
+      "https://fundacion-biodiversidad.es/wp-content/uploads/2014/03/np_20100701_01_0.pdf"
+    ]
+  }
+]

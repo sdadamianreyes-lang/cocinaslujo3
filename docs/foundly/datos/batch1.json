@@ -1,0 +1,578 @@
+[
+ {
+  "common_name_es": "Lince ibérico",
+  "scientific_name": "Lynx pardinus",
+  "continent": "Europa",
+  "countries": [
+   "España",
+   "Portugal"
+  ],
+  "region": "Península Ibérica: Castilla-La Mancha (1.051 ejemplares en 2025, la comunidad con más linces), Andalucía (Doñana, Sierra Morena), Extremadura, Murcia, Castilla y León (reintroducción en Palencia), Valle del Guadiana (Portugal)",
+  "iucn_status": "Global: Vulnerable (VU), rebajado desde 'En Peligro' en junio de 2024 (UICN, nota de prensa 20/06/2024). España: 'En peligro de extinción' en el Catálogo Español de Especies Amenazadas (sin verificar: no pude abrir el BOE/MITECO en esta sesión).",
+  "iucn_source_url": "https://iucn.org/node/41648",
+  "population_estimate": "2.663 ejemplares en 2025 (1.711 adultos/subadultos + 952 cachorros; 542 hembras reproductoras) en toda la Península Ibérica; cifra mínima según MITECO. 2024: 2.401 aprox. (+19% respecto a 2023).",
+  "population_year": 2025,
+  "population_source_url": "https://www.miteco.gob.es/es/prensa/ultimas-noticias/2026/junio/la-poblacion-de-lince-iberico-alcanzo-los-2-663-ejemplares-en-20.html",
+  "trend": "increasing (+10,9% respecto a 2024; casi se duplica en 4 años). Amenaza principal: 212 de 273 muertes detectadas en 2025 fueron atropellos.",
+  "taxonomy_note": "1 especie (Lynx pardinus), sin subespecies reconocidas; endémica de la Península Ibérica. Distinta del lince boreal (Lynx lynx).",
+  "foundations": [
+   {
+    "name": "WWF España",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://www.wwf.es",
+    "project_page_url": "no lo tengo",
+    "contact_email": "info@wwf.es (general, página Contacta con WWF España); marketing@wwf.es (empresas, citado en wwf.es/colabora/empresas_por_el_planeta)",
+    "phone": "+34 91 354 05 78",
+    "director_or_president": "Juan Carlos del Olmo (Secretario General); Presidente Junta Rectora: Antonio Lucio Gil (sin verificar fecha) — Secretario General (2025 (cita en nota de prensa wwf.es sobre el lobo, ~2025; página Equipo sin fecha))",
+    "director_source_url": "https://www.wwf.es/somos/somos_equipo/",
+    "what_they_do": "ONG que participa en reintroducciones de lince (p.ej. Cuenca, Palencia) y en la coalición del proyecto LIFE LynxConnect.",
+    "accepts_corporate_partners": "yes",
+    "accepts_corporate_partners_evidence_url": "https://www.wwf.es/colabora/empresas_por_el_planeta/",
+    "notes": "Sede: Gran Vía de San Francisco 8-D, 28005 Madrid. Programas: Empresas Amigas (250/500/1000 €/mes), Campañas con empresas, Grandes proyectos (Correos, Reale), Cien Empresas por los Bosques (desde 3.000 €). Campañas con empresas encaja con modelo 5 €/camiseta (licencia de marca WWF suele requerir acuerdo formal). Presidente Antonio Lucio Gil procede de un PDF de perfiles de Junta Rectora sin fecha."
+   },
+   {
+    "name": "Fundación CBD-Hábitat",
+    "hq_country": "España",
+    "hq_city": "Madrid (sin verificar)",
+    "website": "https://cbd-habitat.com",
+    "project_page_url": "no lo tengo",
+    "contact_email": "cbd-habitat@cbd-habitat.com",
+    "phone": "+34 91 510 01 33",
+    "director_or_president": "Nuria El Khadir Palomo (Directora gerente); Presidente: Javier Oria Martín (fundador) — Directora gerente (2023 (entrevista El Español 2023; página About sin fecha))",
+    "director_source_url": "https://cbd-habitat.com/en/about-cbd-habitat/",
+    "what_they_do": "Fundación española que desde 1998 trabaja en conservación del lince ibérico (custodia del territorio con fincas privadas), águila imperial y foca monje.",
+    "accepts_corporate_partners": "unknown",
+    "accepts_corporate_partners_evidence_url": "http://2020.cbd-habitat.com/colaboraciones/ (web antigua: 'Si eres empresa o entidad / Financia un programa'); no lo tengo en la web actual",
+    "notes": "Dirección actual (web EN): C. Ángel Hernández 13, 28002 Madrid; CIF G82118480. Web antigua daba C/ Gustavo Fernández Balbuena 2. Lince ibérico, foca monje, buitre negro. Premio Fundación BBVA Conservación Biodiversidad 2022."
+   },
+   {
+    "name": "Fundación Biodiversidad (MITECO)",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://fundacion-biodiversidad.es",
+    "project_page_url": "no lo tengo",
+    "contact_email": "ieeb@fundacion-biodiversidad.es (Iniciativa Española Empresa y Biodiversidad); prensa@fundacion-biodiversidad.es; general biodiversidad@fundacion-biodiversidad.es (sin verificar, de directorio de terceros)",
+    "phone": "+34 91 121 09 20",
+    "director_or_president": "Félix Romero Cañizares — Director (Nombrado mayo 2025; firma resoluciones como director en 2026)",
+    "director_source_url": "https://fundacion-biodiversidad.es/notas_de_prensa_mite/felix-romero-canizares-nuevo-director-de-la-fundacion-biodiversidad/",
+    "what_they_do": "Fundación pública del MITECO que coordina/financia proyectos de lince (difunde el censo oficial 2025). Opción institucional, menos probable para un acuerdo de donación privada.",
+    "accepts_corporate_partners": "unknown",
+    "accepts_corporate_partners_evidence_url": "https://ieeb.fundacion-biodiversidad.es/contacto/",
+    "notes": "Sede: C/ Peñuelas 10, 28005 Madrid. Fundación pública del sector público estatal: canaliza ayudas/convocatorias, no es receptora típica de donaciones por producto; la vía empresarial es la Iniciativa Española Empresa y Biodiversidad (IEEB). Prioridad baja para modelo 5 €/camiseta."
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Josef Stefan",
+    "nationality": "Austria",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.nhm.ac.uk/wpy/gallery/2025-flying-rodent",
+    "note": "Ganador del Wildlife Photographer of the Year Nuveen People's Choice Award 2026 con 'Flying Rodent' (lince joven jugando con un roedor, Torre de Juan Abad, Ciudad Real); récord de 85.917 votos."
+   },
+   {
+    "name": "Eduardo Blanco Mendizábal",
+    "nationality": "España",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://gdtfoto.de/seiten/gdt-european-wildlife-photographer-of-the-year-results-2019.html",
+    "note": "Ganador absoluto del GDT European Wildlife Photographer of the Year 2019 con 'El fantasma', un lince ibérico."
+   },
+   {
+    "name": "Ángel Hidalgo",
+    "nationality": "España",
+    "website": "no lo tengo",
+    "instagram": "@angeliyo_o (según crédito en prensa, sin verificar)",
+    "species_gallery_url": "https://www.noticiascaracol.com/estilo-de-vida/fotografo-revela-como-logro-captar-en-vivo-al-lince-iberico-blanco-desaparecio-como-un-fantasma-rg10",
+    "note": "Fotografió el 22/10/2025 en Jaén el primer lince ibérico leucístico (blanco) documentado; imagen viral mundial."
+   }
+  ],
+  "design_notes": "El gran éxito de conservación español (de ~94 a 2.663 ejemplares): orgullo nacional, pinceles en las orejas y mirada icónica; ideal como animal de lanzamiento.",
+  "sources": [
+   "https://www.miteco.gob.es/es/prensa/ultimas-noticias/2026/junio/la-poblacion-de-lince-iberico-alcanzo-los-2-663-ejemplares-en-20.html",
+   "https://fundacion-biodiversidad.es/wp-content/uploads/2026/06/26_06_05_Ndp_La_poblacion_de_lince_iberico_alcanzo_los_2_663_ejemplares.pdf",
+   "https://www.miteco.gob.es/es/prensa/ultimas-noticias/2025/mayo/la-poblacion-de-linces-ibericos-crecio-un-19--en-2024-respecto-a.html",
+   "https://iucn.org/node/41648",
+   "https://fashionunited.es/press/moda/cortefiel-y-wwf-se-unen-en-la-defensa-del-lince-iberico/2022050938637",
+   "https://www.nhm.ac.uk/wpy/gallery/2025-flying-rodent",
+   "https://gdtfoto.de/seiten/gdt-european-wildlife-photographer-of-the-year-results-2019.html"
+  ]
+ },
+ {
+  "common_name_es": "Oso pardo cantábrico",
+  "scientific_name": "Ursus arctos (población cantábrica)",
+  "continent": "Europa",
+  "countries": [
+   "España"
+  ],
+  "region": "Cordillera Cantábrica: Asturias, Castilla y León (León, Palencia), Cantabria y Galicia; dos subpoblaciones (occidental y oriental). Ocasionalmente norte de Portugal.",
+  "iucn_status": "Global: Preocupación Menor (LC) para Ursus arctos (sin verificar en la web de la UICN). La población cantábrica figura como 'En peligro' en evaluaciones regionales (sin verificar). España: 'En peligro de extinción' en el Catálogo Español de Especies Amenazadas (RD 139/2011), según la Estrategia de Conservación del MITECO.",
+  "iucn_source_url": "https://www.miteco.gob.es:443/content/dam/miteco/es/biodiversidad/publicaciones/estrategias/estrategiaconservacionosopardocantabricaaprobadacsma300919paraweb1_tcm30-197241.pdf",
+  "population_estimate": "Unos 370 ejemplares según el último censo de las comunidades autónomas (sin verificar en fuente primaria; citado en prensa, Diario de León 2025). Censo 2025-26 en Castilla y León: 21 osas con 37 crías.",
+  "population_year": "aprox. 2021-2025 (sin verificar)",
+  "population_source_url": "https://www.diariodeleon.es/leon/provincia/250628/2052563/oso-pardo-campa-area-distibucion-25-000-kilometros-cuadradoscinco-anos-trabajo-39-colmenares-protegidos.html ; https://fundacionosopardo.org/wp-content/uploads/2026/04/ficha1_2026_ESP.pdf",
+  "trend": "increasing (según la Fundación Oso Pardo, crecimiento ~10% anual en los últimos 25 años; desde 70 a ~400 en 30 años según LIFE Osos con futuro)",
+  "taxonomy_note": "1 especie (Ursus arctos); la cantábrica es una población aislada (subpoblaciones occidental y oriental), no una subespecie reconocida. En España existe otra población separada, la pirenaica.",
+  "foundations": [
+   {
+    "name": "Fundación Oso Pardo (FOP)",
+    "hq_country": "España",
+    "hq_city": "Santander (Cantabria)",
+    "website": "https://fundacionosopardo.org",
+    "project_page_url": "https://fundacionosopardo.org/en/become-bears-friend/",
+    "contact_email": "fop@fundacionosopardo.org",
+    "phone": "942 23 49 00",
+    "director_or_president": "Guillermo Palomero, presidente y fundador (sin verificar vigencia; fuentes de 2009-2010)",
+    "director_source_url": "https://fundacion-biodiversidad.es/wp-content/uploads/2014/05/fbp_20101026_13.pdf",
+    "what_they_do": "ONG creada en 1992 para el estudio y conservación del oso pardo y su hábitat: patrullas, seguimiento, censos, convivencia con la población rural.",
+    "accepts_corporate_partners": "yes (tiene programa de apoyos/'Amigos del oso' y listado de entidades que la apoyan)",
+    "accepts_corporate_partners_evidence_url": "https://fundacionosopardo.org/category/supports/public-entities-and-administrations/"
+   },
+   {
+    "name": "Fundación Oso de Asturias (FOA)",
+    "hq_country": "España",
+    "hq_city": "Proaza (Asturias) - Casa del Oso",
+    "website": "https://osodeasturias.es",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Nicanor Fernández, presidente (según nota de prensa de ABANCA; sin verificar fecha)",
+    "director_source_url": "https://comunicacion.abanca.com/es/noticias/abanca-se-incorpora-al-patronato-de-la-fundacion-oso-de-asturias",
+    "what_they_do": "Fundación del Principado de Asturias con patronato empresarial dedicada a la conservación del oso pardo cantábrico y su hábitat.",
+    "accepts_corporate_partners": "yes",
+    "accepts_corporate_partners_evidence_url": "https://comunicacion.abanca.com/es/noticias/abanca-se-incorpora-al-patronato-de-la-fundacion-oso-de-asturias (empresas en patronato: ABANCA, Fundación EDP, ArcelorMittal, etc.; TotalEnergies donó 8.000 €)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Andoni Canela",
+    "nationality": "España",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.wikipedia.com/wiki/Andoni_Canela",
+    "note": "Autor del libro fotográfico 'El Oso Cantábrico' (2008, con textos de la Fundación Oso Pardo) - colaboración previa con la FOP."
+   },
+   {
+    "name": "Francisco Márquez",
+    "nationality": "España",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.nhbs.com/el-oso-pardo-cantabrico-book",
+    "note": "Coautor de un libro fotográfico sobre el oso pardo cantábrico con la Fundación Oso Pardo (descatalogado). Datos sin verificar."
+   }
+  ],
+  "design_notes": "Símbolo de la España verde y salvaje (Somiedo, Picos de Europa); una osa con oseznos es un gancho emocional muy fuerte y conecta con el turismo de naturaleza del norte.",
+  "sources": [
+   "https://fundacionosopardo.org/en/become-bears-friend/",
+   "https://fundacionosopardo.org/wp-content/uploads/2026/04/ficha1_2026_ESP.pdf",
+   "https://www.diariodeleon.es/leon/provincia/260510/2084386/censo-revela-alta-productividad-21-osas-37-oseznos-cyl.html",
+   "https://www.xunta.gal/notas-de-prensa/-/nova/77008/galicia-acoge-11-ejemplares-oso-pardo-segun-censo-poblacion-esta-especie-realizado",
+   "https://www.ecoticias.com/naturaleza/resultados-life-osos-con-futuro-30-anos-poblacion-70-400-ejemplares",
+   "https://www.miteco.gob.es:443/content/dam/miteco/es/biodiversidad/publicaciones/estrategias/estrategiaconservacionosopardocantabricaaprobadacsma300919paraweb1_tcm30-197241.pdf",
+   "https://comunicacion.abanca.com/es/noticias/abanca-se-incorpora-al-patronato-de-la-fundacion-oso-de-asturias"
+  ]
+ },
+ {
+  "common_name_es": "Lobo ibérico",
+  "scientific_name": "Canis lupus signatus (taxonomía discutida; Canis lupus)",
+  "continent": "Europa",
+  "countries": [
+   "España",
+   "Portugal"
+  ],
+  "region": "Noroeste peninsular: Galicia, Asturias, Castilla y León (mayor población), Cantabria, País Vasco, La Rioja, Madrid; norte de Portugal. Presencia residual o extinta en Sierra Morena.",
+  "iucn_status": "Global: Preocupación Menor (LC) para Canis lupus (sin verificar en la web de la UICN). España: incluido en el LESPRE en sept. 2021; en marzo de 2025 las poblaciones al norte del Duero salieron del listado (vía enmienda a la Ley de Desperdicio Alimentario), permitiendo de nuevo su gestión cinegética; situación jurídica inestable en 2026.",
+  "iucn_source_url": "https://elespanol.com/castilla-y-leon/region/20250320/castilla-leon-gana-batalla-lobo-vuelva-cazable-norte-duero-ahora-ira-zona-sur/932657042_0.html",
+  "population_estimate": "333 manadas en España (censo nacional 2021-2024; trabajo de campo sobre todo 2023-2024). El censo cuenta manadas, no individuos; no tengo cifra oficial de ejemplares. Censo previo 2012-2014: 297 manadas.",
+  "population_year": "2021-2024 (publicado junio 2025)",
+  "population_source_url": "https://www.miteco.gob.es/en/prensa/ultimas-noticias/2025/junio/el-censo-nacional-del-lobo-2021-2024-arroja-una-cifra-total-de-3.html",
+  "trend": "stable (~+1% anual respecto a 2012-2014 según análisis de WWF; organizaciones científicas lo consideran estancado)",
+  "taxonomy_note": "1 especie (Canis lupus); el lobo ibérico se describe como subespecie Canis lupus signatus, aunque su validez taxonómica es discutida.",
+  "foundations": [
+   {
+    "name": "WWF España",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://www.wwf.es",
+    "project_page_url": "https://wwfes.awsassets.panda.org/downloads/analisis-wwf_censo-lobo-2025--1-.pdf",
+    "contact_email": "info@wwf.es (general, página Contacta con WWF España); marketing@wwf.es (empresas, citado en wwf.es/colabora/empresas_por_el_planeta)",
+    "phone": "+34 91 354 05 78",
+    "director_or_president": "Juan Carlos del Olmo (Secretario General); Presidente Junta Rectora: Antonio Lucio Gil (sin verificar fecha) — Secretario General (2025 (cita en nota de prensa wwf.es sobre el lobo, ~2025; página Equipo sin fecha))",
+    "director_source_url": "https://www.wwf.es/somos/somos_equipo/",
+    "what_they_do": "Programa de conservación del lobo y coexistencia con la ganadería; análisis del censo 2025.",
+    "accepts_corporate_partners": "yes",
+    "accepts_corporate_partners_evidence_url": "https://www.wwf.es/colabora/empresas_por_el_planeta/",
+    "notes": "Sede: Gran Vía de San Francisco 8-D, 28005 Madrid. Programas: Empresas Amigas (250/500/1000 €/mes), Campañas con empresas, Grandes proyectos (Correos, Reale), Cien Empresas por los Bosques (desde 3.000 €). Campañas con empresas encaja con modelo 5 €/camiseta (licencia de marca WWF suele requerir acuerdo formal). Presidente Antonio Lucio Gil procede de un PDF de perfiles de Junta Rectora sin fecha."
+   },
+   {
+    "name": "Grupo Lobo",
+    "hq_country": "Portugal",
+    "hq_city": "Mafra (Lisboa)",
+    "website": "https://www.grupolobo.pt/en",
+    "project_page_url": "https://www.grupolobo.pt/en/how-to-help",
+    "contact_email": "no lo tengo",
+    "phone": "261 785 037 (de directorio de terceros, sin verificar)",
+    "director_or_president": "no lo tengo",
+    "director_source_url": "no lo tengo",
+    "what_they_do": "ONGA portuguesa de utilidad pública fundada en 1985: Centro de Recuperação do Lobo Ibérico, perros de protección de ganado (+200 integrados), educación ambiental.",
+    "accepts_corporate_partners": "unknown (tienda online y página 'How to help'; sin evidencia explícita de acuerdos corporativos)",
+    "accepts_corporate_partners_evidence_url": "https://www.grupolobo.pt/en/how-to-help"
+   },
+   {
+    "name": "ASCEL - Asociación para la Conservación y Estudio del Lobo Ibérico",
+    "hq_country": "España",
+    "hq_city": "no lo tengo",
+    "website": "https://quebrantahuesos.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo (dato borrado: se había cruzado con otra organización)",
+    "phone": "no lo tengo (dato borrado: se había cruzado con otra organización)",
+    "director_or_president": "no lo tengo (dato borrado: se había cruzado con otra organización)",
+    "director_source_url": "no lo tengo (dato borrado: se había cruzado con otra organización)",
+    "what_they_do": "Asociación dedicada al estudio y defensa jurídica del lobo (recursos contra planes de control en Asturias, La Rioja, Cantabria).",
+    "accepts_corporate_partners": "unknown",
+    "accepts_corporate_partners_evidence_url": "no lo tengo (dato borrado: se había cruzado con otra organización)",
+    "notes": ""
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Carlos Sanz García",
+    "nationality": "España",
+    "website": "https://carlossanzamigolobo.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.miteco.gob.es/es/ceneam/exposiciones-del-ceneam/exposiciones-temporales/amigo_lobo.html",
+    "note": "Biólogo y fotógrafo naturalista con más de 30 años con lobos; exposición 'Amigo Lobo' (CENEAM 2009); finalista Premios Panda de WWF 2004 y 2006. Ojo: parte de sus imágenes son en condiciones controladas."
+   },
+   {
+    "name": "Andoni Canela",
+    "nationality": "España",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://vidasana.org/documentales-durmiendo-con-lobos-un-film-de-andoni-canela/",
+    "note": "Fotógrafo y documentalista, autor del film 'Durmiendo con lobos'."
+   }
+  ],
+  "photographers_warning": "NO usar a José Luis Rodríguez ('Storybook Wolf', WPY 2009): el título le fue retirado en 2010 por sospecha de lobo amaestrado (https://amateurphotographer.com/latest/photo-news/wildlife-photographer-stripped-of-coveted-veolia-title-update-3-20pm/).",
+  "design_notes": "Animal mítico de la cultura rural española (Félix Rodríguez de la Fuente); muy polarizante pero con enorme comunidad fan; el aullido/mirada funciona muy bien en gráfica.",
+  "sources": [
+   "https://www.miteco.gob.es/en/prensa/ultimas-noticias/2025/junio/el-censo-nacional-del-lobo-2021-2024-arroja-una-cifra-total-de-3.html",
+   "https://wwfes.awsassets.panda.org/downloads/analisis-wwf_censo-lobo-2025--1-.pdf",
+   "https://secem.es/sites/default/files/2026-06/Manifiesto_Lobo_Iberico_SECEM_ES_.pdf",
+   "https://elespanol.com/castilla-y-leon/region/20250320/castilla-leon-gana-batalla-lobo-vuelva-cazable-norte-duero-ahora-ira-zona-sur/932657042_0.html",
+   "https://www.grupolobo.pt/en/how-to-help",
+   "https://www.miteco.gob.es/es/ceneam/exposiciones-del-ceneam/exposiciones-temporales/amigo_lobo.html"
+  ]
+ },
+ {
+  "common_name_es": "Quebrantahuesos",
+  "scientific_name": "Gypaetus barbatus",
+  "continent": "Europa (también África y Asia)",
+  "countries": [
+   "España",
+   "Francia",
+   "Andorra",
+   "Italia",
+   "Suiza",
+   "Austria (Alpes)",
+   "Grecia (Creta)",
+   "además África y Asia"
+  ],
+  "region": "Pirineos (mayor población de Europa, compartida España-Francia-Andorra; Aragón con hasta 88 parejas), reintroducciones en Picos de Europa, Cazorla (Andalucía) y Maestrazgo; Alpes; Creta.",
+  "iucn_status": "Global: Casi Amenazada (NT), evaluación UICN 2021 (BirdLife). Europa: Vulnerable según EUNIS/EEA. España: 'En peligro de extinción' en el Catálogo Español (sin verificar en BOE en esta sesión).",
+  "iucn_source_url": "https://datazone.birdlife.org/species/factsheet/bearded-vulture-gypaetus-barbatus/details",
+  "population_estimate": "Unas 250 parejas reproductoras en España, 88 en Aragón (según CSIC citado por El Español, abril 2026; sin verificar en fuente primaria). Pirineos: ~200 parejas (prensa). Francia: 93 parejas territoriales en 2025 (Plan Nacional francés 2026-2035).",
+  "population_year": 2025,
+  "population_source_url": "https://www.elespanol.com/ciencia/20260401/cazorla-pirineos-quebrantahuesos-logra-superar-parejas-reconquista-cielos-espana/1003744190163_0.amp.html ; https://webissimo.developpement-durable.gouv.fr/IMG/pdf/pna_gypaete_barbu_2026-2035_cle287fa2.pdf",
+  "trend": "increasing en Europa (en descenso global por África y Asia)",
+  "taxonomy_note": "1 especie; normalmente se reconocen 2 subespecies: G. b. barbatus (Eurasia y norte de África) y G. b. meridionalis (África oriental y austral).",
+  "foundations": [
+   {
+    "name": "Fundación para la Conservación del Quebrantahuesos (FCQ)",
+    "hq_country": "España",
+    "hq_city": "Zaragoza (sin verificar)",
+    "website": "https://quebrantahuesos.org",
+    "project_page_url": "https://lifeprobv.quebrantahuesos.org/tag/reproduccion",
+    "contact_email": "fcq@quebrantahuesos.org",
+    "phone": "+34 976 299 667 (sede Zaragoza, carta FCQ abril 2025)",
+    "director_or_president": "Conflicto: web EN 'Structure' indica Presidente Óscar Díez Sánchez (Vicepresidente Gerardo Báguena, Secretario Juan Antonio Gil Gallús); web ES antigua indica Presidente Gerardo Báguena Sánchez — Presidente del Patronato (sin verificar cuál es vigente) (Sin fecha clara; noticias 2025-2026 llaman a Gerardo Báguena vicepresidente)",
+    "director_source_url": "https://quebrantahuesos.org/structure-2/?lang=en",
+    "what_they_do": "Fundación española de referencia: seguimiento en Pirineo, reintroducción en Picos de Europa, proyecto LIFE PRO Bearded Vulture; Memoria de acciones 2025 publicada.",
+    "accepts_corporate_partners": "unknown",
+    "accepts_corporate_partners_evidence_url": "https://quebrantahuesos.org/collaborating-companies/?lang=en",
+    "notes": "Sede: Pza. San Pedro Nolasco 1, 4ºF, 50001 Zaragoza. Ofrece patrocinio de proyectos / RSC con certificado de entidad colaboradora y logo. Socios: Red Eléctrica, Enagás, CaixaBank. Ecomuseo Aínsa: ecomuseo@quebrantahuesos.org, 974 500 597."
+   },
+   {
+    "name": "Vulture Conservation Foundation (VCF)",
+    "hq_country": "Suiza (sin verificar)",
+    "hq_city": "no lo tengo",
+    "website": "https://4vultures.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "info@4vultures.org",
+    "phone": "no lo tengo",
+    "director_or_president": "José Tavares (Director); Jovan Andevski (Conservation Director, 2025) — Director (2026 (en el cargo desde 2013; activo en enero 2026))",
+    "director_source_url": "https://4vultures.org/about-us/meet-the-team/",
+    "what_they_do": "ONG europea que coordina la red de cría en cautividad y las reintroducciones de quebrantahuesos (Alpes, Andalucía, Maestrazgo).",
+    "accepts_corporate_partners": "unknown",
+    "accepts_corporate_partners_evidence_url": "no lo tengo",
+    "notes": "Oficina: Sandstrasse 2, CH-8003 Zürich, Suiza. Email personal j.tavares@4vultures.org aparece en lista de participantes CMS sin fecha (sin verificar vigencia). Prensa: e.karatzia@4vultures.org. Quebrantahuesos, buitre negro, alimoche."
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Hansruedi Weyrich",
+    "nationality": "suiza",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://photomuensingen.ch/en/2016/bartgeier-in-den-alpen/",
+    "note": "Uno de los ganadores del GDT European Wildlife Photographer of the Year 2014; el quebrantahuesos es uno de sus temas favoritos; conferencia 'Return of the Bearded Vulture to the Alps' y coautor del libro 'Der Bartgeier' (Haupt, 2021). Fotos de los Alpes, no del Pirineo. Fuentes: https://photomuensingen.ch/en/phm2016/vortraege/vortrag-hansredi-weyrich/ , https://media.haupt.ch/ihv/9783258081922_Inhaltsverzeichnis.pdf"
+   },
+   {
+    "name": "Louis Pattyn",
+    "nationality": "belga (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.nhm.ac.uk/wpy/gallery/2016-birdseye-view",
+    "note": "Dos fotos de quebrantahuesos en la galería del Wildlife Photographer of the Year: 'Alpine glider' (2015) y 'Bird's-eye view' (2016, Gemmi/Leukerbad, Suiza). Puesto exacto sin verificar. Fuentes: https://www.nhm.ac.uk/wpy/gallery/2015-alpine-glider , https://www.horniman.ac.uk/story/about-the-art-louis-pattyn/"
+   },
+   {
+    "name": "Óscar Díez Martínez",
+    "nationality": "española (Madrid, 1973)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.biosphoto.com/en/photographer/oscar-diez-martinez-1314",
+    "note": "Premiado en el WPOY 2010 con un buitre leonado (NO quebrantahuesos), fotografiado desde un hide del comedero junto a Ordesa (Pirineo). Highly commended en Aves en Nature Photographer of the Year 2020. Socio de AEFONA, FONAMAD y SEO. Que tenga fotos de quebrantahuesos: (sin verificar). Fuentes: https://www.nhm.ac.uk/wpy/gallery/2010-sunning-griffon , https://monovisionsawards.com/winners-gallery/monovisions-awards-2019/show/2317"
+   },
+   {
+    "name": "David Tipling",
+    "nationality": "británica (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://prints.aap.com.au/david-tipling/lammergeier-gypaetus-barbatus-adult-aren-pyrenees-5198944.html",
+    "note": "Tiene a la venta una foto de quebrantahuesos adulto en Arén (Pirineo, Huesca). Premios con esta especie: (sin verificar). Contexto: la Fundación para la Conservación del Quebrantahuesos (quebrantahuesos.org, criah@quebrantahuesos.org) gestiona los hides del Pirineos Bird Center en Aínsa, pero ningún resultado nombró fotógrafos que colaboren con ella. Fuente: la URL de arriba"
+   }
+  ],
+  "photographers_note": "no lo tengo: se agotó el límite de búsquedas web antes de investigar fotógrafos de esta especie.",
+  "design_notes": "Ave espectacular con 'barba', ojo rojo y plumaje anaranjado (se baña en barro ferroso); símbolo del Pirineo y de las reintroducciones exitosas.",
+  "sources": [
+   "https://datazone.birdlife.org/species/factsheet/bearded-vulture-gypaetus-barbatus/details",
+   "https://eunis.eea.europa.eu/species/Gypaetus barbatus",
+   "https://www.elespanol.com/ciencia/20260401/cazorla-pirineos-quebrantahuesos-logra-superar-parejas-reconquista-cielos-espana/1003744190163_0.amp.html",
+   "https://webissimo.developpement-durable.gouv.fr/IMG/pdf/pna_gypaete_barbu_2026-2035_cle287fa2.pdf",
+   "https://quebrantahuesos.org/wp-content/uploads/2026/05/Memoria-acciones-FCQ-2025.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Águila imperial ibérica",
+  "scientific_name": "Aquila adalberti",
+  "continent": "Europa",
+  "countries": [
+   "España",
+   "Portugal"
+  ],
+  "region": "Endemismo ibérico: centro y suroeste peninsular. Castilla-La Mancha reúne el 47% de las parejas de España (396 territorios en 2022); también Extremadura, Comunidad de Madrid (109 parejas en 2025), Castilla y León (más de 100 parejas desde 2019) y Andalucía (Doñana, Sierra Morena, recolonización de Cádiz). En Portugal, unas 20 parejas estimadas.",
+  "iucn_status": "Global: Vulnerable (VU), 2021; España: En peligro de extinción (Catálogo Español de Especies Amenazadas) (sin verificar en BOE; confirmado solo por prensa)",
+  "population_estimate": "Mínimo de 841 parejas reproductoras en la península ibérica (821 en España y unas 20 estimadas en Portugal). BirdLife estima 1.060-1.080 individuos maduros (estima 2020).",
+  "population_year": "2021-2022 (último censo coordinado publicado por MITECO en marzo de 2023)",
+  "population_source_url": "https://www.miteco.gob.es/es/prensa/ultimas-noticias/2023/03/el_aguila_imperialibericaserecuperacuentacon841parejasreproducto.html",
+  "trend": "Creciente. Pasó de unas 39 parejas en 1974 a 841 en 2021-2022 (+53% respecto a las 536 parejas de 2017). La prensa habla de una tendencia al alza en 2024 y 2025, pero no hay un censo nacional oficial posterior a 2022 (sin verificar). BirdLife indica que la población podría estar estabilizándose. Sus amenazas principales son el veneno, la electrocución en tendidos eléctricos, los disparos y los aerogeneradores.",
+  "taxonomy_note": "Especie propia, separada del águila imperial oriental (Aquila heliaca), de la que antes se consideraba subespecie. El nombre científico homenajea al príncipe Adalberto de Baviera. Es endémica de la península ibérica.",
+  "foundations": [
+   {
+    "name": "SEO/BirdLife (Sociedad Española de Ornitología)",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://seo.org",
+    "project_page_url": "no lo tengo (programas citados: Red de Custodia 'Alzando el vuelo', desde 2006, y LIFE PowerLines4Birds como socio colaborador, hasta abril de 2027)",
+    "contact_email": "seo@seo.org",
+    "phone": "+34 91 434 09 10",
+    "director_or_president": "Asunción Ruiz Guijosa (Directora ejecutiva); Presidente: Florentino de Lope Rebollo — Directora ejecutiva (2025 (Fundación Lealtad feb. 2025; cobertura 70 aniversario mayo 2025); en el cargo desde 2010)",
+    "director_source_url": "https://seo.org/equipo/",
+    "what_they_do": "Es la ONG ornitológica decana de España y socia de BirdLife International. Trabaja por el águila imperial mediante la custodia del territorio con propietarios de fincas (Alzando el vuelo, en Campo de Montiel y Sierra Morena oriental), campañas para corregir tendidos eléctricos peligrosos, informes sobre veneno (con WWF) y el proyecto LIFE PowerLines4Birds contra la electrocución y la colisión.",
+    "accepts_corporate_partners": "Sí (sin verificar en la web oficial)",
+    "accepts_corporate_partners_evidence_url": "https://seo.org/eres-una-empresa/",
+    "notes": "Sede: C/ Melquiades Biencinto 34, 28053 Madrid. Email seo@seo.org de EDMO y guía Ayto. Madrid (no de página oficial de contacto). gestion@seo.org según Fundación Lealtad."
+   },
+   {
+    "name": "Fundación CBD-Hábitat",
+    "hq_country": "España",
+    "hq_city": "Madrid (sin verificar)",
+    "website": "https://cbd-habitat.com",
+    "project_page_url": "no lo tengo",
+    "contact_email": "cbd-habitat@cbd-habitat.com",
+    "phone": "+34 91 510 01 33",
+    "director_or_president": "Nuria El Khadir Palomo (Directora gerente); Presidente: Javier Oria Martín (fundador) — Directora gerente (2023 (entrevista El Español 2023; página About sin fecha))",
+    "director_source_url": "https://cbd-habitat.com/en/about-cbd-habitat/",
+    "what_they_do": "Fundación española que desde 1998 trabaja en conservación del lince ibérico (custodia del territorio con fincas privadas), águila imperial y foca monje.",
+    "accepts_corporate_partners": "unknown",
+    "accepts_corporate_partners_evidence_url": "http://2020.cbd-habitat.com/colaboraciones/ (web antigua: 'Si eres empresa o entidad / Financia un programa'); no lo tengo en la web actual",
+    "notes": "Dirección actual (web EN): C. Ángel Hernández 13, 28002 Madrid; CIF G82118480. Web antigua daba C/ Gustavo Fernández Balbuena 2. Lince ibérico, foca monje, buitre negro. Premio Fundación BBVA Conservación Biodiversidad 2022."
+   },
+   {
+    "name": "GREFA (Grupo de Rehabilitación de la Fauna Autóctona y su Hábitat)",
+    "hq_country": "España",
+    "hq_city": "Majadahonda (Madrid). Dirección: Monte del Pilar s/n, 28220",
+    "website": "https://www.grefa.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "grefa@grefa.org (general, web oficial); fgarces@grefa.org (GREFA + Empresas)",
+    "phone": "+34 91 638 75 50",
+    "director_or_president": "Ernesto Carlos Álvarez Xusto (Presidente); José Fernando Garcés Toledano (Secretario General) — Presidente (Junta inscrita 03/12/2019 (web oficial); Garcés confirmado como Secretario General en noticia de 2025-2026)",
+    "director_source_url": "https://www.grefa.org/grefa1/acerca-de-grefa",
+    "what_they_do": "Gestiona un hospital de fauna salvaje y un equipo de rescate, y lleva a cabo proyectos de reintroducción y reforzamiento de rapaces (águila de Bonelli, pigargo, milano real). Ha marcado con GPS a 48 águilas imperiales y libera ejemplares rehabilitados de la especie. Su relación con el águila imperial es secundaria, ya que se centra en la rehabilitación y el seguimiento.",
+    "accepts_corporate_partners": "no lo tengo (sin verificar)",
+    "accepts_corporate_partners_evidence_url": "https://www.grefa.org/hospiatl2/grefa-empresas.html",
+    "notes": "Majadahonda (Madrid). Programa 'GREFA + Empresas'. Buitre negro, hospital de fauna. Cercanía geográfica a Foundly (Madrid) -> candidato fuerte. Emails de empresas proceden de páginas de hace 4-5 años."
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Mario Cea Sánchez",
+    "nationality": "Española (Salamanca)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo (no se encontró ninguna galería de águila imperial; hay una foto suya de águila real en Salamanca en Alamy)",
+    "note": "Ganador del Wildlife Photographer of the Year en 2016 y de FotoAves en 2010, 2013 y 2017. Está especializado en aves y fotografía con flash de alta velocidad. Habría que confirmar si tiene material de águila imperial. Fuente: https://www.xataka.com/entrevistas/hablamos-mario-cea-salamanca-guitarrista-union-uno-mejores-fotografos-naturaleza-mundo"
+   },
+   {
+    "name": "Andoni Canela",
+    "nationality": "Española (Tudela, Navarra, 1969)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de naturaleza, autor de 'La mirada salvaje. Encuentros con la fauna ibérica' (Blume, 2009). La exposición se hizo con la Fundación Biodiversidad. No está confirmado que incluya águila imperial (sin verificar). Fuente: https://en.wikipedia.org/wiki/Andoni_Canela"
+   },
+   {
+    "name": "Joaquín Figueredo",
+    "nationality": "Española (Extremadura)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Primer premio de FotoAves 2025 con 'Pactando'. Es extremeño, de la región de Monfragüe, una zona con águila imperial, pero no consta que tenga fotos de la especie (sin verificar). Fuente: https://www.ecoticias.com/naturaleza/joaquin-figueredo-ganador-fotoaves-2025"
+   }
+  ],
+  "design_notes": "Rasgo icónico: los hombros (escapulares) blancos del adulto, que la distinguen de otras águilas, sobre un plumaje pardo oscuro casi negro. El joven tiene un tono leonado o pardo claro. Su hábitat es la dehesa y el monte mediterráneo con alcornoques y encinas. Para la camiseta funcionaría una silueta en vuelo o posada en una encina, con la mancha blanca del hombro como único acento de color. Mensaje posible: 'De 39 parejas a más de 800'. Para las fotos de nidos hay que respetar el código de conducta, porque las molestias provocan el abandono del nido. Una opción para conseguir fotos es el Centro Águilas de Fuente Empedrada (Lagartera, Toledo), que ofrece hides en colaboración con Hides de Calera.",
+  "sources": [
+   "https://www.miteco.gob.es/es/prensa/ultimas-noticias/2023/03/el_aguila_imperialibericaserecuperacuentacon841parejasreproducto.html",
+   "https://www.miteco.gob.es/content/dam/miteco/es/prensa/230331elaguilaimperialibericaserecuperaycuentacon841parejasreproductorasenlapeninsulaiberica_tcm30-560988.pdf",
+   "https://datazone.birdlife.org/species/factsheet/spanish-imperial-eagle-aquila-adalberti",
+   "https://www.eldiario.es/castilla-la-mancha/ecologica/toledo-provincia-clave-aguila-imperial-iberica-aleja-riesgo-extincion_132_10095836.html",
+   "https://www.comunidad.madrid/node/104842",
+   "https://www.elespanol.com/ciencia/20260329/donana-sierra-morena-aguila-imperial-iberica-logra-superar-ejemplares-reconquista-espana-dt/1003744181296_0.amp.html",
+   "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/publicaciones/estrategias/estrategiaconservacionaguilaimperial_es_pt_tcm30-468403.pdf",
+   "https://www.ecoticias.com/?p=494314",
+   "https://fundacion-biodiversidad.es/wp-content/uploads/2014/03/np_20060926_01_0.pdf",
+   "https://www.corresponsables.com/actualidad/bbva-conservacion-biodiversidad-reclaman-esfuerzos-crisis-ambiental/",
+   "https://www.biophilia-fbbva.es/wp-content/uploads/sites/3/2022/09/Discurso-agradecimiento-Fundacion-CBD-Habitat.pdf",
+   "https://www.miteco.gob.es/content/dam/miteco/es/ceneam/carpeta-informativa-del-ceneam/numeros-anteriores/Carpeta-Febrero-2026.pdf",
+   "https://edmo.seadatanet.org/report/2115",
+   "https://soyecoturista.com/ecoturismocientifico/en/fundacion/photography-and-conservation-of-the-iberian-imperial-eagle/",
+   "https://lifeimperial.lpn.pt/files/files/CodeofconductLIFE%20Imperial_leaflet_opt.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Urogallo cantábrico",
+  "scientific_name": "Tetrao urogallus cantabricus",
+  "continent": "Europa",
+  "countries": [
+   "España"
+  ],
+  "region": "Cordillera Cantábrica, sobre todo en Asturias y León (Castilla y León), en bosques de haya, roble y abedul de montaña con arándano. En León quedan unos 25 cantaderos y alrededor de 70 ejemplares, según el Diario de León (sin verificar). Ha desaparecido o casi de Galicia y Cantabria (sin verificar).",
+  "iucn_status": "Global: Preocupación menor (LC), 2024 (evaluación de la especie Tetrao urogallus; la subespecie no tiene evaluación global propia); España: En peligro de extinción (Catálogo Español de Especies Amenazadas, RD 139/2011) y declarada 'en situación crítica' (Orden TEC/1078/2018)",
+  "population_estimate": "209 ejemplares (117 machos y 92 hembras) según el muestreo genético de toda la cordillera Cantábrica",
+  "population_year": "2024 (publicado por MITECO en junio de 2025)",
+  "population_source_url": "https://www.miteco.gob.es/es/prensa/ultimas-noticias/2025/junio/la-poblacion-de-urogallo-cantabrico-asciende-a-209-ejemplares-en.html",
+  "trend": "A largo plazo, declive muy fuerte, con pérdida de la mayoría de cantaderos en las últimas décadas. A corto plazo, posible estabilización: +8% respecto a los 191 ejemplares de 2019, aunque los análisis solo dan un 75% de probabilidad de que la población de 2024 sea mayor. La proporción de sexos ha mejorado (31,5% de hembras en 2019 y 44% en 2024). En cautividad, el centro de cría de Valsemana (León) logró 76 pollos en 2025, pero la primera suelta experimental (otoño de 2025, ZEPA Alto Sil) tuvo una supervivencia muy baja: según prensa de 2026, de unos 30 ejemplares sobrevivió una hembra.",
+  "taxonomy_note": "Subespecie del urogallo común (Tetrao urogallus) aislada en la cordillera Cantábrica. Es la población más meridional de la especie y la única adaptada a bosques caducifolios. Es distinta de la subespecie pirenaica, T. u. aquitanicus.",
+  "foundations": [
+   {
+    "name": "Fundación Biodiversidad (F.S.P., Ministerio para la Transición Ecológica y el Reto Demográfico)",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://fundacion-biodiversidad.es",
+    "project_page_url": "https://webgate.ec.europa.eu/life/publicWebsite/project/LIFE09-NAT-ES-000513/conservation-of-the-cantabrian-capercailletetrao-urogallus-cantabricus-in-its-habitat-in-the-cantabrian-mountain-range",
+    "contact_email": "ieeb@fundacion-biodiversidad.es (Iniciativa Española Empresa y Biodiversidad); prensa@fundacion-biodiversidad.es; general biodiversidad@fundacion-biodiversidad.es (sin verificar, de directorio de terceros)",
+    "phone": "+34 91 121 09 20",
+    "director_or_president": "Félix Romero Cañizares — Director (Nombrado mayo 2025; firma resoluciones como director en 2026)",
+    "director_source_url": "https://fundacion-biodiversidad.es/notas_de_prensa_mite/felix-romero-canizares-nuevo-director-de-la-fundacion-biodiversidad/",
+    "what_they_do": "Coordinó el LIFE+ Urogallo cantábrico (LIFE09 NAT/ES/000513, de octubre de 2010 a diciembre de 2016, con unos 5,9 millones de euros y un 50% de cofinanciación UE). En él participaron SEO/BirdLife, Fundación Iberdrola, Parques Nacionales y los gobiernos de Asturias, Cantabria, Castilla y León y Galicia. Incluyó mejora de hábitat, retirada de tendidos y el inicio de la cría en cautividad en Sobrescobio (Asturias). Hoy financia proyectos de conservación de forma general. El proyecto LIFE está cerrado: conviene confirmar con ellos qué proyecto activo sobre el urogallo podría recibir donaciones.",
+    "accepts_corporate_partners": "Sí: coordina la Iniciativa Española Empresa y Biodiversidad (IEEB), a la que se adhieren empresas, y el LIFE Urogallo tuvo financiación de Fundación Iberdrola",
+    "accepts_corporate_partners_evidence_url": "https://ieeb.fundacion-biodiversidad.es/contacto/",
+    "notes": "Sede: C/ Peñuelas 10, 28005 Madrid. Fundación pública del sector público estatal: canaliza ayudas/convocatorias, no es receptora típica de donaciones por producto; la vía empresarial es la Iniciativa Española Empresa y Biodiversidad (IEEB). Prioridad baja para modelo 5 €/camiseta."
+   },
+   {
+    "name": "Fundación Patrimonio Natural de Castilla y León",
+    "hq_country": "España",
+    "hq_city": "Valladolid",
+    "website": "https://patrimonionatural.org",
+    "project_page_url": "no lo tengo (gestiona el Centro de Cría del Urogallo de Valsemana, en La Ercina, León, para la Junta de Castilla y León)",
+    "contact_email": "patrimonionatural@patrimonionatural.org (aparece en la web de la fundación)",
+    "phone": "983 345 850",
+    "director_or_president": "no lo tengo (el patronato lo preside el consejero de Medio Ambiente de la Junta; el dato disponible es de 2018 y no nombra al director de la fundación)",
+    "director_source_url": "no lo tengo",
+    "what_they_do": "Fundación pública de la Junta de Castilla y León. Gestiona el centro de cría en cautividad de Valsemana, que en 2025 sacó adelante 76 pollos con una supervivencia superior al 84%. Ya ha hecho las primeras sueltas experimentales y construye 20 nuevos voladeros de presuelta. El proyecto de presupuestos de 2027 prevé 750.000 € para el centro y 625.000 € para el seguimiento del oso y el urogallo (pendiente de aprobación).",
+    "accepts_corporate_partners": "no lo tengo",
+    "accepts_corporate_partners_evidence_url": "no lo tengo"
+   },
+   {
+    "name": "SEO/BirdLife (Sociedad Española de Ornitología)",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://seo.org",
+    "project_page_url": "no lo tengo (fue socia del LIFE09 NAT/ES/000513)",
+    "contact_email": "seo@seo.org",
+    "phone": "+34 91 434 09 10",
+    "director_or_president": "Asunción Ruiz Guijosa (Directora ejecutiva); Presidente: Florentino de Lope Rebollo — Directora ejecutiva (2025 (Fundación Lealtad feb. 2025; cobertura 70 aniversario mayo 2025); en el cargo desde 2010)",
+    "director_source_url": "https://seo.org/equipo/",
+    "what_they_do": "Socia del LIFE+ Urogallo cantábrico. Ha trabajado en custodia del territorio con propietarios (con el Gobierno de Cantabria y la Fundación Oxígeno), en la protección de refugios invernales y en voluntariado para mejorar el hábitat. Publicó un manual de conservación (2013) y guías para los sectores ganadero, cinegético y turístico. No se encontró ningún proyecto suyo sobre el urogallo activo en 2025 (sin verificar).",
+    "accepts_corporate_partners": "Sí (sin verificar en la web oficial)",
+    "accepts_corporate_partners_evidence_url": "https://seo.org/eres-una-empresa/",
+    "notes": "Sede: C/ Melquiades Biencinto 34, 28053 Madrid. Email seo@seo.org de EDMO y guía Ayto. Madrid (no de página oficial de contacto). gestion@seo.org según Fundación Lealtad."
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Edgar Madrenys",
+    "nationality": "no lo tengo (probablemente española, sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.aav.org/news/659648/The-Cantabrian-capercaillie-a-critically-endangered-species-from-Northern-Spain.htm",
+    "note": "Firma las fotos de machos y hembras de urogallo cantábrico, incluido un macho en el cantadero, en un artículo de la AAV sobre la subespecie. No consta ningún premio (sin verificar)."
+   },
+   {
+    "name": "Andoni Canela",
+    "nationality": "Española (Tudela, Navarra, 1969)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Su exposición itinerante 'La mirada salvaje', presentada con la Fundación Biodiversidad, incluía urogallos entre la fauna ibérica. Fuente: https://fundacion-biodiversidad.es/wp-content/uploads/2014/03/np_20100701_01_0.pdf"
+   },
+   {
+    "name": "Mario Cea Sánchez",
+    "nationality": "Española (Salamanca)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Ganador del Wildlife Photographer of the Year en 2016 y de FotoAves en 2010, 2013 y 2017. No consta que tenga material de urogallo cantábrico (sin verificar). Es candidato si se busca un fotógrafo español con premios."
+   }
+  ],
+  "design_notes": "Es un ave grande, de aspecto de gallo de bosque. El macho es gris oscuro con pecho verde metálico, cola en abanico, barba de plumas y una carúncula roja sobre el ojo. La hembra es parda y barrada. Para la camiseta funcionaría el macho en el cantadero, con la cola desplegada y el pico hacia arriba, sobre un hayedo con arándanos. La 'ceja' roja podría ser el único acento de color. Mensaje posible: 'Quedan 209'. Los cantaderos son lugares sensibles: no conviene publicar ubicaciones y las fotos deben hacerse desde hides autorizados.",
+  "sources": [
+   "https://www.miteco.gob.es/es/prensa/ultimas-noticias/2025/junio/la-poblacion-de-urogallo-cantabrico-asciende-a-209-ejemplares-en.html",
+   "https://www.miteco.gob.es/content/dam/miteco/es/prensa/25.05.06_Ndp_La%20población%20de%20urogallo%20cantábrico%20asciende%20a%20209%20ejemplares%20en%202024.pdf",
+   "https://miteco.gob.es/content/dam/miteco/es/biodiversidad/publicaciones/estrategias/estrategia-urogallo-2025.pdf",
+   "https://www.miteco.gob.es:443/content/dam/miteco/es/biodiversidad/temas/conservacion-de-especies/comite-cientifico/Dictamen%20CC%2063%202020%20Tetrao%20urogallus_poblaci%C3%B3n%20Pirineos.pdf",
+   "https://datazone.birdlife.org/species/factsheet/western-capercaillie-tetrao-urogallus",
+   "https://webgate.ec.europa.eu/life/publicWebsite/project/LIFE09-NAT-ES-000513/conservation-of-the-cantabrian-capercailletetrao-urogallus-cantabricus-in-its-habitat-in-the-cantabrian-mountain-range",
+   "https://fundacion-biodiversidad.es/wp-content/uploads/2016/11/16.11.15_seminario_final_proyecto_life_urogallo_cantabrico.pdf",
+   "https://www.miteco.gob.es/es/prensa/ultimas-noticias/2025/mayo/felix-romero-canizares--nuevo-director-de-la-fundacion-biodivers.html",
+   "https://fundacion-biodiversidad.es/wp-content/uploads/2024/04/¿Que-es-la-IEEB.pdf",
+   "https://www.diariodeleon.es/castilla-y-leon/260425/2082927/castilla-leon-centro-urogallo-valsemana-logra-sobrevivan-76-pollos-temporada-pasada-84-4-huevos-eclosionados.html",
+   "https://www.diariodeleon.es/leon/provincia/260530/2086724/hembra-sobrevive-primera-suelta-urogallos-criados-cautividad.html",
+   "https://www.eldebate.com/sociedad/sociedad-medio-ambiente/20260604/fracaso-reintroduccion-urogallo-cantabrico-sueltan-30-ejemplares-mueren-29-devorados-depredadores_425054_amp.html",
+   "https://patrimonionatural.org/noticias/13",
+   "https://www.ecoticias.com/naturaleza/88802_noticia-medio-ambiente-seminario-urogallo-custodia-territorio",
+   "https://www.aav.org/news/659648/The-Cantabrian-capercaillie-a-critically-endangered-species-from-Northern-Spain.htm",
+   "https://fundacion-biodiversidad.es/wp-content/uploads/2014/03/np_20100701_01_0.pdf"
+  ]
+ }
+]

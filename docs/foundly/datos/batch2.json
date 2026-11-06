@@ -1,0 +1,645 @@
+[
+ {
+  "common_name_es": "Visón europeo",
+  "scientific_name": "Mustela lutreola",
+  "continent": "Europa",
+  "countries": [
+   "España",
+   "Francia",
+   "Rumanía",
+   "Ucrania",
+   "Rusia (sin verificar: lista de países europeos no verificada en esta sesión)"
+  ],
+  "region": "España: La Rioja, Navarra, Álava (País Vasco), Aragón, Burgos y Soria (cuenca del Ebro)",
+  "iucn_status": "Global: En Peligro Crítico (CR) según UICN (fuente secundaria: catalogada 'Peligro Crítico' por la UICN desde 2011 según noticia sobre LIFE Lutreola; año de la evaluación vigente sin verificar). España: declarada 'en situación crítica' en 2018 (MITECO).",
+  "population_estimate": "España: ~142 ejemplares (rango 130–157), estimación oficial MITECO publicada en marzo de 2024 a partir de muestreo no invasivo realizado en 2022. Fuente: https://www.miteco.gob.es/es/prensa/ultimas-noticias/2024/marzo/la-poblacion-de-vison-europeo-en-espana-se-estima-en-apenas-142-.html (visto vía buscador; la web del MITECO no se pudo abrir directamente). Estudio de la Sociedad Gorosti (finales 2025) identificó genéticamente al menos 87 individuos (50 hembras, 37 machos) (fuente prensa: https://nuevecuatrouno.com/2025/12/27/el-vison-europeo-una-especie-en-colapso-poblacional-en-espana-con-solo-142-ejemplares/). Aprox. un tercio en La Rioja (declaración parlamentaria nov. 2025, sin verificar). Población europea total: no lo tengo.",
+  "trend": "decreasing (en España ~500 ejemplares hace unos años según prensa, frente a 142 en 2024)",
+  "taxonomy_note": "Especie única (Mustela lutreola); existen subespecies descritas históricamente, número no verificado en esta sesión (no lo tengo).",
+  "foundations": [
+   {
+    "name": "WWF España",
+    "hq_country": "España",
+    "hq_city": "Madrid (sin verificar)",
+    "website": "https://www.wwf.es",
+    "project_page": "https://wwfes.awsassets.panda.org/downloads/10-medidas-para-salvar-al-vison.pdf",
+    "contact_email": "info@wwf.es (general, página Contacta con WWF España); marketing@wwf.es (empresas, citado en wwf.es/colabora/empresas_por_el_planeta)",
+    "phone": "+34 91 354 05 78",
+    "director_or_president": "Juan Carlos del Olmo (Secretario General); Presidente Junta Rectora: Antonio Lucio Gil (sin verificar fecha) — Secretario General (2025 (cita en nota de prensa wwf.es sobre el lobo, ~2025; página Equipo sin fecha))",
+    "what_they_do": "Organizó seminarios técnicos sobre el visón europeo (2020) y publicó en 2024 '10 medidas para salvar al visón europeo', incluida la petición de un centro unificado de cría en cautividad.",
+    "accepts_corporate_partners": "unknown (WWF tiene programas de empresas a nivel general, no verificado en esta sesión)",
+    "director_source_url": "https://www.wwf.es/somos/somos_equipo/",
+    "accepts_corporate_partners_evidence_url": "https://www.wwf.es/colabora/empresas_por_el_planeta/",
+    "notes": "Sede: Gran Vía de San Francisco 8-D, 28005 Madrid. Programas: Empresas Amigas (250/500/1000 €/mes), Campañas con empresas, Grandes proyectos (Correos, Reale), Cien Empresas por los Bosques (desde 3.000 €). Campañas con empresas encaja con modelo 5 €/camiseta (licencia de marca WWF suele requerir acuerdo formal). Presidente Antonio Lucio Gil procede de un PDF de perfiles de Junta Rectora sin fecha."
+   },
+   {
+    "name": "Asociación Visón Europeo",
+    "hq_country": "España",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page": "https://www.aragon.es/-/proyecto-life-lutreola",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "ONG socia del proyecto LIFE Lutreola Spain (con Gobierno de La Rioja, Generalitat Valenciana, Senda Viva y TRAGSATEC); participa en cría ex situ y lucha contra el visón americano.",
+    "accepts_corporate_partners": "unknown",
+    "notes": "Fundada 22/09/2003; dirección Av. Diagonal 645, Barcelona (sin verificar, Iberinform). Socia beneficiaria del LIFE Lutreola Spain (vinculada a Universidad de Barcelona). Sin web propia localizada. Alternativa: contactar vía coordinación LIFE Lutreola (Gobierno de Aragón, biodiversidad@aragon.es) o considerar WWF España/visón."
+   },
+   {
+    "name": "Fundación para la Investigación en Etología y Biodiversidad (FIEB)",
+    "hq_country": "España",
+    "hq_city": "Toledo (Centro de cría en cautividad del visón europeo) (sin verificar)",
+    "website": "https://fundacion-biodiversidad.es",
+    "project_page": "no lo tengo",
+    "contact_email": "no lo tengo (dato borrado: se había cruzado con otra organización)",
+    "phone": "no lo tengo (dato borrado: se había cruzado con otra organización)",
+    "director_or_president": "no lo tengo (dato borrado: se había cruzado con otra organización)",
+    "what_they_do": "Gestiona un Centro de Cría en Cautividad y Estudio del Visón Europeo; 35 de 49 crías del programa nacieron allí según fuente secundaria (https://www.eldiario.es/castilla-la-mancha/ecologica/vida-centro-cria-vison-europeo_132_2270172.amp.html, sin verificar).",
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "no lo tengo (dato borrado: se había cruzado con otra organización)",
+    "accepts_corporate_partners_evidence_url": "no lo tengo (dato borrado: se había cruzado con otra organización)",
+    "notes": ""
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Gilles Martin",
+    "nationality": "francesa",
+    "website": "https://gilles-martin.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.arche-photographique.org/sites/default/files/archives/5_vison_deurope.pdf",
+    "note": "Ficha fotográfica del visón europeo dentro de 'L'Arche photographique', su inventario fotográfico de especies de la Lista Roja de la UICN, creado en 2005. Fuentes: https://en.wikipedia.org/wiki/Gilles_Martin , https://gilles-martin.com/en/career-path"
+   },
+   {
+    "name": "Matthieu Berroneau",
+    "nationality": "francesa (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Autor de la foto de portada del 3er Plan Nacional de Acción del visón europeo en Francia (2021-2031). Premios: (sin verificar). Fuente: https://www.occitanie.developpement-durable.gouv.fr/IMG/pdf/3e_pna_vison_d_europe_2021-2031_.pdf"
+   },
+   {
+    "name": "Joel Sartore",
+    "nationality": "estadounidense (no es europeo)",
+    "website": "https://www.joelsartore.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.joelsartore.com/ani062-00393/",
+    "note": "Retrato de estudio para National Geographic Photo Ark de un visón europeo cautivo en el Zoo Aquarium de Madrid. Es una foto de cautividad, no de naturaleza. Fuente: la URL de arriba"
+   },
+   {
+    "name": "Tiit Maran",
+    "nationality": "estonia",
+    "website": "https://lutreola.ee",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Conservacionista, no fotógrafo profesional. Firma las fotos de un documento de proyecto LIFE de la UE y dirigió la Fundación Lutreola (cría en el Zoo de Tallin y reintroducción en Hiiumaa). Útil como contacto de conservación. Fuentes: https://lutreola.ee/lutreola/html/english/1_foundation_insitu.html , https://webgate.ec.europa.eu/life/publicWebsite/project/LIFE00-NAT-EE-007081/recovery-of-mustela-lutreola-in-estonia-captive-and-island-populations"
+   }
+  ],
+  "photographers_note": "no lo tengo: no se encontraron fotógrafos verificados de esta especie antes de agotar el límite de búsquedas.",
+  "design_notes": "Pequeño, de ojos vivos y hocico con 'bigote' blanco: es 'el mamífero más amenazado de Europa' y vive en ríos de La Rioja y Navarra, muy cercano para el comprador español; mensaje de urgencia (quedan ~142).",
+  "sources": [
+   "https://www.miteco.gob.es/es/prensa/ultimas-noticias/2024/marzo/la-poblacion-de-vison-europeo-en-espana-se-estima-en-apenas-142-.html",
+   "https://nuevecuatrouno.com/2025/12/27/el-vison-europeo-una-especie-en-colapso-poblacional-en-espana-con-solo-142-ejemplares/",
+   "https://nuevecuatrouno.com/2025/11/19/congreso-madrid-rioja-extincion-vison-europeo-refugio-almarza-ribavellosa/",
+   "https://www.aragon.es/-/proyecto-life-lutreola",
+   "https://wwfes.awsassets.panda.org/downloads/10-medidas-para-salvar-al-vison.pdf",
+   "https://www.eldiario.es/castilla-la-mancha/ecologica/vida-centro-cria-vison-europeo_132_2270172.amp.html"
+  ]
+ },
+ {
+  "common_name_es": "Desmán ibérico",
+  "scientific_name": "Galemys pyrenaicus",
+  "continent": "Europa",
+  "countries": [
+   "España",
+   "Portugal",
+   "Francia (Pirineos)"
+  ],
+  "region": "Endemismo ibérico-pirenaico: ríos de montaña del norte peninsular, Sistema Central y Pirineos. España alberga ~80 % de su distribución histórica mundial (MITECO).",
+  "iucn_status": "Global: En Peligro (EN) (año de evaluación sin verificar). España: área de distribución reducida casi un 70 % en 30 años según la última evaluación del estado de conservación (fuente: https://www.ecoticias.com/naturaleza/desman-peligro-extincion, secundaria). Categoría en el Catálogo Español: no lo tengo (sin verificar).",
+  "population_estimate": "no lo tengo (no existe cifra global en las fuentes consultadas). Datos parciales: Cataluña no más de 1.000 ejemplares (https://www.xataka.com/ecologia-y-naturaleza/ornitorrinco-espanol-existe-esta-al-borde-extincion-rarisimo-animal-que-solo-vive-peninsula, sin verificar); La Rioja ~340 ejemplares en 2011, en notable descenso (https://nuevecuatrouno.com/2024/05/11/el-desman-iberico-otra-especie-en-peligro-en-la-rioja/, sin verificar).",
+  "trend": "decreasing",
+  "taxonomy_note": "Único representante vivo del género Galemys; solo existe otra especie de desmán en el mundo (Desmana moschata, Rusia) (sin verificar).",
+  "foundations": [
+   {
+    "name": "Fundación Biodiversidad (MITECO)",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://fundacion-biodiversidad.es",
+    "project_page": "https://fundacion-biodiversidad.es/wp-content/uploads/2018/11/np_lifedesmania-guiarestauracionecologica.pdf",
+    "contact_email": "ieeb@fundacion-biodiversidad.es (Iniciativa Española Empresa y Biodiversidad); prensa@fundacion-biodiversidad.es; general biodiversidad@fundacion-biodiversidad.es (sin verificar, de directorio de terceros)",
+    "phone": "+34 91 121 09 20",
+    "director_or_president": "Félix Romero Cañizares — Director (Nombrado mayo 2025; firma resoluciones como director en 2026)",
+    "what_they_do": "Fundación pública que coordinó el proyecto LIFE+ Desmania (2012-2016) para frenar el declive del desmán en el norte peninsular.",
+    "accepts_corporate_partners": "unknown (fundación pública; evidencia no verificada)",
+    "director_source_url": "https://fundacion-biodiversidad.es/notas_de_prensa_mite/felix-romero-canizares-nuevo-director-de-la-fundacion-biodiversidad/",
+    "accepts_corporate_partners_evidence_url": "https://ieeb.fundacion-biodiversidad.es/contacto/",
+    "notes": "Sede: C/ Peñuelas 10, 28005 Madrid. Fundación pública del sector público estatal: canaliza ayudas/convocatorias, no es receptora típica de donaciones por producto; la vía empresarial es la Iniciativa Española Empresa y Biodiversidad (IEEB). Prioridad baja para modelo 5 €/camiseta."
+   },
+   {
+    "name": "Fundación Patrimonio Natural de Castilla y León",
+    "hq_country": "España",
+    "hq_city": "Valladolid (sin verificar)",
+    "website": "no lo tengo",
+    "project_page": "https://elmirondesoria.es/cyl/junta-de-castilla-y-leon/la-junta-desarrolla-tres-proyectos-life-en-la-comunidad/amp",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Socio del LIFE+ Desmania en Castilla y León (prospección de ríos, control de visón americano, educación ambiental).",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Lucas Santucci",
+    "nationality": "francesa (sin verificar)",
+    "website": "no lo tengo (agencia: https://www.zeppelin-geo.com)",
+    "instagram": "no lo tengo (su perfil dice que tiene Instagram y web, pero no figura la dirección)",
+    "species_gallery_url": "https://www.zeppelin-geo.com/ouvrages/desmandespyrenees/livre_a_livrer.pdf",
+    "note": "Fotógrafo del libro 'Desman des Pyrénées' (Éditions du Desman Masqué, 2018). Sus fotos aparecen en el Plan Nacional de Acción francés 2021-2030, en la revista Empreintes nº43 del Parque Nacional de los Pirineos y en la revista Naturae (2021). Agencia Zeppelin, publica en Geo y National Geographic. Fuentes: https://www.maisonizard.com/en/blogs/magazine/portrait-lucas-santucci , https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/naturae2021a3.pdf"
+   },
+   {
+    "name": "Joel Sartore",
+    "nationality": "estadounidense (no es europeo)",
+    "website": "https://www.joelsartore.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.joelsartore.com/the-pyrenean-desman-becomes-the-8000th-species-in-the-photo-ark/",
+    "note": "El desmán fue la especie número 8.000 de su National Geographic Photo Ark (2018), fotografiado en Symington Estates (Portugal). Retrato de estudio. Fuente: https://www.nationalgeographic.com/animals/article/pyrenean-desman-photo-ark-joel-sartore-animals-spd"
+   },
+   {
+    "name": "Gisbert y García-Perea (GALEMIA)",
+    "nationality": "española (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Investigadores, no fotógrafos premiados. Suya es la foto de portada del informe de la UICN 'Revisión del estado de conservación del desmán ibérico' (2024). Fuente: https://iucn.org/sites/default/files/2024-10/revision-estado-conservacion-desman2024_v6_1.pdf"
+   }
+  ],
+  "photographers_note": "no lo tengo: no se encontraron fotógrafos verificados antes de agotar el límite de búsquedas.",
+  "design_notes": "El 'ornitorrinco español': hocico-trompa, patas palmeadas y cola larga; rareza y ternura exclusivas de nuestros ríos, gran gancho de curiosidad y orgullo local.",
+  "sources": [
+   "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/inventarios-nacionales/ieet_mami_galemys_pyrenaicus_tcm30-99806.pdf",
+   "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/publicaciones/estrategias/pbl_estrategia_desman_tcm30-197287.pdf",
+   "https://www.ecoticias.com/naturaleza/desman-peligro-extincion",
+   "https://www.xataka.com/ecologia-y-naturaleza/ornitorrinco-espanol-existe-esta-al-borde-extincion-rarisimo-animal-que-solo-vive-peninsula",
+   "https://nuevecuatrouno.com/2024/05/11/el-desman-iberico-otra-especie-en-peligro-en-la-rioja/",
+   "https://fundacion-biodiversidad.es/wp-content/uploads/2018/11/np_lifedesmania-guiarestauracionecologica.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Orca ibérica (orca del Estrecho)",
+  "scientific_name": "Orcinus orca (subpoblación del Estrecho de Gibraltar / ibérica)",
+  "continent": "Europa / África",
+  "countries": [
+   "España",
+   "Portugal",
+   "Marruecos",
+   "Gibraltar",
+   "Francia (registros en el golfo de Bizkaia)"
+  ],
+  "region": "Estrecho de Gibraltar, golfo de Cádiz y costa atlántica ibérica, siguiendo al atún rojo",
+  "iucn_status": "Especie global: Datos Insuficientes (DD) (sin verificar). Subpoblación del Estrecho: En Peligro Crítico (CR), UICN 2019 (https://accobams.org/wp-content/uploads/2019/04/MOP7.Inf40_Re-assessment-killer-whales-Gibraltar.pdf). España: Catálogo Español de Especies Amenazadas como Vulnerable y Plan de Conservación aprobado por Orden APM/427/2017 (https://faolex.fao.org/docs/pdf/spa168497.pdf; categoría 'Vulnerable' sin verificar).",
+  "population_estimate": "~37 individuos, estudio del Grupo de Trabajo Orca Atlántica basado en >18.000 fotoidentificaciones de la última década (fuente secundaria 2025: https://www.ecoticias.com/naturaleza/las-ultimas-orcas-ibericas-se-acercan-al-colapso-y-su-supervivencia-pende-de-un-hilo, sin verificar en primaria). Censos anteriores: 49 ind. (2016) y 50 (2015) según MITECO (https://www.miteco.gob.es/en/biodiversidad/temas/biodiversidad-marina/habitats-especies-marinos/especies-marinas/bm_hayem_em_orcas.html).",
+  "trend": "decreasing/estable a la baja (de ~50 en 2015 a ~37; supervivencia de adultos, sobre todo hembras, en descenso)",
+  "taxonomy_note": "Orcinus orca es una sola especie con numerosos ecotipos/poblaciones; la ibérica es una subpoblación diferenciada genética y ecológicamente (especializada en atún rojo).",
+  "foundations": [
+   {
+    "name": "CIRCE (Conservación, Información y Estudio sobre Cetáceos)",
+    "hq_country": "España",
+    "hq_city": "El Pelayo, Algeciras (Cádiz)",
+    "website": "https://circe.info/",
+    "project_page": "https://circe.info/conservacion/",
+    "contact_email": "inma@circe.info (página de contacto); renaud@circe.info en el aviso legal — vistos en resultados de búsqueda de circe.info, no abiertos directamente (sin verificar)",
+    "phone": "+34 605 99 81 95 (circe.info/contacto, sin verificar)",
+    "director_or_president": "Philippe Verborgh citado como presidente en 2017 (https://www.ecoticias.com/naturaleza/95775_orcas-estrecho-avistadas-portugal, sin verificar); Renaud de Stephanis como contacto principal en SEAMAP (https://seamap.env.duke.edu/provider/1679). Cargo actual: no lo tengo.",
+    "what_they_do": "Fotoidentifica a cada orca del Estrecho desde 1999, colabora con MITECO en marcaje satelital y propone medidas para reducir interacciones con veleros.",
+    "accepts_corporate_partners": "yes (probable): se financia con contratos públicos, subvenciones y contratos con empresas privadas (https://alcaidesamarina.com/?p=5970, sin verificar)"
+   },
+   {
+    "name": "Loro Parque Fundación",
+    "hq_country": "España",
+    "hq_city": "Puerto de la Cruz (Tenerife)",
+    "website": "https://www.loroparque-fundacion.org/en/",
+    "project_page": "https://www.loroparque-fundacion.org/en/loro-parque-foundation-collaborates-in-campaign-to-protect-orcas-in-the-strait-of-gibraltar/",
+    "contact_email": "lpf@loroparque-fundacion.org (visto en resultados de búsqueda del sitio oficial; sin verificar en página abierta)",
+    "phone": "+34 922 373 841 (ext. 281) (página de contacto, sin verificar)",
+    "director_or_president": "Christoph Kiessling, presidente desde 2017 (https://www.loroparque-fundacion.org/en/who-we-are/, sin verificar). Javier Almunia dejó la dirección (https://www.loroparque-fundacion.org/en/loro-parque-fundacion-appoints-martin-boye-as-new-scientific-director-for-marine-biology/); Martin Böye, nuevo director científico de Biología Marina.",
+    "what_they_do": "Financia desde 2006 el seguimiento de la orca ibérica con CIRCE (dieta, acústica, timones antibloqueo) y participó en el plan de conservación.",
+    "accepts_corporate_partners": "yes: formulario de patrocinio para empresas y página 'Entidades Amigas' (https://www.loroparque-fundacion.org/en/sponsor-form/, https://www.loroparque-fundacion.org/en/entidades-amigas/)"
+   },
+   {
+    "name": "Grupo de Trabajo Orca Atlántica (GTOA)",
+    "hq_country": "España / Portugal",
+    "hq_city": "no lo tengo",
+    "website": "https://www.orcaiberica.org/en/que-son-las-orcas",
+    "project_page": "https://www.orcaiberica.org/en/que-son-las-orcas",
+    "contact_email": "gt.orcas.ibericas@gmail.com (publicado en noonsite 2021, no en la web oficial; sin verificar)",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Colectivo de científicos españoles y portugueses que estudia la población y las interacciones con barcos; catálogo de aletas dorsales.",
+    "accepts_corporate_partners": "unknown (no consta personalidad jurídica formal)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Rafael Fernández Caballero",
+    "nationality": "española",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://oceanographicmagazine.com/opa-winner/2022-ocean-wildlife-photographer-of-the-year-rfc/",
+    "note": "Ocean Photographer of the Year 2024 (ganador absoluto) y Underwater Photographer of the Year 2022. Primer puesto en Ocean Wildlife Photographer of the Year 2022 con calderones en el Estrecho de Gibraltar. Las orcas son su 'mayor obsesión', pero sus fotos de orcas confirmadas son de México. Foto de orca del Estrecho: (sin verificar). Embajador de Aqualung. Fuentes: https://us.aqualung.com/pages/rafael-fernandez , https://oceanographicmagazine.com/features/interview-with-opy-overall-winner-rafael-fernandez-caballero/"
+   },
+   {
+    "name": "Ingrid Visser",
+    "nationality": "neozelandesa (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.dolphinproject.org/blog/iberian-orcas-beyond-the-headlines/",
+    "note": "Investigadora de orcas. Firma una foto del artículo de Dolphin Project sobre las orcas ibéricas. No es europea y no se encontraron premios. Fuente: la URL de arriba"
+   },
+   {
+    "name": "WeWhale & Iberian Orca Guardians (colectivo, no fotógrafo individual)",
+    "nationality": "España (asociaciones)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Firman las fotos (distribuidas por Reuters, agosto de 2026) de la orca 'Toñi' herida. Hacen foto-identificación y llevan la campaña 'Salvemos a la Orca Ibérica' (2024, con Sea Shepherd France). Pueden ser el contacto para dar con el fotógrafo concreto. Fuentes: https://www.theolivepress.es/spain-news/2026/08/17/critically-endangered-iberian-orcas-dorsal-fin-wounds-consistent-with-shotgun-blast/ , https://english.aawsat.com/node/5307132"
+   },
+   {
+    "name": "Javier Murcia (Francisco Javier Murcia Requena)",
+    "nationality": "española (Cartagena)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Ganador de la categoría Human and Nature en Nature Photographer of the Year 2021 ('The king of the ocean'), de Macro en UPY 2022 y de Vida Submarina en Siena 2022. Ha fotografiado bajo el agua dentro de una almadraba (pez espada). Foto de orcas: (sin verificar). Fuentes: https://naturephotographeroftheyear.com/previous-editions/npoty-2021-results/francisco-javier-murcia-requena-the-king-of-the-ocean-winner-category-human-and-nature/ , https://naturephotographeroftheyear.com/?p=242158"
+   }
+  ],
+  "photographers_note": "no lo tengo: no se identificó ningún fotógrafo con fotos verificadas de orcas del Estrecho. Pista: entrada 'Apex predator' del 18.º Smithsonian Photo Contest, tomada en Tarifa en junio 2020 con permisos del Ministerio (autor no visible): https://photocontest.smithsonianmag.com/photocontest/detail/apex-predator-1. Alternativa: pedir fotos a CIRCE/Loro Parque Fundación.",
+  "design_notes": "Las orcas 'que juegan con los timones' son famosas en toda España; icono poderoso y cercano (Estrecho, atún rojo, Tarifa) con mensaje de urgencia: quedan ~37.",
+  "sources": [
+   "https://accobams.org/wp-content/uploads/2019/04/MOP7.Inf40_Re-assessment-killer-whales-Gibraltar.pdf",
+   "https://www.miteco.gob.es/en/biodiversidad/temas/biodiversidad-marina/habitats-especies-marinos/especies-marinas/bm_hayem_em_orcas.html",
+   "https://www.ecoticias.com/naturaleza/las-ultimas-orcas-ibericas-se-acercan-al-colapso-y-su-supervivencia-pende-de-un-hilo",
+   "https://faolex.fao.org/docs/pdf/spa168497.pdf",
+   "https://circe.info/contacto/",
+   "https://seamap.env.duke.edu/provider/1679",
+   "https://www.loroparque-fundacion.org/en/contacto/",
+   "https://www.loroparque-fundacion.org/en/sponsor-form/",
+   "https://www.loroparque-fundacion.org/en/loro-parque-fundacion-appoints-martin-boye-as-new-scientific-director-for-marine-biology/",
+   "https://www.orcaiberica.org/en/que-son-las-orcas",
+   "https://www.noonsite.com/news/iberian-peninsula-online-reporting-platform-launched-to-register-orca-interactions/",
+   "https://fundacion-biodiversidad.es/wp-content/uploads/2023/05/23.05.30-El-MITECO-impulsa-el-marcaje-de-orcas-para-minimizar-la-interaccion-con-las-embarcaciones.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Foca monje del Mediterráneo",
+  "scientific_name": "Monachus monachus",
+  "continent": "Europa / África / Asia",
+  "countries": [
+   "Grecia",
+   "Turquía",
+   "Chipre",
+   "Mauritania / Sáhara Occidental (Cabo Blanco)",
+   "Portugal (Madeira)",
+   "Libia y otros (sin verificar)"
+  ],
+  "region": "Mediterráneo oriental (mayor subpoblación, ~la mitad en Grecia), Cabo Blanco (Atlántico, la mayor colonia) y Madeira. Extinta como reproductora en España.",
+  "iucn_status": "Vulnerable (VU), UICN 2023 (antes En Peligro desde 2015) (https://www.mmc.gov/priority-topics/species-of-concern/mediterranean-monk-seal/; evaluación Karamanlidis et al. 2023). España: En peligro de extinción en el Catálogo Español (sin verificar).",
+  "population_estimate": "815–997 individuos (443–599 maduros), Karamanlidis et al. 2024, Endangered Species Research (https://doaj.org/article/e4d0f476a0894fc5a230cd45b33b8073; https://www.mmc.gov/priority-topics/species-of-concern/mediterranean-monk-seal/). Cabo Blanco ~360 ind. + crías (2017-2018, https://www.marineland.fr/content/dam/mar/fr/files/Annual-Report-2017-2018-Mediterranean-monk-seal-Program.pdf); Madeira ~27–40 (sin verificar).",
+  "trend": "increasing",
+  "taxonomy_note": "Única especie viva del género Monachus (la foca monje de Hawái pasó al género Neomonachus; la del Caribe se extinguió) (sin verificar).",
+  "foundations": [
+   {
+    "name": "Fundación CBD-Hábitat",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://cbd-habitat.com",
+    "project_page": "http://2020.cbd-habitat.com/en/foca-monje-del-mediterraneo/",
+    "contact_email": "cbd-habitat@cbd-habitat.com",
+    "phone": "+34 91 510 01 33",
+    "director_or_president": "Nuria El Khadir Palomo (Directora gerente); Presidente: Javier Oria Martín (fundador) — Directora gerente (2023 (entrevista El Español 2023; página About sin fecha))",
+    "what_they_do": "Protege la colonia de Cabo Blanco (Mauritania), gestiona la reserva de sus cuevas de cría y lideró un LIFE en Madeira; premio Fundación BBVA a la conservación.",
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://cbd-habitat.com/en/about-cbd-habitat/",
+    "accepts_corporate_partners_evidence_url": "http://2020.cbd-habitat.com/colaboraciones/ (web antigua: 'Si eres empresa o entidad / Financia un programa'); no lo tengo en la web actual",
+    "notes": "Dirección actual (web EN): C. Ángel Hernández 13, 28002 Madrid; CIF G82118480. Web antigua daba C/ Gustavo Fernández Balbuena 2. Lince ibérico, foca monje, buitre negro. Premio Fundación BBVA Conservación Biodiversidad 2022."
+   },
+   {
+    "name": "MOm – Hellenic Society for the Study and Protection of the Monk Seal",
+    "hq_country": "Grecia",
+    "hq_city": "Atenas (18 Solomou St., 10682)",
+    "website": "https://www.mom.gr/",
+    "project_page": "https://el.mom.gr/distribution",
+    "contact_email": "info@mom.gr (página de contacto https://el.mom.gr/contact-us, vista vía buscador)",
+    "phone": "+30 210 522 2888",
+    "director_or_president": "Panagiotis Dendrinos, presidente (https://www.mom.gr/about-mom, vía buscador)",
+    "what_they_do": "Principal ONG de la foca monje en Grecia: seguimiento, centro de rehabilitación, red de rescate 24 h y zonas protegidas.",
+    "accepts_corporate_partners": "yes (probable): perfil en CSR in Greece para colaboración empresarial (https://csringreece.gr/org_profile.php?id=28, sin verificar)"
+   },
+   {
+    "name": "Loro Parque Fundación",
+    "hq_country": "España",
+    "hq_city": "Puerto de la Cruz (Tenerife)",
+    "website": "https://www.loroparque-fundacion.org/en/",
+    "project_page": "https://www.loroparque-fundacion.org/en/monachus-monachus-mediterranean-monk-seal",
+    "contact_email": "lpf@loroparque-fundacion.org (sin verificar en página abierta)",
+    "phone": "+34 922 373 841 (ext. 281) (sin verificar)",
+    "director_or_president": "Christoph Kiessling, presidente (https://www.loroparque-fundacion.org/en/who-we-are/, sin verificar)",
+    "what_they_do": "Tiene ficha de proyecto para la foca monje; financia conservación de especies marinas.",
+    "accepts_corporate_partners": "yes (https://www.loroparque-fundacion.org/en/sponsor-form/)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Bruno D'Amicis",
+    "nationality": "Italiana",
+    "website": "no lo tengo (firma como 'The Wild Line Photography')",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.nhm.ac.uk/wpy/gallery/2023-the-vanishing-seal",
+    "note": "Premiado en Wildlife Photographer of the Year 2023 con 'The Vanishing Seal' (foca monje en Grecia); fotos usadas por la campaña Seal Greece; embajador Canon."
+   },
+   {
+    "name": "Ugo Mellone",
+    "nationality": "Italiana (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://gb.readly.com/magazines/bbc-wildlife-magazine/2024-01-11/6589c35fa20849291da93654",
+    "note": "Coautor de las fotos del reportaje sobre la foca monje en BBC Wildlife (enero 2024); ponente en MontPhoto 2024 (https://fest.montphoto.com/en/2024/speaker/ugo-mellone/)."
+   },
+   {
+    "name": "Marco Colombo",
+    "nationality": "Italiana (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://gb.readly.com/magazines/bbc-wildlife-magazine/2024-01-11/6589c35fa20849291da93654",
+    "note": "Coautor de las fotos del reportaje de BBC Wildlife sobre la foca monje (enero 2024)."
+   }
+  ],
+  "design_notes": "Historia de regreso: casi extinta y hoy en recuperación (ya 'Vulnerable'); antes vivía en Baleares y Canarias, emocionante para el público español que sueña con verla volver.",
+  "sources": [
+   "https://www.mmc.gov/priority-topics/species-of-concern/mediterranean-monk-seal/",
+   "https://doaj.org/article/e4d0f476a0894fc5a230cd45b33b8073",
+   "https://en.swisscetaceansociety.org/post/mediterranean-monk-seal-news-2023",
+   "https://www.marineland.fr/content/dam/mar/fr/files/Annual-Report-2017-2018-Mediterranean-monk-seal-Program.pdf",
+   "https://cbd-habitat.com/en/contact/",
+   "http://2020.cbd-habitat.com/quienes-somos/",
+   "https://www.biophilia-fbbva.es/wp-content/uploads/sites/3/2022/09/Discurso-agradecimiento-Fundacion-CBD-Habitat.pdf",
+   "https://el.mom.gr/contact-us",
+   "https://www.mom.gr/about-mom",
+   "https://www.nhm.ac.uk/wpy/gallery/2023-the-vanishing-seal",
+   "https://www.euronews.com/2025/09/01/meet-the-experts-sailing-to-26-greek-islands-to-protect-endangered-mediterranean-monk-seal"
+  ]
+ },
+ {
+  "common_name_es": "Tortuga boba",
+  "scientific_name": "Caretta caretta",
+  "continent": "Cosmopolita (foco: Europa / Mediterráneo)",
+  "countries": [
+   "España",
+   "Grecia",
+   "Turquía",
+   "Chipre",
+   "Libia",
+   "Italia",
+   "Francia",
+   "Cabo Verde (Atlántico)",
+   "y océanos templados/tropicales del mundo"
+  ],
+  "region": "Mediterráneo; en España, nidificación creciente en Comunitat Valenciana, Cataluña, Baleares, Murcia y Andalucía oriental",
+  "iucn_status": "Global: Vulnerable (VU), UICN 2015. Subpoblación mediterránea: Preocupación Menor (LC) pero dependiente de conservación, UICN 2015 (https://archelon.gr/en/news/new-iucn-red-list-assessment-of-the-loggerhead-sea-turtle-caretta-caretta-in-the-mediterranean-long-term-protection-pays-off; https://medmarineturtles.org/about-the-project). España: Vulnerable en el Catálogo Español (sin verificar).",
+  "population_estimate": "Mediterráneo: no lo tengo (cifra total no verificada). España: ~15 nidos en 2023, récord del Mediterráneo occidental (CSIC, https://www.ebd.csic.es/sites/default/files/documentos/2024-07/20230711_INGENI.pdf); Comunitat Valenciana: 7 nidos y 608 huevos en 2024 (https://valencianews.es/tendencias/la-comunitat-valenciana-lidera-la-nidificacion-de-tortugas-bobas-con-mas-de-600-huevos-en-2024/, sin verificar); 2025: 14 puestas en la C. Valenciana según fuente divulgativa (sin verificar).",
+  "trend": "increasing (en el Mediterráneo occidental, nidificación esporádica en aumento)",
+  "taxonomy_note": "Especie única del género Caretta; la UICN reconoce 10 subpoblaciones regionales.",
+  "foundations": [
+   {
+    "name": "Fundación Oceanogràfic",
+    "hq_country": "España",
+    "hq_city": "Valencia",
+    "website": "no lo tengo (sin verificar)",
+    "project_page": "https://www.ecoticias.com/naturaleza/liberan-36-tortugas-bobas-playa-elche-tras-ano-cuidado-oceanografic-valencia",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo (Beatriz Domínguez citada como coordinadora del programa Head Starting, fuente prensa, sin verificar)",
+    "what_they_do": "Custodia nidos, incuba huevos y cría tortugas un año (Head Starting) antes de liberarlas; campaña 'Tortugas en el Mediterráneo' / 'Aquí salvamos tortugas' en 79 municipios.",
+    "accepts_corporate_partners": "unknown"
+   },
+   {
+    "name": "Fundació CRAM",
+    "hq_country": "España",
+    "hq_city": "El Prat de Llobregat (Barcelona) (sin verificar; dirección antigua en Premià de Mar)",
+    "website": "no lo tengo",
+    "project_page": "https://beteve.cat/medi-ambient/augmenten-rescats-fauna-marina-tortugues-fundacio-cram/",
+    "contact_email": "no lo tengo (ferran@cram.org aparece en una página antigua del MAPA, no en la web oficial: sin verificar)",
+    "phone": "93 752 45 81 (fuente prensa, sin verificar)",
+    "director_or_president": "Ferran Alegre i Ninou, presidente según página antigua del MAPA (https://www.mapa.gob.es/es/pesca/temas/proteccion-recursos-pesqueros/acciones-para-la-sostenibilidad-pesquera/las-tortugas-marinas-y-la-pesca/reduciendo-la-mortandad/estudio2, sin verificar/posiblemente desactualizado)",
+    "what_they_do": "Centro de recuperación de fauna marina de Cataluña: rescata, rehabilita y libera tortugas bobas; forma a pescadores contra la captura accidental.",
+    "accepts_corporate_partners": "yes: convenios con Aena (2018) y Damm (https://www.aena.es/doc/detalleprensa/190102-aena-suelta-tortugas-y-convenio-cram.pdf)"
+   },
+   {
+    "name": "Xaloc (ONG Xaloc Mar)",
+    "hq_country": "España",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page": "https://www.corresponsables.com/actualidad/por-segundo-ano-consecutivo-reale-foundation-y-la-ong-xaloc-mar-se-unen-para-proteger-y-cuidar-a-las-tortugas-marinas-del-mediterraneo/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Protección y vigilancia de nidos de tortugas marinas en el Mediterráneo con voluntariado.",
+    "accepts_corporate_partners": "yes: alianza renovada con Reale Foundation (mismo enlace)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Jordi Chias Pujol",
+    "nationality": "española (Barcelona, 1973)",
+    "website": "https://uwaterphoto.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.nhm.ac.uk/wpy/gallery/2010-turtle-in-trouble",
+    "note": "La coincidencia más fuerte. One Earth Award del Veolia Wildlife Photographer of the Year 2010 con 'Turtle in trouble': una tortuga boba enredada en una red, en el Mediterráneo entre Barcelona y Baleares. La liberó después. Fuentes: la URL de arriba y https://marilles.org/en/post/jordi-chias-camara-subacuatico"
+   },
+   {
+    "name": "Ángel Fitor",
+    "nationality": "española (Alicante, 1973)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "GDT European Wildlife Photographer of the Year 2021. Especialista en el Mediterráneo (exposición 'Mare Lucidum', Casa Mediterráneo). Foto de tortuga boba: (sin verificar). Fuentes: https://www.hola.com/estar-bien/20211031198769/angel-fitor-mejor-fotografo-naturaleza-2021-medio-ambiente/ , https://valenciaplaza.com/arte-museos-fotografia-valencia-comunitat-valenciana/la-rambleta-se-sumerge-en-el-mediterraneo-con-la-fotografia-de-angel-fitor"
+   },
+   {
+    "name": "Manu San Félix",
+    "nationality": "española",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Ganador del Wildlife Photographer of the Year 2004 y del World Underwater Festival 2005. Director de imágenes submarinas de Pristine Seas (National Geographic). Su equipo rescató una tortuga en es Freus (Pitiusas) y es coautor de un estudio sobre la mortalidad de la tortuga boba tras quedar atrapada en redes. Fuentes: https://www.upv.es/entidades/epsg/2025/10/17/de-formentera-a-national-geographic/ , https://www.periodicodeibiza.es/etiqueta/Manu+San+F%C3%A9lix.html , https://www.noudiari.es/?p=49964"
+   },
+   {
+    "name": "Francis Pérez",
+    "nationality": "española (Tenerife)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.worldpressphoto.org/collection/photo/2017/nature/francis-pérez",
+    "note": "Primer premio Naturaleza en World Press Photo 2017 con 'Caretta Caretta Trapped', una tortuga boba enredada. OJO: tomada en el Atlántico (Canarias), no en el Mediterráneo. Otra opción atlántica: Eduardo Acevedo, Marine Conservation Photographer of the Year en UPY 2019 con una tortuga boba en una red (https://underwaterphotographeroftheyear.com/archive/2019-winners/award-winners/3). Fuente: la URL de arriba"
+   }
+  ],
+  "photographers_note": "no lo tengo: no se buscaron/verificaron fotógrafos por agotarse el límite de búsquedas.",
+  "design_notes": "Cada verano anida más en playas españolas (Valencia, Costa Brava, Baleares): conecta con el bañista y el veraneo; crías corriendo al mar = imagen esperanzadora.",
+  "sources": [
+   "https://archelon.gr/en/news/new-iucn-red-list-assessment-of-the-loggerhead-sea-turtle-caretta-caretta-in-the-mediterranean-long-term-protection-pays-off",
+   "https://medmarineturtles.org/about-the-project",
+   "https://www.ebd.csic.es/sites/default/files/documentos/2024-07/20230711_INGENI.pdf",
+   "https://www.ub.edu/irbio/record-de-nidificacion-de-tortugas-marinas-en-las-costas-del-mediterraneo-occidental-durante-esta-temporada-n-1054-es",
+   "https://valencianews.es/tendencias/la-comunitat-valenciana-lidera-la-nidificacion-de-tortugas-bobas-con-mas-de-600-huevos-en-2024/",
+   "https://www.ecoticias.com/naturaleza/liberan-36-tortugas-bobas-playa-elche-tras-ano-cuidado-oceanografic-valencia",
+   "https://www.aena.es/doc/detalleprensa/190102-aena-suelta-tortugas-y-convenio-cram.pdf",
+   "https://www.corresponsables.com/actualidad/por-segundo-ano-consecutivo-reale-foundation-y-la-ong-xaloc-mar-se-unen-para-proteger-y-cuidar-a-las-tortugas-marinas-del-mediterraneo/"
+  ]
+ },
+ {
+  "common_name_es": "Bisonte europeo",
+  "scientific_name": "Bison bonasus",
+  "continent": "Europa",
+  "countries": [
+   "Polonia",
+   "Bielorrusia",
+   "Rusia",
+   "Ucrania",
+   "Lituania",
+   "Rumanía",
+   "Bulgaria",
+   "Alemania",
+   "España (núcleos en semilibertad, sin verificar)",
+   "otros"
+  ],
+  "region": "Bosques de Europa central y oriental (Białowieża, Cárpatos, Cáucaso)",
+  "iucn_status": "Casi Amenazado (NT), UICN 2020 (sin verificar en primaria; antes Vulnerable).",
+  "population_estimate": "12.209 ejemplares a 31/12/2024 (9.762 en libertad, 1.725 en cercados, 722 en semilibertad); +1.029 (+8,4 %) en un año; Rusia 3.073; Bielorrusia ~24 %. Datos del European Bison Pedigree Book vía prensa (https://reform.news/en/belarus-is-home-to-24-of-the-world-s-european-bison-population/, sin verificar en EBPB). Polonia supera 3.000 (https://polskieradio.pl/395/7789/Artykul/3523025).",
+  "trend": "increasing",
+  "taxonomy_note": "Especie única con dos líneas genéticas gestionadas: Białowieża (de tierras bajas) y Białowieża-Cáucaso; toda la población actual desciende de 12 fundadores (sin verificar).",
+  "foundations": [
+   {
+    "name": "Rewilding Europe",
+    "hq_country": "Países Bajos",
+    "hq_city": "Nijmegen (sin verificar)",
+    "website": "https://rewildingeurope.com",
+    "project_page": "https://rewildingeurope.com/impact-stories/european-bison/",
+    "contact_email": "info@rewildingeurope.com; corporate: caroline.lapidaire@rewildingeurope.com (Head of Corporate Partnerships, página Partner with us)",
+    "phone": "+31 6 30543387 (privacy statement; otra página da +31 6 2044 7011)",
+    "director_or_president": "Frans Schepers — Executive Director / CEO (también 'Managing Director' en páginas antiguas) (2025 (artículo firmado marzo 2025; conferencia 2025))",
+    "what_they_do": "Reintroduce bisontes en paisajes de rewilding (p. ej. Cárpatos meridionales, Rumanía).",
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://rewildingeurope.com/rew-person/frans-schepers",
+    "accepts_corporate_partners_evidence_url": "https://rewildingeurope.com/get-involved/partner-with-us/",
+    "notes": "Toernooiveld 1, 6525 ED Nijmegen, NL. Leer Corporate Engagement Principles (https://rewildingeurope.com/corporate-engagement-principles/) antes de contactar. Bisonte europeo. Rewilding Spain es su rama local (no investigada)."
+   },
+   {
+    "name": "IUCN SSC Bison Specialist Group",
+    "hq_country": "Internacional",
+    "hq_city": "no lo tengo",
+    "website": "https://www.iucn.org/news/species-survival-commission/202203/new-report-reviews-efforts-return-european-bison-brink-extinction",
+    "project_page": "https://iucn.org/sites/default/files/2023-09/2020-bison-sg-report_publication.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Grupo científico que evalúa y coordina la conservación del bisonte europeo (no es receptor típico de donaciones).",
+    "accepts_corporate_partners": "no (probable; grupo técnico) (sin verificar)"
+   },
+   {
+    "name": "Bison Bonasus – Reserva y Centro de Interpretación del Bisonte Europeo (San Cebrián de Mudá, Palencia)",
+    "hq_country": "España",
+    "hq_city": "",
+    "website": "https://bisonbonasus.com",
+    "contact_email": "bisontesancebrian@mundominer.es",
+    "what_they_do": "C/ El Campo s/n, 34839 San Cebrián de Mudá. Tel. 979 605 823; reservas 666 229 574. Las fuentes no coinciden del todo en los teléfonos. Fuentes: https://www.spain.info/en/leisure-parks/bison-bonasus-reserve-visitors-centre/ , https://www.turismocastillayleon.com/es/arte-cultura-patrimonio/museos/bisonbonasus-reserva-centro-interpretacion-bisonte-europeo",
+    "accepts_corporate_partners": "unknown"
+   },
+   {
+    "name": "Centro de Conservación del Bisonte Europeo en España (European Bison Conservation Center, EBCC) – dir. Fernando Morán Castillo",
+    "hq_country": "España",
+    "hq_city": "",
+    "website": "no lo tengo",
+    "contact_email": "ebcc.spain@gmail.com (tomado de una página de Change.org, de terceros; sin verificar)",
+    "what_they_do": "Fundado por el veterinario asturiano Fernando Morán. Soltó bisontes cerca de Teverga (2014, primeros nacimientos en Asturias), en Sierro (cerca de Oviedo), en Villayón (finca de 2.000 ha) y en Cantalejo y El Cubillo (Segovia). Ha recibido animales de Polonia. Fuentes: https://theolivepress.es/spain-news/2014/05/29/bison-bounce-back-in-spain-for-the-first-time-in-10000-years/ , https://rewildingeurope.com/blog/biggest-bison-transport-ever/ , https://www.elsaltodiario.com/biodiversidad/bisonte-europeo-bison-bonasus-vuelto-peninsula , https://www.change.org/p/teresa-ribera-rodriguez-ministra-para-la-transicion-ecologica-ayuda-al-bisonte-europeo-en-iberia-european-bison-in-spanish-red-list/u/27091101",
+    "accepts_corporate_partners": "unknown"
+   },
+   {
+    "name": "Reserva de Valdeserrillas (Benagéber, Valencia) – True Nature Foundation",
+    "hq_country": "España",
+    "hq_city": "",
+    "website": "no lo tengo (Ayto. de Benagéber: benageber.es; turismo@benageber.es)",
+    "contact_email": "no lo tengo",
+    "what_they_do": "Aquí se soltaron 12 bisontes con el programa de cría de la EAZA (True Nature Foundation). En 2016 aparecieron bisontes decapitados y se informó de que los animales serían trasladados unos 700 km. Estado actual de la manada: (sin verificar). Fuentes: https://www.thelocal.es/20160923/second-bison-found-decapitated-at-spanish-nature-reserve/ , https://www.ecoticias.com/naturaleza/128476_lios-misterios-reserva-valdeserrillas-bisontes",
+    "accepts_corporate_partners": "unknown"
+   },
+   {
+    "name": "Valle del Bisonte – Anciles (Riaño, León)",
+    "hq_country": "España",
+    "hq_city": "",
+    "website": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "what_they_do": "La Fundación Valle del Bisonte (Ayto. de Riaño + True Nature Foundation) se disolvió en 2023. Ahora el proyecto lo gestiona el Ayuntamiento de Riaño, que prevé sacar a concurso la parte turística. Fuentes: https://www.diariodeleon.es/leon/provincia/230305/860147/riano-asumira-solitario-gestion-proyecto-sobre-recuperacion-bisonte.html , https://www.diariodeleon.es/ocio/destinos/260824/2095137/bisontes-europeos-leon-valle-anciles_amp.html",
+    "accepts_corporate_partners": "unknown"
+   },
+   {
+    "name": "Otros proyectos (sin entidad gestora confirmada)",
+    "hq_country": "España",
+    "hq_city": "",
+    "website": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "what_they_do": "Manada en fincas de Ciudad Real (mejora del suelo y prevención de incendios); 9 bisontes de El Espinar (finca Los Porretales, Segovia) llevados a El Recuenco (Guadalajara, Alto Tajo); ejemplares polacos en la Sierra de Andújar (Jaén, 2023). Fuentes: https://www.eldiario.es/castilla-la-mancha/social/manada-bisontes-ciudad-real-si-son-parte-proyecto-ayudar-mejorar-suelo-evitar-incendios_1_11283067.html , https://www.eldiario.es/castilla-la-mancha/provincias/guadalajara/nueve-bisontes-europeos-llegan-recuenco-prevenir-incendios-forestales-alto-tajo_1_12934000.html , https://www.ultimahora.es/noticias/comunidades/2023/02/11/1880447/sierra-andujar-abre-conservacion-bisontes-ejemplares-venidos-desde-polonia.html",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Jasper Doest",
+    "nationality": "neerlandesa",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://wisenten.nl/en/nieuws/2016/recognition-dawn-bison",
+    "note": "'Dawn of the Bison' (bisontes de Kraansvlak, P.N. Zuid-Kennemerland) llegó a la final de mamíferos del WPOY 2016. GDT European Wildlife Photographer of the Year 2020 con otra imagen. Fuentes: la URL de arriba y https://www.digitalcameraworld.com/uk/news/performing-monkey-wins-major-european-wildlife-award"
+   },
+   {
+    "name": "Fabian Thorand",
+    "nationality": "no lo tengo",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "'Peaceful European Bison' (cerca del P.N. de Białowieża) recibió mención en el Rewilding Europe Award 2026 del GDT EWPY. Las fuentes dudan entre 'highly commended' y 'commended'. Fuentes: https://www.discoverwildlife.com/photography/rewilding-europe-award-winner-2026 , https://mymodernmet.com/rewilding-europe-award-2026/"
+   },
+   {
+    "name": "Florian Smit",
+    "nationality": "alemana",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://gdtfoto.de/seiten/rewilding_europe-results-2024.html",
+    "note": "Foto de bisonte en Białowieża preseleccionada para el Rewilding Europe Award 2024 (GDT). El título 'King of the East' (sin verificar): ese título también corresponde a otro autor en otro concurso. Perfil: https://kasefilters.eu/Partner/Photographers-Germany/Florian-Smit . Fuente: https://thegaze.media/news/lynx-meal-and-majestic-bison-rewilding-europe-award-recognises-5-best-shots"
+   },
+   {
+    "name": "Michał Kość",
+    "nationality": "polaca (Białystok)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.national-geographic.pl/nauka/zubry-swiatlo-i-cien/",
+    "note": "Lleva años fotografiando bisontes en libertad en Podlasie. Exposiciones 'Żubry. Światło i Cień' (2018) y otra en el Museo de la Tierra PAN (Varsovia). Colabora con las agencias FORUM y WSCHÓD. Premios: (sin verificar). Fuente: https://www.national-geographic.pl/lifestyle/zubry-w-pejzazu-puszczy-knyszynskiej-to-fotograficzny-hold-oddanym-tym-dostojnym-zwierzetom/"
+   },
+   {
+    "name": "Pedro Jarque Krebs",
+    "nationality": "peruana",
+    "website": "https://pedrojarque.com (sin verificar)",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://photocontest.smithsonianmag.com/photocontest/detail/the-last-of-the-mohicans",
+    "note": "Su obra 'The Last of the Mohicans', un bisonte europeo fotografiado en España, fue una candidatura al 13º Smithsonian Photo Contest (sin premio confirmado). Primer premio en Bird Photographer of the Year 2018 y más de 200 premios. Fuentes: la URL de arriba y https://aboutphotography.blog/pedro-jarque-krebs-biography"
+   }
+  ],
+  "photographers_note": "no lo tengo: no se buscaron/verificaron fotógrafos ni ONG españolas por agotarse el límite de búsquedas.",
+  "design_notes": "Gigante superviviente: el mayor mamífero terrestre de Europa, extinto en libertad en 1927 y hoy más de 12.000; historia de éxito y fuerza visual (silueta en la niebla del bosque).",
+  "sources": [
+   "https://reform.news/en/belarus-is-home-to-24-of-the-world-s-european-bison-population/",
+   "https://polskieradio.pl/395/7789/Artykul/3523025,poland’s-european‑bison-herd-tops-3000-for-first-time-after-century-of-recovery",
+   "https://iucn.org/sites/default/files/2023-09/2020-bison-sg-report_publication.pdf",
+   "https://www.iucn.org/news/species-survival-commission/202203/new-report-reviews-efforts-return-european-bison-brink-extinction",
+   "https://rewildingeurope.com/impact-stories/european-bison/",
+   "https://ojs.wisent.org/index.php/czasopismo/article/view/10"
+  ]
+ }
+]
