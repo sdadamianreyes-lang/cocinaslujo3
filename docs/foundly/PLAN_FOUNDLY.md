@@ -11,11 +11,12 @@ Fecha: 6-nov-2026 · Montos sin IVA · Todo lo marcado "sin verificar" o "estima
 
 | Decisión | Recomendación |
 |---|---|
-| Precio de venta | **39 €** (equilibrio con 5/5/5 está en ~33 €) |
+| Precio de venta | **34 € con envío incluido**, sin fondo de marketing. Pack de 2 a 64 € (v2, 06-nov) |
 | Prenda | Stanley/Stella Creator 2.0, algodón orgánico, vía Printful |
 | Mercado de arranque | **Europa (España primero)**. EE.UU. en fase 3, después de revisar la ley de "commercial co-venturer" |
-| Aliado clave | SeaLegacy (Cristina Mittermeier) — por fotógrafos y alcance, no como destino del dinero del animal |
-| Motor de ventas | Redes de los aliados (fotógrafos + fundación), no anuncios pagos |
+| Aliado clave | SeaLegacy (Cristina Mittermeier) — por fotógrafos y alcance |
+| Destino de los 5 € del animal | **La fundación que trabaja con esa especie.** Lince → fundación del lince. Orca → fundación de orcas |
+| Motor de ventas | Boca a boca + redes de fotógrafos, fundaciones y sponsors. Sin anuncios pagos dentro del precio |
 | Primer paso | Mandar el mail a Cristina y pedir muestras físicas de 2 proveedores en paralelo |
 
 ---
@@ -43,7 +44,23 @@ Fecha: 6-nov-2026 · Montos sin IVA · Todo lo marcado "sin verificar" o "estima
 
 Recalculado fila por fila: precio − costo − comisión − 10 = lo que queda.
 
-### 2.3 Reparto recomendado a 39 €
+### 2.2 bis — Opciones para bajar el precio (v2, 06-nov)
+
+Regla: el precio no sube por publicidad. El marketing lo ponen los aliados en sus redes, no el comprador.
+
+| Opción | Precio al cliente | Animal | Fotógrafo | Foundly | Colchón | Diferencia concreta |
+|---|---|---|---|---|---|---|
+| **A. 5/5/5 todo incluido** | **34 €** | 5 | 5 | 5 | 1,04 | Precio único, simple, reparto igual intacto |
+| B. 5/5/5 + envío aparte | 29 € + 4,90 € envío | 5 | 5 | 5 | 0,94 | Se ve más barato, pero el cliente paga lo mismo y el envío extra frena compras |
+| C. 5/3/3 | 30 € | 5 | 3 | 3 | 1,16 | Más barato, pero rompe el "igual para los tres" |
+| D. Pack 2 remeras (5/5/5 cada una) | 64 € (32 € c/u) | 10 | 10 | 10 | 1,54 | La 2ª unidad paga menos envío (1,45 € vs 4,79 €) |
+
+Cuentas: A 34 − 16,94 − 1,02 − 15 = 1,04 · B 33,90 − 16,94 − 1,02 − 15 = 0,94 · C 30 − 16,94 − 0,90 − 11 = 1,16 · D 64 − 30,54 − 1,92 − 30 = 1,54.
+
+**Elegida: A + D.** 34 € con todo y pack de 2 a 64 €.
+Riesgo: el colchón de ~1 € es fino. Una devolución por talle se come el margen de varias ventas. Defectos de impresión los suele reimprimir el proveedor (**sin verificar** en Printful).
+
+### 2.3 Reparto a 39 € (versión anterior, descartada el 06-nov)
 
 | Destino | € por remera |
 |---|---|
@@ -103,11 +120,20 @@ Alternativa barata en EE.UU.: Bella+Canvas 3001 a ~11,92 US$ ([podvector](https:
 ### Lectura estratégica (análisis mío)
 
 - **Su fuerza es contar historias y tener alcance, no ejecutar proyectos de campo.** Eso encaja perfecto con "fotógrafo + marketing".
-- **Los 5 € del animal conviene que vayan a un proyecto de campo concreto** (una reserva marina, un programa de tortugas), elegido con SeaLegacy. Así el comprador sabe exactamente qué ayuda.
+- **Los 5 € del animal van a la fundación que trabaja con esa especie.** Lince → fundación del lince; orca → fundación de orcas. Una fundación por especie, con convenio firmado y comprobante publicado.
 - **Arrancar solo con océano.** Una colección "Océano" con fotógrafos de SeaLegacy. Si funciona, abrir otras colecciones (selva, montaña) con otras fundaciones.
 - Lo que les ofrecemos: ingreso para sus fotógrafos sin trabajo extra, fondos para proyectos, una vía nueva de concientización. Lo que pedimos: fotos con licencia y publicaciones en sus redes.
 
 ---
+
+## 4 bis. Fotógrafos en la mira (v2, 06-nov)
+
+| Nombre | Qué hace | Dato a revisar |
+|---|---|---|
+| **Bertie Gregory** (probablemente el "Georgie Gregory" que buscás) | Fotógrafo y cineasta de National Geographic. Serie *Animals Up Close*; especial de delfines en Azores; orcas en la Antártida ([ABC7](https://abc7news.com/post/bertie-gregorys-newest-adventure-takes-atlantic-ocean-dolphins-close-gregory/17844248/), [Apple TV](https://tv.apple.com/us/show/animales-de-cerca-con-bertie-gregory/umc.cmc.mrranswd57opb17ryh6xex61)) | Figura como alumno de un colegio británico ([Bradfield Society](https://www.bradfieldsociety.org.uk/news/news/1001/1001-Bertie-Gregory-G-06-11-wins-category-in-Wildlife-Photographer-of-the-Year-awards)): no parece norteamericano. El episodio de Patagonia que encontré es de pumas en Chile, no de orcas en Argentina. Confirmar que es él |
+| Cristina Mittermeier / fotógrafos de SeaLegacy | Ver sección 4 | — |
+
+Idea de fondo: unir a los que hoy luchan por lo mismo por separado. Foundly como punto de encuentro: el fotógrafo pone la imagen, la fundación pone el destino, Foundly pone la tienda.
 
 ## 5. Acuerdo con fotógrafos
 
@@ -148,7 +174,8 @@ Con 5–11 € de margen, un anuncio pago que cueste más que eso por venta da p
 | Página de impacto pública | Confianza y repetición | 0 |
 | Prensa (medios de naturaleza, moda sostenible) | Alcance | 0 |
 | Mail a compradores (nuevas colecciones) | Recompra | Bajo |
-| Anuncios pagos | Solo para retargeting, con el fondo de marketing de 3 €/unidad | Controlado |
+| Sponsors que donan publicidad (espacio en sus redes, newsletters, tiendas) | Alcance extra sin tocar el precio | 0 |
+| Anuncios pagos | Fuera del precio. Solo si un sponsor los paga | 0 para el comprador |
 
 ---
 
