@@ -1,0 +1,558 @@
+[
+ {
+  "id": "lycaon_pictus",
+  "common_name_es": "Licaón / perro salvaje africano (lobo pintado)",
+  "scientific_name": "Lycaon pictus",
+  "continent": "África",
+  "countries": "Bastiones principales en Botsuana, Zimbabue, Zambia, Tanzania, Sudáfrica, Mozambique, Kenia y Namibia; poblaciones residuales en África occidental y central (lista de países sin verificar con IUCN)",
+  "region": "África austral y oriental (sabanas y bosques abiertos); ocupa aprox. el 7% de su área histórica (sin verificar)",
+  "iucn_status": "En Peligro (EN): evaluación IUCN 2012, versión enmendada publicada en 2020 (Woodroffe & Sillero-Zubiri, T12436A166502262)",
+  "population_estimate": "Unos 6.600 adultos en 39 subpoblaciones, de los que unos 1.400 son maduros (reproductores). Base: evaluación IUCN 2020. Fuentes: https://canids.org/species/view/PREKNU724601 y https://www.cms.int/sites/default/files/document/cites-cms_aci2_inf.11_iucn-african-wild-dog_e.pdf. El propio Canid Specialist Group avisa de que las cifras son imprecisas. No hay un censo global más reciente (sin verificar).",
+  "trend": "Decreciente (IUCN)",
+  "taxonomy_note": "Única especie viva del género Lycaon. Históricamente se describieron hasta 5 subespecies (p. ej. L. p. pictus, L. p. lupinus, L. p. sharicus, L. p. manguensis, L. p. somalicus); su validez genética se discute (sin verificar). El zoo de Londres (ZSL) usa el término 'licaón de África occidental' (https://zsl.org/west-african-wild-dog).",
+  "foundations": [
+   {
+    "name": "Painted Wolf Foundation (PWF)",
+    "hq_country": "Reino Unido (fundación benéfica registrada en Inglaterra y Gales, n.º 1176674, tipo CIO, registrada el 15/01/2018)",
+    "hq_city": "Lewes, East Sussex (c/o Clarke Brownscombe, 2 St. Andrews Place, Southover Road, BN7 1UP, según la Charity Commission)",
+    "website": "https://paintedwolf.org",
+    "project_page": "https://paintedwolf.org/painted-wolves/field-conservation-organisations/painted-dog-conservation/ (red de proyectos de campo financiados); fondo de ayudas: https://paintedwolf.org/painted-dog-fund/granting-committee/",
+    "contact_email": "info@paintedwolf.org (según el buscador aparece en la página de Gift Aid de paintedwolf.org; no lo he podido abrir para confirmarlo: sin verificar)",
+    "phone": "+44 7712 527700 (registro de la Charity Commission: https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5108641/contact-information)",
+    "director_or_president": "Nicholas Dyer, cofundador y CEO (CEO desde febrero de 2023). Presidente del patronato: Michael Cuthbert. Fuente: https://paintedwolf.org/about/leadership-and-governance/ (sin verificar: visto solo en el buscador)",
+    "what_they_do": "Fundación británica centrada solo en el licaón: financia a organizaciones de campo de toda África, hace campañas de sensibilización y gestiona el Painted Dog Fund.",
+    "accepts_corporate_partners": "yes (probable): un directorio de financiadores remite a info@ para partnerships (https://www.hinchilla.com/funder-directory/painted-wolf-foundation); hay apoyo de marcas como Explorers Against Extinction (https://paintedwolf.org/?p=3497). Sin verificar en una página oficial de empresas."
+   },
+   {
+    "name": "Endangered Wildlife Trust (EWT), Carnivore Conservation Programme / Wild Dog Range Expansion Project",
+    "hq_country": "Sudáfrica",
+    "hq_city": "Johannesburgo (Midrand)",
+    "website": "https://ewt.org.za",
+    "project_page": "https://ewt.org.za/sp-sept-2019-wild-dogs-are-back-in-tembe-elephant-park",
+    "contact_email": "coled@ewt.org.za (Cole du Plessis, coordinador del Wild Dog Range Expansion Project; aparece en artículos de EWT de 2019-2021; puede estar desactualizado: sin verificar)",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo (CEO de EWT no verificado). Responsable del proyecto de licaones: Cole du Plessis (sin verificar), según https://ewt.org.za/wp-content/uploads/2022/11/EWT-Wild-Dog-HF_Press-Release_Oct_2021.pdf",
+    "what_they_do": "Coordinan desde 1998 la metapoblación de licaones de Sudáfrica: reintroducciones en reservas, collares GPS y conflicto con ganaderos.",
+    "accepts_corporate_partners": "unknown: es una ONG grande con programas corporativos (sin verificar)"
+   },
+   {
+    "name": "Painted Dog Conservation (PDC)",
+    "hq_country": "Zimbabue",
+    "hq_city": "Dete, junto al Parque Nacional de Hwange",
+    "website": "https://www.painteddog.org",
+    "project_page": "https://www.painteddog.org/our-blog/pdc-history-25-years-counting",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Peter Blinston, director ejecutivo (en otras fuentes, managing director); fundador: Gregory Rasmussen. Fuentes: https://www.painteddog.org/our-blog/pdc-history-25-years-counting y https://en.wikipedia.org/wiki/Painted_Dog_Conservation (sin verificar)",
+    "what_they_do": "Patrullas antifurtivos, retirada de lazos, centro de rehabilitación y educación comunitaria alrededor de Hwange.",
+    "accepts_corporate_partners": "unknown: la financia la David Shepherd Wildlife Foundation (Reino Unido) (https://davidshepherd.org/news-events-insights/news/painted-dog-update/)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Nicholas (Nick) Dyer",
+    "nationality": "Británico",
+    "website": "no lo tengo (web personal no encontrada; perfil: https://naturalworldsafaris.com/nick-dyer)",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://hphpublishing.co.za/products/painted-wolves (libro 'Painted Wolves: A Wild Dog's Life', todas las fotos son suyas)",
+    "note": "Siguió a pie durante seis años a tres manadas en Mana Pools (Zimbabue). Highly Commended en Wildlife Photographer of the Year 2018 (https://www.naturettl.com/nicholas-dyer/). Es CEO de la Painted Wolf Foundation, así que un acuerdo doble (fundación + fotógrafo) sería sencillo."
+   },
+   {
+    "name": "Bence Máté",
+    "nationality": "Húngaro",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.nhm.ac.uk/wpy/gallery/2018-one-toy-three-dogs",
+    "note": "Su foto de licaones 'One Toy, Three Dogs' está en la galería de WPY 2018. Fotógrafo europeo premiado (WPY 2010). La autoría y la categoría se vieron solo en el buscador: sin verificar."
+   },
+   {
+    "name": "Kim Wolhuter",
+    "nationality": "Sudafricano (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.nhm.ac.uk/wpy/gallery/2012-dog-days",
+    "note": "Su imagen de licaones 'Dog days' está en la galería de WPY 2012 (premio no confirmado)."
+   },
+   {
+    "name": "Jonathan Scott",
+    "nationality": "Británico",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://inkl.com/news/a-wild-dog-catches-a-wildebeest-jonathan-scott-s-best-photograph",
+    "note": "Ganador de Wildlife Photographer of the Year 1987 con 'Wild dog immobilising wildebeest'. Muy conocido en Europa por 'Big Cat Diary' (BBC)."
+   }
+  ],
+  "design_notes": "El 'lobo pintado': cada pelaje es único como una huella dactilar, y la manada cuida de cachorros y heridos. Un mensaje de familia y trabajo en equipo que conecta con el comprador español.",
+  "sources": [
+   "https://canids.org/species/view/PREKNU724601",
+   "https://www.cms.int/sites/default/files/document/cites-cms_aci2_inf.11_iucn-african-wild-dog_e.pdf",
+   "https://bornfree.org.uk/animals/african-wild-dogs",
+   "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5108641/contact-information",
+   "https://paintedwolf.org/about/leadership-and-governance/",
+   "https://www.hinchilla.com/funder-directory/painted-wolf-foundation",
+   "https://ewt.org.za/sp-sept-2019-wild-dogs-are-back-in-tembe-elephant-park",
+   "https://www.painteddog.org/our-blog/pdc-history-25-years-counting",
+   "https://www.naturettl.com/nicholas-dyer/",
+   "https://www.nhm.ac.uk/wpy/gallery/2018-one-toy-three-dogs",
+   "https://www.nhm.ac.uk/wpy/gallery/2012-dog-days"
+  ],
+  "verification_note": "Nota de verificación: WebFetch no pudo abrir ninguna web oficial (dominios bloqueados por la red de la sesión); todos los datos proceden de resultados de WebSearch que citan esas páginas. Revisar antes de publicar o contactar.",
+  "category": "África"
+ },
+ {
+  "id": "smutsia_temminckii",
+  "common_name_es": "Pangolín de Temminck / pangolín terrestre del Cabo",
+  "scientific_name": "Smutsia temminckii",
+  "continent": "África",
+  "countries": "Unos 18 países de África oriental y austral según Born Free (entre ellos Sudáfrica, Namibia, Botsuana, Zimbabue, Mozambique, Zambia, Tanzania, Kenia, Uganda, Angola y Malawi, hasta Sudán del Sur y Chad). Lista completa sin verificar con IUCN.",
+  "region": "Sabanas y matorrales secos de África oriental y austral (p. ej. el Kalahari)",
+  "iucn_status": "Vulnerable (VU): evaluación IUCN 2019 (año sin verificar en la propia IUCN; Wikipedia cita la página IUCN de 2021). Las 4 especies africanas: pangolín de Temminck (Smutsia temminckii) VU; pangolín gigante (Smutsia gigantea) EN; pangolín de vientre blanco (Phataginus tricuspis) EN; pangolín de vientre negro o de cola larga (Phataginus tetradactyla) VU. Evaluaciones IUCN de 2019 (pangolinsg.org); EN para gigante y vientre blanco sin verificar en IUCN.",
+  "population_estimate": "Desconocida: no existe censo global. Born Free: 'la población exacta es desconocida, pero en declive' (https://www.bornfree.org.uk/animals/pangolins/temmincks-pangolin/). La evaluación regional de Sudáfrica (2016) apunta a que podrían quedar menos de 10.000 maduros solo como hipótesis (https://ewt.org.za/wp-content/uploads/2022/11/Temmincks-Ground-Pangolin-Smutsia-temminckii_VU.pdf).",
+  "trend": "Decreciente",
+  "taxonomy_note": "Existen 8 especies de pangolín: 4 asiáticas y 4 africanas (Smutsia temminckii, Smutsia gigantea, Phataginus tricuspis y Phataginus tetradactyla). El de Temminck es la única especie terrestre del sur de África y no tiene subespecies reconocidas (sin verificar). Es el mamífero más traficado del mundo.",
+  "foundations": [
+   {
+    "name": "African Pangolin Working Group (APWG)",
+    "hq_country": "Sudáfrica",
+    "hq_city": "no lo tengo (opera en Gauteng/Limpopo; el centro veterinario 'Pangolarium' está en Limpopo)",
+    "website": "https://africanpangolin.org (citada en prensa local; sin verificar)",
+    "project_page": "https://www.goodthingsguy.com/pangolarium-apwg-limpopo/ (prensa sobre el Pangolarium; no tengo una página oficial del proyecto)",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Copresidentes en 2025: Nicci Wright y Alexis Kriel (https://talkinganimals.net/2025/07/nicci-wright-co-founder-of-the-african-pangolin-working-group/). Fundador: Prof. Ray Jansen (TUT) (https://tut.ac.za/latest-news/615-faculty-of-science-celebrates-prof-jansens-feature-in-acclaimed-netflix-documentary). Sin verificar.",
+    "what_they_do": "Rescate, rehabilitación y suelta de pangolines de Temminck decomisados, apoyo a la policía contra el tráfico e investigación. Tienen mandato del DFFE sudafricano.",
+    "accepts_corporate_partners": "unknown"
+   },
+   {
+    "name": "Tikki Hywood Foundation",
+    "hq_country": "Zimbabue",
+    "hq_city": "Harare (sin verificar)",
+    "website": "no lo tengo (no encontrada en los resultados)",
+    "project_page": "https://pangolincrisisfund.org/?p=419 (ficha de beneficiario del Pangolin Crisis Fund)",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Lisa Hywood, fundadora (nombre conocido, pero no verificado en una fuente primaria en esta búsqueda: sin verificar)",
+    "what_they_do": "Rescate, rehabilitación y suelta de pangolines en Zimbabue y formación de fuerzas de seguridad. Recibió 150.170 USD a tres años del Pangolin Crisis Fund.",
+    "accepts_corporate_partners": "unknown: financiada por la Beit Trust (Reino Unido) (https://beittrust.org.uk/?p=1918)"
+   },
+   {
+    "name": "Born Free Foundation",
+    "hq_country": "Reino Unido (fundación benéfica registrada)",
+    "hq_city": "Horsham, West Sussex",
+    "website": "https://www.bornfree.org.uk",
+    "project_page": "https://www.bornfree.org.uk/animals/pangolins/temmincks-pangolin/",
+    "contact_email": "info@bornfree.org.uk (Charity Commission); partnerships: molly@bornfree.org.uk (Molly Rutherford, Partnerships Manager, Corporate Brochure 2024)",
+    "phone": "+44 1403 240170",
+    "director_or_president": "Karen Botha (Managing Director); Will Travers OBE (Co-Founder & Executive President) — Managing Director (no existe cargo 'CEO' publicado actualmente) (2024 (Informe anual YE marzo 2024; página Team vigente))",
+    "what_they_do": "ONG británica de conservación y bienestar animal. Trabaja con el pangolín de Temminck en Kenia y financia proyectos de campo.",
+    "accepts_corporate_partners": "unknown: es una ONG grande con partners corporativos conocidos (p. ej. Land Rover, que aparece en materiales de EWCP), sin verificar",
+    "director_source_url": "https://www.bornfree.org.uk/team/",
+    "accepts_corporate_partners_evidence_url": "https://bornfree.org.uk/corporate-partners",
+    "notes": "Frazer House 2nd Floor, 14 Carfax, Horsham RH12 1ER, UK. Charity nº 1070906. Brochure 2024 contempla donar % de ventas -> encaja con 5 €/camiseta. Adam M. Roberts (CEO 2014-15) ya no está (fallecido)."
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Brent Stirton",
+    "nationality": "Sudafricano",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.dailymaverick.co.za/article/2020-06-13-sa-photographer-brent-stirtons-chilling-series-pangolins-in-crisis",
+    "note": "Serie 'Pangolins in Crisis': ganador de categoría en Sony World Photography Awards 2020 y 2.º premio de World Press Photo 2020 (Nature Stories). Foto de pangolín rehabilitado cerca de Harare. Wildlife Photographer of the Year 2017 (por un rinoceronte). Embajador de Canon (https://www.canon-europe.com/pro/stories/promoting-wildlife-conservation-through-photography/)."
+   },
+   {
+    "name": "Lance van de Vyver",
+    "nationality": "no lo tengo (trabaja en Sudáfrica; perfil en Progear Nueva Zelanda)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.wildernessdestinations.com/journal/photography/conservation-through-photography-africa-in-focus-winner-lance-van-de-vyver",
+    "note": "Ganador absoluto de Africa in Focus 2020 con 'Scaly Protection' (pangolín de Temminck en Tswalu). Nominado al People's Choice de WPY 2026 con 'A Fragile Future' (cría de pangolín) y presente en la exposición de WPY 2016 (https://www.nhm.ac.uk/wpy/gallery/2016-playing-pangolin)."
+   },
+   {
+    "name": "Paul Hilton",
+    "nationality": "no lo tengo (británico-australiano según fuentes no verificadas)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://blog.scienceborealis.ca/the-pangolin-pit-speaking-out-for-the-pangolin",
+    "note": "'The Pangolin Pit', 1.er premio de fotoperiodismo en WPY 2016. Ojo: son pangolines asiáticos decomisados en Indonesia, no el de Temminck."
+   }
+  ],
+  "design_notes": "El animal más traficado del planeta, que se enrosca como una bola para defenderse. Una camiseta como 'armadura' para protegerlo: icono gráfico de escamas muy potente.",
+  "sources": [
+   "https://www.bornfree.org.uk/animals/pangolins/temmincks-pangolin/",
+   "https://pangolinsg.org/temmincks-pangolin/",
+   "https://pangolinsg.org/?p=2711",
+   "https://ewt.org.za/wp-content/uploads/2022/11/Temmincks-Ground-Pangolin-Smutsia-temminckii_VU.pdf",
+   "https://en.wikipedia.org/wiki/Ground_pangolin",
+   "https://talkinganimals.net/2025/07/nicci-wright-co-founder-of-the-african-pangolin-working-group/",
+   "https://pangolincrisisfund.org/?p=419",
+   "https://www.dailymaverick.co.za/article/2020-06-13-sa-photographer-brent-stirtons-chilling-series-pangolins-in-crisis",
+   "https://www.wildernessdestinations.com/journal/photography/conservation-through-photography-africa-in-focus-winner-lance-van-de-vyver"
+  ],
+  "verification_note": "Nota de verificación: WebFetch no pudo abrir ninguna web oficial (dominios bloqueados por la red de la sesión); todos los datos proceden de resultados de WebSearch que citan esas páginas. Revisar antes de publicar o contactar.",
+  "category": "África"
+ },
+ {
+  "id": "equus_grevyi",
+  "common_name_es": "Cebra de Grevy",
+  "scientific_name": "Equus grevyi",
+  "continent": "África",
+  "countries": "Kenia (más del 90% de la población) y Etiopía (unos cientos o menos de 150 según fuentes antiguas). Extinguida en Somalia, Yibuti y Eritrea (sin verificar).",
+  "region": "Norte de Kenia (Samburu, Laikipia, Marsabit, Isiolo y Meru albergan aprox. el 98% de la población keniana) y sur de Etiopía",
+  "iucn_status": "En Peligro (EN): evaluación IUCN 2016 (Rubenstein et al. 2016)",
+  "population_estimate": "Kenia: 2.350 individuos según el censo fotográfico Great Grevy's Rally de enero de 2024 (Grevy's Zebra Trust: https://www.grevyszebratrust.org/great-grevys-rally/, visto solo en el buscador: sin verificar). Global según IUCN 2016: unos 2.000 maduros (https://ielc.libguides.com/sdzg/factsheets/grevyszebra/population). Etiopía: sin censo reciente (unos 128-140 según datos antiguos de 2006, sin verificar).",
+  "trend": "Estable en Kenia desde 2016 (2.350 en 2016 y en 2024), tras un descenso de aprox. 15.000 en los años 70 (IUCN: estable, sin verificar)",
+  "taxonomy_note": "La mayor de las 3 especies de cebra (cebra común E. quagga, cebra de montaña E. zebra y cebra de Grevy E. grevyi) y el mayor équido salvaje. No tiene subespecies.",
+  "foundations": [
+   {
+    "name": "Grevy's Zebra Trust (GZT)",
+    "hq_country": "Kenia",
+    "hq_city": "Nairobi (Langata Link Complex, Langata South Road)",
+    "website": "https://www.grevyszebratrust.org",
+    "project_page": "https://www.grevyszebratrust.org/great-grevys-rally/",
+    "contact_email": "no lo tengo (la web usa formulario de contacto: https://www.grevyszebratrust.org/about-us/contact-us/)",
+    "phone": "+254 743 923 155 (página de contacto oficial, vista en el buscador)",
+    "director_or_president": "Peter Lalampaa, director ejecutivo desde mayo de 2024; Belinda Low Mackey, cofundadora y asesora estratégica. Fuentes: https://www.grevyszebratrust.org/our-team/ y https://www.grevyszebratrust.org/wp-content/uploads/2024/07/GZT-Report-Q2-2024-final-16th-July.pdf (sin verificar)",
+    "what_they_do": "Única organización dedicada en exclusiva a la cebra de Grevy: guerreros Samburu y Rendille como monitores, censo Great Grevy's Rally y gestión de pastos con comunidades.",
+    "accepts_corporate_partners": "yes (probable): la web tiene secciones 'Our Partners' y 'Corporate Supporters' según el buscador; es socio de WCN (https://wildnet.org/?p=3802). Sin verificar."
+   },
+   {
+    "name": "Marwell Wildlife",
+    "hq_country": "Reino Unido (fundación benéfica que gestiona Marwell Zoo)",
+    "hq_city": "Winchester, Hampshire",
+    "website": "https://www.marwell.org.uk",
+    "project_page": "https://www.marwell.org.uk/save-our-stripes/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Lleva unos 20 años con la cebra de Grevy en el norte de Kenia: equipo de campo, collares GPS y estrategia nacional. Es miembro fundador del Grevy's Zebra Technical Committee del KWS.",
+    "accepts_corporate_partners": "yes (probable): campaña 'Save Our Stripes' (2025) abierta a apoyos y subastas benéficas (https://www.marwell.org.uk/zoo-news/marwells-zany-zebras-raises-thousands-for-conservation). Sin verificar la política corporativa."
+   },
+   {
+    "name": "Kolmården Fundraising Foundation (Kolmården Zoo)",
+    "hq_country": "Suecia",
+    "hq_city": "Kolmården",
+    "website": "https://www.kolmarden.com",
+    "project_page": "https://www.kolmarden.com/conservational-project/zebra",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Fundación de un zoo sueco que financia desde 2011 el trabajo de Marwell con la cebra de Grevy en Kenia. Es la vía UE.",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Andrew Peacock",
+    "nationality": "Australiano (sin verificar)",
+    "website": "https://footloosefotography.com",
+    "instagram": "@footloosefotography",
+    "species_gallery_url": "https://layersmagazine.com/andrew-peacock-on-monday-motivation.html",
+    "note": "Encargo pro bono de 10 días (agosto de 2018) documentando el trabajo del Grevy's Zebra Trust en Westgate (Samburu)."
+   },
+   {
+    "name": "Mia Collis",
+    "nationality": "no lo tengo",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.grevyszebratrust.org/zebra-people/",
+    "note": "Autora de la exposición 'Zebra People' del GZT (Museo Nacional de Kenia, 2016), junto a los Grevy's Zebra Warriors."
+   },
+   {
+    "name": "David Yarrow",
+    "nationality": "Británico (escocés, Glasgow 1966)",
+    "website": "https://davidyarrow.photography",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://davidyarrow.photography/collections/parallel-lines",
+    "note": "Fotógrafo de bellas artes en blanco y negro, con cebras de Grevy en Lewa. Encaja muy bien con el diseño de camiseta, pero es caro y muy comercial."
+   }
+  ],
+  "design_notes": "Las rayas más finas y elegantes de todas las cebras: un estampado gráfico en blanco y negro ideal para camiseta. 'Quedan menos cebras de Grevy que habitantes en muchos pueblos de España.'",
+  "sources": [
+   "https://www.grevyszebratrust.org/great-grevys-rally/",
+   "https://www.grevyszebratrust.org/?p=27927",
+   "https://ielc.libguides.com/sdzg/factsheets/grevyszebra/population",
+   "https://www.grevyszebratrust.org/about-us/contact-us/",
+   "https://www.grevyszebratrust.org/our-team/",
+   "https://www.grevyszebratrust.org/wp-content/uploads/2024/07/GZT-Report-Q2-2024-final-16th-July.pdf",
+   "https://www.marwell.org.uk/save-our-stripes/",
+   "https://www.kolmarden.com/conservational-project/zebra",
+   "https://layersmagazine.com/andrew-peacock-on-monday-motivation.html"
+  ],
+  "verification_note": "Nota de verificación: WebFetch no pudo abrir ninguna web oficial (dominios bloqueados por la red de la sesión); todos los datos proceden de resultados de WebSearch que citan esas páginas. Revisar antes de publicar o contactar.",
+  "category": "África"
+ },
+ {
+  "id": "canis_simensis",
+  "common_name_es": "Lobo etíope",
+  "scientific_name": "Canis simensis",
+  "continent": "África",
+  "countries": "Etiopía (endémico)",
+  "region": "Tierras altas afroalpinas de Etiopía: 6 poblaciones aisladas, más de la mitad en las montañas Bale (meseta de Sanetti); también en Simien, Arsi y otras",
+  "iucn_status": "En Peligro (EN): última evaluación IUCN con datos de 2010-2011 (año exacto sin verificar). Fue CR en 1994 y volvió a EN en 2004.",
+  "population_estimate": "Unos 450 lobos (adultos y subadultos) en 99 manadas y 6 poblaciones, según la estimación de EWCP de 2024 (https://www.ethiopianwolf.org/the-wolves/taxonomy-distribution-status; WCN cita 454 adultos: https://wildnet.org/?p=389). La IUCN usa datos de 2010: N=366, de ellos 197 maduros (https://canids.org/species/view/PREKNL433181). Sin verificar en fuente primaria abierta.",
+  "trend": "Decreciente o fluctuante por brotes de rabia y moquillo (2024: brote que afectó a 4 manadas de Bale, según el informe anual EWCP 2024)",
+  "taxonomy_note": "Especie única. Se describieron 2 subespecies, C. s. simensis (norte del Rift) y C. s. citernii (sur del Rift, Bale), con validez discutida (sin verificar). Es el cánido más amenazado de África.",
+  "foundations": [
+   {
+    "name": "Ethiopian Wolf Conservation Programme (EWCP)",
+    "hq_country": "Etiopía / Reino Unido (vinculado a WildCRU, Universidad de Oxford)",
+    "hq_city": "Robe (Bale), Etiopía, y Oxford, Reino Unido",
+    "website": "https://www.ethiopianwolf.org",
+    "project_page": "https://www.ethiopianwolf.org/about-us/about-ewcp",
+    "contact_email": "claudio.sillero@zoo.ox.ac.uk (aparece en ethiopianwolf.org y en páginas de Oxford según el buscador; sin verificar)",
+    "phone": "01865 611113 (+44 1865 611113; Lady Margaret Hall, Oxford: https://www.lmh.ox.ac.uk/node/366, sin verificar)",
+    "director_or_president": "Prof. Claudio Sillero-Zubiri, fundador y director ejecutivo desde 1995. Fuente: https://www.ethiopianwolf.org/the-team/claudio-sillero (sin verificar). Nota: es argentino-británico y habla español.",
+    "what_they_do": "Desde 1995: vacunación de lobos y perros contra la rabia (incluida vacuna oral), monitores locales y educación en las tierras altas.",
+    "accepts_corporate_partners": "yes (probable): tiene partners corporativos como Land Rover (vía Born Free) y recauda con WCN y GlobalGiving (https://www.globalgiving.org/projects/help-the-ethiopian-wolf-the-worlds-rarest-canid/). Sin verificar."
+   },
+   {
+    "name": "Born Free Foundation",
+    "hq_country": "Reino Unido (fundación benéfica registrada)",
+    "hq_city": "Horsham, West Sussex",
+    "website": "https://www.bornfree.org.uk",
+    "project_page": "https://www.bornfree.org.uk/news/new-life-new-hope-for-ethiopian-wolves/",
+    "contact_email": "info@bornfree.org.uk (Charity Commission); partnerships: molly@bornfree.org.uk (Molly Rutherford, Partnerships Manager, Corporate Brochure 2024)",
+    "phone": "+44 1403 240170",
+    "director_or_president": "Karen Botha (Managing Director); Will Travers OBE (Co-Founder & Executive President) — Managing Director (no existe cargo 'CEO' publicado actualmente) (2024 (Informe anual YE marzo 2024; página Team vigente))",
+    "what_they_do": "Principal financiador de EWCP desde 1995 (casi 30 años). Es la vía más sencilla para un acuerdo desde Europa.",
+    "accepts_corporate_partners": "yes (probable): alianza Land Rover–Born Free visible en ethiopianwolf.org (https://www.ethiopianwolf.org/news/reflection-on-30-years-of-ewcp). Sin verificar.",
+    "director_source_url": "https://www.bornfree.org.uk/team/",
+    "accepts_corporate_partners_evidence_url": "https://bornfree.org.uk/corporate-partners",
+    "notes": "Frazer House 2nd Floor, 14 Carfax, Horsham RH12 1ER, UK. Charity nº 1070906. Brochure 2024 contempla donar % de ventas -> encaja con 5 €/camiseta. Adam M. Roberts (CEO 2014-15) ya no está (fallecido)."
+   },
+   {
+    "name": "Wildlife Conservation Research Unit (WildCRU), Universidad de Oxford",
+    "hq_country": "Reino Unido",
+    "hq_city": "Oxford",
+    "website": "https://www.wildcru.org",
+    "project_page": "https://www.wildcru.org/programmes/ethiopian-wolf-conservation-programme/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Unidad universitaria que alberga científicamente el EWCP.",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Will Burrard-Lucas",
+    "nationality": "Británico",
+    "website": "https://willbl.com",
+    "instagram": "no lo tengo (dato sin verificar eliminado)",
+    "species_gallery_url": "https://photos.willbl.com/explorer/bale-mountains-national-park/ethiopian-wolves",
+    "note": "Pasó más de un mes con EWCP en 2011 y publicó el libro 'The Ethiopian Wolf: Hope at the Edge of Extinction' (2013), con el 100% de los beneficios para EWCP. Tiene 163 fotos en su galería de Bale."
+   },
+   {
+    "name": "Axel Gomille",
+    "nationality": "Alemán",
+    "website": "https://www.axelgomille.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://store.anmm.gov.au/featured/a-rare-sight-wall-print-wildlife-photographer-of-the-year-59",
+    "note": "Zoólogo y fotógrafo. Su foto 'A Rare Sight' (lobo etíope en Bale) fue nominada al People's Choice de WPY 2023."
+   },
+   {
+    "name": "Amar Guillen (Guillen Photo)",
+    "nationality": "no lo tengo",
+    "website": "https://www.guillenphoto.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.guillenphoto.com/en/why-photographing-artistically-the-ethiopian-wolf",
+    "note": "Serie artística en blanco y negro de lobos etíopes. Dona el 50% de la venta de esas láminas a EWCP y organiza talleres en Etiopía. Nacionalidad no confirmada (posible vínculo con España o Francia, sin verificar)."
+   }
+  ],
+  "design_notes": "'El lobo más raro del mundo': quedan unos 450, menos que lobos ibéricos en una sola provincia. El vínculo con nuestro lobo ibérico y su director de habla hispana dan un relato muy cercano para España.",
+  "sources": [
+   "https://www.ethiopianwolf.org/the-wolves/taxonomy-distribution-status",
+   "https://canids.org/species/view/PREKNL433181",
+   "https://wildnet.org/?p=389",
+   "https://ethiopianwolf.org/resources/EWCP_Annual%20Report_2024.pdf",
+   "https://www.ethiopianwolf.org/the-team/claudio-sillero",
+   "https://www.lmh.ox.ac.uk/node/366",
+   "https://www.ethiopianwolf.org/news/reflection-on-30-years-of-ewcp",
+   "https://www.wildcru.org/programmes/ethiopian-wolf-conservation-programme/",
+   "https://photos.willbl.com/explorer/bale-mountains-national-park/ethiopian-wolves",
+   "https://www.discoverwildlife.com/people/axel-gomille"
+  ],
+  "verification_note": "Nota de verificación: WebFetch no pudo abrir ninguna web oficial (dominios bloqueados por la red de la sesión); todos los datos proceden de resultados de WebSearch que citan esas páginas. Revisar antes de publicar o contactar.",
+  "category": "África"
+ },
+ {
+  "id": "lemur_catta",
+  "common_name_es": "Lémur de cola anillada (maki catta)",
+  "scientific_name": "Lemur catta",
+  "continent": "África (Madagascar)",
+  "countries": "Madagascar (endémico)",
+  "region": "Sur y suroeste de Madagascar: bosque espinoso, bosque de galería y macizos rocosos (Tsimanampetsotsa, Isalo, Berenty, Anja)",
+  "iucn_status": "En Peligro (EN): evaluación IUCN de 2018, publicada en 2020 (LaFleur & Gould), criterio A4cd. Pasó de NT (2008) a EN (2012).",
+  "population_estimate": "Unos 2.000-2.400 en estado salvaje, según dos estudios independientes de 2016-2017 (LaFleur et al. y Gould & Sauther), citados por Lemur Conservation Network (https://www.lemurconservationnetwork.org/two-new-studies-indicate-that-ring-tailed-lemurs-are-threatened-with-extinction-in-the-wild/). San Diego Zoo: mínimo unos 2.200 contados en 32 sitios y total desconocido (https://ielc.libguides.com/sdzg/factsheets/ringtailedlemur/population). Sin verificar.",
+  "trend": "Decreciente (se estima un descenso de hasta el 95% desde 2000; cifra discutida)",
+  "taxonomy_note": "Única especie del género Lemur, sin subespecies. Hay más de 100 especies de lémures, todas endémicas de Madagascar.",
+  "foundations": [
+   {
+    "name": "Lemur Love",
+    "hq_country": "EE. UU. (501(c)(3)) / Madagascar",
+    "hq_city": "San Diego, CA; trabajo de campo en Tsimanampetsotsa",
+    "website": "https://www.lemurlove.org (sin verificar)",
+    "project_page": "https://lemurconservationnetwork.org/organization/lemur-love/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Dra. Marni LaFleur, fundadora y directora; Dra. Seheno Cordaunt-Andriantsaralaza, directora en Madagascar. Fuente: https://populationconnection.org/learn/global-partners/lemur-love/ (sin verificar)",
+    "what_they_do": "La ONG más centrada en el lémur de cola anillada: investigación en Tsimanampetsotsa, mapa genético ('PoopScience'), centro de rescate del tráfico de mascotas y liderazgo de mujeres malgaches.",
+    "accepts_corporate_partners": "unknown: recauda vía GoFundMe Charity y Population Connection (https://gofundme.com/charity/lemur-love-inc)"
+   },
+   {
+    "name": "Madagascar Fauna and Flora Group (MFG)",
+    "hq_country": "Madagascar (consorcio internacional de zoos)",
+    "hq_city": "Toamasina (Parc Ivoloina)",
+    "website": "https://www.madagascarfaunaflora.org",
+    "project_page": "https://www.madagascarfaunaflora.org/member-institutions.html",
+    "contact_email": "no lo tengo",
+    "phone": "(+261) 034 57 591 66 (oficina de Toamasina, web oficial vista en el buscador; sin verificar)",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Consorcio de zoos que gestiona el Parc Ivoloina y programas de conservación en Madagascar. Zoo Zúrich es miembro gestor y es la vía europea (https://www.lemurconservationnetwork.org/?p=1410).",
+    "accepts_corporate_partners": "unknown"
+   },
+   {
+    "name": "Lemur Conservation Network (LCN)",
+    "hq_country": "EE. UU. (red de ONG)",
+    "hq_city": "no lo tengo",
+    "website": "https://www.lemurconservationnetwork.org",
+    "project_page": "https://www.lemurconservationnetwork.org/two-new-studies-indicate-that-ring-tailed-lemurs-are-threatened-with-extinction-in-the-wild/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Red que agrupa ONG de lémures. Sirve para encontrar socios alternativos como Reniala (centro de rescate) o el Duke Lemur Center.",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Rhett A. Butler",
+    "nationality": "Estadounidense (fundador de Mongabay; sin verificar)",
+    "website": "https://photos.wildmadagascar.org",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://photos.wildmadagascar.org/images/madagascar_lemurs_0017.shtml",
+    "note": "Amplio archivo de lémures de cola anillada (Berenty y otros). Todas las imágenes son suyas y requieren permiso."
+   },
+   {
+    "name": "Andrey Giljov",
+    "nationality": "Ruso (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.citizen.co.za/multimedia/a-dancing-gorilla-and-cackling-lions-comedy-wildlife-photo-awards-2025-finalists-revealed/",
+    "note": "Finalista de los Comedy Wildlife Photo Awards 2025 con lémures de cola anillada en Anja ('Welcome to Zen Lemur Yoga Course!'). Su tono humorístico encaja con una camiseta."
+   },
+   {
+    "name": "Art Wolfe",
+    "nationality": "Estadounidense",
+    "website": "https://artwolfe.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://artwolfe.com/tag/madagascar/",
+    "note": "Fotógrafo de naturaleza de renombre internacional, con trabajo sobre lémures en Madagascar. No he encontrado un fotógrafo español verificado con trabajo sobre esta especie."
+   }
+  ],
+  "design_notes": "El 'rey Julien' de Madagascar: icónico gracias al cine y con una cola anillada blanca y negra muy gráfica. Quedan unos 2.000 en libertad, menos que en los zoos del mundo, un contraste que impacta.",
+  "sources": [
+   "https://www.lemurconservationnetwork.org/two-new-studies-indicate-that-ring-tailed-lemurs-are-threatened-with-extinction-in-the-wild/",
+   "https://ielc.libguides.com/sdzg/factsheets/ringtailedlemur/population",
+   "https://ielc.libguides.com/sdzg/factsheets/ringtailedlemur/summary",
+   "https://populationconnection.org/learn/global-partners/lemur-love/",
+   "https://lemurconservationnetwork.org/organization/lemur-love/",
+   "https://www.madagascarfaunaflora.org/member-institutions.html",
+   "https://photos.wildmadagascar.org/images/madagascar_lemurs_0017.shtml"
+  ],
+  "verification_note": "Nota de verificación: WebFetch no pudo abrir ninguna web oficial (dominios bloqueados por la red de la sesión); todos los datos proceden de resultados de WebSearch que citan esas páginas. Revisar antes de publicar o contactar.",
+  "category": "África"
+ },
+ {
+  "id": "spheniscus_demersus",
+  "common_name_es": "Pingüino africano (pingüino del Cabo)",
+  "scientific_name": "Spheniscus demersus",
+  "continent": "África",
+  "countries": "Sudáfrica y Namibia",
+  "region": "Costa e islas del suroeste de África (Boulders/Simon's Town, Stony Point, isla Robben, bahía de Algoa, islas de Namibia)",
+  "iucn_status": "En Peligro Crítico (CR): reclasificado por la IUCN en 2024 (antes EN)",
+  "population_estimate": "Unas 9.900 parejas reproductoras en 2023 (aprox. 8.750 en Sudáfrica y 1.200 en Namibia), la primera vez por debajo de 10.000 (Sherley et al. 2024, citado por BirdLife SA: https://www.birdlife.org.za/?p=322554 y https://allafrica.com/stories/202407150355.html). CapeNature (2025): menos de 8.700 parejas en Sudáfrica y un descenso aprox. del 8% anual (https://www.ewn.co.za/2025/10/19/african-penguin-population-declines-by-around-8-each-year-capenature). Dato local: la colonia de Boulders pasó de 698 parejas (2025) a 790 (junio de 2026) (https://independentonsaturday.co.za/weekend-argus/2026-06-26-african-penguin-population-shows-signs-of-recovery-at-boulders-beach/).",
+  "trend": "Decreciente: −77,8% en 30 años (de unas 44.300 parejas en 1993 a unas 9.900 en 2023). Previsión de extinción funcional hacia 2035 si sigue el ritmo (sin verificar).",
+  "taxonomy_note": "Una de las 4 especies del género Spheniscus (junto a los pingüinos de Humboldt, Magallanes y Galápagos), sin subespecies. Es el único pingüino de África.",
+  "foundations": [
+   {
+    "name": "SANCCOB (Southern African Foundation for the Conservation of Coastal Birds)",
+    "hq_country": "Sudáfrica",
+    "hq_city": "Ciudad del Cabo (Table View); centros también en Port Elizabeth/Gqeberha",
+    "website": "https://www.sanccob.co.za",
+    "project_page": "https://sanccob.co.za/seabird-conservation/",
+    "contact_email": "reception@sanccob.co.za (en la web oficial según el buscador; sin verificar)",
+    "phone": "+27 21 557 6155 (web oficial según el buscador; sin verificar)",
+    "director_or_president": "Natalie Maskell, CEO (sucedió a Stephen van der Spuy; ya era CEO en julio de 2025). Presidenta del consejo: Inge Cilliers (desde el 11/11/2022). Fuentes: https://sanccob.co.za/news/sanccob-appoints-new-ceo/ y https://sanccob.co.za/about-us/ (sin verificar)",
+    "what_they_do": "Rescate, rehabilitación y cría a mano de pingüinos (más de 7.000 pollos liberados desde 2006), investigación y creación de nuevas colonias (De Hoop).",
+    "accepts_corporate_partners": "yes: la página 'Get Involved' ofrece donaciones corporativas y campañas de marketing con causa (https://sanccob.co.za/get-involved/), además de adopciones de pingüinos (https://adopt.sanccob.co.za/get-involved/adopt-a-penguin/)"
+   },
+   {
+    "name": "BirdLife South Africa, Seabird Conservation Programme",
+    "hq_country": "Sudáfrica (socio de BirdLife International, con sede en Cambridge, Reino Unido)",
+    "hq_city": "Johannesburgo (Isdell House); equipo de aves marinas en Ciudad del Cabo",
+    "website": "https://www.birdlife.org.za",
+    "project_page": "https://www.birdlife.org.za/what-we-do/seabird-conservation/meet-the-team/",
+    "contact_email": "seabird@birdlife.org.za (en la página 'Meet the Team' según el buscador; sin verificar)",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo (CEO no verificado). Responsable de pingüinos: Dra. Christina Hagen, Pamela Isdell Fellow of Penguin Conservation (https://www.birdlife.org.za/blsa-team/christina-hagen/; sin verificar)",
+    "what_they_do": "Nuevas colonias (De Hoop), incidencia política para cerrar zonas de pesca alrededor de las colonias y colaboración en la evaluación de 2024.",
+    "accepts_corporate_partners": "unknown"
+   },
+   {
+    "name": "BirdLife International (vía europea)",
+    "hq_country": "Reino Unido",
+    "hq_city": "Cambridge",
+    "website": "https://www.birdlife.org",
+    "project_page": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Red global de la que forma parte BirdLife South Africa. SEO/BirdLife es su socio en España (Madrid), una opción para canalizar la donación localmente (sin verificar si financia el proyecto del pingüino).",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Thomas P. Peschak",
+    "nationality": "Alemán-sudafricano",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.worldpressphoto.org/collection/photo/2018/nature-singles/thomas-p-peschak",
+    "note": "Fotógrafo de National Geographic y biólogo marino. 2.º premio de World Press Photo 2018 (Naturaleza) con la colonia de pingüinos africanos de la isla Halifax (Namibia), 1890 frente a 2017. También 'African penguins Namibia' en NatGeo (https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/african-penguins-namibia-sea)."
+   },
+   {
+    "name": "Dirk Schmidt",
+    "nationality": "no lo tengo (residente en Simon's Town, Sudáfrica)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.nhbs.com/the-penguins-of-boulders-book",
+    "note": "Fotógrafo y naturalista, autor del libro 'The Penguins of Boulders'. Contacto local cercano a la colonia."
+   },
+   {
+    "name": "Louise Pask",
+    "nationality": "no lo tengo (probablemente británica, sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.rsb.org.uk/photography-competition-winners-2023.html",
+    "note": "Young Photographer of the Year 2023 de la Royal Society of Biology con 'Boulders Beach Penguins'. Perfil joven y europeo."
+   }
+  ],
+  "design_notes": "El único pingüino de África, que vive en playas de arena como Boulders, tan cercanas a la experiencia mediterránea. En peligro crítico desde 2024: 'podría desaparecer antes que tu camiseta'.",
+  "sources": [
+   "https://www.birdlife.org.za/?p=322554",
+   "https://allafrica.com/stories/202407150355.html",
+   "https://www.dailymaverick.co.za/article/2024-07-15-critically-endangered-latest-science-confirms-plummeting-african-penguin-population",
+   "https://www.ewn.co.za/2025/10/19/african-penguin-population-declines-by-around-8-each-year-capenature",
+   "https://independentonsaturday.co.za/weekend-argus/2026-06-26-african-penguin-population-shows-signs-of-recovery-at-boulders-beach/",
+   "https://sanccob.co.za/news/sanccob-appoints-new-ceo/",
+   "https://sanccob.co.za/about-us/",
+   "https://sanccob.co.za/get-involved/",
+   "https://www.birdlife.org.za/what-we-do/seabird-conservation/meet-the-team/",
+   "https://www.worldpressphoto.org/collection/photo/2018/nature-singles/thomas-p-peschak"
+  ],
+  "verification_note": "Nota de verificación: WebFetch no pudo abrir ninguna web oficial (dominios bloqueados por la red de la sesión); todos los datos proceden de resultados de WebSearch que citan esas páginas. Revisar antes de publicar o contactar.",
+  "category": "África"
+ }
+]

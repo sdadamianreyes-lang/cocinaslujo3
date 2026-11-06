@@ -1,0 +1,597 @@
+[
+ {
+  "common_name_es": "Nutria europea",
+  "scientific_name": "Lutra lutra",
+  "category": "Europa",
+  "continent": "Europa (también Asia y norte de África)",
+  "countries": [
+   "España",
+   "Portugal",
+   "Francia",
+   "Reino Unido",
+   "Irlanda",
+   "Alemania",
+   "resto de Europa",
+   "Asia",
+   "Marruecos/Argelia/Túnez"
+  ],
+  "region": "En España: amplia distribución en ríos y costas (Galicia, Cantábrico, Pirineo, oeste peninsular, Andalucía); recolonizando el Levante (Comunidad Valenciana, Murcia, río Segura).",
+  "iucn_status": "Global: Casi Amenazada (NT), 2021 (sin verificar año; la UICN/OSG la mantiene en NT desde 2004). España: listada como 'Vulnerable' en la ficha del MITECO (antigua; sin verificar estado actual en el Catálogo).",
+  "population_estimate": "no lo tengo",
+  "trend": "En recuperación en Europa occidental desde los años 80-90 (prohibición de pesticidas/PCB, mejora de calidad del agua); en España expansión lenta, especialmente en Pirineo y Andalucía. Sin recuperación en el norte de África.",
+  "taxonomy_note": "Especie politípica; la población europea corresponde a la subespecie nominal L. l. lutra. No confundir con la nutria marina ni con el coipú (Myocastor coypus), a veces llamado 'nutria' en Latinoamérica.",
+  "foundations": [
+   {
+    "name": "Fundación LIMNE",
+    "hq_country": "España",
+    "hq_city": "Valencia (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Impulsó junto con la Generalitat Valenciana y la Fundación Aguas de Valencia el 'Proyecto Nutria' (2017) para la recuperación de la nutria en la Comunidad Valenciana, con fuerte componente social.",
+    "accepts_corporate_partners": "unknown"
+   },
+   {
+    "name": "ANSE – Asociación de Naturalistas del Sureste",
+    "hq_country": "España",
+    "hq_city": "Murcia (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "ONG del sureste que hace seguimiento de la nutria en la cuenca del Segura (detectó rastros en Orihuela en 2013).",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Richard Shucksmith",
+    "nationality": "Reino Unido (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Premiado en los British Wildlife Photography Awards con 'Otter and the Octopus' (nutria europea en las Shetland)."
+   }
+  ],
+  "design_notes": "Mamífero carismático y juguetón, silueta reconocible en el agua; símbolo de ríos limpios, muy vendible a público familiar.",
+  "sources": [
+   "https://www.miteco.gob.es/es/biodiversidad/temas/conservacion-de-especies-amenazadas/090471228015f2bc_tcm30-195575.pdf",
+   "https://www.otterspecialistgroup.org/osg-newsite/wp-content/uploads/2018/03/7.-Lutra-lutra-Red-List-2020.pdf",
+   "https://valenciaplaza.com/generalitat-la-fundacion-aguas-de-valencia-y-fundacion-limne-lanzan-el-proyecto-nutria",
+   "https://www.iagua.es/noticias/espana/global-omnium/17/07/25/proyecto-nutria-busca-recuperacion-nutria-valencia",
+   "https://www.uv.es/zoobot/huellas/pdf/lutra_lutra.pdf",
+   "https://www.coastmagazine.co.uk/content/caught-camera-our-wild-coast"
+  ]
+ },
+ {
+  "common_name_es": "Gato montés europeo",
+  "scientific_name": "Felis silvestris",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": [
+   "España",
+   "Portugal",
+   "Francia",
+   "Escocia (Reino Unido)",
+   "Alemania",
+   "Italia",
+   "Europa central y oriental"
+  ],
+  "region": "En España: toda la península, más abundante en el norte (áreas ganaderas cantábricas) y en Sierra Morena; fragmentado.",
+  "iucn_status": "Global: Preocupación Menor (LC), 2022 (sin verificar en esta sesión). España: 'Casi amenazado' (Libro Rojo, sin verificar); la SECEM (manifiesto ene-2026) describe estado 'Desfavorable–Malo' en España y Portugal. Escocia: población considerada en peligro crítico.",
+  "population_estimate": "España: no hay censo fiable (estimaciones históricas divulgativas de ~30.000, sin verificar). Escocia: 100–300 en estado silvestre según prensa (sin verificar); 46 ejemplares liberados por Saving Wildcats hasta 2024-25.",
+  "trend": "Decreciente/desfavorable en la península ibérica (SECEM 2026). Amenazas: hibridación con gato doméstico (casi un cuarto de poblaciones ibéricas híbridas según un estudio citado en prensa, sin verificar), enfermedades, atropellos, pérdida de hábitat.",
+  "taxonomy_note": "Felis silvestris sensu stricto = gato montés europeo; el gato montés africano (F. lybica) se separó como especie (revisión CatSG 2017). El gato doméstico deriva de F. lybica.",
+  "foundations": [
+   {
+    "name": "SECEM – Sociedad Española para la Conservación y Estudio de los Mamíferos",
+    "hq_country": "España",
+    "hq_city": "no lo tengo",
+    "website": "https://secem.es",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Sociedad científica que publicó en enero de 2026 un manifiesto sobre la preocupante situación del gato montés y pide una estrategia ibérica conjunta.",
+    "accepts_corporate_partners": "unknown"
+   },
+   {
+    "name": "Royal Zoological Society of Scotland (RZSS) – proyecto Saving Wildcats",
+    "hq_country": "Reino Unido",
+    "hq_city": "Edimburgo (sin verificar)",
+    "website": "https://rzss.org.uk",
+    "project_page_url": "https://rzss.org.uk/conservation/conservation-projects/european-wildcat",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Lidera el programa LIFE Saving Wildcats de cría y liberación en el P.N. Cairngorms, con socios como NatureScot, Nordens Ark y la Junta de Andalucía.",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Mirada intensa y cola anillada con punta negra: un 'tigre' europeo poco conocido que despierta curiosidad.",
+  "sources": [
+   "https://secem.es/sites/default/files/2026-01/MANIFIESTO%20SOBRE%20LA%20PREOCUPANTE%20SITUACION%20DEL%20GATO%20MONTES.pdf",
+   "https://www.ebd.csic.es/sites/default/files/documentos/2024-09/20240916_gatomontes.pdf",
+   "https://www.miteco.gob.es/es/biodiversidad/temas/conservacion-de-especies-amenazadas/GATO_MONTES_tcm30-195187.pdf",
+   "https://rzss.org.uk/conservation/conservation-projects/european-wildcat",
+   "https://nature.scot/historic-milestone-reached-critically-endangered-wildcats-released-cairngorms-national-park",
+   "https://biaza.org.uk/news/detail/18-more-wildcats-released-into-the-cairngorms-as-new-population-takes-hold"
+  ]
+ },
+ {
+  "common_name_es": "Lince boreal (lince euroasiático)",
+  "scientific_name": "Lynx lynx",
+  "category": "Europa",
+  "continent": "Europa y Asia",
+  "countries": [
+   "Noruega",
+   "Suecia",
+   "Finlandia",
+   "Países bálticos",
+   "Polonia",
+   "Eslovaquia",
+   "Rumanía",
+   "Suiza",
+   "Francia",
+   "Alemania",
+   "Eslovenia",
+   "Albania/Macedonia del Norte (Balcanes)",
+   "Rusia y Asia"
+  ],
+  "region": "Poblaciones europeas: Escandinavia, Carpatos (la mayor, 2.100–2.400), Báltico, Jura y Alpes (reintroducidas), Bohemia-Baviera, Dináricos y Balcanes. Extinto en la península ibérica.",
+  "iucn_status": "Global: Preocupación Menor (LC) (año sin verificar). La población balcánica está considerada en peligro crítico (Comisión Europea); la del Jura francés en alto riesgo.",
+  "population_estimate": "Europa sin Rusia: ~9.000–10.000 ejemplares (UICN citada por Anadolu Agency, 2025; sin verificar en fuente primaria).",
+  "trend": "Estable a nivel europeo; poblaciones reintroducidas pequeñas y aisladas (Jura francés ≤150 adultos, Alpes eslovenos en riesgo) con declive o baja diversidad genética.",
+  "taxonomy_note": "Varias subespecies europeas reconocidas (p.ej. L. l. carpathicus, L. l. balcanicus). Distinto del lince ibérico (Lynx pardinus).",
+  "foundations": [
+   {
+    "name": "KORA – Fundación para la ecología y gestión de carnívoros",
+    "hq_country": "Suiza",
+    "hq_city": "no lo tengo",
+    "website": "https://www.kora.ch",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Fundación suiza que monitoriza el lince y otros carnívoros por mandato de la Oficina Federal de Medio Ambiente; socia del Balkan Lynx Recovery Programme.",
+    "accepts_corporate_partners": "unknown"
+   },
+   {
+    "name": "EuroNatur Stiftung",
+    "hq_country": "Alemania",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Fundación alemana socia del Balkan Lynx Recovery Programme (con MES en Macedonia del Norte y PPNEA en Albania).",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Laurent Geslin",
+    "nationality": "Francia (residente en el Jura suizo)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Autor de los libros 'Lynx: regards croisés' (2014) y 'Lynx' (La Salamandre, 2021) y director del documental 'Lynx' (2021); premiado en Wildlife Photographer of the Year."
+   }
+  ],
+  "design_notes": "Pinceles en las orejas y barbas faciales: retrato potentísimo; conecta con la historia de éxito del lince ibérico de la colección.",
+  "sources": [
+   "https://environment.ec.europa.eu/topics/nature-and-biodiversity/habitats-directive/large-carnivores/large-carnivore-populations-across-europe_en",
+   "https://www.aa.com.tr/en/environment/slovenian-alps-eurasian-lynx-population-faces-serious-decline-risk-amid-conservation-efforts/3781742",
+   "https://www.popsci.com/environment/frances-eurasian-lynx/",
+   "https://www.kora.ch/en/kora",
+   "https://www.kora.ch/en/kora/partners",
+   "https://medium.com/biographic/return-of-the-ghost-cat-75acbff8cf79",
+   "https://www.salamandre.org/media/sites/5/2025/09/CP_LYNX_14-06-21_FR.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Glotón",
+  "scientific_name": "Gulo gulo",
+  "category": "Europa",
+  "continent": "Europa, Asia y Norteamérica",
+  "countries": [
+   "Noruega",
+   "Suecia",
+   "Finlandia",
+   "Rusia",
+   "Canadá",
+   "EE. UU."
+  ],
+  "region": "Europa: población escandinava (Noruega-Suecia, con extensión al norte de Finlandia) y población carelia (Finlandia oriental); expansión hacia el sur en Suecia y Finlandia.",
+  "iucn_status": "Global: Preocupación Menor (LC) (año sin verificar). Europa (evaluación regional): Vulnerable (VU). Finlandia: 'en peligro' en la lista nacional.",
+  "population_estimate": "Europa: 1.000–1.250 ejemplares (600–800 en la UE), periodo 2012–2016 (LCIE). Escandinavia 800–1.000; Carelia (Finlandia) 200–250. Otras fuentes: ~450 en Finlandia (sin verificar).",
+  "trend": "Escandinavia: fluctuante y recientemente en descenso; Carelia: aumento lento (LCIE). Las poblaciones nórdicas tienen la menor diversidad genética de Eurasia (Univ. de Oulu, 2024).",
+  "taxonomy_note": "Especie única holártica; a veces se separan G. g. gulo (Eurasia) y G. g. luscus (Norteamérica).",
+  "foundations": [
+   {
+    "name": "WWF Finlandia",
+    "hq_country": "Finlandia",
+    "hq_city": "Helsinki (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Ha intervenido en la política de gestión del glotón en Finlandia (oposición a la caza hasta que la población crezca claramente; apoyo a compensaciones por territorio).",
+    "accepts_corporate_partners": "unknown"
+   },
+   {
+    "name": "LCIE – Large Carnivore Initiative for Europe (grupo de especialistas de la UICN)",
+    "hq_country": "no lo tengo",
+    "hq_city": "no lo tengo",
+    "website": "https://www.lcie.org",
+    "project_page_url": "https://www.lcie.org/Large-carnivores/Wolverine",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Red científica que evalúa el estado del glotón y otros grandes carnívoros en Europa; más fuente de datos que receptor de donaciones.",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Lassi Rautiainen",
+    "nationality": "Finlandia",
+    "website": "https://wildtaiga.fi (Wildlife Safaris Finland, sin verificar como web personal)",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de grandes carnívoros de la taiga finlandesa (Kuhmo); su empresa ofrece hides para glotón; autor del libro 'Suurpetomme' (oso, lobo, glotón y lince). Premio 'Årets naturfoto' 2007."
+   }
+  ],
+  "design_notes": "Animal mítico y desconocido del norte, aire 'feroz' y pelaje con bandas claras: diseño original y con historia.",
+  "sources": [
+   "https://www.lcie.org/Large-carnivores/Wolverine",
+   "https://www.oulu.fi/en/news/status-nordic-wolverines-worst-comprehensive-eurasian-wide-study-shows",
+   "https://www.largecarnivores.fi/conservation-and-hunting/population-management-plans-2/management-plan-for-the-finnish-wolverine-population.html",
+   "https://yle.fi/a/3-7090689",
+   "https://www.naturvardsverket.se/en/international/research/wildlife/research-on-large-carnivores/wolverines-spreading-south--management-needs-to-follow/",
+   "https://weareguides.com/finland/lassi-rautiainen",
+   "https://scanmagazine.co.uk/wildlife-safaris-finland/"
+  ]
+ },
+ {
+  "common_name_es": "Sarrio / rebeco pirenaico",
+  "scientific_name": "Rupicapra pyrenaica",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": [
+   "España",
+   "Francia",
+   "Andorra",
+   "Italia"
+  ],
+  "region": "Subespecies: R. p. pyrenaica (Pirineo: Aragón, Cataluña, Navarra, Francia, Andorra), R. p. parva (Cordillera Cantábrica, 'rebeco') y R. p. ornata (Apeninos, Italia).",
+  "iucn_status": "Global: Preocupación Menor (LC), 2022 (según Wikipedia citando a la UICN; sin verificar en la Lista Roja). R. p. ornata (Apeninos) listada históricamente como amenazada; estado actual sin verificar.",
+  "population_estimate": "Especie: ~50.000 individuos maduros (2022, sin verificar en fuente primaria). Rebeco cantábrico: ~17.000 (2007–2008). No encontré censo reciente del sarrio pirenaico.",
+  "trend": "En aumento a nivel de especie, pero con brotes de Enfermedad de la Frontera (pestivirus BDV) desde 2001 que causaron descensos del 40–85% en zonas del Pirineo catalán; la infección es endémica.",
+  "taxonomy_note": "Separado del rebeco alpino (Rupicapra rupicapra). En el Pirineo se llama 'sarrio' (isard en catalán); en la Cantábrica 'rebeco'.",
+  "foundations": [
+   {
+    "name": "SECEM – Sociedad Española para la Conservación y Estudio de los Mamíferos",
+    "hq_country": "España",
+    "hq_city": "no lo tengo",
+    "website": "https://secem.es",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Publica la ficha de referencia de Rupicapra pyrenaica en el Atlas de mamíferos; sociedad científica, no fundación específica de la especie.",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Silueta de cuernos en gancho sobre crestas del Pirineo: muy 'montaña española', ideal para público montañero y outdoor.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pyrenean_chamois",
+   "https://en.wikipedia.org/wiki/Cantabrian_chamois",
+   "https://secem.es/sites/default/files/2023-04/77_78. Rupicapra pyrenaica.pdf",
+   "https://ddd.uab.cat/pub/uabdivulga/uabdivulga_a2008m5/uabdivulga_a2008m5a6iSPA.pdf",
+   "https://zoobarcelona.cat/sites/default/files/2019-07/Memoria_ISARD%20Pirineu_PRIC_Oscar%20Cabezon.pdf",
+   "https://eunis.eea.europa.eu/species/1552"
+  ]
+ },
+ {
+  "common_name_es": "Foca gris",
+  "scientific_name": "Halichoerus grypus",
+  "category": "Europa",
+  "continent": "Europa y Norteamérica (Atlántico Norte)",
+  "countries": [
+   "Reino Unido",
+   "Irlanda",
+   "Noruega",
+   "Islandia",
+   "Francia (Bretaña)",
+   "Países Bajos",
+   "Alemania",
+   "Dinamarca",
+   "Suecia",
+   "Finlandia",
+   "Estonia",
+   "Polonia",
+   "Canadá",
+   "EE. UU."
+  ],
+  "region": "Atlántico nororiental (Reino Unido alberga ~35% de la población mundial y ~82% de la europea), mar Báltico (población diferenciada) y Atlántico noroccidental. Divagantes ocasionales en el Cantábrico.",
+  "iucn_status": "Global: Preocupación Menor (LC), 2016. Báltico: LC en la lista roja de HELCOM; 'En peligro' en la lista nacional de Polonia.",
+  "population_estimate": "Mundial: ~632.000 (2016, UICN vía Wikipedia, sin verificar). Reino Unido: ~157.300 (2020) y 67.850 crías (2019), SCOS 2021. Báltico: cifra no verificada.",
+  "trend": "En aumento a escala global y en el Reino Unido.",
+  "taxonomy_note": "Género monotípico; a veces se distinguen H. g. grypus (Atlántico) y H. g. macrorhynchus (Báltico).",
+  "foundations": [
+   {
+    "name": "Cornwall Seal Group Research Trust (Seal Research Trust)",
+    "hq_country": "Reino Unido",
+    "hq_city": "Cornualles (sin verificar ciudad)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Sue Sayer (directora, según Cornish Times; sin verificar fecha)",
+    "what_they_do": "Charity registrada (n.º 1162936) que investiga la foca gris en Cornualles mediante foto-identificación desde 2000, con voluntarios, educación y programa de adopción de focas salvajes.",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Cara expresiva de 'perro marino' y crías blancas muy tiernas: alta empatía, encaja con mensaje de mares limpios.",
+  "sources": [
+   "https://www.smru.st-andrews.ac.uk/files/2016/08/SCOS-2006.pdf",
+   "https://synergy.st-andrews.ac.uk/smru/files/2022/08/SCOS-2021.pdf",
+   "https://en.wikipedia.org/wiki/Grey_seal",
+   "https://metadata.helcom.fi/geonetwork/srv/api/records/4b31fe1a-e8c6-4003-9b72-c7df4d17a3e0",
+   "https://morskiesiedliska.gios.gov.pl/images/1364_Grey-seal_OST.pdf",
+   "https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/5055987",
+   "https://www.cornish-times.co.uk/news/lottery-grant-will-help-protect-grey-seals-134198"
+  ]
+ },
+ {
+  "common_name_es": "Delfín mular",
+  "scientific_name": "Tursiops truncatus",
+  "category": "Europa",
+  "continent": "Cosmopolita (foco: Mediterráneo español)",
+  "countries": [
+   "España",
+   "Francia",
+   "Italia",
+   "Croacia",
+   "Grecia",
+   "resto del Mediterráneo",
+   "océanos templados y tropicales"
+  ],
+  "region": "Mediterráneo español: Baleares (una de las poblaciones más numerosas del Mediterráneo español), Alborán, Murcia, Comunidad Valenciana y Cataluña (fuerte regresión en Cataluña y Levante). También Atlántico (Galicia, Golfo de Cádiz, Canarias).",
+  "iucn_status": "Global: Preocupación Menor (LC) (año sin verificar). Subpoblación mediterránea: Vulnerable (VU) (año sin verificar). España: 'Vulnerable' en el Mediterráneo según ficha del MITECO; Anexo II Directiva Hábitats.",
+  "population_estimate": "No lo tengo para el Mediterráneo español (el MITECO indica que no hay estimas globales en aguas españolas).",
+  "trend": "Decreciente en el Mediterráneo (>30% en los últimos 60 años según ficha UICN 2014); subpoblación fragmentada en unidades discretas.",
+  "taxonomy_note": "La población mediterránea es genéticamente diferenciada de la atlántica; existen ecotipos costero y pelágico.",
+  "foundations": [
+   {
+    "name": "Asociación Tursiops",
+    "hq_country": "España",
+    "hq_city": "Ibiza (Illes Balears)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "ONG fundada en 1999 en Ibiza dedicada al estudio de poblaciones de cetáceos en Baleares, incluido el delfín mular (impacto del tráfico de barcos en es Freus).",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Jordi Chias",
+    "nationality": "España (Barcelona, 1973)",
+    "website": "https://uwaterphoto.com (citada en resultados, sin verificar)",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.nhm.ac.uk/wpy/gallery/2010-turtle-in-trouble",
+    "note": "Fotógrafo submarino especializado en fauna marina mediterránea, múltiples veces premiado en Wildlife Photographer of the Year; no verifiqué una foto concreta de delfín mular."
+   }
+  ],
+  "design_notes": "Animal amable y reconocible al instante, con el 'sí' del Mediterráneo español: muy comercial para público joven y familiar.",
+  "sources": [
+   "https://www.miteco.gob.es/es/biodiversidad/temas/biodiversidad-marina/habitats-especies-marinos/especies-marinas/proyecto-mediterraneo.html",
+   "https://www.miteco.gob.es:443/content/dam/miteco/es/biodiversidad/temas/conservacion-de-especies-amenazadas/DELFIN_MULAR_tcm30-195174.pdf",
+   "https://iucn.org/sites/default/files/2022-08/ficha_delfin_mular.pdf",
+   "https://www.miteco.gob.es/es/ceneam/recursos/mini-portales-tematicos/tursiops_tcm30-440307.pdf",
+   "https://www.noudiari.es/2019/11/la-presencia-masiva-de-barcos-en-es-freus-espanta-a-los-delfines-durante-el-verano",
+   "https://marilles.org/en/post/jordi-chias-camara-subacuatico"
+  ]
+ },
+ {
+  "common_name_es": "Cachalote",
+  "scientific_name": "Physeter macrocephalus",
+  "category": "Europa",
+  "continent": "Cosmopolita (foco: subpoblación mediterránea)",
+  "countries": [
+   "España",
+   "Francia",
+   "Italia",
+   "Grecia",
+   "Marruecos",
+   "resto del Mediterráneo",
+   "océanos de todo el mundo"
+  ],
+  "region": "Mediterráneo: Estrecho de Gibraltar (presencia de marzo a julio), mar de Alborán, Baleares, talud catalán (semi-residente frente a Barcelona/Garraf), mar de Liguria, Helénico.",
+  "iucn_status": "Global: Vulnerable (VU) (año sin verificar). Subpoblación mediterránea: En Peligro (EN) (año sin verificar).",
+  "population_estimate": "Mediterráneo: 1.842 (estudios acústicos 2004–2013, extrapolado); ~2.673 (IC 95% 1.739–4.105) según el ACCOBAMS Survey 2018; ~2.500 en censos aéreos de 2021.",
+  "trend": "Decreciente (base de la evaluación EN). Amenazas: colisiones con barcos (CIRCE estima ~2% muertos por colisiones en el Estrecho por década), redes de deriva, ruido, plásticos.",
+  "taxonomy_note": "Especie única del género Physeter; la subpoblación mediterránea está genéticamente diferenciada.",
+  "foundations": [
+   {
+    "name": "CIRCE – Conservación, Información y Estudio sobre Cetáceos",
+    "hq_country": "España",
+    "hq_city": "Andalucía, zona del Estrecho (sin verificar ciudad)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Renaud de Stephanis (citado como responsable de CIRCE en prensa 2024; cargo sin verificar)",
+    "what_they_do": "Estudia y foto-identifica cachalotes en el Estrecho de Gibraltar desde los años 90; promueve observadores a bordo de ferris contra colisiones.",
+    "accepts_corporate_partners": "unknown"
+   },
+   {
+    "name": "Associació Edmaktub",
+    "hq_country": "España",
+    "hq_city": "Barcelona",
+    "website": "https://edmaktub.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "ONG de investigación de cetáceos fundada en 2000 por Eduard Degollada; trabaja en el talud catalán donde el cachalote es semi-residente.",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Jordi Chias",
+    "nationality": "España (Barcelona)",
+    "website": "no lo tengo (dato sin verificar eliminado)",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo submarino mediterráneo premiado en WPY; no verifiqué fotos de cachalote — confirmar en la fase de verificación."
+   }
+  ],
+  "design_notes": "Silueta inconfundible de cabeza cuadrada; el 'gigante oculto' del Mediterráneo, muy potente en gráfico minimalista.",
+  "sources": [
+   "https://journal.iwc.int/index.php/jcrm/article/view/437",
+   "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2024.1164026/pdf",
+   "https://www.marinemammalhabitat.org/factsheets/north-western-mediterranean-sea-slope-canyon-system/",
+   "https://theolivepress.es/spain-news/2024/11/27/endangered-sperm-whales-are-dying-in-the-strait-of-gibraltar",
+   "https://www.chronicle.gi/nomad-whale-spotted-back-in-the-strait-of-gibraltar/",
+   "https://orca.org.uk/news-blog/fatal-vessel-strike-in-the-strait-of-gibraltar",
+   "https://edmaktub.org/?p=598"
+  ]
+ },
+ {
+  "common_name_es": "Rorcual común",
+  "scientific_name": "Balaenoptera physalus",
+  "category": "Europa",
+  "continent": "Cosmopolita (foco: Mediterráneo)",
+  "countries": [
+   "España",
+   "Francia",
+   "Italia",
+   "Mónaco",
+   "resto del Mediterráneo",
+   "océanos de todo el mundo"
+  ],
+  "region": "Mediterráneo noroccidental: Santuario Pelagos (Liguria), golfo de León, costa catalana (corredor de migración entre Castelldefels y Torredembarra en primavera), Baleares.",
+  "iucn_status": "Global: Vulnerable (VU) (año sin verificar). Subpoblación mediterránea: elevada de Vulnerable (2012) a En Peligro (EN) en 2021 según Oceanomare Delphis (sin verificar en la Lista Roja).",
+  "population_estimate": "Mediterráneo: menos de 2.500 individuos maduros según nuevas estimaciones citadas por Oceanomare Delphis (sin verificar en fuente primaria).",
+  "trend": "Decreciente (sin verificar). Amenazas: colisiones con barcos, ruido, contaminación.",
+  "taxonomy_note": "La subpoblación mediterránea es diferenciada de la atlántica; segundo animal más grande del planeta.",
+  "foundations": [
+   {
+    "name": "Associació Edmaktub",
+    "hq_country": "España",
+    "hq_city": "Barcelona",
+    "website": "https://edmaktub.org",
+    "project_page_url": "https://edmaktub.org/wp-content/uploads/2023/06/Proyecto-Rorcual-y-Biodiversidad.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Dirige desde 2014 el 'Proyecto Rorcual' frente a la costa de Barcelona-Tarragona con apoyo de cofradías de pescadores; marcaje satelital con Tethys.",
+    "accepts_corporate_partners": "unknown"
+   },
+   {
+    "name": "Tethys Research Institute",
+    "hq_country": "Italia",
+    "hq_city": "Milán (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Instituto de investigación de cetáceos en el Mediterráneo (Santuario Pelagos); Simone Panigada colabora en el marcaje satelital de rorcuales con Edmaktub.",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "La 'ballena de Barcelona': escala épica y relato local (pasa frente a la costa catalana), gran impacto en diseño a gran formato.",
+  "sources": [
+   "https://oceanomaredelphis.org/en/fin-whale/",
+   "https://pelagos-sanctuary.org/species/",
+   "https://edmaktub.org/wp-content/uploads/2023/06/Proyecto-Rorcual-y-Biodiversidad.pdf",
+   "https://edmaktub.org/?p=1823",
+   "https://www.miteco.gob.es/content/dam/miteco/es/ceneam/grupos-de-trabajo-y-seminarios/reeducamar/proyectororcualcomun_ecolocaliza_tcm30-590260.pdf",
+   "https://www.timeout.es/barcelona/es/blog/el-emocionante-video-de-una-ballena-y-su-cria-en-barcelona-042717"
+  ]
+ },
+ {
+  "common_name_es": "Frailecillo atlántico",
+  "scientific_name": "Fratercula arctica",
+  "category": "Europa",
+  "continent": "Europa y Norteamérica (Atlántico Norte)",
+  "countries": [
+   "Islandia",
+   "Noruega",
+   "Islas Feroe",
+   "Reino Unido",
+   "Irlanda",
+   "Francia (Bretaña)",
+   "Rusia",
+   "Groenlandia",
+   "Canadá",
+   "EE. UU."
+  ],
+  "region": "Cría en acantilados del Atlántico Norte (Islandia alberga la mayor población). En España: invernante y de paso escaso en el Cantábrico, Galicia, Mediterráneo y Canarias; frecuentes varamientos tras temporales.",
+  "iucn_status": "Global: Vulnerable (VU) (año sin verificar; listado como VU desde 2015). Europa: En Peligro (EN) según BirdLife (año sin verificar).",
+  "population_estimate": "Mundial: 7.400.000–8.240.000 individuos maduros (BirdLife). Europa: 4.770.000–5.780.000 parejas (>90% del total mundial). Islandia: de ~7 millones a ~5,4 millones (sin verificar).",
+  "trend": "Decreciente en Europa: proyección de -50 a -79% en 2000–2065 (BirdLife); declives en Islandia, Noruega y Feroe ligados a cambio climático, falta de presas y pesca.",
+  "taxonomy_note": "Tres subespecies (F. a. arctica, F. a. grabae, F. a. naumanni). Es un álcido, no relacionado con los pingüinos.",
+  "foundations": [
+   {
+    "name": "SEO/BirdLife",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://seo.org (sin verificar en esta sesión)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Socio español de BirdLife; coordina el seguimiento de aves marinas orilladas en el Cantábrico y Atlántico peninsular (proyecto Interreg FAME), incluidos frailecillos.",
+    "accepts_corporate_partners": "unknown"
+   },
+   {
+    "name": "BirdLife International",
+    "hq_country": "Reino Unido",
+    "hq_city": "Cambridge (sin verificar)",
+    "website": "https://birdlife.org",
+    "project_page_url": "https://datazone.birdlife.org/species/factsheet/atlantic-puffin-fratercula-arctica/summary",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Autoridad de la Lista Roja para aves; evalúa y promueve la conservación del frailecillo.",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Matt Doggett",
+    "nationality": "Reino Unido (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Premiado en los British Wildlife Photography Awards con 'Diving Puffin' (frailecillo atlántico bajo el agua)."
+   }
+  ],
+  "design_notes": "Pico multicolor y aspecto de 'payaso del mar': de los animales más queridos y gráficos de Europa, éxito seguro en camiseta.",
+  "sources": [
+   "https://datazone.birdlife.org/species/factsheet/atlantic-puffin-fratercula-arctica/summary",
+   "https://datazone.birdlife.org/species/factsheet/atlantic-puffin-fratercula-arctica/text",
+   "https://birdlife.org/news/2022/04/06/seabird-of-the-month-atlantic-puffin-fratercula-arctica",
+   "https://noticiasambientales.com/animals/storm-surge-in-spain-over-a-thousand-seabirds-found-stranded-in-galicia-and-surrounding-areas/",
+   "https://rtvc.es/aparecen-26-ejemplares-frailecillos-muertos-en-el-hierro/",
+   "https://www.coastmagazine.co.uk/content/caught-camera-our-wild-coast"
+  ]
+ }
+]

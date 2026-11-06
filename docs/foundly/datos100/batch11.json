@@ -1,0 +1,878 @@
+[
+ {
+  "common_name_es": "Abeja melífera ibérica",
+  "scientific_name": "Apis mellifera iberiensis",
+  "category": "Insectos y polinizadores",
+  "continent": "Europa",
+  "countries": "España, Portugal (y Baleares)",
+  "region": "Península ibérica y Baleares",
+  "iucn_status": "Global: Datos Insuficientes (DD), 2014 – evaluación de Apis mellifera en la Lista Roja Europea de Abejas (sin verificar); la subespecie no tiene evaluación propia",
+  "population_estimate": "España: 2.803.668 colmenas (marzo 2024) y 2.783.285 (marzo 2025), todas las subespecies (REGA/MAPA vía prensa, sin verificar); Baleares: 13.512 colmenas en 2024",
+  "trend": "Censo de colmenas estable o ligeramente a la baja; la pureza genética de la subespecie amenazada por la importación de abejas de otras subespecies",
+  "taxonomy_note": "Subespecie autóctona ('abeja negra ibérica') del linaje africano/europeo occidental; la Federación IBERIENSIS (2024) busca su inclusión en el Catálogo Oficial de Razas Ganaderas.",
+  "foundations": [
+   {
+    "name": "Federación IBERIENSIS (criadores de abeja negra ibérica)",
+    "hq_country": "España",
+    "hq_city": "Constituida en Zaldibia (Gipuzkoa), 27-04-2024",
+    "website": "no lo tengo",
+    "project_page_url": "https://www.agronewscastillayleon.com/apicultores-abeja-negra/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Federa asociaciones autonómicas de criadores (AECRIA-Madrid, AMIGA, ASAN, ACRIANICYL...) para un programa de cría y reconocimiento oficial de A. m. iberiensis.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "BeeLife European Beekeeping Coordination",
+    "hq_country": "Bélgica",
+    "hq_city": "Bruselas (Avenue Louise 209/7, 1050 Ixelles, según registro mercantil)",
+    "website": "https://www.bee-life.eu",
+    "project_page_url": "no lo tengo",
+    "contact_email": "info@bee-life.eu (en oferta de empleo de 2023, sin verificar)",
+    "phone": "no lo tengo",
+    "director_or_president": "Noa Simón Delso figura como persona de contacto en ofertas de empleo (cargo sin verificar)",
+    "what_they_do": "ONG europea de apicultores que trabaja por mejorar las condiciones de vida de los polinizadores e incide en política agraria y pesticidas en la UE.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Ingo Arndt",
+    "nationality": "Alemana",
+    "website": "https://ingoarndt.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://ingoarndt.com/projects/honeybees",
+    "note": "Uno de los mayores archivos fotográficos de abejas melíferas silvestres; libro 'Wild Honey Bees' (2022) con Jürgen Tautz; ganador WPY 2024 Invertebrados."
+   },
+   {
+    "name": "Javier Aznar González de Rueda",
+    "nationality": "Española",
+    "website": "no lo tengo",
+    "instagram": "@javier_aznar_photography (según Menorca.info, sin verificar)",
+    "species_gallery_url": "no lo tengo",
+    "note": "Biólogo y fotógrafo especializado en insectos y fauna pequeña; Premio Fritz Pölking 2025, varias distinciones en Wildlife Photographer of the Year; perfil en The Photo Society."
+   }
+  ],
+  "design_notes": "Abeja oscura sobre flor de romero o brezo: icono reconocible y ligado al paisaje ibérico; mensaje de 'abeja local'.",
+  "sources": [
+   "https://www.agronewscastillayleon.com/?p=168041",
+   "https://www.caib.es/webgoib/es/-/el-govern-convoca-la-mesa-ap%C3%ADcola-per-continuar-avan%C3%A7ant-en-la-millora-del-sector-i-enfortir-el-seu-paper-clau-per-a-la-biodiversitat",
+   "https://www.miteco.gob.es/es/biodiversidad/temas/conservacion-de-especies/dictamen_apis_mellifera_tcm30-201167.pdf",
+   "https://www.agronewscastillayleon.com/apicultores-abeja-negra/",
+   "https://ingoarndt.com/projects/honeybees"
+  ]
+ },
+ {
+  "common_name_es": "Abejorros (abejorro común y abejorros en declive)",
+  "scientific_name": "Bombus spp. (foco Bombus terrestris)",
+  "category": "Insectos y polinizadores",
+  "continent": "Europa",
+  "countries": "Toda Europa (B. terrestris también norte de África y Asia occidental)",
+  "region": "Paleártico occidental",
+  "iucn_status": "Global: Bombus terrestris Preocupación Menor (LC) (sin verificar año); Europa: 24 % de las especies de abejorro amenazadas (Lista Roja Europea, 2014); en la Lista Roja Europea de Abejas actualizada, 10 % de abejas silvestres amenazadas y Bombus entre los géneros más afectados",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive: un estudio en Nature (2023) proyecta fuertes pérdidas en el siglo XXI; ej. Bombus cullumanus −80 % en una década",
+  "taxonomy_note": "Unas 68–70 especies de Bombus en Europa (sin verificar); B. terrestris se cría comercialmente para invernaderos y puede transmitir patógenos a poblaciones silvestres.",
+  "foundations": [
+   {
+    "name": "Bumblebee Conservation Trust",
+    "hq_country": "Reino Unido",
+    "hq_city": "Stirling (Beta Centre, Stirling University Innovation Park, FK9 4NF)",
+    "website": "https://www.bumblebeeconservation.org",
+    "project_page_url": "https://bumblebeeconservation.org/what-we-do/contact-us",
+    "contact_email": "enquiries@bumblebeeconservation.org (fuente de 2010, sin verificar)",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Organización benéfica dedicada exclusivamente a la conservación de abejorros: restauración de hábitat, ciencia ciudadana (BeeWalk) y divulgación.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Xerces Society for Invertebrate Conservation",
+    "hq_country": "Estados Unidos",
+    "hq_city": "Portland, Oregón (628 NE Broadway, Ste 200)",
+    "website": "https://xerces.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "(855) 232-6639 o (503) 232-6639 (sin verificar)",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "ONG de referencia mundial en conservación de invertebrados; programas de abejorros (Bumble Bee Watch, Atlas), monarca y polinizadores.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Clay Bolt",
+    "nationality": "Estadounidense",
+    "website": "https://claybolt.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de historia natural especializado en abejas nativas y abejorros; responsable de conservación de polinizadores en WWF (EE. UU.)."
+   },
+   {
+    "name": "Javier Aznar González de Rueda",
+    "nationality": "Española",
+    "website": "no lo tengo",
+    "instagram": "@javier_aznar_photography (según Menorca.info, sin verificar)",
+    "species_gallery_url": "no lo tengo",
+    "note": "Biólogo y fotógrafo especializado en insectos y fauna pequeña; Premio Fritz Pölking 2025, varias distinciones en Wildlife Photographer of the Year; perfil en The Photo Society."
+   }
+  ],
+  "design_notes": "Silueta peluda, rayas amarillo-negro-blanco: gráfica, simpática y muy reconocible incluso en pequeño.",
+  "sources": [
+   "https://www.hortidaily.com/article/6007766/europe-twenty-four-percent-of-bumblebee-species-threatened-with-extinction/",
+   "https://freethebees.ch/?p=4114",
+   "https://phys.org/news/2023-09-european-bumblebee-populations-plummet.pdf",
+   "https://phys.org/news/2014-04-quarter-europe-bumblebee-species-extinction.html",
+   "https://bumblebeeconservation.org/what-we-do/contact-us",
+   "https://claybolt.com"
+  ]
+ },
+ {
+  "common_name_es": "Abeja albañil",
+  "scientific_name": "Osmia cornuta / Osmia bicornis",
+  "category": "Insectos y polinizadores",
+  "continent": "Europa",
+  "countries": "España y gran parte de Europa; norte de África y Asia Menor (sin verificar)",
+  "region": "Europa y cuenca mediterránea",
+  "iucn_status": "Global: no evaluada; Europa: Preocupación Menor (LC), 2014 – Lista Roja Europea de Abejas (sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "Sin datos de tendencia; especies comunes, usadas como polinizadores gestionados en frutales",
+  "taxonomy_note": "Abejas solitarias de la familia Megachilidae que nidifican en cavidades y sellan los nidos con barro; en España se estudió O. cornuta en almendro y manzano (3 hembras/árbol o ~530 hembras/ha bastan para polinizar).",
+  "foundations": [
+   {
+    "name": "BeeLife European Beekeeping Coordination",
+    "hq_country": "Bélgica",
+    "hq_city": "Bruselas (Avenue Louise 209/7, 1050 Ixelles, según registro mercantil)",
+    "website": "https://www.bee-life.eu",
+    "project_page_url": "no lo tengo",
+    "contact_email": "info@bee-life.eu (en oferta de empleo de 2023, sin verificar)",
+    "phone": "no lo tengo",
+    "director_or_president": "Noa Simón Delso figura como persona de contacto en ofertas de empleo (cargo sin verificar)",
+    "what_they_do": "ONG europea de apicultores que trabaja por mejorar las condiciones de vida de los polinizadores e incide en política agraria y pesticidas en la UE.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Buglife – The Invertebrate Conservation Trust",
+    "hq_country": "Reino Unido",
+    "hq_city": "Peterborough (Allia Future Business Centre, London Road, PE2 8AN)",
+    "website": "https://www.buglife.org.uk",
+    "project_page_url": "https://www.buglife.org.uk/about-us/contact-us",
+    "contact_email": "info@buglife.org.uk",
+    "phone": "no lo tengo",
+    "director_or_president": "Matt Shardlow figuraba como CEO en fuentes antiguas (sin verificar hoy)",
+    "what_they_do": "Única ONG europea dedicada a todos los invertebrados; coordinó la evaluación europea de luciérnagas (2024) y trabaja con ciervo volante y polinizadores.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Javier Aznar González de Rueda",
+    "nationality": "Española",
+    "website": "no lo tengo",
+    "instagram": "@javier_aznar_photography (según Menorca.info, sin verificar)",
+    "species_gallery_url": "no lo tengo",
+    "note": "Biólogo y fotógrafo especializado en insectos y fauna pequeña; Premio Fritz Pölking 2025, varias distinciones en Wildlife Photographer of the Year; perfil en The Photo Society."
+   },
+   {
+    "name": "Clay Bolt",
+    "nationality": "Estadounidense",
+    "website": "https://claybolt.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de historia natural especializado en abejas nativas y abejorros; responsable de conservación de polinizadores en WWF (EE. UU.)."
+   }
+  ],
+  "design_notes": "Abeja rojiza y peluda entrando en su tubo-nido: historia visual de 'hotel de insectos' fácil de explicar.",
+  "sources": [
+   "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7826921/",
+   "https://academic.oup.com/ee/article/29/2/235/342776",
+   "https://www.apidologie.org/10.1051/apido:19940108"
+  ]
+ },
+ {
+  "common_name_es": "Mariposa Apolo",
+  "scientific_name": "Parnassius apollo",
+  "category": "Insectos y polinizadores",
+  "continent": "Europa / Asia",
+  "countries": "España (Pirineos, Cordillera Cantábrica, Sistema Ibérico, Sierra Nevada...), Alpes, Escandinavia, hasta Asia central",
+  "region": "Montañas de Europa y Asia",
+  "iucn_status": "Global: Preocupación Menor (LC) según Wikipedia (sin verificar año); Europa: Casi Amenazada (NT) (EUNIS); anexo IV Directiva Hábitats y CITES II (sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive; la subespecie nevadensis de Sierra Nevada ha sufrido un 'drástico declive' (Gil-T., 2016); se propone 'vulnerable' para P. a. mariae",
+  "taxonomy_note": "Muchas subespecies ibéricas descritas (nevadensis, filabricus, mariae...); poblaciones en parches entre 1.850 y 2.700 m en Sierra Nevada con flujo génico reducido.",
+  "foundations": [
+   {
+    "name": "Asociación ZERYNTHIA (protección de mariposas y polillas de España)",
+    "hq_country": "España",
+    "hq_city": "Logroño (según ficha GBIF)",
+    "website": "https://www.asociacion-zerynthia.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "zerynthia.org@gmail.com",
+    "phone": "617528004 (sin verificar, solo en ficha GBIF)",
+    "director_or_president": "Yeray Monasterio figura como contacto en GBIF (cargo sin verificar)",
+    "what_they_do": "ONG fundada en 2007 dedicada a la conservación de mariposas y polillas en España; único representante español en Butterfly Conservation Europe; organiza la 'Mariposa del Año'.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Butterfly Conservation Europe (BCE)",
+    "hq_country": "Países Bajos",
+    "hq_city": "Wageningen (P.O. Box 506, NL-6700 AM)",
+    "website": "https://www.bc-europe.eu (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Chris van Swaay figuraba como presidente del consejo en informe de 2016 (puede haber cambiado, sin verificar)",
+    "what_they_do": "Federación europea de organizaciones de conservación de mariposas; coordina la Lista Roja Europea de Mariposas y el seguimiento europeo (eBMS).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Javier Aznar González de Rueda",
+    "nationality": "Española",
+    "website": "no lo tengo",
+    "instagram": "@javier_aznar_photography (según Menorca.info, sin verificar)",
+    "species_gallery_url": "no lo tengo",
+    "note": "Biólogo y fotógrafo especializado en insectos y fauna pequeña; Premio Fritz Pölking 2025, varias distinciones en Wildlife Photographer of the Year; perfil en The Photo Society."
+   }
+  ],
+  "design_notes": "Alas blancas translúcidas con ocelos rojos: elegante, alpina y muy reconocible.",
+  "sources": [
+   "https://eunis.eea.europa.eu/species/Parnassius apollo",
+   "https://en.wikipedia.org/wiki/Apollo_(butterfly)",
+   "https://www.aegaweb.com/arquivos_entomoloxicos/ae16_2016_gil_t_distribucion_conservacion_subespecies_parnassius_apollo_andalucia_lepidoptera_papilionidae.pdf",
+   "https://revistaecosistemas.net/index.php/ecosistemas/article/view/2525"
+  ]
+ },
+ {
+  "common_name_es": "Mariposa isabelina",
+  "scientific_name": "Graellsia isabellae",
+  "category": "Insectos y polinizadores",
+  "continent": "Europa",
+  "countries": "España (centro y este peninsular, Pirineos), sureste de Francia, puntos de Suiza e Italia (introducciones, sin verificar)",
+  "region": "Pinares de montaña ibéricos y alpinos",
+  "iucn_status": "Global: no lo tengo (sin evaluación UICN confirmada); Directiva Hábitats anexos II y V, Convenio de Berna anexo II, Listado de Especies Silvestres en Régimen de Protección Especial (RD 139/2011)",
+  "population_estimate": "no lo tengo",
+  "trend": "Desconocida: MITECO indicó información insuficiente para 2007-2012; amenaza principal, incendios forestales",
+  "taxonomy_note": "Polilla saturnia endémica ibero-alpina descrita por Graells en 1849 y dedicada a la reina Isabel II; oruga sobre pinos (Pinus sylvestris, P. nigra).",
+  "foundations": [
+   {
+    "name": "Asociación ZERYNTHIA (protección de mariposas y polillas de España)",
+    "hq_country": "España",
+    "hq_city": "Logroño (según ficha GBIF)",
+    "website": "https://www.asociacion-zerynthia.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "zerynthia.org@gmail.com",
+    "phone": "617528004 (sin verificar, solo en ficha GBIF)",
+    "director_or_president": "Yeray Monasterio figura como contacto en GBIF (cargo sin verificar)",
+    "what_they_do": "ONG fundada en 2007 dedicada a la conservación de mariposas y polillas en España; único representante español en Butterfly Conservation Europe; organiza la 'Mariposa del Año'.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Butterfly Conservation Europe (BCE)",
+    "hq_country": "Países Bajos",
+    "hq_city": "Wageningen (P.O. Box 506, NL-6700 AM)",
+    "website": "https://www.bc-europe.eu (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Chris van Swaay figuraba como presidente del consejo en informe de 2016 (puede haber cambiado, sin verificar)",
+    "what_they_do": "Federación europea de organizaciones de conservación de mariposas; coordina la Lista Roja Europea de Mariposas y el seguimiento europeo (eBMS).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Emili Josep Martínez i Ibarz",
+    "nationality": "Española",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.forestales.net/revistas/articulos/714/completo/fotoparque_2023_pdf.pdf",
+    "note": "Premio Forestal Fotoparques 2023 (Parques Nacionales) con 'Censo de Graellsia isabellae en Ordesa'."
+   },
+   {
+    "name": "Javier Aznar González de Rueda",
+    "nationality": "Española",
+    "website": "no lo tengo",
+    "instagram": "@javier_aznar_photography (según Menorca.info, sin verificar)",
+    "species_gallery_url": "no lo tengo",
+    "note": "Biólogo y fotógrafo especializado en insectos y fauna pequeña; Premio Fritz Pölking 2025, varias distinciones en Wildlife Photographer of the Year; perfil en The Photo Society."
+   }
+  ],
+  "design_notes": "Verde pálido con nervaduras granates y largas colas: probablemente la polilla más bella de Europa, ideal para estampado.",
+  "sources": [
+   "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/publicaciones/GRAELLSIAISABELAE_tcm30-194909.pdf",
+   "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/espacios-protegidos/graellsia_isabelae_tcm30-196938.pdf",
+   "https://eunis.eea.europa.eu/species/16141",
+   "https://www.forestales.net/revistas/articulos/714/completo/fotoparque_2023_pdf.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Hormiguera de lunares (gran azul)",
+  "scientific_name": "Phengaris arion (= Maculinea arion)",
+  "category": "Insectos y polinizadores",
+  "continent": "Europa / Asia",
+  "countries": "España (mitad norte, montañas), Francia, Italia, Europa central, Escandinavia; reintroducida en Reino Unido",
+  "region": "Paleártico",
+  "iucn_status": "Global: Vulnerable (VU) según cita de 2014 de una evaluación antigua (sin verificar); Europa: En Peligro (EN), 2010 – Lista Roja Europea de Mariposas (sin verificar); anexo IV Directiva Hábitats",
+  "population_estimate": "Reino Unido: reintroducida, ha colonizado más de 40 sitios restaurados (Royal Entomological Society, sin año exacto)",
+  "trend": "En declive en Europa; extinguida en Reino Unido en 1979 y recuperada mediante reintroducción desde Öland (Suecia)",
+  "taxonomy_note": "Licénido cuya oruga vive ~10 meses dentro de hormigueros de Myrmica sabuleti, alimentándose de sus larvas: ciclo parásito único.",
+  "foundations": [
+   {
+    "name": "Asociación ZERYNTHIA (protección de mariposas y polillas de España)",
+    "hq_country": "España",
+    "hq_city": "Logroño (según ficha GBIF)",
+    "website": "https://www.asociacion-zerynthia.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "zerynthia.org@gmail.com",
+    "phone": "617528004 (sin verificar, solo en ficha GBIF)",
+    "director_or_president": "Yeray Monasterio figura como contacto en GBIF (cargo sin verificar)",
+    "what_they_do": "ONG fundada en 2007 dedicada a la conservación de mariposas y polillas en España; único representante español en Butterfly Conservation Europe; organiza la 'Mariposa del Año'.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Butterfly Conservation (Reino Unido)",
+    "hq_country": "Reino Unido",
+    "hq_city": "no lo tengo",
+    "website": "https://butterfly-conservation.org",
+    "project_page_url": "https://butterfly-conservation.org/news-and-blog/species-of-the-month-large-blue",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Socio del programa de reintroducción de la gran azul en Somerset y Gloucestershire.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Pete Withers",
+    "nationality": "Británica (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://butterfly-conservation.org/news-and-blog/species-of-the-month-large-blue",
+    "note": "Crédito fotográfico de la gran azul en la web de Butterfly Conservation."
+   },
+   {
+    "name": "Javier Aznar González de Rueda",
+    "nationality": "Española",
+    "website": "no lo tengo",
+    "instagram": "@javier_aznar_photography (según Menorca.info, sin verificar)",
+    "species_gallery_url": "no lo tengo",
+    "note": "Biólogo y fotógrafo especializado en insectos y fauna pequeña; Premio Fritz Pölking 2025, varias distinciones en Wildlife Photographer of the Year; perfil en The Photo Society."
+   }
+  ],
+  "design_notes": "Azul intenso con lunares negros + la historia de la mariposa 'criada por hormigas': gran storytelling.",
+  "sources": [
+   "https://butterfly-conservation.org/news-and-blog/species-of-the-month-large-blue",
+   "https://www.royensoc.co.uk/news/insect-conservation-team-publish-new-data-on-endangered-large-blue-butterfly/",
+   "https://www.museum.zoo.cam.ac.uk/node/4831",
+   "https://impact.ref.ac.uk/casestudies/CaseStudy.aspx?Id=17539"
+  ]
+ },
+ {
+  "common_name_es": "Ciervo volante",
+  "scientific_name": "Lucanus cervus",
+  "category": "Insectos y polinizadores",
+  "continent": "Europa",
+  "countries": "España (sobre todo mitad norte), Portugal, Francia, Reino Unido, Europa central y oriental hasta Turquía",
+  "region": "Bosques caducifolios de Europa",
+  "iucn_status": "Global: no lo tengo; Europa: Casi Amenazada (NT), 2010; Mediterráneo: Preocupación Menor (LC) (sin verificar); anexo II Directiva Hábitats",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive significativo en el norte y centro de su área; en España sin cifras",
+  "taxonomy_note": "El mayor escarabajo de Europa (machos hasta ~8 cm, sin verificar); larvas saproxílicas en madera muerta durante varios años.",
+  "foundations": [
+   {
+    "name": "People's Trust for Endangered Species (PTES) / European Stag Beetle Monitoring Network",
+    "hq_country": "Reino Unido (red europea coordinada con INBO, Bélgica)",
+    "hq_city": "Londres (sin verificar)",
+    "website": "https://ptes.org",
+    "project_page_url": "https://www.stagbeetlemonitoring.org/",
+    "contact_email": "arno.thomaes@inbo.be (contacto de dataset GBIF de la red europea, sin verificar como contacto institucional)",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "PTES financia y coordina la Red Europea de Seguimiento del Ciervo Volante (desde 2016, 14 países) y la 'Great Stag Hunt' de ciencia ciudadana.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Buglife – The Invertebrate Conservation Trust",
+    "hq_country": "Reino Unido",
+    "hq_city": "Peterborough (Allia Future Business Centre, London Road, PE2 8AN)",
+    "website": "https://www.buglife.org.uk",
+    "project_page_url": "https://www.buglife.org.uk/about-us/contact-us",
+    "contact_email": "info@buglife.org.uk",
+    "phone": "no lo tengo",
+    "director_or_president": "Matt Shardlow figuraba como CEO en fuentes antiguas (sin verificar hoy)",
+    "what_they_do": "Única ONG europea dedicada a todos los invertebrados; coordinó la evaluación europea de luciérnagas (2024) y trabaja con ciervo volante y polinizadores.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Javier Aznar González de Rueda",
+    "nationality": "Española",
+    "website": "no lo tengo",
+    "instagram": "@javier_aznar_photography (según Menorca.info, sin verificar)",
+    "species_gallery_url": "no lo tengo",
+    "note": "Biólogo y fotógrafo especializado en insectos y fauna pequeña; Premio Fritz Pölking 2025, varias distinciones en Wildlife Photographer of the Year; perfil en The Photo Society."
+   }
+  ],
+  "design_notes": "Machos con mandíbulas como astas: silueta potente, casi heráldica, que funciona muy bien en una sola tinta.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lucanus_cervus",
+   "https://eunis.eea.europa.eu/species/Lucanus cervus",
+   "https://ptes.org/grants/worldwide-projects/stag-beetles-europe/",
+   "https://www.stagbeetlemonitoring.org/",
+   "https://www.gbif.org/dataset/4d46102b-5337-4dc3-b901-8d6eda71d2d9"
+  ]
+ },
+ {
+  "common_name_es": "Luciérnaga (gusano de luz)",
+  "scientific_name": "Lampyris noctiluca",
+  "category": "Insectos y polinizadores",
+  "continent": "Europa / Asia",
+  "countries": "Toda Europa incluida España, hasta Asia (sin verificar)",
+  "region": "Paleártico",
+  "iucn_status": "Global: no lo tengo; Europa: Casi Amenazada (NT), 2024 – evaluación europea de luciérnagas coordinada por Buglife/UICN",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive en Europa por contaminación lumínica, cambio climático y degradación del hábitat; en España sin cifras",
+  "taxonomy_note": "Coleóptero lampírido: la hembra áptera emite luz para atraer a los machos; en España convive con Lampyris iberica, Nyctophila reichii y Luciola lusitanica.",
+  "foundations": [
+   {
+    "name": "Proyecto Gusanos de Luz (¿Has visto una luciérnaga?)",
+    "hq_country": "España",
+    "hq_city": "no lo tengo",
+    "website": "https://www.gusanosdeluz.com",
+    "project_page_url": "https://www.gusanosdeluz.com",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "José Ramón Guzmán Álvarez y Raphaël De Cock (fundadores)",
+    "what_they_do": "Plataforma de ciencia ciudadana nacida en 2009 para cartografiar y estudiar las luciérnagas de España.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Buglife – The Invertebrate Conservation Trust",
+    "hq_country": "Reino Unido",
+    "hq_city": "Peterborough (Allia Future Business Centre, London Road, PE2 8AN)",
+    "website": "https://www.buglife.org.uk",
+    "project_page_url": "https://www.buglife.org.uk/about-us/contact-us",
+    "contact_email": "info@buglife.org.uk",
+    "phone": "no lo tengo",
+    "director_or_president": "Matt Shardlow figuraba como CEO en fuentes antiguas (sin verificar hoy)",
+    "what_they_do": "Única ONG europea dedicada a todos los invertebrados; coordinó la evaluación europea de luciérnagas (2024) y trabaja con ciervo volante y polinizadores.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Javier Aznar González de Rueda",
+    "nationality": "Española",
+    "website": "no lo tengo",
+    "instagram": "@javier_aznar_photography (según Menorca.info, sin verificar)",
+    "species_gallery_url": "no lo tengo",
+    "note": "Biólogo y fotógrafo especializado en insectos y fauna pequeña; Premio Fritz Pölking 2025, varias distinciones en Wildlife Photographer of the Year; perfil en The Photo Society."
+   }
+  ],
+  "design_notes": "Punto de luz verde en la noche: diseño oscuro con un único brillo, poético y con mensaje contra la contaminación lumínica.",
+  "sources": [
+   "https://www.buglife.org.uk/news/european-glow-worm-and-firefly-species-are-in-decline/",
+   "https://envirotecmagazine.com/2024/06/27/european-glow-worm-and-firefly-species-are-in-decline/",
+   "https://repository.uantwerpen.be/link/irua/87964",
+   "https://www.ecoticias.com/naturaleza/139796_en-busca-de-las-hadas-voladoras-en-los-campos-espanoles",
+   "https://www.gusanosdeluz.com/2025/"
+  ]
+ },
+ {
+  "common_name_es": "Escarabajo pelotero",
+  "scientific_name": "Scarabaeus spp. (p. ej. Scarabaeus cicatricosus, S. sacer)",
+  "category": "Insectos y polinizadores",
+  "continent": "Europa / África",
+  "countries": "España, Portugal, cuenca mediterránea y norte de África",
+  "region": "Pastizales y dehesas mediterráneas",
+  "iucn_status": "Global: no lo tengo para el género; evaluación UICN de 200 escarabajos peloteros mediterráneos (150 endémicos) identifica declive por abandono de la ganadería extensiva (año sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive en España (evidencia indirecta): ivermectina y otros antiparasitarios se bioacumulan y alteran su comportamiento; pérdida de trashumancia",
+  "taxonomy_note": "Escarabeidos coprófagos que forman y ruedan bolas de estiércol; clave en el reciclado de nutrientes de la ganadería extensiva. El LIFE Agroestepas Ibéricas estima +25 % de peloteros en 3 años con buenas prácticas.",
+  "foundations": [
+   {
+    "name": "SEO/BirdLife – proyecto LIFE Agroestepas Ibéricas",
+    "hq_country": "España",
+    "hq_city": "Madrid (sin verificar)",
+    "website": "https://seo.org",
+    "project_page_url": "https://www.agronewscastillayleon.com/preocupacion-antiparasitos",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Coordina un LIFE en Extremadura que reduce el impacto de antiparasitarios en los insectos del estiércol en más de 10 fincas piloto.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Buglife – The Invertebrate Conservation Trust",
+    "hq_country": "Reino Unido",
+    "hq_city": "Peterborough (Allia Future Business Centre, London Road, PE2 8AN)",
+    "website": "https://www.buglife.org.uk",
+    "project_page_url": "https://www.buglife.org.uk/about-us/contact-us",
+    "contact_email": "info@buglife.org.uk",
+    "phone": "no lo tengo",
+    "director_or_president": "Matt Shardlow figuraba como CEO en fuentes antiguas (sin verificar hoy)",
+    "what_they_do": "Única ONG europea dedicada a todos los invertebrados; coordinó la evaluación europea de luciérnagas (2024) y trabaja con ciervo volante y polinizadores.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Javier Aznar González de Rueda",
+    "nationality": "Española",
+    "website": "no lo tengo",
+    "instagram": "@javier_aznar_photography (según Menorca.info, sin verificar)",
+    "species_gallery_url": "no lo tengo",
+    "note": "Biólogo y fotógrafo especializado en insectos y fauna pequeña; Premio Fritz Pölking 2025, varias distinciones en Wildlife Photographer of the Year; perfil en The Photo Society."
+   }
+  ],
+  "design_notes": "Escarabajo empujando su bola: imagen icónica, divertida y con mensaje de ganadería sostenible.",
+  "sources": [
+   "https://www.ecoticias.com/naturaleza/108507_ivermectina-farmaco-ganado-vuelve-locos-escarabajos-peloteros",
+   "https://iucn.org/es/node/18108",
+   "https://www.miteco.gob.es/content/dam/miteco/es/parques-nacionales-oapn/red-parques-nacionales/programa-investigacion/20-efectodelusodeproductosmedico399-413_tcm30-445449.pdf",
+   "https://www.agronewscastillayleon.com/preocupacion-antiparasitos"
+  ]
+ },
+ {
+  "common_name_es": "Caballito del diablo de Mercurio",
+  "scientific_name": "Coenagrion mercuriale",
+  "category": "Insectos y polinizadores",
+  "continent": "Europa / África",
+  "countries": "España (Galicia, Asturias, Cantabria, País Vasco, Aragón, Madrid...), Francia, Italia, Reino Unido, Alemania, norte de África",
+  "region": "Europa occidental y Magreb",
+  "iucn_status": "Global: Vulnerable (VU), 2023 según Wikipedia (sin verificar; otras fuentes dan Casi Amenazada NT); Europa: Casi Amenazada (NT); anexo II Directiva Hábitats",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive (poblaciones de Madrid en descenso, artículo 2017); en peligro de extinción en Reino Unido",
+  "taxonomy_note": "Zigóptero ligado a arroyos y regueros soleados con vegetación; el macho lleva en el abdomen una marca negra con forma del símbolo de Mercurio.",
+  "foundations": [
+   {
+    "name": "British Dragonfly Society",
+    "hq_country": "Reino Unido",
+    "hq_city": "Huntingdon (Ashcroft, Brington Road, Old Weston, PE28 5LP)",
+    "website": "https://british-dragonflies.org.uk",
+    "project_page_url": "https://british-dragonflies.org.uk/conservation-and-research/projects-2/dorsets-southern-damselflies/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Organización benéfica (nº 1168300) que lidera un proyecto multi-socio para salvar al caballito del diablo de Mercurio en Dorset.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Buglife – The Invertebrate Conservation Trust",
+    "hq_country": "Reino Unido",
+    "hq_city": "Peterborough (Allia Future Business Centre, London Road, PE2 8AN)",
+    "website": "https://www.buglife.org.uk",
+    "project_page_url": "https://www.buglife.org.uk/about-us/contact-us",
+    "contact_email": "info@buglife.org.uk",
+    "phone": "no lo tengo",
+    "director_or_president": "Matt Shardlow figuraba como CEO en fuentes antiguas (sin verificar hoy)",
+    "what_they_do": "Única ONG europea dedicada a todos los invertebrados; coordinó la evaluación europea de luciérnagas (2024) y trabaja con ciervo volante y polinizadores.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Javier Aznar González de Rueda",
+    "nationality": "Española",
+    "website": "no lo tengo",
+    "instagram": "@javier_aznar_photography (según Menorca.info, sin verificar)",
+    "species_gallery_url": "no lo tengo",
+    "note": "Biólogo y fotógrafo especializado en insectos y fauna pequeña; Premio Fritz Pölking 2025, varias distinciones en Wildlife Photographer of the Year; perfil en The Photo Society."
+   }
+  ],
+  "design_notes": "Azul eléctrico y finísimo, con el símbolo de Mercurio: minimalista y delicado, ideal para camiseta clara.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Coenagrion_mercuriale",
+   "https://eunis.eea.europa.eu/species/93",
+   "https://dialnet.unirioja.es/descarga/articulo/6448498.pdf",
+   "https://british-dragonflies.org.uk/conservation-and-research/projects-2/dorsets-southern-damselflies/"
+  ]
+ },
+ {
+  "common_name_es": "Rosalia alpina (longicornio de los hayedos)",
+  "scientific_name": "Rosalia alpina",
+  "category": "Insectos y polinizadores",
+  "continent": "Europa",
+  "countries": "España (Pirineos, Navarra –Urbasa, Aralar, Irati–, Cordillera Cantábrica), Alpes, Cárpatos, Balcanes",
+  "region": "Hayedos montanos de Europa",
+  "iucn_status": "Global: Vulnerable (VU), 1996 (criterios 2.3, evaluación antigua); anexos II y IV Directiva Hábitats (sin verificar anexo IV)",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive en gran parte de su área; solo ~42 % de su hábitat potencial está protegido en Europa (estudio 2018)",
+  "taxonomy_note": "Cerambícido saproxílico de antenas larguísimas; larvas ~3 años en madera muerta de haya; adultos viven 3–6 semanas. Requiere no retirar troncos caídos.",
+  "foundations": [
+   {
+    "name": "Buglife – The Invertebrate Conservation Trust",
+    "hq_country": "Reino Unido",
+    "hq_city": "Peterborough (Allia Future Business Centre, London Road, PE2 8AN)",
+    "website": "https://www.buglife.org.uk",
+    "project_page_url": "https://www.buglife.org.uk/about-us/contact-us",
+    "contact_email": "info@buglife.org.uk",
+    "phone": "no lo tengo",
+    "director_or_president": "Matt Shardlow figuraba como CEO en fuentes antiguas (sin verificar hoy)",
+    "what_they_do": "Única ONG europea dedicada a todos los invertebrados; coordinó la evaluación europea de luciérnagas (2024) y trabaja con ciervo volante y polinizadores.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "People's Trust for Endangered Species (PTES) / European Stag Beetle Monitoring Network",
+    "hq_country": "Reino Unido (red europea coordinada con INBO, Bélgica)",
+    "hq_city": "Londres (sin verificar)",
+    "website": "https://ptes.org",
+    "project_page_url": "https://www.stagbeetlemonitoring.org/",
+    "contact_email": "arno.thomaes@inbo.be (contacto de dataset GBIF de la red europea, sin verificar como contacto institucional)",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "PTES financia y coordina la Red Europea de Seguimiento del Ciervo Volante (desde 2016, 14 países) y la 'Great Stag Hunt' de ciencia ciudadana.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Bernard Van Elegem",
+    "nationality": "Belga (sin verificar)",
+    "website": "https://www.bernardvanelegem.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.bernardvanelegem.com/image/rosalia-longicorn-1",
+    "note": "Tiene en su web una fotografía de Rosalia longicorn."
+   },
+   {
+    "name": "Javier Aznar González de Rueda",
+    "nationality": "Española",
+    "website": "no lo tengo",
+    "instagram": "@javier_aznar_photography (según Menorca.info, sin verificar)",
+    "species_gallery_url": "no lo tengo",
+    "note": "Biólogo y fotógrafo especializado en insectos y fauna pequeña; Premio Fritz Pölking 2025, varias distinciones en Wildlife Photographer of the Year; perfil en The Photo Society."
+   }
+  ],
+  "design_notes": "Azul ceniza con manchas negras y antenas con mechones: diseño gráfico, casi textil, muy original.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rosalia_longicorn",
+   "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/publicaciones/ROSALIAALPINA_tcm30-194919.pdf",
+   "https://research-information.bris.ac.uk/en/publications/nature-protection-areas-of-europe-are-insufficient-to-preserve-th/",
+   "https://doaj.org/article/471b77824da94c75b7eacbe25793c106"
+  ]
+ },
+ {
+  "common_name_es": "Mariposa monarca (en España)",
+  "scientific_name": "Danaus plexippus",
+  "category": "Insectos y polinizadores",
+  "continent": "América (introducida/establecida en Europa y Macaronesia)",
+  "countries": "España (Málaga, Cádiz, Doñana; Canarias), Portugal; nativa de América",
+  "region": "Litoral andaluz y Canarias",
+  "iucn_status": "Global: Vulnerable (VU), 2023 (la subespecie migratoria norteamericana fue En Peligro en 2022) (sin verificar); España: 'Vulnerable' según ficha MITECO",
+  "population_estimate": "España: colonias en Torrox, Nerja, El Morche y Frigiliana (Málaga) que completan su ciclo desde 1982; sin censo",
+  "trend": "Fluctuante: colonias del sur peninsular desaparecieron a principios de los 90 y reaparecieron 2001-2005; en Málaga regresó en 2023 a un jardín botánico tras años de ausencia",
+  "taxonomy_note": "Llegó a Canarias y la península en el siglo XIX; en Andalucía usa Asclepias curassavica, Gomphocarpus fruticosus y la autóctona Cynanchum acutum (primera planta nativa europea registrada).",
+  "foundations": [
+   {
+    "name": "Asociación ZERYNTHIA (protección de mariposas y polillas de España)",
+    "hq_country": "España",
+    "hq_city": "Logroño (según ficha GBIF)",
+    "website": "https://www.asociacion-zerynthia.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "zerynthia.org@gmail.com",
+    "phone": "617528004 (sin verificar, solo en ficha GBIF)",
+    "director_or_president": "Yeray Monasterio figura como contacto en GBIF (cargo sin verificar)",
+    "what_they_do": "ONG fundada en 2007 dedicada a la conservación de mariposas y polillas en España; único representante español en Butterfly Conservation Europe; organiza la 'Mariposa del Año'.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Xerces Society for Invertebrate Conservation",
+    "hq_country": "Estados Unidos",
+    "hq_city": "Portland, Oregón (628 NE Broadway, Ste 200)",
+    "website": "https://xerces.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "(855) 232-6639 o (503) 232-6639 (sin verificar)",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "ONG de referencia mundial en conservación de invertebrados; programas de abejorros (Bumble Bee Watch, Atlas), monarca y polinizadores.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Javier Aznar González de Rueda",
+    "nationality": "Española",
+    "website": "no lo tengo",
+    "instagram": "@javier_aznar_photography (según Menorca.info, sin verificar)",
+    "species_gallery_url": "no lo tengo",
+    "note": "Biólogo y fotógrafo especializado en insectos y fauna pequeña; Premio Fritz Pölking 2025, varias distinciones en Wildlife Photographer of the Year; perfil en The Photo Society."
+   }
+  ],
+  "design_notes": "Naranja y negro con puntos blancos: el diseño de mariposa más famoso del mundo, con giro local andaluz-canario.",
+  "sources": [
+   "https://www.zobodat.at/pdf/Atalanta_37_0143-0149.pdf",
+   "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/publicaciones/Danausplexippus_tcm30-194836.pdf",
+   "https://www.malaga.eu/visorcontenido/ANUDocumentDisplayer/170400/NOTAINFORMATIVA.pdf",
+   "https://www.monarchnet.org/node/9421",
+   "https://www.cec.org/files/documents/publications/2350-north-american-monarch-conservation-plan-es.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Cola de golondrina gigante africana",
+  "scientific_name": "Papilio antimachus",
+  "category": "Insectos y polinizadores",
+  "continent": "África",
+  "countries": "Guinea, Sierra Leona, Liberia, Costa de Marfil, Ghana, Togo, Nigeria, Camerún, Gabón, Congo, RCA, oeste de RD Congo, Sudán del Sur, norte de Angola",
+  "region": "Selvas de África occidental y central",
+  "iucn_status": "Global: Datos Insuficientes (DD) (año sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "Desconocida; se considera cada vez más rara (P. Annoyer); presión por coleccionismo (ejemplares hasta 1.500 €)",
+  "taxonomy_note": "La mariposa más grande de África (envergadura hasta ~23 cm, sin verificar); se cree tóxica; machos capturados en saladeros minerales por furtivos.",
+  "foundations": [
+   {
+    "name": "African Butterfly Research Institute (ABRI)",
+    "hq_country": "Kenia",
+    "hq_city": "Nairobi",
+    "website": "no lo tengo",
+    "project_page_url": "https://cepf.net/resources/final-project-report/final-project-report-1006",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Steve Collins (fundador, 1997)",
+    "what_they_do": "Centro de investigación con más de 4,2 millones de ejemplares de mariposas africanas; inventarios para conservación de bosques; busca apoyo financiero para su futuro.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Butterfly Conservation Europe (BCE) – alternativa europea; sin programa africano verificado",
+    "hq_country": "Países Bajos",
+    "hq_city": "Wageningen (P.O. Box 506, NL-6700 AM)",
+    "website": "https://www.bc-europe.eu (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Chris van Swaay figuraba como presidente del consejo en informe de 2016 (puede haber cambiado, sin verificar)",
+    "what_they_do": "Federación europea de organizaciones de conservación de mariposas; coordina la Lista Roja Europea de Mariposas y el seguimiento europeo (eBMS).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Javier Aznar González de Rueda",
+    "nationality": "Española",
+    "website": "no lo tengo",
+    "instagram": "@javier_aznar_photography (según Menorca.info, sin verificar)",
+    "species_gallery_url": "no lo tengo",
+    "note": "Biólogo y fotógrafo especializado en insectos y fauna pequeña; Premio Fritz Pölking 2025, varias distinciones en Wildlife Photographer of the Year; perfil en The Photo Society."
+   }
+  ],
+  "design_notes": "Alas enormes naranja-ocre con dibujos negros: exótico, impactante y desconocido para el público.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Papilio_antimachus",
+   "https://www.courthousenews.com/in-an-african-forest-the-enduring-mystery-of-a-giant-butterfly/",
+   "https://www.africanews.com/amp/2024/12/30/kenya-butterfly-collector-aims-to-protect-research-centre/"
+  ]
+ },
+ {
+  "common_name_es": "Escarabajo Goliat",
+  "scientific_name": "Goliathus goliatus",
+  "category": "Insectos y polinizadores",
+  "continent": "África",
+  "countries": "África central y occidental: Camerún, Gabón, Rep. del Congo, RD Congo, hasta Kenia y Uganda (sin verificar lista completa)",
+  "region": "Selvas ecuatoriales de África",
+  "iucn_status": "Global: no evaluada oficialmente; propuesta Casi Amenazada (NT) en 'Red Listing African Goliath Beetles' (African Journal of Ecology, 2025)",
+  "population_estimate": "no lo tengo",
+  "trend": "Presión por pérdida de hábitat (expansión del cacao) y comercio de ejemplares secos (cientos vendidos, sobre todo online); refugios en Gabón y norte de los Congos",
+  "taxonomy_note": "Uno de los insectos más pesados del mundo; el género Goliathus incluye G. cacicus (propuesto CR) y G. regius (propuesto EN).",
+  "foundations": [
+   {
+    "name": "Buglife – The Invertebrate Conservation Trust",
+    "hq_country": "Reino Unido",
+    "hq_city": "Peterborough (Allia Future Business Centre, London Road, PE2 8AN)",
+    "website": "https://www.buglife.org.uk",
+    "project_page_url": "https://www.buglife.org.uk/about-us/contact-us",
+    "contact_email": "info@buglife.org.uk",
+    "phone": "no lo tengo",
+    "director_or_president": "Matt Shardlow figuraba como CEO en fuentes antiguas (sin verificar hoy)",
+    "what_they_do": "Única ONG europea dedicada a todos los invertebrados; coordinó la evaluación europea de luciérnagas (2024) y trabaja con ciervo volante y polinizadores.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Equipo del estudio de Lista Roja de Goliathus (Luiselli et al., con Julia Fa, Manchester Metropolitan University)",
+    "hq_country": "Reino Unido / Nigeria / Togo",
+    "hq_city": "Mánchester (sin verificar)",
+    "website": "https://e-space.mmu.ac.uk/638235",
+    "project_page_url": "https://e-space.mmu.ac.uk/638235",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Luca Luiselli (autor principal)",
+    "what_they_do": "Grupo académico (no fundación) que evaluó el estado de conservación de los Goliat; útil como contacto científico para identificar ONG en Camerún.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Javier Aznar González de Rueda",
+    "nationality": "Española",
+    "website": "no lo tengo",
+    "instagram": "@javier_aznar_photography (según Menorca.info, sin verificar)",
+    "species_gallery_url": "no lo tengo",
+    "note": "Biólogo y fotógrafo especializado en insectos y fauna pequeña; Premio Fritz Pölking 2025, varias distinciones en Wildlife Photographer of the Year; perfil en The Photo Society."
+   }
+  ],
+  "design_notes": "Escarabajo gigante blanco y negro con patrón gráfico: sorprendente, potente y fácil de leer en camiseta.",
+  "sources": [
+   "https://www.downtoearth.org.in/africa/worlds-largest-insect-faces-extinction-how-to-save-two-species-of-africas-giant-goliath-beetle",
+   "https://e-space.mmu.ac.uk/638235",
+   "https://www.sciencealert.com/largest-insect-on-earth-headed-for-extinction-thanks-to-our-love-of-chocolate"
+  ]
+ },
+ {
+  "common_name_es": "Vanesa de los cardos (bella dama)",
+  "scientific_name": "Vanessa cardui",
+  "category": "Insectos y polinizadores",
+  "continent": "Cosmopolita (migración África–Europa)",
+  "countries": "Prácticamente mundial; en España migrante cada primavera desde el norte de África",
+  "region": "Paleártico occidental y África subsahariana",
+  "iucn_status": "Global: Preocupación Menor (LC) (sin verificar año)",
+  "population_estimate": "no lo tengo",
+  "trend": "Fluctuaciones enormes: en años húmedos en el Sahel y norte de África cruzan cientos de veces más mariposas hacia Europa",
+  "taxonomy_note": "Realiza la migración de insectos más larga conocida: ciclo de ida y vuelta de 12.000–14.000 km África–Europa en unas seis generaciones (Hu, Stefanescu et al., 2021).",
+  "foundations": [
+   {
+    "name": "Catalan Butterfly Monitoring Scheme (CBMS) – Museu de Ciències Naturals de Granollers",
+    "hq_country": "España",
+    "hq_city": "Granollers (Francesc Macià, 51)",
+    "website": "https://www.catalanbms.org",
+    "project_page_url": "https://www.catalanbms.org/cbms/upl/files/Poster_Cardui_ES.pdf",
+    "contact_email": "m.granollers.cn@diba.es (boletín 2016, sin verificar)",
+    "phone": "no lo tengo",
+    "director_or_president": "Constantí Stefanescu (investigador de referencia, cargo sin verificar)",
+    "what_they_do": "Red de seguimiento de mariposas de Cataluña y Andorra; proyecto específico de seguimiento de la migración de Vanessa cardui.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Asociación ZERYNTHIA (protección de mariposas y polillas de España)",
+    "hq_country": "España",
+    "hq_city": "Logroño (según ficha GBIF)",
+    "website": "https://www.asociacion-zerynthia.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "zerynthia.org@gmail.com",
+    "phone": "617528004 (sin verificar, solo en ficha GBIF)",
+    "director_or_president": "Yeray Monasterio figura como contacto en GBIF (cargo sin verificar)",
+    "what_they_do": "ONG fundada en 2007 dedicada a la conservación de mariposas y polillas en España; único representante español en Butterfly Conservation Europe; organiza la 'Mariposa del Año'.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Javier Aznar González de Rueda",
+    "nationality": "Española",
+    "website": "no lo tengo",
+    "instagram": "@javier_aznar_photography (según Menorca.info, sin verificar)",
+    "species_gallery_url": "no lo tengo",
+    "note": "Biólogo y fotógrafo especializado en insectos y fauna pequeña; Premio Fritz Pölking 2025, varias distinciones en Wildlife Photographer of the Year; perfil en The Photo Society."
+   }
+  ],
+  "design_notes": "Mariposa naranja con puntas negro-blancas + mapa de su viaje África–Europa: une las dos colecciones de Foundly.",
+  "sources": [
+   "https://sciencedaily.com/releases/2021/06/210621174123.htm",
+   "https://www.catalanbms.org/cbms/upl/files/Poster_Cardui_ES.pdf",
+   "https://ddd.uab.cat/record/148134?ln=en",
+   "https://www.catalanbms.org/cbms/upl/files/cynthia13.pdf"
+  ]
+ }
+]

@@ -1,0 +1,534 @@
+[
+ {
+  "common_name_es": "Bonobo",
+  "scientific_name": "Pan paniscus",
+  "category": "África",
+  "continent": "África",
+  "countries": "República Democrática del Congo (endémico)",
+  "region": "Selvas de la cuenca del Congo, al sur del río Congo (p. ej. PN Salonga, reserva de Kokolopori)",
+  "iucn_status": "Global: En Peligro (EN), 2016",
+  "population_estimate": "Mínimo 15.000–20.000 individuos según la estrategia de conservación IUCN de 2012 (la propia IUCN pide cautela); otras fuentes dan 10.000–20.000 o hasta 29.500–50.000. Solo el ~30% del área histórica está muestreado (Springer, 2024). Sin cifra global fiable (sin verificar).",
+  "trend": "Decreciente (según bonobo.org; sin verificar en la ficha IUCN)",
+  "taxonomy_note": "Uno de los dos chimpancés del género Pan, junto a Pan troglodytes; sin subespecies reconocidas (sin verificar).",
+  "foundations": [
+   {
+    "name": "Bonobo Conservation Initiative (BCI)",
+    "hq_country": "Estados Unidos",
+    "hq_city": "Washington D.C. (y oficinas en RD Congo)",
+    "website": "https://www.bonobo.org",
+    "project_page_url": "https://www.bonobo.org/about",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Sally Jewell Coxe, cofundadora, presidenta y CEO (https://www.bonobo.org/bci-board/sally-coxe)",
+    "what_they_do": "Única organización internacional dedicada solo a conservar el bonobo en su hábitat: reservas comunitarias (p. ej. Kokolopori) con comunidades locales congoleñas.",
+    "accepts_corporate_partners": "unknown: es una 501(c)(3) que capta donaciones vía GlobalGiving/Benevity (sin verificar programa de empresas)"
+   },
+   {
+    "name": "Les Amis des Bonobos du Congo (ABC) / santuario Lola ya Bonobo",
+    "hq_country": "RD Congo",
+    "hq_city": "Kinshasa (santuario a las afueras)",
+    "website": "https://www.bonobos.org",
+    "project_page_url": "https://www.bonobos.org/our-strategy",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Fundada por Claudine André en 1994 (dirección actual no verificada)",
+    "what_they_do": "Único santuario del mundo para bonobos huérfanos; rehabilita y libera en la reserva Ekolo ya Bonobo. Apoyo en Europa vía 'Les Amis des Bonobos en Europe' (Francia, https://www.helloasso.com/associations/les-amis-des-bonobos-en-europe).",
+    "accepts_corporate_partners": "unknown: recibe apoyo de zoos (Twycross, Columbus) y de Friends of Bonobos (EE. UU.)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Christian Ziegler",
+    "nationality": "Alemán (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.worldpressphoto.org/collection/photo-contest/2014/christian-ziegler/1",
+    "note": "Reportaje 'The Left Bank Ape' para National Geographic (marzo 2013), 3 meses en la cuenca del Congo; 3.er premio World Press Photo 2014 (Naturaleza). Exposición 'Bonobo Stories' en Berlín (2026, https://www.mpg.de/ausstellung-bonobos)."
+   }
+  ],
+  "design_notes": "El 'simio de la paz': resuelve conflictos con empatía; sus caras expresivas funcionan muy bien en retrato frontal.",
+  "sources": [
+   "https://wiki.iucnapesportal.org/index.php/Bonobo",
+   "https://link.springer.com/article/10.1007/s10764-024-00468-w",
+   "https://www.bonobo.org/bonobos/threats",
+   "https://www.bonobo.org/bci-board/sally-coxe",
+   "https://en.wikipedia.org/wiki/Lola_ya_Bonobo",
+   "https://www.bonobos.org/our-strategy",
+   "https://www.worldpressphoto.org/collection/photo-contest/2014/christian-ziegler/1",
+   "https://www.mpg.de/ausstellung-bonobos"
+  ]
+ },
+ {
+  "common_name_es": "Gorila occidental de llanura",
+  "scientific_name": "Gorilla gorilla gorilla",
+  "category": "África",
+  "continent": "África",
+  "countries": "República del Congo (~60%), Gabón (~27%), Camerún (~10%), República Centroafricana, Guinea Ecuatorial, Cabinda (Angola)",
+  "region": "Selvas de África central occidental",
+  "iucn_status": "Global: En Peligro Crítico (CR) (especie Gorilla gorilla; año de la evaluación sin verificar, probablemente 2016 con enmienda 2018)",
+  "population_estimate": "Unos 361.900 individuos (datos 2013, estudio publicado en Science Advances en 2018, WCS/Maisels).",
+  "trend": "Decreciente: pérdida del 19,4% entre 2005 y 2013; se proyecta >80% de declive en tres generaciones (2005–2071) por caza furtiva y ébola.",
+  "taxonomy_note": "Subespecie de Gorilla gorilla; la otra es el gorila del río Cross (G. g. diehli).",
+  "foundations": [
+   {
+    "name": "The Aspinall Foundation – Projet Protection des Gorilles (PPG) Gabón",
+    "hq_country": "Reino Unido (proyecto en Gabón y Congo)",
+    "hq_city": "Kent (Howletts/Port Lympne); en Gabón, Franceville (sin verificar)",
+    "website": "https://www.aspinallfoundation.org",
+    "project_page_url": "https://www.berggorilla.org/en/home/news-archive/article-view/the-aspinall-foundations-project-in-gabon/",
+    "contact_email": "ppggabon@yahoo.fr (dato de un informe de 2007, probablemente obsoleto: sin verificar)",
+    "phone": "no lo tengo",
+    "director_or_president": "Damian Aspinall, presidente (según nota de prensa; sin verificar)",
+    "what_they_do": "Rehabilita y reintroduce gorilas occidentales en el PN Meseta de Batéké (Gabón) desde 1998 y en Congo desde 1987.",
+    "accepts_corporate_partners": "unknown"
+   },
+   {
+    "name": "Berggorilla & Regenwald Direkthilfe",
+    "hq_country": "Alemania",
+    "hq_city": "no lo tengo",
+    "website": "https://www.berggorilla.org",
+    "project_page_url": "https://www.berggorilla.org/en/home/news-archive/article-view/the-aspinall-foundations-project-in-gabon/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Asociación europea de ayuda directa a proyectos de gorilas; publica y apoya proyectos de campo (sin verificar alcance para la subespecie occidental).",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Jo-Anne McArthur",
+    "nationality": "Canadiense (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Ganó el premio del público (People's Choice) de Wildlife Photographer of the Year 2017 con una gorila de llanura abrazando a su cuidador (santuario en Camerún, sin verificar)."
+   },
+   {
+    "name": "Ricardo Núñez Montero",
+    "nationality": "Español (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Ganador WPY 2018 (Comportamiento: mamíferos) con una gorila de montaña llorando a su cría. OJO: es gorila de montaña, no occidental; interesa como fotógrafo español de gorilas."
+   }
+  ],
+  "design_notes": "La mirada serena del espalda plateada es un icono gráfico potente; transmite fuerza tranquila.",
+  "sources": [
+   "https://www.dailysabah.com/environment/2018/04/25/twice-as-many-gorillas-in-western-africa-as-thought-but-still-critically-endangered",
+   "https://wiki.iucnapesportal.org/index.php/Western_Lowland_Gorilla",
+   "https://www.berggorilla.org/en/home/news-archive/article-view/the-aspinall-foundations-project-in-gabon/",
+   "https://carpe.umd.edu/sites/default/files/documentsarchive/Gabon_2007_gorilla_reintro_BatekePlateauNP.pdf",
+   "https://cernocapital.com/?p=20053",
+   "https://www.smithsonianmag.com/smart-news/touching-story-behind-award-winning-wildlife-image-180968233",
+   "https://mymodernmet.com/wildlife-photographer-of-the-year-2018-winners"
+  ]
+ },
+ {
+  "common_name_es": "Okapi",
+  "scientific_name": "Okapia johnstoni",
+  "category": "África",
+  "continent": "África",
+  "countries": "República Democrática del Congo (endémico)",
+  "region": "Selvas del noreste de RD Congo (Reserva de Fauna de Okapis, Ituri)",
+  "iucn_status": "Global: En Peligro (EN), 2015 (subió a EN en la actualización de 2013)",
+  "population_estimate": "10.000–15.000 en libertad según el Okapi Conservation Project (sin verificar); otras fuentes, menos fiables, dan 35.000–50.000.",
+  "trend": "Decreciente",
+  "taxonomy_note": "Único pariente vivo de la jirafa (familia Giraffidae); único miembro del género Okapia.",
+  "foundations": [
+   {
+    "name": "Okapi Conservation Project (OCP)",
+    "hq_country": "Estados Unidos / RD Congo",
+    "hq_city": "Sede de campo en Epulu (Reserva de Fauna de Okapis)",
+    "website": "https://okapiconservation.org",
+    "project_page_url": "https://okapiconservation.org/the-okapi",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "John Lukas, presidente (fuente sin fecha, sin verificar); Berce Disiki Nsafuansa, director de conservación (web oficial)",
+    "what_they_do": "Desde 1987 trabaja con el ICCN congoleño en la Reserva de Okapis: apoyo a guardas, educación y desarrollo comunitario.",
+    "accepts_corporate_partners": "unknown: tiene apoyo de zoos (Dublin, Berlín, Maryland)"
+   },
+   {
+    "name": "EAZA – Programa EEP del okapi (zoos europeos)",
+    "hq_country": "Países Bajos (EAZA)",
+    "hq_city": "Ámsterdam",
+    "website": "https://eaza.net",
+    "project_page_url": "https://eaza.net/conservation/programmes/eep-pages/okapi-eep",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Programa europeo de cría en zoos que también canaliza fondos al OCP; vía europea para contactar.",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Rayas de cebra en patas de jirafa: animal casi desconocido que despierta curiosidad y conversación.",
+  "sources": [
+   "https://okapiconservation.org/the-okapi",
+   "https://okapiconservation.org/",
+   "https://news.mongabay.com/2013/11/elusive-giraffe-relative-the-okapi-now-listed-as-endangered/",
+   "https://news.mongabay.com/2017/06/30-years-of-protecting-the-mysterious-okapi/",
+   "https://talkinganimals.net/tag/okapi/",
+   "https://eaza.net/conservation/programmes/eep-pages/okapi-eep",
+   "https://www.zoo-berlin.de/en/species-conservation/worldwide/okapi"
+  ]
+ },
+ {
+  "common_name_es": "Hipopótamo común",
+  "scientific_name": "Hippopotamus amphibius",
+  "category": "África",
+  "continent": "África",
+  "countries": "África subsahariana (unos 30 países; mayores poblaciones en Zambia, Tanzania, Mozambique, Uganda, Zimbabue; lista sin verificar)",
+  "region": "Ríos, lagos y humedales del África subsahariana",
+  "iucn_status": "Global: Vulnerable (VU), 2016 (publicada 2017)",
+  "population_estimate": "115.000–130.000 individuos (evaluación IUCN 2016; Lewison y Pluháček 2017), frente a 125.000–148.000 en 2008.",
+  "trend": "Decreciente en la mayoría de países (descenso del 7–20% entre 1990 y 2010)",
+  "taxonomy_note": "Una de las dos especies vivas de hipopótamo (la otra es el hipopótamo pigmeo, Choeropsis liberiensis).",
+  "foundations": [
+   {
+    "name": "Born Free Foundation",
+    "hq_country": "Reino Unido",
+    "hq_city": "Horsham, West Sussex (sin verificar)",
+    "website": "https://www.bornfree.org.uk",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "ONG británica que lideró la campaña contra la matanza de hasta 2.000 hipopótamos en el valle de Luangwa (Zambia); defensa de la especie en CITES.",
+    "accepts_corporate_partners": "unknown"
+   },
+   {
+    "name": "Conservation Lower Zambezi (CLZ)",
+    "hq_country": "Zambia",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "https://www.fondationensemble.org/en/projet/community-based-conservation-of-african-elephants-loxodonta-africana-and-common-hippo-hippopotamus-amphibius-through-the-mitigation-of-human-wildlife-conflicts",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "ONG zambiana (desde 1994) con proyecto de conservación comunitaria de elefantes e hipopótamos reduciendo el conflicto con humanos; financiada por la Fondation Ensemble (Francia).",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Mike Korostelev",
+    "nationality": "Ruso (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.timeout.com/london/news/these-spectacular-shots-triumphed-at-the-2023-wildlife-photographer-of-the-year-awards-101123",
+    "note": "Ganador WPY 2023, categoría Bajo el agua, con 'Hippo Nursery' (madre y cría bajo el agua, Sudáfrica)."
+   }
+  ],
+  "design_notes": "Una cría de hipopótamo bajo el agua es tierna e inesperada; rompe con la imagen de animal 'peligroso'.",
+  "sources": [
+   "https://ielc.libguides.com/sdzg/factsheets/hippopotamus/population",
+   "https://cites.org/sites/default/files/eng/cop/19/prop/as_received/E-Hippopotamus_amphibius.pdf",
+   "https://www.worldlandtrust.org/species/hippopotamus/",
+   "https://www.fondationensemble.org/en/projet/community-based-conservation-of-african-elephants-loxodonta-africana-and-common-hippo-hippopotamus-amphibius-through-the-mitigation-of-human-wildlife-conflicts",
+   "https://www.iucn.org/sites/default/files/2023-11/2018-hippo-sg-report-publication.pdf",
+   "https://www.lusakatimes.com/2019/06/04/zambia-cancels-plans-to-cull-2000-hippos",
+   "https://www.timeout.com/london/news/these-spectacular-shots-triumphed-at-the-2023-wildlife-photographer-of-the-year-awards-101123"
+  ]
+ },
+ {
+  "common_name_es": "Leopardo africano",
+  "scientific_name": "Panthera pardus pardus",
+  "category": "África",
+  "continent": "África",
+  "countries": "Ampliamente distribuido por el África subsahariana (lista exacta sin verificar)",
+  "region": "Sabanas, bosques, montañas y semidesiertos del África subsahariana",
+  "iucn_status": "Global: Vulnerable (VU), 2023 (evaluación a nivel de especie, Panthera pardus); regional: leopardo de África occidental elevado a En Peligro (EN) en 2025 (sin verificar en fuente IUCN)",
+  "population_estimate": "no lo tengo (la IUCN revisa las estimas por subespecie; no hay cifras fiables para el leopardo africano)",
+  "trend": "Decreciente en gran parte de su área",
+  "taxonomy_note": "Desde la revisión de 2017 todos los leopardos africanos se agrupan en P. p. pardus (sin verificar).",
+  "foundations": [
+   {
+    "name": "The Cape Leopard Trust",
+    "hq_country": "Sudáfrica",
+    "hq_city": "Ciudad del Cabo / Western Cape (sin verificar)",
+    "website": "https://www.capeleopard.org.za",
+    "project_page_url": "https://capeleopard.org.za/about",
+    "contact_email": "no lo tengo",
+    "phone": "076 522 1201 (Helen Turnbull, donaciones y alianzas, según la web; general/medios: Jeannie Hayward, 082 337 0964)",
+    "director_or_president": "Helen Turnbull, CEO (desde 2015, según su perfil en la web oficial)",
+    "what_they_do": "Investigación y conservación del leopardo del Cabo, mitigación del conflicto con ganaderos y educación ambiental.",
+    "accepts_corporate_partners": "yes (probable): la web tiene contacto específico para 'donations and partnerships' y busca patrocinios (sin verificar)"
+   },
+   {
+    "name": "Panthera",
+    "hq_country": "Estados Unidos",
+    "hq_city": "Nueva York (sin verificar)",
+    "website": "https://www.panthera.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "ONG global de grandes felinos con programa de leopardo en África (sin verificar en esta pasada).",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Jamie Thom",
+    "nationality": "Sudafricano (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Ganador absoluto de Wildlife Photographer of the Year 1999 con 'Leopard with rising moon' (Sudáfrica). Obra antigua: comprobar si sigue activo."
+   }
+  ],
+  "design_notes": "Las rosetas del pelaje son un patrón gráfico de moda; un retrato a contraluz funciona como icono elegante.",
+  "sources": [
+   "https://ielc.libguides.com/sdzg/factsheets/leopard",
+   "https://en.wikipedia.org/wiki/African_leopard",
+   "https://atta.travel/resource/west-africa-s-leopards-uplisted-to-endangered.html",
+   "https://capeleopard.org.za/contact",
+   "https://capeleopard.org.za/about/team/story/helen-turnbull",
+   "https://en.wikipedia.org/wiki/Wildlife_Photographer_of_the_Year"
+  ]
+ },
+ {
+  "common_name_es": "Mandril",
+  "scientific_name": "Mandrillus sphinx",
+  "category": "África",
+  "continent": "África",
+  "countries": "Gabón, Camerún, Guinea Ecuatorial, República del Congo",
+  "region": "Selvas tropicales de África central occidental; Gabón alberga probablemente la mayor población",
+  "iucn_status": "Global: Vulnerable (VU), año de la evaluación sin verificar",
+  "population_estimate": "no lo tengo (población total desconocida; en el Parque de la Lékédi, Gabón, unos 120 mandriles en ~14.000 ha, sin verificar)",
+  "trend": "Decreciente: probablemente más del 30% de declive en las últimas tres décadas (BBC Wildlife, 2015)",
+  "taxonomy_note": "Género Mandrillus, junto al dril (M. leucophaeus); es el mayor mono del mundo.",
+  "foundations": [
+   {
+    "name": "Projet Mandrillus (CNRS, Francia)",
+    "hq_country": "Francia (proyecto en Gabón)",
+    "hq_city": "Montpellier (ISEM, sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "https://images.cnrs.fr/en/reportage-photo/rep000642",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Marie Charpentier, bióloga evolutiva que lo puso en marcha en 2012 (sin verificar)",
+    "what_they_do": "Base de investigación en el Parque de la Lékédi (Gabón) que estudia una población salvaje de mandriles procedente de liberaciones del Centro de Primatología de Franceville.",
+    "accepts_corporate_partners": "unknown: es un proyecto científico, no una ONG; habría que ver si acepta fondos"
+   },
+   {
+    "name": "Parc de la Lékédi",
+    "hq_country": "Gabón",
+    "hq_city": "Bakoumba (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "https://wewildafrica.com/?p=7780",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Parque privado que ha liberado dos grupos de mandriles nacidos en cautividad (primera liberación de 36 ejemplares, Oryx 2008).",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "La cara roja y azul del macho es la más colorida de los mamíferos: impacto visual inmediato en una camiseta.",
+  "sources": [
+   "https://www.pressreader.com/uk/bbc-wildlife-magazine/20150201/283978945791556",
+   "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9815BEE0CB3E9EA7B93C6E94CC008CC6/S0030605308000136a.pdf/learning_from_the_first_release_project_of_captivebred_mandrills_mandrillus_sphinx_in_gabon.pdf",
+   "https://images.cnrs.fr/en/reportage-photo/rep000642",
+   "https://wewildafrica.com/?p=7780",
+   "https://africageographic.com/stories/the-painted-ape-gallery"
+  ]
+ },
+ {
+  "common_name_es": "Indri",
+  "scientific_name": "Indri indri",
+  "category": "África",
+  "continent": "África",
+  "countries": "Madagascar (endémico)",
+  "region": "Selvas húmedas del este de Madagascar (p. ej. Andasibe, Maromizaha, Mangabe)",
+  "iucn_status": "Global: En Peligro Crítico (CR), reevaluado en el taller IUCN/SSC de lémures de 2012 (año de la ficha vigente sin verificar)",
+  "population_estimate": "1.000–10.000 individuos: estimación aproximada de un manual de 2013, no un censo. Hay un estudio acústico en marcha (Chester Zoo) para afinarla.",
+  "trend": "Decreciente (pérdida de hábitat, caza en aumento desde la crisis política de 2009, cambio climático)",
+  "taxonomy_note": "El mayor lémur vivo; único miembro del género Indri (familia Indriidae).",
+  "foundations": [
+   {
+    "name": "GERP (Groupe d'Étude et de Recherche sur les Primates de Madagascar)",
+    "hq_country": "Madagascar",
+    "hq_city": "Antananarivo (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "https://www.lemurconservationnetwork.org/wordpress/wp-content/uploads/2023/09/LCN-Indri-FactSheet.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Asociación malgache que gestiona el área protegida de Maromizaha, con seguimiento a largo plazo de grupos de indris (en colaboración con la Universidad de Turín).",
+    "accepts_corporate_partners": "unknown"
+   },
+   {
+    "name": "Chester Zoo (programa de indris)",
+    "hq_country": "Reino Unido",
+    "hq_city": "Chester",
+    "website": "https://www.chesterzoo.org",
+    "project_page_url": "https://chesterzoo.org/what-we-do/our-zoo/biographies/valeria-ferrario",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Apoya un doctorado de monitoreo acústico de indris en Maromizaha y Mangabe con dos asociaciones malgaches.",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Rhett A. Butler",
+    "nationality": "Estadounidense (sin verificar)",
+    "website": "https://pictures.butlernature.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://pictures.butlernature.com/madagascar/images/indri-1_0054.html",
+    "note": "Fundador de Mongabay; galería propia con indris de Andasibe. No es europeo."
+   }
+  ],
+  "design_notes": "Su canto y su silueta de 'osito panda' trepador lo hacen entrañable; es el emblema de Madagascar.",
+  "sources": [
+   "https://www.lemurconservationnetwork.org/wordpress/wp-content/uploads/2023/09/LCN-Indri-FactSheet.pdf",
+   "https://www.sfu.ca/biology/courses/bisc440/lemurs_13/files/iucn/indri.htm",
+   "https://www.nationalgeographic.com/animals/article/indri-acoustic-monitoring",
+   "https://chesterzoo.org/what-we-do/our-zoo/biographies/valeria-ferrario",
+   "https://pictures.butlernature.com/madagascar/images/indri-1_0054.html"
+  ]
+ },
+ {
+  "common_name_es": "Aye-aye",
+  "scientific_name": "Daubentonia madagascariensis",
+  "category": "África",
+  "continent": "África",
+  "countries": "Madagascar (endémico)",
+  "region": "Bosques del este, norte y oeste de Madagascar (sin verificar)",
+  "iucn_status": "Global: En Peligro (EN), año sin verificar (probablemente 2020); una fuente de 2015 menciona un paso a Casi Amenazado en 2008",
+  "population_estimate": "Desconocida; estimación de orden de magnitud 1.000–10.000 individuos (sin verificar). Se cree que ha caído un ~50% en 30–40 años (Dublin Zoo).",
+  "trend": "Decreciente",
+  "taxonomy_note": "Único superviviente de la familia Daubentoniidae; primate nocturno con un dedo medio alargado para extraer larvas.",
+  "foundations": [
+   {
+    "name": "Durrell Wildlife Conservation Trust – Programa Madagascar",
+    "hq_country": "Reino Unido (Jersey)",
+    "hq_city": "Trinity, Jersey (sin verificar)",
+    "website": "https://www.durrell.org",
+    "project_page_url": "https://www.durrell.org/media/o2sj2cjs/job-description-head-of-captive-breeding-madagascar.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo (en 2015 el director del programa era Richard Lewis; puede estar desactualizado)",
+    "what_they_do": "Su mayor programa (más de 70 empleados en Madagascar). Organizó en 1990 la misión de rescate de aye-ayes y creó el EEP europeo en 2005.",
+    "accepts_corporate_partners": "unknown"
+   },
+   {
+    "name": "Madagascar Fauna and Flora Group (MFG)",
+    "hq_country": "Consorcio internacional de zoos (Madagascar)",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Consorcio formalizado en 1988 que combina cría en cautividad e investigación de campo en Madagascar; el aye-aye es su logotipo.",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Extraño y fascinante (ojos enormes, dedo de 'bruja'): ideal para un diseño original que cuente su mala fama injusta.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aye-aye",
+   "https://dublinzoo.ie/animal/aye-aye",
+   "https://www.pressreader.com/uk/bbc-wildlife-magazine/20150708/283077003163780",
+   "https://www.durrell.org/media/o2sj2cjs/job-description-head-of-captive-breeding-madagascar.pdf",
+   "https://www.pressreader.com/south-africa/sunday-times-1107/20150419/283373355526946"
+  ]
+ },
+ {
+  "common_name_es": "Tortuga radiada",
+  "scientific_name": "Astrochelys radiata",
+  "category": "África",
+  "continent": "África",
+  "countries": "Madagascar (endémico)",
+  "region": "Bosque espinoso del sur y suroeste de Madagascar (zona de Toliara)",
+  "iucn_status": "Global: En Peligro Crítico (CR), año sin verificar (probablemente 2018)",
+  "population_estimate": "no lo tengo como cifra actual: población histórica de unos 12 millones y caída de más del 80% desde los años noventa (sin verificar). En 2018 se decomisaron 10.976 en una sola casa de Toliara.",
+  "trend": "Decreciente (tráfico de mascotas y destrucción del hábitat)",
+  "taxonomy_note": "Género Astrochelys, junto a la tortuga angonoka (A. yniphora); antes Geochelone radiata.",
+  "foundations": [
+   {
+    "name": "Turtle Survival Alliance (TSA)",
+    "hq_country": "Estados Unidos (programa en Madagascar)",
+    "hq_city": "Charleston, Carolina del Sur (sin verificar)",
+    "website": "https://turtlesurvival.org",
+    "project_page_url": "https://turtlesurvival.org/?p=5518",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Rescate y rehabilitación de tortugas decomisadas (decenas de miles desde 2018) y programa de conservación de la especie en Madagascar.",
+    "accepts_corporate_partners": "unknown: tiene tienda propia; programa de empresas sin verificar"
+   },
+   {
+    "name": "Durrell Wildlife Conservation Trust – Programa Madagascar",
+    "hq_country": "Reino Unido (Jersey)",
+    "hq_city": "Trinity, Jersey (sin verificar)",
+    "website": "https://www.durrell.org",
+    "project_page_url": "https://www.durrell.org/media/o2sj2cjs/job-description-head-of-captive-breeding-madagascar.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Cría en cautividad de quelonios malgaches y lucha contra el tráfico (sobre todo angonoka; su trabajo directo con la radiada está sin verificar).",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "El caparazón de estrellas amarillas sobre negro es un patrón gráfico perfecto, casi un estampado.",
+  "sources": [
+   "https://turtlesurvival.org/tortoises-seized-in-madagascar",
+   "https://news.mongabay.com/2018/04/monumental-bust-in-madagascar-triggers-effort-to-save-thousands-of-endangered-tortoises/",
+   "https://news.mongabay.com/2018/10/thousands-of-radiated-tortoises-seized-from-traffickers-in-madagascar/",
+   "https://turtlesurvival.org/?p=5518"
+  ]
+ },
+ {
+  "common_name_es": "Loro gris africano",
+  "scientific_name": "Psittacus erithacus",
+  "category": "África",
+  "continent": "África",
+  "countries": "África central y occidental (Ghana, Camerún, Congo, RD Congo, Gabón, Príncipe y otros; lista sin verificar)",
+  "region": "Selvas de tierras bajas de África central y occidental",
+  "iucn_status": "Global: En Peligro (EN), 2016 (algunas fuentes dan 2018)",
+  "population_estimate": "no lo tengo como cifra global. Ghana ha perdido el 90–99% de su población en dos décadas (Ibis, 2016).",
+  "trend": "Decreciente (comercio de mascotas y pérdida de hábitat)",
+  "taxonomy_note": "El loro de Timneh (Psittacus timneh) se separó como especie aparte.",
+  "foundations": [
+   {
+    "name": "Loro Parque Fundación",
+    "hq_country": "España",
+    "hq_city": "Puerto de la Cruz, Tenerife",
+    "website": "https://www.loroparque-fundacion.org",
+    "project_page_url": "https://www.loroparque-fundacion.org/en/?p=50060",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Fundación española que desde 2000 ha apoyado 5 proyectos del loro gris (Camerún desde 2006, Ghana 2011–2016); su estudio en Ghana ayudó a la protección en CITES.",
+    "accepts_corporate_partners": "unknown (probable: es una fundación ligada a empresa con patrocinadores; sin verificar)"
+   },
+   {
+    "name": "World Parrot Trust",
+    "hq_country": "Reino Unido",
+    "hq_city": "Hayle, Cornualles (sin verificar)",
+    "website": "https://www.parrots.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "ONG internacional de loros con programa para el loro gris (no confirmado en esta búsqueda).",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Gris elegante con cola roja intensa: un acento de color que queda muy bien sobre tejido claro; y es famoso por 'hablar'.",
+  "sources": [
+   "https://www.loroparque-fundacion.org/en/?p=50060",
+   "https://www.magzter.com/article/Animals-and-Pets/Parrots-magazine/Greys-and-Timnehs-continue-to-dwindle",
+   "https://www.birdguides.com/articles/african-grey-parrot-close-to-extirpation-in-ghana",
+   "https://academy.allaboutbirds.org/african-grey-parrot-species-in-decline/",
+   "https://www.ifaw.org/animals/grey-parrots"
+  ]
+ }
+]

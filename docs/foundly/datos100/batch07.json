@@ -1,0 +1,594 @@
+[
+ {
+  "common_name_es": "Avutarda común",
+  "scientific_name": "Otis tarda",
+  "category": "Europa",
+  "continent": "Europa (también Asia y norte de Marruecos)",
+  "countries": [
+   "España",
+   "Portugal",
+   "Hungría",
+   "Rusia",
+   "Kazajistán",
+   "China",
+   "Mongolia"
+  ],
+  "region": "España alberga la mayor parte de la población mundial: Castilla y León (15.789 ejemplares en 2019), Castilla-La Mancha, Madrid, Extremadura, Andalucía, Aragón; llanuras cerealistas esteparias.",
+  "iucn_status": "Global: Vulnerable (VU), 2017 (sin verificar año). España: incluida en el LESRPE (sin verificar).",
+  "population_estimate": "Castilla y León: 15.789 ejemplares (censo primavera 2019, +12,5% respecto a 2008). Castilla-La Mancha: ~7.214 ejemplares de media (blog 2024, sin verificar). No lo tengo a escala nacional reciente.",
+  "trend": "decreasing: tendencia negativa en España de más del 30% en 2005-2019 (LIFE Agroestepas Ibéricas); pérdida estimada de ~8.000 individuos en dos décadas (Alonso y Palacín 2022, citado por Gobierno de Aragón).",
+  "taxonomy_note": "Familia Otididae; dos subespecies: O. t. tarda (Europa-Asia central) y O. t. dybowskii (Asia oriental). Una de las aves voladoras más pesadas del mundo.",
+  "foundations": [
+   {
+    "name": "SEO/BirdLife (Sociedad Española de Ornitología)",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://seo.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "seo@seo.org (según registro EDMO); gestion@seo.org (según Fundación Lealtad) (sin verificar cuál es el vigente)",
+    "phone": "+34 914 340 910 (EDMO / Fundación Lealtad)",
+    "director_or_president": "Asunción Ruiz Guijosa, directora ejecutiva (nombrada en 2010; Fundación Lealtad la cita como directora; vigencia 2026 sin verificar)",
+    "what_they_do": "ONG ornitológica de referencia en España (socio de BirdLife International); coordina censos nacionales y programas de seguimiento. Sede: C/ Melquiades Biencinto 34, 28053 Madrid.",
+    "accepts_corporate_partners": "unknown (ONG acreditada por Fundación Lealtad; programa de empresas sin verificar)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Mario Cea Sánchez",
+    "nationality": "Española (Salamanca)",
+    "website": "no lo tengo (dato sin verificar eliminado)",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de aves premiado (WPY, FotoAves SEO/BirdLife). Salamanca es zona de avutardas, pero no he confirmado que tenga fotos de esta especie."
+   }
+  ],
+  "design_notes": "Macho en 'rueda' de cortejo con plumas blancas desplegadas: silueta espectacular y muy reconocible, icono de la estepa ibérica.",
+  "sources": [
+   "https://elmirondesoria.es/cyl/junta-de-castilla-y-leon/la-poblacion-de-avutarda-crece-un-12-5-por-ciento-en-la-ultima-decada/amp",
+   "https://www.ecoticias.com/naturaleza/346646-especies-destacadas-del-life-agroestepas-ibericas",
+   "https://aragon.es/documents/d/guest/memoria-de-seguimiento-de-la-avutarda-2022-pdf",
+   "https://ilpegolete.blogspot.com/2024/10/aves-esteparias-manchegas.html",
+   "https://www.xataka.com/entrevistas/hablamos-mario-cea-salamanca-guitarrista-union-uno-mejores-fotografos-naturaleza-mundo"
+  ]
+ },
+ {
+  "common_name_es": "Cigüeña negra",
+  "scientific_name": "Ciconia nigra",
+  "category": "Europa",
+  "continent": "Europa, Asia y África (migradora; inverna en África subsahariana)",
+  "countries": [
+   "España",
+   "Portugal",
+   "Polonia",
+   "Estonia",
+   "Letonia",
+   "Francia",
+   "Rusia",
+   "China"
+  ],
+  "region": "España: Extremadura (~189 parejas, más de la mitad de la población), Sierra Morena, Castilla y León, Castilla-La Mancha, Madrid; en expansión hacia el centro y norte peninsular.",
+  "iucn_status": "Global: Preocupación Menor (LC) (año sin verificar). España: 'En peligro de extinción' en el Catálogo Español de Especies Amenazadas (sin verificar); Extremadura aprobó Plan de Recuperación en 2022.",
+  "population_estimate": "España: 346 parejas seguras + 40 probables (386 territorios) en censo SEO/BirdLife 2017; más de 400 parejas según El Español (marzo 2026, sin verificar fuente oficial).",
+  "trend": "increasing (crecimiento del 15-20% respecto a censos anteriores según prensa 2026; desde ~175 parejas en 1987).",
+  "taxonomy_note": "Familia Ciconiidae; especie monotípica. Distinta de la cigüeña blanca (Ciconia ciconia); mucho más esquiva y forestal.",
+  "foundations": [
+   {
+    "name": "SEO/BirdLife (Sociedad Española de Ornitología)",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://seo.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "seo@seo.org (según registro EDMO); gestion@seo.org (según Fundación Lealtad) (sin verificar cuál es el vigente)",
+    "phone": "+34 914 340 910 (EDMO / Fundación Lealtad)",
+    "director_or_president": "Asunción Ruiz Guijosa, directora ejecutiva (nombrada en 2010; Fundación Lealtad la cita como directora; vigencia 2026 sin verificar)",
+    "what_they_do": "ONG ornitológica de referencia en España (socio de BirdLife International); coordina censos nacionales y programas de seguimiento. Sede: C/ Melquiades Biencinto 34, 28053 Madrid.",
+    "accepts_corporate_partners": "unknown (ONG acreditada por Fundación Lealtad; programa de empresas sin verificar)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Joaquín Figueredo",
+    "nationality": "Española (Extremadura)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Primer extremeño en ganar el premio absoluto del concurso de aves de la FIO (Monfragüe, 2025). No confirmado que tenga fotos de cigüeña negra."
+   }
+  ],
+  "design_notes": "Plumaje negro con reflejos verdes-púrpura y pico y patas rojos: contraste muy gráfico, elegante y poco visto.",
+  "sources": [
+   "https://www.elespanol.com/ciencia/20260329/dehesa-extremadura-sierra-morena-ciguena-negra-logra-superar-parejas-reconquista-espana-dt/1003744182676_0.html",
+   "https://www.ecoticias.com/naturaleza/189936_espana-alberga-346-parejas-de-ciguena-negra",
+   "https://doe.juntaex.es/pdfs/doe/2022/1330O/22050117.pdf",
+   "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/conservacion-de-especies-amenazadas/Ciguenha_negra_tcm30-195012.pdf",
+   "https://papelea.com/es/junta-de-extremadura/20250223-joaquin-figueredo-primer-extremeno-en-alzarse-con-el-premio-absoluto-del-concurso-fotografico-de-fio-juntaexes"
+  ]
+ },
+ {
+  "common_name_es": "Alimoche",
+  "scientific_name": "Neophron percnopterus",
+  "category": "Europa",
+  "continent": "Europa, África y Asia",
+  "countries": [
+   "España",
+   "Portugal",
+   "Francia",
+   "Italia",
+   "Bulgaria",
+   "Grecia",
+   "Turquía",
+   "India"
+  ],
+  "region": "España: ~32% de la población europea; Ebro, Sistema Ibérico, Cantabria, Castilla y León, Extremadura, Andalucía; Baleares (44-51 pp.) y Canarias (74 pp., subespecie 'guirre').",
+  "iucn_status": "Global: En Peligro (EN) (año sin verificar). España: 'Vulnerable' en el Catálogo Español (sin verificar); el guirre canario 'En peligro' (sin verificar).",
+  "population_estimate": "España: 1.506-1.558 parejas en 2018 (censo SEO/BirdLife, del Moral y Molina 2018); peninsular 1.372-1.442, Baleares 44-51, Canarias 74.",
+  "trend": "stable (ligero repunte en 2018 respecto a censos anteriores; 'estabilidad dinámica' según IRBio-UB).",
+  "taxonomy_note": "Familia Accipitridae; subespecies: N. p. percnopterus, N. p. ginginianus (India) y N. p. majorensis (guirre, Canarias). El buitre más pequeño de Europa, único migrador transahariano.",
+  "foundations": [
+   {
+    "name": "Fundación Naturaleza y Hombre (FNYH)",
+    "hq_country": "España",
+    "hq_city": "El Astillero (Cantabria)",
+    "website": "https://fnyh.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "fundacion@fnyh.org (documento CENEAM 2009, sin verificar vigencia)",
+    "phone": "no lo tengo",
+    "director_or_president": "Carlos Sánchez, presidente (Ecoticias, fecha sin verificar)",
+    "what_they_do": "Fundación de custodia del territorio; proyectos en el Oeste Ibérico para favorecer buitre negro, alimoche y lince. Premio Fundación BBVA de conservación.",
+    "accepts_corporate_partners": "unknown"
+   },
+   {
+    "name": "SEO/BirdLife (Sociedad Española de Ornitología)",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://seo.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "seo@seo.org (según registro EDMO); gestion@seo.org (según Fundación Lealtad) (sin verificar cuál es el vigente)",
+    "phone": "+34 914 340 910 (EDMO / Fundación Lealtad)",
+    "director_or_president": "Asunción Ruiz Guijosa, directora ejecutiva (nombrada en 2010; Fundación Lealtad la cita como directora; vigencia 2026 sin verificar)",
+    "what_they_do": "ONG ornitológica de referencia en España (socio de BirdLife International); coordina censos nacionales y programas de seguimiento. Sede: C/ Melquiades Biencinto 34, 28053 Madrid.",
+    "accepts_corporate_partners": "unknown (ONG acreditada por Fundación Lealtad; programa de empresas sin verificar)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Mario Cea Sánchez",
+    "nationality": "Española (Salamanca)",
+    "website": "no lo tengo (dato sin verificar eliminado)",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de aves premiado; especie no confirmada en su portfolio."
+   }
+  ],
+  "design_notes": "Rostro amarillo desnudo y plumaje blanco con primarias negras: retrato de carácter muy potente, 'el buitre punk'.",
+  "sources": [
+   "https://4vultures.org/wp-content/uploads/2021/05/Censo_Alimoche_2018_Espana.pdf",
+   "https://raptorsoftheworld.org/wp-content/uploads/2021/05/post-69-raptorsoftheworold.org-1-1.pdf",
+   "https://www.elindependiente.com/futuro/animales/2020/04/21/la-poblacion-de-alimoche-comun-repunta-ligeramente-en-espana/",
+   "https://www.ub.edu/irbio/factores-clave-detras-de-la-estabilidad-dinamica-en-la-poblacion-de-alimoche-en-la-espana-continental-n-1068-es",
+   "https://www.miteco.gob.es/es/ceneam/recursos/quien-es-quien/fundacion_nyh.html",
+   "https://www.ecoticias.com/medio-ambiente/188509_fundacion-naturaleza-hombre-premio-fundacion-bbva"
+  ]
+ },
+ {
+  "common_name_es": "Búho real",
+  "scientific_name": "Bubo bubo",
+  "category": "Europa",
+  "continent": "Europa, Asia y norte de África",
+  "countries": [
+   "España",
+   "Portugal",
+   "Francia",
+   "Italia",
+   "Alemania",
+   "Escandinavia",
+   "Rusia"
+  ],
+  "region": "España: casi todo el territorio salvo litoral cantábrico e islas; Comunidad de Madrid >250 parejas (~10% del total español, incluida una pareja en El Retiro en 2023).",
+  "iucn_status": "Global: Preocupación Menor (LC) (año sin verificar). España: no amenazado (LESRPE, sin verificar).",
+  "population_estimate": "España: mínimo 2.345 parejas (Atlas MITECO, Martínez-Climent y Zuberogoitia, año sin verificar); 2.500-3.000 parejas según Endesa (sin verificar). Europa: 12.000-42.000 pp.",
+  "trend": "increasing (SEO/BirdLife, programa Noctua, según Ecoticias; sin verificar).",
+  "taxonomy_note": "Familia Strigidae; numerosas subespecies (en Iberia B. b. hispanus). La rapaz nocturna más grande de Europa.",
+  "foundations": [
+   {
+    "name": "Brinzal",
+    "hq_country": "España",
+    "hq_city": "Madrid (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Centro de referencia en recuperación de rapaces nocturnas; sueltas de pollos de búho real con Zoo Aquarium de Madrid (mayo 2022).",
+    "accepts_corporate_partners": "unknown"
+   },
+   {
+    "name": "SEO/BirdLife (Sociedad Española de Ornitología)",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://seo.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "seo@seo.org (según registro EDMO); gestion@seo.org (según Fundación Lealtad) (sin verificar cuál es el vigente)",
+    "phone": "+34 914 340 910 (EDMO / Fundación Lealtad)",
+    "director_or_president": "Asunción Ruiz Guijosa, directora ejecutiva (nombrada en 2010; Fundación Lealtad la cita como directora; vigencia 2026 sin verificar)",
+    "what_they_do": "ONG ornitológica de referencia en España (socio de BirdLife International); coordina censos nacionales y programas de seguimiento. Sede: C/ Melquiades Biencinto 34, 28053 Madrid.",
+    "accepts_corporate_partners": "unknown (ONG acreditada por Fundación Lealtad; programa de empresas sin verificar)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "José B. Ruiz",
+    "nationality": "Española (Alicante, 1966)",
+    "website": "no lo tengo (dato sin verificar eliminado)",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de naturaleza, escritor y docente; publicado en National Geographic. Especie no confirmada."
+   }
+  ],
+  "design_notes": "Ojos naranjas enormes y 'orejas' de plumas: mirada frontal hipnótica, perfecta para un estampado centrado.",
+  "sources": [
+   "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/publicaciones/especies/buho__real_tcm30-99950.pdf",
+   "https://www.endesa.com/es/la-cara-e/biodiversidad/proyecto-conservacion-buho-real",
+   "https://diario.madrid.es/cieacasadecampo/el-gran-duque-surca-los-cielos-de-la-noche-madrilena/",
+   "https://www.ecoticias.com/naturaleza/109668_poblacion-buho-real-recupera",
+   "https://www.zoomadrid.com/content/dam/zoo/files/press-room/np_colaboracion_brinzal_para_la_recuperacion_de_rapaces_noctunas.pdf",
+   "https://www.ecoticias.com/naturaleza/16374_entrevista-a-jose-b-ruiz-fotografo-de-naturaleza-y-escritor-medio-ambiente-naturaleza-sostenibilidad-ecosistema"
+  ]
+ },
+ {
+  "common_name_es": "Águila perdicera (águila de Bonelli)",
+  "scientific_name": "Aquila fasciata",
+  "category": "Europa",
+  "continent": "Europa mediterránea, África y Asia",
+  "countries": [
+   "España",
+   "Portugal",
+   "Francia",
+   "Italia (Sicilia)",
+   "Marruecos",
+   "India"
+  ],
+  "region": "España: casi la mitad de las parejas del Mediterráneo occidental; Andalucía, Levante, Cataluña, Extremadura; reintroducciones en Madrid (8 parejas criando en 2024), Mallorca (10 parejas en 2020) y Navarra/Álava.",
+  "iucn_status": "Global: Preocupación Menor (LC) (año sin verificar). España: 'Vulnerable' en el Catálogo Español de Especies Amenazadas.",
+  "population_estimate": "España: 733-768 parejas (informe 2017); 'algo más de 750 parejas', ~35% menos que a finales de los 70.",
+  "trend": "decreasing a largo plazo; recuperación local por reintroducciones (Madrid, Mallorca).",
+  "taxonomy_note": "Familia Accipitridae; antes Hieraaetus fasciatus. Dos subespecies: A. f. fasciata y A. f. renschi (Indonesia).",
+  "foundations": [
+   {
+    "name": "GREFA (Grupo de Rehabilitación de la Fauna Autóctona y su Hábitat)",
+    "hq_country": "España",
+    "hq_city": "Majadahonda (Madrid)",
+    "website": "https://www.grefa.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Ernesto Álvarez, presidente (citado en Periódico Avenida, fecha sin verificar)",
+    "what_they_do": "Hospital de fauna y ONG de conservación; coordinó LIFE Bonelli (2013-2017) y AQUILA a-LIFE (2017-2022) de reintroducción de águila perdicera; trabaja también con buitres y otras rapaces.",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Mario Cea Sánchez",
+    "nationality": "Española (Salamanca)",
+    "website": "no lo tengo (dato sin verificar eliminado)",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de aves premiado; especie no confirmada."
+   }
+  ],
+  "design_notes": "Pecho blanco moteado y vuelo potente con alas abiertas: silueta de rapaz clásica, fuerte y heráldica.",
+  "sources": [
+   "https://www.ecoticias.com/naturaleza/138673_el-proyecto-europeo-life-bonelli-reintroduce-un-centenar-de-crias-de-aguila-perdicera-en-cinco-anos",
+   "https://www.ecoticias.com/naturaleza/181811_aquila-a-life-contribuira-recuperacion-aguila-bonelli-espana-italia",
+   "https://diario.madrid.es/cieacasadecampo/nuevas-aguilas-de-bonelli-sobrevuelan-la-comunidad-de-madrid/",
+   "https://www.ecoticias.com/naturaleza/203657_aguilas-bonelli-madrid-sacan-adelante-siete-pollos-2020",
+   "https://www.periodicoavenida.com/?p=41332"
+  ]
+ },
+ {
+  "common_name_es": "Cernícalo primilla",
+  "scientific_name": "Falco naumanni",
+  "category": "Europa",
+  "continent": "Europa mediterránea, Asia y África (inverna en el Sahel)",
+  "countries": [
+   "España",
+   "Portugal",
+   "Italia",
+   "Grecia",
+   "Turquía",
+   "Bulgaria (reintroducción)",
+   "Marruecos"
+  ],
+  "region": "España: Castilla-La Mancha (2.868 pp.), Andalucía (2.235), Castilla y León (1.816), Extremadura (1.541) (fecha sin verificar); colonias en iglesias y edificios históricos (ZEPA urbanas).",
+  "iucn_status": "Global: Preocupación Menor (LC) (año sin verificar). España: 'Vulnerable' (sin verificar).",
+  "population_estimate": "España: ~10.000 parejas (agregador de prensa, fecha sin verificar); primer censo nacional 1989: 4.293-5.089 pp. (MITECO).",
+  "trend": "decreasing en Extremadura (-73% según último censo nacional, citado por zepaurban); otras regiones sin verificar.",
+  "taxonomy_note": "Familia Falconidae; especie monotípica. Más pequeño y colonial que el cernícalo vulgar (F. tinnunculus).",
+  "foundations": [
+   {
+    "name": "DEMA (Defensa y Estudio del Medio Ambiente)",
+    "hq_country": "España",
+    "hq_city": "Almendralejo (Badajoz)",
+    "website": "https://dema.org.es (también demaprimilla.org, sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "924 671 752 (documento Fundación Biodiversidad 2017, sin verificar vigencia)",
+    "director_or_president": "no lo tengo (Pepe Antolín como portavoz, cargo sin verificar)",
+    "what_they_do": "Centro de cría de cernícalo primilla en Almendralejo (Ctra. Fuente Maestre s/n); método 'Ambiente de Colonia'; refuerzo de colonias y envío de aves a LIFE en Bulgaria; socio de LIFE ZEPAURBAN.",
+    "accepts_corporate_partners": "unknown (colabora con Endesa)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "José B. Ruiz",
+    "nationality": "Española (Alicante)",
+    "website": "no lo tengo (dato sin verificar eliminado)",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de naturaleza; especie no confirmada."
+   }
+  ],
+  "design_notes": "Macho con cabeza gris-azulada y dorso rojizo sin manchas sobre un tejado o campanario: unión de naturaleza y patrimonio urbano.",
+  "sources": [
+   "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/publicaciones/especies/cernicalo_primilla_tcm30-100019.pdf",
+   "https://www.zepaurban.com/sites/default/files/material/Action-D1-Resultado-del-reforzamiento-poblacional-en-la-ZEPA-de-San-Vicente-de-Alcántara.pdf",
+   "https://fundacion-biodiversidad.es/wp-content/uploads/2017/07/anexo_iv_-_fotografias.pdf",
+   "https://www.ecoticias.com/naturaleza/83795_noticia-medio-ambiente-cernicalos-primilla-extremadura-participara-proyecto-cautividad-bulgaria",
+   "https://www.juntaex.es/w/suelta-cernicalo-primilla-almendralejo",
+   "https://www.endesa.com/es/prensa/sala-de-prensa/noticias/eficiencia-energetica/medioambiente/iniciativa-pionera-conservacion-cernicalo-primilla"
+  ]
+ },
+ {
+  "common_name_es": "Tortuga mediterránea",
+  "scientific_name": "Testudo hermanni",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": [
+   "España",
+   "Francia",
+   "Italia",
+   "Croacia",
+   "Grecia",
+   "Bulgaria",
+   "Rumanía",
+   "Macedonia del Norte"
+  ],
+  "region": "España: Albera (Girona, último reducto salvaje de Cataluña), poblaciones reintroducidas en Garraf, Montsant y Delta del Ebro; Menorca y Mallorca.",
+  "iucn_status": "Global: Casi Amenazada (NT) (evaluación antigua, año sin verificar); Europa: NT (EUNIS). Subespecie occidental T. h. hermanni considerada En Peligro (sin verificar). España: 'Vulnerable' (sin verificar).",
+  "population_estimate": "no lo tengo (más de 10.000 ejemplares liberados en Cataluña desde 1997).",
+  "trend": "decreasing en la población salvaje de la Albera (sin verificar); reintroducciones en curso.",
+  "taxonomy_note": "Familia Testudinidae; subespecies T. h. hermanni (occidental, la ibérica) y T. h. boettgeri (oriental). La única tortuga terrestre autóctona de Cataluña.",
+  "foundations": [
+   {
+    "name": "CRARC (Centre de Recuperació d'Amfibis i Rèptils de Catalunya)",
+    "hq_country": "España",
+    "hq_city": "Masquefa (Barcelona)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Centro de recuperación de reptiles: recibe más de 3.000 tortugas mediterráneas al año de particulares; cría para reintroducciones en Garraf y Montsant.",
+    "accepts_corporate_partners": "unknown"
+   },
+   {
+    "name": "CRT l'Albera (Centre de Reproducció de Tortugues de l'Albera)",
+    "hq_country": "España",
+    "hq_city": "Garriguella (Girona)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "crt@tortugues.cat (artículo científico 2015, sin verificar vigencia)",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo (Joan Budó vinculado al centro según paper 2015)",
+    "what_they_do": "Cría y refuerzo de la población salvaje de la Albera desde 1997 con la Generalitat.",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Caparazón abombado con dibujo geométrico amarillo y negro: patrón gráfico simpático y fácil de leer en algodón.",
+  "sources": [
+   "https://www.diaridetarragona.com/ebre/237038/tortuga-mediterranea-recupera-habitat-tarragona.html",
+   "https://www.sostenible.cat/print/noticia/alliberades-mes-de-200-tortugues-mediterranies-al-paratge-natural-de-lalbera",
+   "https://naciodigital.cat/impacte/terra/catalunya-ja-ha-alliberat-mes-de-10000-tortugues-mediterranies.html",
+   "https://core.ac.uk/download/39087038.pdf",
+   "https://anoiaturisme.cat/es/anoia/centre-de-recuperacio-damfibis-i-reptils-de-catalunya",
+   "https://eunis.eea.europa.eu/species/Testudo hermanni",
+   "https://www.hermannihaven.com/the-albera-tortoise-project"
+  ]
+ },
+ {
+  "common_name_es": "Angelote / tiburón ángel",
+  "scientific_name": "Squatina squatina",
+  "category": "Europa",
+  "continent": "Europa (Atlántico nororiental y Mediterráneo)",
+  "countries": [
+   "España (Canarias)",
+   "Reino Unido (Gales)",
+   "Irlanda",
+   "Francia",
+   "Mediterráneo"
+  ],
+  "region": "Islas Canarias: su último gran bastión; zonas de cría en Las Teresitas (Tenerife) y Sardina del Norte (Gran Canaria).",
+  "iucn_status": "Global: En Peligro Crítico (CR) (año sin verificar). España: 'En peligro de extinción' en el Catálogo Español (sin verificar); Plan de Acción en Canarias (2016).",
+  "population_estimate": "no lo tengo",
+  "trend": "decreasing en casi todo su rango (casi desaparecido por sobrepesca); Canarias única población estable.",
+  "taxonomy_note": "Familia Squatinidae; tiburón aplanado de fondo, emboscador en arena. Apodado 'el lince ibérico de los mares'.",
+  "foundations": [
+   {
+    "name": "Angel Shark Project: Canary Islands (ULPGC + LIB Museum Koenig Bonn + ZSL)",
+    "hq_country": "España / Alemania / Reino Unido",
+    "hq_city": "Las Palmas de Gran Canaria",
+    "website": "https://angelsharknetwork.com/canaryislands",
+    "project_page_url": "https://angelsharknetwork.com/canaryislands",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Eva Meyers (cofundadora y co-líder, LIB) y Joanna Barker (ZSL); David Jiménez Alvarado (ULPGC)",
+    "what_they_do": "Investigación y ciencia ciudadana sobre el angelote; sus datos sustentan el Plan de Acción del Angelote en Canarias.",
+    "accepts_corporate_partners": "unknown"
+   },
+   {
+    "name": "ElasmoCan (Asociación para la investigación y conservación de elasmobranquios de Canarias)",
+    "hq_country": "España",
+    "hq_city": "Gran Canaria (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Proyecto de protección del área de cría del angelote en Sardina del Norte, cofinanciado por Loro Parque Fundación (sin verificar estado 2026).",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Felipe Ravina Olivares",
+    "nationality": "Española (Canarias)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Videógrafo del Angel Shark Project; filmó angelotes cazando de noche en Las Teresitas (2017)."
+   },
+   {
+    "name": "Francis Pérez",
+    "nationality": "Española (Canarias)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo submarino canario, primer premio World Press Photo 2017; no confirmado que tenga fotos de angelote."
+   }
+  ],
+  "design_notes": "Silueta plana en forma de ángel sobre arena: forma insólita y elegante, la historia del 'tiburón que casi desaparece'.",
+  "sources": [
+   "https://www.miteco.gob.es/es/ceneam/recursos/pag-web/angel-shark-project.html",
+   "https://angelsharknetwork.com/canaryislands",
+   "https://www.zsl.org/what-we-do/projects/angel-shark-conservation",
+   "https://www.miteco.gob.es/es/red-parques-nacionales/boletin/plan-accion-angelote_tcm30-425435.pdf",
+   "https://www.eldiario.es/canariasahora/sociedad/angelote-lince-iberico-mares_1_3938737.html",
+   "https://diariodeavisos.elespanol.com/2017/09/asi-caza-de-noche-el-tiburon-de-los-fondos-de-las-teresitas/"
+  ]
+ },
+ {
+  "common_name_es": "Caballito de mar narigudo",
+  "scientific_name": "Hippocampus guttulatus",
+  "category": "Europa",
+  "continent": "Europa (Atlántico nororiental y Mediterráneo)",
+  "countries": [
+   "España",
+   "Portugal",
+   "Francia",
+   "Italia",
+   "Reino Unido"
+  ],
+  "region": "España: Ría de Vigo (posible mayor colonia del litoral español), Mar Menor (Murcia); Portugal: Ria Formosa (Algarve).",
+  "iucn_status": "Global: Datos Insuficientes (DD) (evaluación en revisión, sin verificar); Europa: DD; Mediterráneo: Casi Amenazado (NT). España: recién incluido en el catálogo de especies amenazadas (prensa, sin verificar categoría).",
+  "population_estimate": "Ria Formosa: ~2 millones (2002) a ~300.000 (2008) según Oceanário de Lisboa; caída >90% en dos décadas. España: no lo tengo.",
+  "trend": "decreasing (colapso en Ria Formosa y Mar Menor; primeras parejas reproductoras en Mar Menor desde 2022 detectadas en 2024).",
+  "taxonomy_note": "Familia Syngnathidae; distinto del caballito de hocico corto (H. hippocampus). Sin estructura genética mayor a través del Cabo Finisterre.",
+  "foundations": [
+   {
+    "name": "Asociación Hippocampus",
+    "hq_country": "España",
+    "hq_city": "San Pedro del Pinatar (Murcia)",
+    "website": "https://www.asociacionhippocampus.com (citado por MITECO)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "+34 625 148 489 (registro GBIF 2022, sin verificar)",
+    "director_or_president": "no lo tengo (contactos administrativos GBIF: Juan Diego López Giraldo y Miguel Vivas Salvador)",
+    "what_they_do": "ONG nacida en 2007 del Proyecto Hippocampus; estudio y conservación del caballito de mar del Mar Menor; voluntarios buzos liberan caballitos de redes antimedusas.",
+    "accepts_corporate_partners": "unknown"
+   },
+   {
+    "name": "IIM-CSIC (Instituto de Investigacións Mariñas) – proyectos Hippo Dec / HIPPO-REF",
+    "hq_country": "España",
+    "hq_city": "Vigo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Centro público de investigación: cría en cautividad y arrecifes artificiales biodegradables con el Puerto de Vigo.",
+    "accepts_corporate_partners": "unknown (organismo público)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "José Irisarri",
+    "nationality": "Española (Galicia, sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Documentalista submarino cuyas inmersiones alertaron al IIM-CSIC de la gran colonia de la Ría de Vigo."
+   },
+   {
+    "name": "Ángel Fitor",
+    "nationality": "Española (Alicante, 1973)",
+    "website": "no lo tengo (dato sin verificar eliminado)",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo Europeo de Naturaleza del Año 2021 (GDT) con imagen del Mar Menor; no confirmadas fotos de caballito de mar."
+   }
+  ],
+  "design_notes": "Perfil curvo con 'melena' de filamentos y cola enrollada en alga: icono marino tierno y muy reconocible.",
+  "sources": [
+   "https://oceans-and-fisheries.ec.europa.eu/news/rescuing-seahorses-hipposave-2022-12-21_en",
+   "https://oceanario.pt/en/conservation/inaqua/seahorses-in-ria-formosa-endangered",
+   "https://forbes.es/?p=880514",
+   "https://www.eldiario.es/1_cfd175",
+   "https://gbif.es/instituciones/asociacion-hippocampus",
+   "https://www.eldiario.es/murcia/sociedad/captan-mar-menor-primeras-parejas-reproductoras-caballito-mar-2022-aire-esperanza_1_10984438.html",
+   "https://projectseahorse.org/saving-seahorses/conservation-assessments/regional/",
+   "https://gdtfoto.de/seiten/gdt-european-wildlife-photographer-of-the-year-results-2021.html"
+  ]
+ },
+ {
+  "common_name_es": "Ardilla roja",
+  "scientific_name": "Sciurus vulgaris",
+  "category": "Europa",
+  "continent": "Europa y Asia",
+  "countries": [
+   "España",
+   "Portugal",
+   "Francia",
+   "Reino Unido",
+   "Italia",
+   "Escandinavia",
+   "Rusia"
+  ],
+  "region": "España: casi toda la Península en zonas boscosas, falta en la mitad suroeste y amplias zonas de ambas submesetas; poblaciones en parques de Madrid (Casa de Campo, Retiro), Sierra Espuña (Murcia), acantilados de Málaga/Granada.",
+  "iucn_status": "Global: Preocupación Menor (LC) (año sin verificar). España: LC (MITECO).",
+  "population_estimate": "no lo tengo",
+  "trend": "unknown (MITECO proyecta contracción del 87-90% de su área potencial para 2041-2070 por cambio climático; en Reino Unido e Italia amenazada por la ardilla gris invasora).",
+  "taxonomy_note": "Familia Sciuridae; muchas subespecies descritas (en Iberia S. v. alpinus, S. v. infuscatus, etc., sin verificar). Coloración variable de rojizo a casi negro.",
+  "foundations": [
+   {
+    "name": "no lo tengo (no identifiqué fundación española específica; candidatos: SECEM, Red Squirrels Trust Wales/UK)",
+    "hq_country": "",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Pendiente de segunda pasada.",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "José B. Ruiz",
+    "nationality": "Española (Alicante)",
+    "website": "no lo tengo (dato sin verificar eliminado)",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de naturaleza; especie no confirmada."
+   }
+  ],
+  "design_notes": "Pinceles en las orejas, cola espesa y pose con piña: personaje adorable y universal, ideal para público infantil y urbano.",
+  "sources": [
+   "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/inventarios-nacionales/Sciurus_vulgaris_tcm30-200983.pdf",
+   "https://diario.madrid.es/cieacasadecampo/mamiferos-de-la-casa-de-campo-ardillas/",
+   "https://www.ecoticias.com/naturaleza/ardilla-roja-sierra-espuna"
+  ]
+ }
+]

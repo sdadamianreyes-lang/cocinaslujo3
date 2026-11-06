@@ -1,0 +1,562 @@
+[
+ {
+  "common_name_es": "Grulla coronada cuelligrís",
+  "scientific_name": "Balearica regulorum",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Uganda",
+   "Kenia",
+   "Ruanda",
+   "Tanzania",
+   "Zambia",
+   "Zimbabue",
+   "Sudáfrica",
+   "RD Congo",
+   "Botsuana",
+   "Mozambique"
+  ],
+  "region": "África oriental y austral; humedales y praderas. La subespecie oriental B. r. gibbericeps supone ~75% de la población; B. r. regulorum en el sur.",
+  "iucn_status": "Global: En Peligro (EN), elevada desde Vulnerable en 2012; evaluación vigente 2024 (sin verificar en la Lista Roja directamente).",
+  "population_estimate": "26.500–33.500 individuos (revisión del International Crane Foundation, 2019). Otras fuentes dan cifras muy distintas (17.700–22.300; 58.000–77.000), sin verificar. Ruanda: 1.066 grullas en el censo de 2022 (487 en 2017), según RWCA.",
+  "trend": "En declive (~80% de descenso en 45 años en el conjunto del área); recuperación local en Ruanda.",
+  "taxonomy_note": "Dos subespecies: B. r. gibbericeps (África oriental) y B. r. regulorum (sur). Ave nacional de Uganda (aparece en su bandera) (sin verificar en snippet).",
+  "foundations": [
+   {
+    "name": "International Crane Foundation (ICF) / Endangered Wildlife Trust (EWT) – African Crane Conservation Programme",
+    "hq_country": "EE. UU. (ICF) / Sudáfrica (EWT)",
+    "hq_city": "Baraboo, Wisconsin (ICF) (sin verificar); Johannesburgo (EWT) (sin verificar)",
+    "website": "https://savingcranes.org",
+    "project_page_url": "https://savingcranes.org/wp-content/uploads/2024/12/grey_crowned_cranes_wetlands_and_communities_ewtc_web.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Kerryn Morrison coordina el Grupo de Trabajo Internacional AEWA de la grulla coronada cuelligrís por la alianza ICF/EWT (sin verificar cargo actual)",
+    "what_they_do": "Alianza desde 2005: conservación comunitaria de humedales y grullas en Kenia, Uganda y Ruanda; estrategia de conservación de la especie.",
+    "accepts_corporate_partners": "unknown"
+   },
+   {
+    "name": "Rwanda Wildlife Conservation Association (RWCA)",
+    "hq_country": "Ruanda",
+    "hq_city": "Kigali (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Censos anuales de grullas y programa contra la tenencia ilegal de grullas cautivas en Ruanda; población pasó de 487 (2017) a 1.066 (2022).",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Joschka Voss",
+    "nationality": "no lo tengo",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://africageographic.com/stories/photographer-of-the-year-2024-weekly-selection-week-2/",
+    "note": "Retrato de grulla coronada cuelligrís en South Luangwa (Zambia) seleccionado en Africa Geographic Photographer of the Year (sin verificar año exacto y premio)."
+   }
+  ],
+  "design_notes": "La corona dorada de plumas y el contraste gris-blanco-rojo forman una silueta elegantísima, reconocible y muy gráfica.",
+  "sources": [
+   "https://savingcranes.org/wp-content/uploads/2024/10/crane_conservation_strategy_grey_crowned_crane.pdf",
+   "https://savingcranes.org/wp-content/uploads/2024/10/conservation_status_of_cranes_2025.pdf",
+   "https://en.wikipedia.org/wiki/Grey_crowned_crane",
+   "https://ewt.org.za/?p=11912",
+   "https://www.unep-aewa.org/en/node/720",
+   "https://www.kenyanews.go.ke/efforts-to-save-endangered-crane-birds/"
+  ]
+ },
+ {
+  "common_name_es": "Buitre dorsiblanco africano",
+  "scientific_name": "Gyps africanus",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Sudáfrica",
+   "Botsuana",
+   "Namibia",
+   "Zimbabue",
+   "Kenia",
+   "Tanzania",
+   "Etiopía",
+   "Senegal",
+   "y gran parte del Sahel y África oriental y austral"
+  ],
+  "region": "Sabanas abiertas del África subsahariana, desde el Sahel hasta Sudáfrica.",
+  "iucn_status": "Global: En Peligro Crítico (CR), desde 2015. Sudáfrica/Lesoto/Esuatini: En Peligro Crítico (BirdLife South Africa, evaluación regional actualizada 2025).",
+  "population_estimate": "~270.000 individuos a nivel global (BirdLife, sin verificar año). Región austral: ~6.000 individuos maduros (BirdLife South Africa, 2025). Descenso estimado del 86% (estudio de 2024, sin verificar).",
+  "trend": "En fuerte declive (envenenamiento, uso en medicina tradicional, electrocución).",
+  "taxonomy_note": "Especie monotípica del género Gyps; no confundir con el buitre leonado europeo (Gyps fulvus), pariente cercano.",
+  "foundations": [
+   {
+    "name": "VulPro",
+    "hq_country": "Sudáfrica",
+    "hq_city": "Hartbeespoort (North West) (sin verificar)",
+    "website": "https://www.vulpro.com",
+    "project_page_url": "https://www.vulpro.com/what-we-do/",
+    "contact_email": "info@vulpro.com",
+    "phone": "+27 82 808 5113 (según boletín 2022, solo emergencias)",
+    "director_or_president": "Kerri Wolter (fundadora) (sin verificar cargo actual)",
+    "what_they_do": "Única instalación dedicada a buitres en África: rehabilitación, cría, más de 250 buitres no liberables, censos anuales de colonias de dorsiblanco desde 2015.",
+    "accepts_corporate_partners": "unknown"
+   },
+   {
+    "name": "Vulture Conservation Foundation (VCF)",
+    "hq_country": "Suiza (sede legal) / trabajo en España",
+    "hq_city": "no lo tengo",
+    "website": "https://4vultures.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Fundación europea de buitres con fuerte presencia en España; opción europea para un acuerdo, aunque su foco es Europa (sin verificar que trabaje con G. africanus).",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Kevin Dooley",
+    "nationality": "Estados Unidos (Albuquerque, Nuevo México)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://africageographic.com/stories/photographer-of-the-year-2021-weekly-selection-week-4/",
+    "note": "Foto de buitres dorsiblancos en Mashatu (Botsuana) listada como ganadora en los Mkapa Photo Awards 2021 (sin verificar en la web oficial del premio)."
+   },
+   {
+    "name": "Angela Riley",
+    "nationality": "no lo tengo",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://africageographic.com/stories/photographer-of-the-year-2021-weekly-selection-top-101-gallery-2/",
+    "note": "Buitre dorsiblanco alimentándose de una jirafa, seleccionada en Africa Geographic Photographer of the Year (no consta premio)."
+   }
+  ],
+  "design_notes": "Mensaje potente de 'héroe incomprendido' (limpiador de la sabana en peligro crítico); silueta de alas abiertas muy gráfica.",
+  "sources": [
+   "https://www.birdlife.org.za/red-list/white-backed-vulture/",
+   "https://datazone.birdlife.org/species/factsheet/white-backed-vulture-gyps-africanus/text",
+   "https://en.wikipedia.org/wiki/White-backed_vulture",
+   "https://www.vulpro.com/what-we-do/",
+   "https://www.vulpro.com/wp-content/uploads/2023/01/Vulpro_Newsletter_December2022s.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Cálao terrestre sureño",
+  "scientific_name": "Bucorvus leadbeateri",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Sudáfrica",
+   "Namibia",
+   "Botsuana",
+   "Zimbabue",
+   "Zambia",
+   "Mozambique",
+   "Malaui",
+   "Tanzania",
+   "Kenia",
+   "Angola",
+   "Esuatini"
+  ],
+  "region": "Sabanas y praderas del África subecuatorial; en Sudáfrica sobre todo en Kruger y áreas protegidas.",
+  "iucn_status": "Global: Vulnerable (VU), 2025 (BirdLife International 2025). Sudáfrica, Esuatini y Namibia: En Peligro (EN) regional.",
+  "population_estimate": "no lo tengo (las fuentes indican que la población global es difícil de cuantificar).",
+  "trend": "En declive, especialmente en Sudáfrica y fuera de áreas protegidas.",
+  "taxonomy_note": "Una de las dos especies de Bucorvus (la otra, B. abyssinicus, al norte). Cría cooperativa; solo suele sobrevivir un pollo por nidada.",
+  "foundations": [
+   {
+    "name": "Mabula Ground Hornbill Project",
+    "hq_country": "Sudáfrica",
+    "hq_city": "Limpopo (Mabula, Bela-Bela) (sin verificar)",
+    "website": "https://ground-hornbill.org.za/",
+    "project_page_url": "https://ground-hornbill.org.za/donate/",
+    "contact_email": "project@ground-hornbill.org.za",
+    "phone": "083 289 8610 (directorio Panorama)",
+    "director_or_president": "Dra. Lucy Kemp (contacto en 2018; cargo actual sin verificar)",
+    "what_they_do": "Fundado en 1999: seguimiento de la población nacional, cría a mano del segundo pollo y reintroducción, nidos artificiales; organizó el PHVA 2017 con IUCN CPSG.",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Cara roja intensa, pestañas largas y plumaje negro: un 'personaje' carismático y diferente que destaca en camiseta.",
+  "sources": [
+   "https://ground-hornbill.org.za/",
+   "https://ielc.libguides.com/sdzg/factsheets/southern_groundhornbill/population",
+   "https://www.cpsg.org/documents/southern-ground-hornbill-bucorvus-leadbeateri-species-conservation-strategy-action-plan",
+   "https://panorama.solutions/en/organisation/mabula-ground-hornbill-project",
+   "https://www.worldlandtrust.org/species/southern-ground-hornbill/"
+  ]
+ },
+ {
+  "common_name_es": "Picozapato",
+  "scientific_name": "Balaeniceps rex",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Sudán del Sur",
+   "Uganda",
+   "Zambia",
+   "Tanzania",
+   "RD Congo",
+   "Ruanda",
+   "Etiopía"
+  ],
+  "region": "Grandes pantanos de papiro de África oriental y central: Sudd (Sudán del Sur), Mabamba y lago Victoria (Uganda), Bangweulu (Zambia).",
+  "iucn_status": "Global: Vulnerable (VU) (año de evaluación vigente: no lo tengo). Uganda: En Peligro en su lista roja nacional.",
+  "population_estimate": "3.300–5.300 adultos maduros (estimación UICN 2016, citada por Audubon). Sudán del Sur ~5.000 aves (sin verificar). Bangweulu: 300–500 (African Parks).",
+  "trend": "En declive (tráfico de huevos y pollos, pérdida de humedales, perturbación de nidos).",
+  "taxonomy_note": "Única especie de la familia Balaenicipitidae; monotípica.",
+  "foundations": [
+   {
+    "name": "African Parks – Bangweulu Wetlands",
+    "hq_country": "Sudáfrica (sede de African Parks) (sin verificar)",
+    "hq_city": "Johannesburgo (sin verificar)",
+    "website": "https://www.africanparks.org",
+    "project_page_url": "https://www.africanparks.org/shoebill-conservation-bangweulu-unique-solution-unique-bird",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Gestiona Bangweulu con el DNPW de Zambia: Programa de Protección de Nidos de Picozapato desde 2012 (pescadores como guardas), plan de manejo y centro de cría/rehabilitación desde mayo 2022.",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Charlotte Keast",
+    "nationality": "Reino Unido",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Conservation Silver Award en Bird Photographer of the Year 2025 con una imagen de picozapato (sin verificar en la web oficial del concurso)."
+   }
+  ],
+  "design_notes": "Aspecto prehistórico y mirada seria e irónica: viral en redes, perfecto para una camiseta con humor y carácter.",
+  "sources": [
+   "https://audubon.org/news/from-canoes-fishermen-guard-africas-famous-shoebills-against-poachers",
+   "https://www.africanparks.org/shoebill-conservation-bangweulu-unique-solution-unique-bird",
+   "https://www.africanparks.org/the-parks/bangweulu/fauna-flora",
+   "https://www.edgeofexistence.org/wp-content/uploads/2017/06/Survival_Blueprint_2019_Shoebill_Final.pdf",
+   "https://newatlas.com/photography/bird-photography-2025-winners"
+  ]
+ },
+ {
+  "common_name_es": "Flamenco enano",
+  "scientific_name": "Phoeniconaias minor",
+  "category": "África",
+  "continent": "África (también India y Pakistán)",
+  "countries": [
+   "Tanzania",
+   "Kenia",
+   "Etiopía",
+   "Botsuana",
+   "Namibia",
+   "Sudáfrica",
+   "Mauritania",
+   "India"
+  ],
+  "region": "Lagos alcalinos del Rift de África oriental (Natron, Bogoria, Nakuru), Makgadikgadi y Etosha; también Rann de Kutch (India).",
+  "iucn_status": "Global: Casi Amenazado (NT) (año de evaluación: no lo tengo). CITES Apéndice II; incluido en AEWA.",
+  "population_estimate": "no lo tengo (las fuentes consultadas no daban cifra fechada).",
+  "trend": "En declive moderadamente rápido (BirdLife).",
+  "taxonomy_note": "Única especie del género Phoeniconaias; el flamenco más pequeño y numeroso.",
+  "foundations": [
+   {
+    "name": "BirdLife International (y socio local, p. ej. Nature Kenya)",
+    "hq_country": "Reino Unido",
+    "hq_city": "Cambridge (sin verificar)",
+    "website": "https://www.birdlife.org",
+    "project_page_url": "https://datazone.birdlife.org/species/factsheet/lesser-flamingo-phoeniconaias-minor/text",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Defensa del lago Natron (Tanzania), donde nacen el 65–75% de los flamencos enanos del mundo, frente a proyectos de extracción de sosa; pide protección permanente de las colonias.",
+    "accepts_corporate_partners": "unknown"
+   },
+   {
+    "name": "SEO/BirdLife",
+    "hq_country": "España",
+    "hq_city": "Madrid (sin verificar)",
+    "website": "https://seo.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Socio español de BirdLife; posible puerta de entrada europea para colaborar con la campaña de Natron (sin verificar proyecto concreto con la especie).",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Cristóbal Serrano",
+    "nationality": "España",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.gdtfoto.de/seiten/gdt-european-wildlife-photographer-of-the-year-results-2018.html",
+    "note": "Ganador absoluto del GDT European Wildlife Photographer of the Year 2018 con una foto aérea (dron) de bandadas de flamencos enanos en el lago Bogoria (Kenia)."
+   },
+   {
+    "name": "Dennis Stogsdill",
+    "nationality": "no lo tengo",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Ganador de la categoría Behaviour: Mammals en Wildlife Photographer of the Year 2025 con 'Cat Amongst the Flamingos' (caracal cazando flamencos enanos, Serengeti)."
+   }
+  ],
+  "design_notes": "Rosa intenso y patrones aéreos hipnóticos de miles de aves: estética de moda, muy vendible, y conecta con el flamenco ibérico.",
+  "sources": [
+   "https://datazone.birdlife.org/species/factsheet/lesser-flamingo-phoeniconaias-minor/text",
+   "https://news.mongabay.com/2011/05/fight-for-flamingos-tanzania-to-mine-in-worlds-most-important-flamingo-breeding-ground/",
+   "https://www.birdguides.com/news/soda-ash-development-threatens-entire-east-african-lesser-flamingo",
+   "https://www.gdtfoto.de/seiten/gdt-european-wildlife-photographer-of-the-year-results-2018.html",
+   "https://www.itv.com/news/2025-10-14/winners-of-wildlife-photographer-of-the-year-awards-announced"
+  ]
+ },
+ {
+  "common_name_es": "Tiburón ballena",
+  "scientific_name": "Rhincodon typus",
+  "category": "África",
+  "continent": "Océanos tropicales (foco: África oriental)",
+  "countries": [
+   "Mozambique",
+   "Tanzania",
+   "(distribución circumtropical global)"
+  ],
+  "region": "Foco del diseño: Praia do Tofo (Inhambane, Mozambique) y isla de Mafia (Tanzania), con agregación pequeña y residente.",
+  "iucn_status": "Global: En Peligro (EN), 2016.",
+  "population_estimate": "no lo tengo (en Tofo se documentó un descenso del 79% de los avistamientos, sin fecha en el snippet).",
+  "trend": "En declive (pesca dirigida, captura accidental, colisiones con barcos).",
+  "taxonomy_note": "Única especie de la familia Rhincodontidae; el pez más grande del mundo.",
+  "foundations": [
+   {
+    "name": "Marine Megafauna Foundation (MMF) / Associação Megafauna Marinha (AMM)",
+    "hq_country": "EE. UU. (sede); operaciones en Mozambique",
+    "hq_city": "West Palm Beach, Florida",
+    "website": "https://marinemegafauna.org",
+    "project_page_url": "https://marinemegafauna.org/whale-sharks/mafia-island-tanzania-research-project",
+    "contact_email": "simon@marinemegafauna.org (Simon Pierce, publicado como simon[@]marinemegafauna.org en la web del equipo)",
+    "phone": "no lo tengo",
+    "director_or_president": "Dr. Simon J. Pierce (cofundador y director ejecutivo); cofundadora Andrea Marshall",
+    "what_they_do": "Fundada en 2009 en Tofo: Programa Global de Tiburón Ballena, foto-identificación, marcaje satelital, estudios en Mafia (Tanzania); impulsó la reclasificación a En Peligro (2016).",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Patrón de lunares blancos único e icónico; la escala gigantesca y su calma lo hacen muy querido y fácil de estilizar.",
+  "sources": [
+   "https://marinemegafauna.org/team/simon-pierce",
+   "https://marinemegafauna.org/whale-sharks/mafia-island-tanzania-research-project",
+   "https://en.wikipedia.org/wiki/Marine_Megafauna_Foundation",
+   "https://www.nationalgeographic.com/animals/article/whale-sharks-mafia-island-video",
+   "https://www.keybiodiversityareas.org/site/factsheet/49172"
+  ]
+ },
+ {
+  "common_name_es": "Manatí africano",
+  "scientific_name": "Trichechus senegalensis",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Senegal",
+   "Gambia",
+   "Guinea-Bisáu",
+   "Guinea",
+   "Sierra Leona",
+   "Liberia",
+   "Costa de Marfil",
+   "Ghana",
+   "Nigeria",
+   "Camerún",
+   "Gabón",
+   "Congo",
+   "Angola",
+   "Malí",
+   "Níger",
+   "Chad"
+  ],
+  "region": "Costas, estuarios, manglares y ríos de África occidental, de Senegal a Angola; zonas clave: archipiélago de Bijagós (Guinea-Bisáu) y Casamance (Senegal).",
+  "iucn_status": "Global: Vulnerable (VU), 2015 (errata publicada 2016; evaluadora L. Keith Diagne).",
+  "population_estimate": "~10.000 individuos maduros (ficha del Mohamed bin Zayed Species Conservation Fund, sin fecha; sin verificar).",
+  "trend": "Desconocida según la ficha MBZ; amenazas: caza, captura accidental, presas, pérdida de hábitat.",
+  "taxonomy_note": "Una de las tres especies de manatí (con T. manatus y T. inunguis); la menos estudiada.",
+  "foundations": [
+   {
+    "name": "African Aquatic Conservation Fund (AACF)",
+    "hq_country": "EE. UU. / Senegal",
+    "hq_city": "Chilmark, Massachusetts (P.O. Box 366); oficina en Joal, Senegal (BP 80)",
+    "website": "https://africanaquaticconservation.org",
+    "project_page_url": "https://africanaquaticconservation.org/project/african-manatee-research/",
+    "contact_email": "no lo tengo (formulario 'Contact Us' en la web)",
+    "phone": "(508) 388-9824 (firma antigua en lista de correo; sin verificar)",
+    "director_or_president": "Dra. Lucy Keith-Diagne (cofundadora y directora)",
+    "what_they_do": "Investigación y conservación del manatí africano en Senegal y la región: rescates, uso del hábitat, dieta, genética, reducción de caza y captura accidental.",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Gigante gentil y casi desconocido: historia de 'especie olvidada' que diferencia la colección; silueta redondeada muy amable.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/African_manatee",
+   "https://www.speciesconservation.org/blog/wp-content/uploads/2021/04/MBZ6514_MBZ_Species_Factsheet_Guinea_Manatee_v2.pdf",
+   "https://africanaquaticconservation.org/project/african-manatee-research/",
+   "https://www.pewtrusts.org/projects/marine-fellows/fellows-directory/2017/lucy-keith-diagne",
+   "https://www.cms.int/sites/default/files/document/Afr_Cet_Man_Manatees_AP_e_0.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Antílope sable gigante (palanca negra gigante)",
+  "scientific_name": "Hippotragus niger variani",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Angola"
+  ],
+  "region": "Provincia de Malanje: Parque Nacional de Cangandala y Reserva Natural Integral del Luando.",
+  "iucn_status": "Global: En Peligro Crítico (CR) para la subespecie (año: no lo tengo; la especie H. niger es Preocupación Menor) (sin verificar en la Lista Roja).",
+  "population_estimate": "~310 individuos en 8 manadas (2026, Wikipedia, sin verificar); Luando: 185 en el censo de 2024 (+20% vs 2022, VerAngola); Cangandala: 115 (ANGOP, 2023). Histórico: 2.000–2.500 en 1971.",
+  "trend": "En aumento (recuperación tras casi extinguirse por la guerra y la caza furtiva).",
+  "taxonomy_note": "Subespecie del antílope sable (Hippotragus niger); símbolo nacional de Angola (selección de fútbol 'Palancas Negras').",
+  "foundations": [
+   {
+    "name": "Fundação Kissama",
+    "hq_country": "Angola",
+    "hq_city": "Luanda",
+    "website": "no lo tengo (Facebook: https://www.facebook.com/fundacao.kissama/)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Vladimir Russo (director ejecutivo de ambiente, según VerAngola 2025)",
+    "what_they_do": "ONG angoleña creada en 1995; el Proyecto de Conservación de la Palanca Negra Gigante (liderado por Pedro Vaz Pinto desde 2003) es uno de sus proyectos principales.",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Pedro Vaz Pinto",
+    "nationality": "Portugal/Angola (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Biólogo que lidera el proyecto desde 2003 y ha documentado la especie con fototrampeo y drones; no es fotógrafo profesional (sin verificar autoría de imágenes)."
+   },
+   {
+    "name": "Richard Estes",
+    "nationality": "no lo tengo",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.nationalgeographic.com/news/2015/05/150521-angola-giant-sable-antelope-operation-noahs-ark-south-africa/",
+    "note": "Crédito 'Photograph by Richard Estes' junto a una imagen de palanca negra en National Geographic (2015) (sin verificar que sea su foto)."
+   }
+  ],
+  "design_notes": "Cuernos curvos enormes y máscara facial blanca sobre pelaje negro: una de las siluetas más majestuosas de África, con historia de resurrección.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Giant_sable_antelope",
+   "https://angop.ao/en/noticias/ambiente/parque-nacional-de-cangandala-com-115-palancas-negra-gigante",
+   "https://www.verangola.net/va/pt/092025/Ambiente/45940/Palanca-negra-gigante-continua-criticamente-em-perigo-de-extinção.htm",
+   "https://www.verangola.net/va/pt/082025/Ambiente/45642/Fundação-Kissama-assinala-três-décadas-com-novos-projectos.htm",
+   "https://ktvz.com/cnn-other/2024/09/19/angola-nearly-lost-its-national-animal-to-poaching-heres-how-a-team-of-dedicated-conservationists-brought-it-back/"
+  ]
+ },
+ {
+  "common_name_es": "Gacela dama",
+  "scientific_name": "Nanger dama",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Chad",
+   "Níger",
+   "Malí (sin verificar)",
+   "reintroducida en Senegal y Túnez"
+  ],
+  "region": "Sahel y Sáhara meridional; reserva de Ouadi Rimé-Ouadi Achim (Chad) y Aïr-Ténéré/Termit (Níger).",
+  "iucn_status": "Global: En Peligro Crítico (CR) (año: no lo tengo).",
+  "population_estimate": "Menos de 100 en libertad en cuatro grupos aislados (Sahara Conservation Fund, sin fecha); SCF da 85–120 como estimación baja y <200 como techo. Ouadi Rimé: 29 animales tras la suelta de 6 en mayo de 2024 (EAD Abu Dabi).",
+  "trend": "En declive en la naturaleza; reforzamiento mediante reintroducción en Chad.",
+  "taxonomy_note": "Subespecies: N. d. mhorr (gacela mhorr, extinta en libertad y criada en Almería), N. d. ruficollis y N. d. dama.",
+  "foundations": [
+   {
+    "name": "Sahara Conservation (Sahara Conservation Fund, SCF)",
+    "hq_country": "Francia / EE. UU. (oficinas también en Níger y Chad)",
+    "hq_city": "no lo tengo",
+    "website": "https://saharaconservation.org",
+    "project_page_url": "https://saharaconservation.org/saharan-species/dama-gazelle/",
+    "contact_email": "scf@saharaconservation.org (agregador, sin verificar)",
+    "phone": "no lo tengo",
+    "director_or_president": "John Watkin (CEO según oferta de empleo de hace ~4 años, sin verificar)",
+    "what_they_do": "Rescate y traslado de gacelas dama a Ouadi Rimé-Ouadi Achim (2020), estrategia 2019–2028, sueltas y seguimiento satelital.",
+    "accepts_corporate_partners": "unknown"
+   },
+   {
+    "name": "Estación Experimental de Zonas Áridas (EEZA-CSIC) – Parque de Rescate de Fauna Sahariana",
+    "hq_country": "España",
+    "hq_city": "Almería",
+    "website": "https://www.csic.es (EEZA, sin verificar URL propia)",
+    "project_page_url": "https://www.csic.es/sites/default/files/d7/noticias/19octubre2021_aniv_operacionmohor_2.docx.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Desde 1971 cría en cautividad la gacela mhorr (Operación Mohor); coordina el EEP/EAZA desde 2002; convenios con Zoo Aquarium de Madrid (2021), Zoobotánico de Jerez y Río Safari (2026); reintroducciones en Senegal.",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Elegante gacela blanca y canela con vínculo español real (salvada de la extinción en Almería): historia perfecta para una marca madrileña.",
+  "sources": [
+   "https://saharaconservation.org/saving-the-last-critically-endangered-dama-gazelles/",
+   "https://saharaconservation.org/saharan-species/dama-gazelle/",
+   "https://www.wikipedia.com/wiki/Nanger_dama",
+   "https://www.csic.es/sites/default/files/d7/noticias/19octubre2021_aniv_operacionmohor_2.docx.pdf",
+   "https://www.boe.es/boe/dias/2026/02/19/pdfs/BOE-A-2026-3890.pdf",
+   "https://www.boe.es/boe/dias/2021/02/27/pdfs/BOE-A-2021-3134.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Suricata",
+  "scientific_name": "Suricata suricatta",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Sudáfrica",
+   "Botsuana",
+   "Namibia",
+   "Angola"
+  ],
+  "region": "Kalahari y zonas áridas del sur de África; Kuruman River Reserve (Cabo Septentrional, Sudáfrica), ~17 km al sur de la frontera con Botsuana.",
+  "iucn_status": "Global: Preocupación Menor (LC) (año: no lo tengo; sin verificar en la Lista Roja).",
+  "population_estimate": "no lo tengo",
+  "trend": "Estable (sin amenazas significativas, sin verificar).",
+  "taxonomy_note": "Pequeña mangosta (Herpestidae); tres subespecies reconocidas, entre ellas S. s. suricatta (sur de Namibia, sur de Botsuana y Sudáfrica).",
+  "foundations": [
+   {
+    "name": "Kalahari Research Trust / Kalahari Meerkat Project",
+    "hq_country": "Sudáfrica",
+    "hq_city": "Kuruman River Reserve, Cabo Septentrional",
+    "website": "https://kalahariresearchcentre.org/",
+    "project_page_url": "https://kalahariresearchcentre.org/krc/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Prof. Tim Clutton-Brock (fundó el proyecto a inicios de los 90 desde Cambridge; cargo actual sin verificar)",
+    "what_they_do": "Fideicomiso sin ánimo de lucro propietario de la reserva desde 2001; estudio individualizado de suricatas más largo del mundo (con Cambridge y la Universidad de Zúrich); tiene sección 'Friends of the KMP'.",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Daisy Gilardini",
+    "nationality": "Suiza (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://express.adobe.com/page/Dqi3SL3sQiK9P/",
+    "note": "Foto de suricatas en Makgadikgadi (Botsuana) listada en los Mkapa Photo Awards 2021 (no consta claramente como ganadora)."
+   }
+  ],
+  "design_notes": "Postura erguida de centinela: carismática, divertida y reconocible al instante; atractiva para público infantil y familiar.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kalahari_Meerkat_Project",
+   "https://kalahariresearchcentre.org/",
+   "https://www.ieu.uzh.ch/en/research/research_sites/kalahari.html",
+   "https://wikipedia.com/wiki/Meerkat"
+  ]
+ }
+]
