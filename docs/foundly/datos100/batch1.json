@@ -22,14 +22,14 @@
     "hq_city": "Madrid",
     "website": "https://www.wwf.es",
     "project_page_url": "no lo tengo",
-    "contact_email": "info@wwf.es (general, página Contacta con WWF España); marketing@wwf.es (empresas, citado en wwf.es/colabora/empresas_por_el_planeta)",
+    "contact_email": "info@wwf.es (documento oficial WWF España: 'Gran Vía de San Francisco 8-D, 28005 Madrid. Tel.: +34 91 354 0578. Email: info@wwf.es')",
     "phone": "+34 91 354 05 78",
     "director_or_president": "Juan Carlos del Olmo (Secretario General); Presidente Junta Rectora: Antonio Lucio Gil (sin verificar fecha) — Secretario General (2025 (cita en nota de prensa wwf.es sobre el lobo, ~2025; página Equipo sin fecha))",
     "director_source_url": "https://www.wwf.es/somos/somos_equipo/",
     "what_they_do": "ONG que participa en reintroducciones de lince (p.ej. Cuenca, Palencia) y en la coalición del proyecto LIFE LynxConnect.",
-    "accepts_corporate_partners": "yes",
-    "accepts_corporate_partners_evidence_url": "https://www.wwf.es/colabora/empresas_por_el_planeta/",
-    "notes": "Sede: Gran Vía de San Francisco 8-D, 28005 Madrid. Programas: Empresas Amigas (250/500/1000 €/mes), Campañas con empresas, Grandes proyectos (Correos, Reale), Cien Empresas por los Bosques (desde 3.000 €). Campañas con empresas encaja con modelo 5 €/camiseta (licencia de marca WWF suele requerir acuerdo formal). Presidente Antonio Lucio Gil procede de un PDF de perfiles de Junta Rectora sin fecha."
+    "accepts_corporate_partners": "sí — informe oficial 'Corporate Partnerships Report Spain FY21' (wwfes.awsassets.panda.org) describe alianzas y marketing con causa; >100 empresas en La Hora del Planeta 2025",
+    "accepts_corporate_partners_evidence_url": "https://www.wwf.es/colabora/empresas_por_el_planeta (de la entrada; no reconfirmado)",
+    "notes": "Verificación 07-nov-2026: marketing@wwf.es NO aparece en ningún resultado: (sin verificar). pesca@wwf.es solo para pesca (listado CE). Junta Rectora: PDF oficial perfil_miembros_de_la_junta_rectora_wwf_espana.pdf existe, nombre del presidente no confirmado."
    },
    {
     "name": "Fundación CBD-Hábitat",
@@ -53,13 +53,13 @@
     "website": "https://fundacion-biodiversidad.es",
     "project_page_url": "no lo tengo",
     "contact_email": "ieeb@fundacion-biodiversidad.es (Iniciativa Española Empresa y Biodiversidad); prensa@fundacion-biodiversidad.es; general biodiversidad@fundacion-biodiversidad.es (sin verificar, de directorio de terceros)",
-    "phone": "+34 91 121 09 20",
-    "director_or_president": "Félix Romero Cañizares — Director (Nombrado mayo 2025; firma resoluciones como director en 2026)",
-    "director_source_url": "https://fundacion-biodiversidad.es/notas_de_prensa_mite/felix-romero-canizares-nuevo-director-de-la-fundacion-biodiversidad/",
+    "phone": "+34 91 121 09 20 (sede Madrid, página oficial de contacto)",
+    "director_or_president": "Félix Romero Cañizares — Director (2026)",
+    "director_source_url": "https://boe.es/boe/dias/2026/05/07/pdfs/BOE-B-2026-14488.pdf ; https://www.miteco.gob.es/es/prensa/ultimas-noticias/2025/mayo/felix-romero-canizares--nuevo-director-de-la-fundacion-biodivers.html",
     "what_they_do": "Fundación pública del MITECO que coordina/financia proyectos de lince (difunde el censo oficial 2025). Opción institucional, menos probable para un acuerdo de donación privada.",
-    "accepts_corporate_partners": "unknown",
-    "accepts_corporate_partners_evidence_url": "https://ieeb.fundacion-biodiversidad.es/contacto/",
-    "notes": "Sede: C/ Peñuelas 10, 28005 Madrid. Fundación pública del sector público estatal: canaliza ayudas/convocatorias, no es receptora típica de donaciones por producto; la vía empresarial es la Iniciativa Española Empresa y Biodiversidad (IEEB). Prioridad baja para modelo 5 €/camiseta."
+    "accepts_corporate_partners": "sí — la Iniciativa Española Empresa y Biodiversidad (IEEB) admite adhesión de grandes, medianas y pequeñas empresas (modelo 2023) firmando el Pacto por la Biodiversidad y el Capital Natural, modalidades 'Conocimiento' o 'Acción' (folleto IEEB y notas de Holcim/Lantania)",
+    "accepts_corporate_partners_evidence_url": "https://ieeb.fundacion-biodiversidad.es",
+    "notes": "Verificación 07-nov-2026: Sede: C/ de las Peñuelas, 10, 28005 Madrid (página oficial /en/contact). Oficina Sevilla +34 954 211 417. Nombrado 28-05-2025 (MITECO); firma resolución de 05-05-2026 publicada en BOE 07-05-2026 (BOE-B-2026-14488). Patronato presidido por la ministra Sara Aagesen. Es fundación del sector público: un acuerdo '5 €/camiseta' encaja mejor vía IEEB que como donación directa. Entrada duplicada con la otra 'Fundación Biodiversidad'."
    }
   ],
   "photographers": [
@@ -124,11 +124,12 @@
     "project_page_url": "https://fundacionosopardo.org/en/become-bears-friend/",
     "contact_email": "fop@fundacionosopardo.org",
     "phone": "942 23 49 00",
-    "director_or_president": "Guillermo Palomero, presidente y fundador (sin verificar vigencia; fuentes de 2009-2010)",
-    "director_source_url": "https://fundacion-biodiversidad.es/wp-content/uploads/2014/05/fbp_20101026_13.pdf",
+    "director_or_president": "Guillermo Palomero García, presidente (y director ejecutivo según la página de equipo); vicepresidente Carlos Nores Quesada (2025)",
+    "director_source_url": "https://fundacionosopardo.org/en/management-body/",
     "what_they_do": "ONG creada en 1992 para el estudio y conservación del oso pardo y su hábitat: patrullas, seguimiento, censos, convivencia con la población rural.",
-    "accepts_corporate_partners": "yes (tiene programa de apoyos/'Amigos del oso' y listado de entidades que la apoyan)",
-    "accepts_corporate_partners_evidence_url": "https://fundacionosopardo.org/category/supports/public-entities-and-administrations/"
+    "accepts_corporate_partners": "unknown (no se encontró página de empresas; sí programa de socios 'Amigos del Oso')",
+    "accepts_corporate_partners_evidence_url": "https://fundacionosopardo.org/category/supports/public-entities-and-administrations/",
+    "notes": "Verificación 07-nov-2026: Email y teléfono en web oficial. También amigosdeloso@fundacionosopardo.org (socios). Dirección: C/ San Luis 17, 4ºA, 39010 Santander. Año 2025 = copyright de la página oficial, no fecha explícita de nombramiento."
    },
    {
     "name": "Fundación Oso de Asturias (FOA)",
@@ -136,13 +137,14 @@
     "hq_city": "Proaza (Asturias) - Casa del Oso",
     "website": "https://osodeasturias.es",
     "project_page_url": "no lo tengo",
-    "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
+    "contact_email": "info@osodeasturias.es (agenda de Turismo Asturias, sin verificar en la web oficial)",
+    "phone": "985 963 060 (Turismo Asturias, reservas actividades; sin verificar). Antiguo listado MITECO: 985 761 053 (Casa del Oso, Proaza)",
     "director_or_president": "Nicanor Fernández, presidente (según nota de prensa de ABANCA; sin verificar fecha)",
     "director_source_url": "https://comunicacion.abanca.com/es/noticias/abanca-se-incorpora-al-patronato-de-la-fundacion-oso-de-asturias",
     "what_they_do": "Fundación del Principado de Asturias con patronato empresarial dedicada a la conservación del oso pardo cantábrico y su hábitat.",
-    "accepts_corporate_partners": "yes",
-    "accepts_corporate_partners_evidence_url": "https://comunicacion.abanca.com/es/noticias/abanca-se-incorpora-al-patronato-de-la-fundacion-oso-de-asturias (empresas en patronato: ABANCA, Fundación EDP, ArcelorMittal, etc.; TotalEnergies donó 8.000 €)"
+    "accepts_corporate_partners": "sí (sin verificar): ABANCA se incorporó al patronato como empresa, según nota de ABANCA",
+    "accepts_corporate_partners_evidence_url": "https://comunicacion.abanca.com/es/noticias/abanca-se-incorpora-al-patronato-de-la-fundacion-oso-de-asturias (empresas en patronato: ABANCA, Fundación EDP, ArcelorMittal, etc.; TotalEnergies donó 8.000 €)",
+    "notes": "Verificación 07-nov-2026: Cuentas anuales 2022/2023 publicadas en osodeasturias.es/wp-content/uploads/2025/03/. No encontré página de contacto ni de empresas en los resultados."
    }
   ],
   "photographers": [
@@ -198,28 +200,29 @@
     "hq_city": "Madrid",
     "website": "https://www.wwf.es",
     "project_page_url": "https://wwfes.awsassets.panda.org/downloads/analisis-wwf_censo-lobo-2025--1-.pdf",
-    "contact_email": "info@wwf.es (general, página Contacta con WWF España); marketing@wwf.es (empresas, citado en wwf.es/colabora/empresas_por_el_planeta)",
+    "contact_email": "info@wwf.es (documento oficial WWF España: 'Gran Vía de San Francisco 8-D, 28005 Madrid. Tel.: +34 91 354 0578. Email: info@wwf.es')",
     "phone": "+34 91 354 05 78",
     "director_or_president": "Juan Carlos del Olmo (Secretario General); Presidente Junta Rectora: Antonio Lucio Gil (sin verificar fecha) — Secretario General (2025 (cita en nota de prensa wwf.es sobre el lobo, ~2025; página Equipo sin fecha))",
     "director_source_url": "https://www.wwf.es/somos/somos_equipo/",
     "what_they_do": "Programa de conservación del lobo y coexistencia con la ganadería; análisis del censo 2025.",
-    "accepts_corporate_partners": "yes",
-    "accepts_corporate_partners_evidence_url": "https://www.wwf.es/colabora/empresas_por_el_planeta/",
-    "notes": "Sede: Gran Vía de San Francisco 8-D, 28005 Madrid. Programas: Empresas Amigas (250/500/1000 €/mes), Campañas con empresas, Grandes proyectos (Correos, Reale), Cien Empresas por los Bosques (desde 3.000 €). Campañas con empresas encaja con modelo 5 €/camiseta (licencia de marca WWF suele requerir acuerdo formal). Presidente Antonio Lucio Gil procede de un PDF de perfiles de Junta Rectora sin fecha."
+    "accepts_corporate_partners": "sí — informe oficial 'Corporate Partnerships Report Spain FY21' (wwfes.awsassets.panda.org) describe alianzas y marketing con causa; >100 empresas en La Hora del Planeta 2025",
+    "accepts_corporate_partners_evidence_url": "https://www.wwf.es/colabora/empresas_por_el_planeta (de la entrada; no reconfirmado)",
+    "notes": "Verificación 07-nov-2026: marketing@wwf.es NO aparece en ningún resultado: (sin verificar). pesca@wwf.es solo para pesca (listado CE). Junta Rectora: PDF oficial perfil_miembros_de_la_junta_rectora_wwf_espana.pdf existe, nombre del presidente no confirmado."
    },
    {
     "name": "Grupo Lobo",
     "hq_country": "Portugal",
     "hq_city": "Mafra (Lisboa)",
-    "website": "https://www.grupolobo.pt/en",
+    "website": "https://grupolobo.pt/en (página 'How to help': https://grupolobo.pt/en/grupo-lobo)",
     "project_page_url": "https://www.grupolobo.pt/en/how-to-help",
     "contact_email": "no lo tengo",
     "phone": "261 785 037 (de directorio de terceros, sin verificar)",
-    "director_or_president": "no lo tengo",
-    "director_source_url": "no lo tengo",
+    "director_or_president": "Francisco Fonseca, presidente (segmento RTP sin fecha; sin verificar) (no lo tengo)",
+    "director_source_url": "https://www.rtp.pt/play/p470/e256579/portugal-em-direto",
     "what_they_do": "ONGA portuguesa de utilidad pública fundada en 1985: Centro de Recuperação do Lobo Ibérico, perros de protección de ganado (+200 integrados), educación ambiental.",
-    "accepts_corporate_partners": "unknown (tienda online y página 'How to help'; sin evidencia explícita de acuerdos corporativos)",
-    "accepts_corporate_partners_evidence_url": "https://www.grupolobo.pt/en/how-to-help"
+    "accepts_corporate_partners": "unknown",
+    "accepts_corporate_partners_evidence_url": "https://www.grupolobo.pt/en/how-to-help",
+    "notes": "Verificación 07-nov-2026: ONG de utilidad pública fundada en 1985, sede en Lisboa. No apareció email."
    },
    {
     "name": "ASCEL - Asociación para la Conservación y Estudio del Lobo Ibérico",
@@ -229,12 +232,12 @@
     "project_page_url": "no lo tengo",
     "contact_email": "no lo tengo (dato borrado: se había cruzado con otra organización)",
     "phone": "no lo tengo (dato borrado: se había cruzado con otra organización)",
-    "director_or_president": "no lo tengo (dato borrado: se había cruzado con otra organización)",
-    "director_source_url": "no lo tengo (dato borrado: se había cruzado con otra organización)",
+    "director_or_president": "Ignacio Martínez, presidente (artículo de prensa de ASDEN sin fecha; sin verificar, posiblemente desactualizado) (no lo tengo)",
+    "director_source_url": "https://elmirondesoria.es/cyl/castilla-y-leon/asden-aplaude-inclusion-de-lobo-como-de-proteccion-especial/amp",
     "what_they_do": "Asociación dedicada al estudio y defensa jurídica del lobo (recursos contra planes de control en Asturias, La Rioja, Cantabria).",
     "accepts_corporate_partners": "unknown",
     "accepts_corporate_partners_evidence_url": "no lo tengo (dato borrado: se había cruzado con otra organización)",
-    "notes": ""
+    "notes": "Verificación 07-nov-2026: Sede en Palencia según directorio de terceros. No apareció email en ningún resultado. Luis Mariano Barrientos figura como expresidente y cofundador. Contactar vía loboiberico.com/ascel o Bluesky."
    }
   ],
   "photographers": [
@@ -297,13 +300,13 @@
     "website": "https://quebrantahuesos.org",
     "project_page_url": "https://lifeprobv.quebrantahuesos.org/tag/reproduccion",
     "contact_email": "fcq@quebrantahuesos.org",
-    "phone": "+34 976 299 667 (sede Zaragoza, carta FCQ abril 2025)",
+    "phone": "974 500 597 (Ecomuseo Aínsa, Sedes 2026)",
     "director_or_president": "Conflicto: web EN 'Structure' indica Presidente Óscar Díez Sánchez (Vicepresidente Gerardo Báguena, Secretario Juan Antonio Gil Gallús); web ES antigua indica Presidente Gerardo Báguena Sánchez — Presidente del Patronato (sin verificar cuál es vigente) (Sin fecha clara; noticias 2025-2026 llaman a Gerardo Báguena vicepresidente)",
     "director_source_url": "https://quebrantahuesos.org/structure-2/?lang=en",
     "what_they_do": "Fundación española de referencia: seguimiento en Pirineo, reintroducción en Picos de Europa, proyecto LIFE PRO Bearded Vulture; Memoria de acciones 2025 publicada.",
-    "accepts_corporate_partners": "unknown",
+    "accepts_corporate_partners": "unknown — tiene acuerdos con empresas (Grupo Pastores, Fundación Banco Santander, BBVA) según prensa (sin verificar)",
     "accepts_corporate_partners_evidence_url": "https://quebrantahuesos.org/collaborating-companies/?lang=en",
-    "notes": "Sede: Pza. San Pedro Nolasco 1, 4ºF, 50001 Zaragoza. Ofrece patrocinio de proyectos / RSC con certificado de entidad colaboradora y logo. Socios: Red Eléctrica, Enagás, CaixaBank. Ecomuseo Aínsa: ecomuseo@quebrantahuesos.org, 974 500 597."
+    "notes": "Verificación 07-nov-2026: Fuente sedes: https://quebrantahuesos.org/wp-content/uploads/2026/03/Sedes-2026.pdf . Memoria 2025: https://quebrantahuesos.org/wp-content/uploads/2026/05/Memoria-acciones-FCQ-2025.pdf (no abierta; probablemente lista patronato)."
    },
    {
     "name": "Vulture Conservation Foundation (VCF)",
@@ -311,14 +314,14 @@
     "hq_city": "no lo tengo",
     "website": "https://4vultures.org",
     "project_page_url": "no lo tengo",
-    "contact_email": "info@4vultures.org",
+    "contact_email": "info@4vultures.org (oficial; aparece en oferta de empleo de 2026 publicada en 4vultures.org)",
     "phone": "no lo tengo",
     "director_or_president": "José Tavares (Director); Jovan Andevski (Conservation Director, 2025) — Director (2026 (en el cargo desde 2013; activo en enero 2026))",
     "director_source_url": "https://4vultures.org/about-us/meet-the-team/",
     "what_they_do": "ONG europea que coordina la red de cría en cautividad y las reintroducciones de quebrantahuesos (Alpes, Andalucía, Maestrazgo).",
-    "accepts_corporate_partners": "unknown",
+    "accepts_corporate_partners": "unknown — sin evidencia",
     "accepts_corporate_partners_evidence_url": "no lo tengo",
-    "notes": "Oficina: Sandstrasse 2, CH-8003 Zürich, Suiza. Email personal j.tavares@4vultures.org aparece en lista de participantes CMS sin fecha (sin verificar vigencia). Prensa: e.karatzia@4vultures.org. Quebrantahuesos, buitre negro, alimoche."
+    "notes": "Verificación 07-nov-2026: Dirección antigua Wuhrstrasse 12, 8003 Zürich (2019, puede estar desactualizada). j.tavares@4vultures.org figura en una lista CMS antigua (sin verificar vigencia)."
    }
   ],
   "photographers": [
@@ -393,9 +396,9 @@
     "director_or_president": "Asunción Ruiz Guijosa (Directora ejecutiva); Presidente: Florentino de Lope Rebollo — Directora ejecutiva (2025 (Fundación Lealtad feb. 2025; cobertura 70 aniversario mayo 2025); en el cargo desde 2010)",
     "director_source_url": "https://seo.org/equipo/",
     "what_they_do": "Es la ONG ornitológica decana de España y socia de BirdLife International. Trabaja por el águila imperial mediante la custodia del territorio con propietarios de fincas (Alzando el vuelo, en Campo de Montiel y Sierra Morena oriental), campañas para corregir tendidos eléctricos peligrosos, informes sobre veneno (con WWF) y el proyecto LIFE PowerLines4Birds contra la electrocución y la colisión.",
-    "accepts_corporate_partners": "Sí (sin verificar en la web oficial)",
+    "accepts_corporate_partners": "sí — acuerdos con Fundación Iberdrola (Programa Migra), GECV/Holcim (custodia del territorio) según prensa (sin verificar)",
     "accepts_corporate_partners_evidence_url": "https://seo.org/eres-una-empresa/",
-    "notes": "Sede: C/ Melquiades Biencinto 34, 28053 Madrid. Email seo@seo.org de EDMO y guía Ayto. Madrid (no de página oficial de contacto). gestion@seo.org según Fundación Lealtad."
+    "notes": "Verificación 07-nov-2026: Nombrada en 2010 (iagua.es)."
    },
    {
     "name": "Fundación CBD-Hábitat",
@@ -420,12 +423,12 @@
     "project_page_url": "no lo tengo",
     "contact_email": "grefa@grefa.org (general, web oficial); fgarces@grefa.org (GREFA + Empresas)",
     "phone": "+34 91 638 75 50",
-    "director_or_president": "Ernesto Carlos Álvarez Xusto (Presidente); José Fernando Garcés Toledano (Secretario General) — Presidente (Junta inscrita 03/12/2019 (web oficial); Garcés confirmado como Secretario General en noticia de 2025-2026)",
-    "director_source_url": "https://www.grefa.org/grefa1/acerca-de-grefa",
+    "director_or_president": "Ernesto Álvarez, presidente (dato de entrada; no confirmado en esta búsqueda) (no lo tengo)",
+    "director_source_url": "no lo tengo",
     "what_they_do": "Gestiona un hospital de fauna salvaje y un equipo de rescate, y lleva a cabo proyectos de reintroducción y reforzamiento de rapaces (águila de Bonelli, pigargo, milano real). Ha marcado con GPS a 48 águilas imperiales y libera ejemplares rehabilitados de la especie. Su relación con el águila imperial es secundaria, ya que se centra en la rehabilitación y el seguimiento.",
-    "accepts_corporate_partners": "no lo tengo (sin verificar)",
+    "accepts_corporate_partners": "unknown",
     "accepts_corporate_partners_evidence_url": "https://www.grefa.org/hospiatl2/grefa-empresas.html",
-    "notes": "Majadahonda (Madrid). Programa 'GREFA + Empresas'. Buitre negro, hospital de fauna. Cercanía geográfica a Foundly (Madrid) -> candidato fuerte. Emails de empresas proceden de páginas de hace 4-5 años."
+    "notes": "Verificación 07-nov-2026: La búsqueda no devolvió páginas de grefa.org."
    }
   ],
   "photographers": [
@@ -496,13 +499,13 @@
     "website": "https://fundacion-biodiversidad.es",
     "project_page_url": "https://webgate.ec.europa.eu/life/publicWebsite/project/LIFE09-NAT-ES-000513/conservation-of-the-cantabrian-capercailletetrao-urogallus-cantabricus-in-its-habitat-in-the-cantabrian-mountain-range",
     "contact_email": "ieeb@fundacion-biodiversidad.es (Iniciativa Española Empresa y Biodiversidad); prensa@fundacion-biodiversidad.es; general biodiversidad@fundacion-biodiversidad.es (sin verificar, de directorio de terceros)",
-    "phone": "+34 91 121 09 20",
-    "director_or_president": "Félix Romero Cañizares — Director (Nombrado mayo 2025; firma resoluciones como director en 2026)",
-    "director_source_url": "https://fundacion-biodiversidad.es/notas_de_prensa_mite/felix-romero-canizares-nuevo-director-de-la-fundacion-biodiversidad/",
+    "phone": "+34 91 121 09 20 (sede Madrid, página oficial de contacto)",
+    "director_or_president": "Félix Romero Cañizares — Director (2026)",
+    "director_source_url": "https://boe.es/boe/dias/2026/05/07/pdfs/BOE-B-2026-14488.pdf ; https://www.miteco.gob.es/es/prensa/ultimas-noticias/2025/mayo/felix-romero-canizares--nuevo-director-de-la-fundacion-biodivers.html",
     "what_they_do": "Coordinó el LIFE+ Urogallo cantábrico (LIFE09 NAT/ES/000513, de octubre de 2010 a diciembre de 2016, con unos 5,9 millones de euros y un 50% de cofinanciación UE). En él participaron SEO/BirdLife, Fundación Iberdrola, Parques Nacionales y los gobiernos de Asturias, Cantabria, Castilla y León y Galicia. Incluyó mejora de hábitat, retirada de tendidos y el inicio de la cría en cautividad en Sobrescobio (Asturias). Hoy financia proyectos de conservación de forma general. El proyecto LIFE está cerrado: conviene confirmar con ellos qué proyecto activo sobre el urogallo podría recibir donaciones.",
-    "accepts_corporate_partners": "Sí: coordina la Iniciativa Española Empresa y Biodiversidad (IEEB), a la que se adhieren empresas, y el LIFE Urogallo tuvo financiación de Fundación Iberdrola",
-    "accepts_corporate_partners_evidence_url": "https://ieeb.fundacion-biodiversidad.es/contacto/",
-    "notes": "Sede: C/ Peñuelas 10, 28005 Madrid. Fundación pública del sector público estatal: canaliza ayudas/convocatorias, no es receptora típica de donaciones por producto; la vía empresarial es la Iniciativa Española Empresa y Biodiversidad (IEEB). Prioridad baja para modelo 5 €/camiseta."
+    "accepts_corporate_partners": "sí — la Iniciativa Española Empresa y Biodiversidad (IEEB) admite adhesión de grandes, medianas y pequeñas empresas (modelo 2023) firmando el Pacto por la Biodiversidad y el Capital Natural, modalidades 'Conocimiento' o 'Acción' (folleto IEEB y notas de Holcim/Lantania)",
+    "accepts_corporate_partners_evidence_url": "https://ieeb.fundacion-biodiversidad.es",
+    "notes": "Verificación 07-nov-2026: Mismos datos que 'Fundación Biodiversidad (MITECO)'. Sede: C/ de las Peñuelas, 10, 28005 Madrid (página oficial /en/contact). Oficina Sevilla +34 954 211 417. Nombrado 28-05-2025 (MITECO); firma resolución de 05-05-2026 publicada en BOE 07-05-2026 (BOE-B-2026-14488). Patronato presidido por la ministra Sara Aagesen. Es fundación del sector público: un acuerdo '5 €/camiseta' encaja mejor vía IEEB que como donación directa. Entrada duplicada con la otra 'Fundación Biodiversidad'."
    },
    {
     "name": "Fundación Patrimonio Natural de Castilla y León",
@@ -515,8 +518,9 @@
     "director_or_president": "no lo tengo (el patronato lo preside el consejero de Medio Ambiente de la Junta; el dato disponible es de 2018 y no nombra al director de la fundación)",
     "director_source_url": "no lo tengo",
     "what_they_do": "Fundación pública de la Junta de Castilla y León. Gestiona el centro de cría en cautividad de Valsemana, que en 2025 sacó adelante 76 pollos con una supervivencia superior al 84%. Ya ha hecho las primeras sueltas experimentales y construye 20 nuevos voladeros de presuelta. El proyecto de presupuestos de 2027 prevé 750.000 € para el centro y 625.000 € para el seguimiento del oso y el urogallo (pendiente de aprobación).",
-    "accepts_corporate_partners": "no lo tengo",
-    "accepts_corporate_partners_evidence_url": "no lo tengo"
+    "accepts_corporate_partners": "unknown",
+    "accepts_corporate_partners_evidence_url": "no lo tengo",
+    "notes": "Verificación 07-nov-2026: Ente de la Junta de CyL. En anuncios TED 2025 (registro oficial UE) figura mesa.contratacion@patrimonionatural.org, sede Valladolid 47008 (es contratación, no colaboraciones). No encontré el nombre del director gerente actual."
    },
    {
     "name": "SEO/BirdLife (Sociedad Española de Ornitología)",
@@ -529,9 +533,9 @@
     "director_or_president": "Asunción Ruiz Guijosa (Directora ejecutiva); Presidente: Florentino de Lope Rebollo — Directora ejecutiva (2025 (Fundación Lealtad feb. 2025; cobertura 70 aniversario mayo 2025); en el cargo desde 2010)",
     "director_source_url": "https://seo.org/equipo/",
     "what_they_do": "Socia del LIFE+ Urogallo cantábrico. Ha trabajado en custodia del territorio con propietarios (con el Gobierno de Cantabria y la Fundación Oxígeno), en la protección de refugios invernales y en voluntariado para mejorar el hábitat. Publicó un manual de conservación (2013) y guías para los sectores ganadero, cinegético y turístico. No se encontró ningún proyecto suyo sobre el urogallo activo en 2025 (sin verificar).",
-    "accepts_corporate_partners": "Sí (sin verificar en la web oficial)",
+    "accepts_corporate_partners": "sí — acuerdos con Fundación Iberdrola (Programa Migra), GECV/Holcim (custodia del territorio) según prensa (sin verificar)",
     "accepts_corporate_partners_evidence_url": "https://seo.org/eres-una-empresa/",
-    "notes": "Sede: C/ Melquiades Biencinto 34, 28053 Madrid. Email seo@seo.org de EDMO y guía Ayto. Madrid (no de página oficial de contacto). gestion@seo.org según Fundación Lealtad."
+    "notes": "Verificación 07-nov-2026: Nombrada en 2010 (iagua.es)."
    }
   ],
   "photographers": [

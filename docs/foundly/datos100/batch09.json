@@ -29,22 +29,25 @@
     "website": "https://savingcranes.org",
     "project_page_url": "https://savingcranes.org/wp-content/uploads/2024/12/grey_crowned_cranes_wetlands_and_communities_ewtc_web.pdf",
     "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
+    "phone": "608-356-9462",
     "director_or_president": "Kerryn Morrison coordina el Grupo de Trabajo Internacional AEWA de la grulla coronada cuelligrís por la alianza ICF/EWT (sin verificar cargo actual)",
     "what_they_do": "Alianza desde 2005: conservación comunitaria de humedales y grullas en Kenia, Uganda y Ruanda; estrategia de conservación de la especie.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "notes": "Verificación 07-nov-2026: Sede: E11376 Shady Lane Rd, Baraboo, WI. No se buscó EWT. Kerryn Morrison (input) no re-verificada."
    },
    {
     "name": "Rwanda Wildlife Conservation Association (RWCA)",
     "hq_country": "Ruanda",
     "hq_city": "Kigali (sin verificar)",
-    "website": "no lo tengo",
+    "website": "https://rwandawildlife.org",
     "project_page_url": "no lo tengo",
-    "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "contact_email": "rwandawildlife@gmail.com (copia en SlideShare de documento antiguo; sin verificar)",
+    "phone": "+250 788 387 041 (web oficial)",
+    "director_or_president": "Dr. Olivier Nsengimana, fundador/líder (Whitley Gold Award 2025; cargo exacto sin verificar)",
     "what_they_do": "Censos anuales de grullas y programa contra la tenencia ilegal de grullas cautivas en Ruanda; población pasó de 487 (2017) a 1.066 (2022).",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://whitleyaward.org/2025/04/16/rwandas-dr-olivier-nsengimana-wins-2025-whitley-gold-award-to-lead-protection-for-grey-crowned-crane-and-its-wetland-habitat-across-east-africa/",
+    "notes": "Verificación 07-nov-2026: Su email está ofuscado en las fuentes."
    }
   ],
   "photographers": [
@@ -93,25 +96,28 @@
     "name": "VulPro",
     "hq_country": "Sudáfrica",
     "hq_city": "Hartbeespoort (North West) (sin verificar)",
-    "website": "https://www.vulpro.com",
+    "website": "https://www.vulpro.com (del input; no confirmado)",
     "project_page_url": "https://www.vulpro.com/what-we-do/",
     "contact_email": "info@vulpro.com",
     "phone": "+27 82 808 5113 (según boletín 2022, solo emergencias)",
     "director_or_president": "Kerri Wolter (fundadora) (sin verificar cargo actual)",
     "what_they_do": "Única instalación dedicada a buitres en África: rehabilitación, cría, más de 250 buitres no liberables, censos anuales de colonias de dorsiblanco desde 2015.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "notes": "Verificación 07-nov-2026: Dos búsquedas sin resultados de VulPro; info@vulpro.com del input sigue sin verificar."
    },
    {
     "name": "Vulture Conservation Foundation (VCF)",
     "hq_country": "Suiza (sede legal) / trabajo en España",
     "hq_city": "no lo tengo",
-    "website": "https://4vultures.org (sin verificar)",
+    "website": "https://4vultures.org",
     "project_page_url": "no lo tengo",
-    "contact_email": "no lo tengo",
+    "contact_email": "info@4vultures.org (oficial; aparece en oferta de empleo de 2026 publicada en 4vultures.org)",
     "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "director_or_president": "José Tavares — Director (página 'Meet the team' del sitio oficial); Dr. Daniel Hegglin — Presidente (lista CMS, fecha sin verificar) (2026 (team page; año exacto no confirmado))",
     "what_they_do": "Fundación europea de buitres con fuerte presencia en España; opción europea para un acuerdo, aunque su foco es Europa (sin verificar que trabaje con G. africanus).",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown — sin evidencia",
+    "director_source_url": "https://4vultures.org/about-us/meet-the-team",
+    "notes": "Verificación 07-nov-2026: Dirección antigua Wuhrstrasse 12, 8003 Zürich (2019, puede estar desactualizada). j.tavares@4vultures.org figura en una lista CMS antigua (sin verificar vigencia)."
    }
   ],
   "photographers": [
@@ -172,10 +178,12 @@
     "website": "https://ground-hornbill.org.za/",
     "project_page_url": "https://ground-hornbill.org.za/donate/",
     "contact_email": "project@ground-hornbill.org.za",
-    "phone": "083 289 8610 (directorio Panorama)",
-    "director_or_president": "Dra. Lucy Kemp (contacto en 2018; cargo actual sin verificar)",
+    "phone": "083 289 8610 (Dr Lucy Kemp, web oficial)",
+    "director_or_president": "Dra. Lucy Kemp, Project Manager (web oficial) (no lo tengo)",
     "what_they_do": "Fundado en 1999: seguimiento de la población nacional, cría a mano del segundo pollo y reintroducción, nidos artificiales; organizó el PHVA 2017 con IUCN CPSG.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://ground-hornbill.org.za/dr-lucy-kemp",
+    "notes": "Verificación 07-nov-2026: Otras fuentes la llaman directora."
    }
   ],
   "photographers": [],
@@ -218,7 +226,9 @@
     "phone": "no lo tengo",
     "director_or_president": "no lo tengo",
     "what_they_do": "Gestiona Bangweulu con el DNPW de Zambia: Programa de Protección de Nidos de Picozapato desde 2012 (pescadores como guardas), plan de manejo y centro de cría/rehabilitación desde mayo 2022.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown — sin evidencia",
+    "accepts_corporate_partners_evidence_url": "https://www.africanparks.org/the-parks/bangweulu/contact",
+    "notes": "Verificación 07-nov-2026: Email ofuscado en la página de contacto de Bangweulu. PO Box 450098, Mpika, Zambia. Gestión conjunta con DNPW y 6 Community Resource Boards."
    }
   ],
   "photographers": [
@@ -269,21 +279,25 @@
     "project_page_url": "https://datazone.birdlife.org/species/factsheet/lesser-flamingo-phoeniconaias-minor/text",
     "contact_email": "no lo tengo",
     "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "director_or_president": "Martin Harper, CEO (2023)",
     "what_they_do": "Defensa del lago Natron (Tanzania), donde nacen el 65–75% de los flamencos enanos del mundo, frente a proyectos de extracción de sosa; pide protección permanente de las colonias.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://www.birdlife.org/news/2023/11/20/birdlife-international-announces-the-appointment-of-martin-harper-as-its-new-ceo/",
+    "notes": "Verificación 07-nov-2026: Nombrado nov. 2023 (web oficial); sin fuente posterior que lo reconfirme. No busqué Nature Kenya."
    },
    {
     "name": "SEO/BirdLife",
     "hq_country": "España",
     "hq_city": "Madrid (sin verificar)",
-    "website": "https://seo.org (sin verificar)",
+    "website": "https://www.seo.org",
     "project_page_url": "no lo tengo",
-    "contact_email": "no lo tengo",
+    "contact_email": "tienda@seo.org (solo tienda, según informe de Fundación Lealtad feb. 2025; no es contacto de alianzas)",
     "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "director_or_president": "Asunción Ruiz Guijosa, directora ejecutiva; Florentino de Lope Rebollo, presidente (2025)",
     "what_they_do": "Socio español de BirdLife; posible puerta de entrada europea para colaborar con la campaña de Natron (sin verificar proyecto concreto con la especie).",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown (no encontré página de empresas en los resultados)",
+    "director_source_url": "https://fundacionlealtad.org/conoce-sociedad-espanola-de-ornitologia-seo-birdlife-ong-acreditada-por-fundacion-lealtad",
+    "notes": "Verificación 07-nov-2026: Fundación Lealtad es registro/acreditación de terceros reputado; Ecoticias (mayo 2025) confirma también a Asunción Ruiz como directora ejecutiva. Buscar email de alianzas en seo.org/contacto."
    }
   ],
   "photographers": [
@@ -387,11 +401,13 @@
     "hq_city": "Chilmark, Massachusetts (P.O. Box 366); oficina en Joal, Senegal (BP 80)",
     "website": "https://africanaquaticconservation.org",
     "project_page_url": "https://africanaquaticconservation.org/project/african-manatee-research/",
-    "contact_email": "no lo tengo (formulario 'Contact Us' en la web)",
-    "phone": "(508) 388-9824 (firma antigua en lista de correo; sin verificar)",
-    "director_or_president": "Dra. Lucy Keith-Diagne (cofundadora y directora)",
+    "contact_email": "info@africanaquaticconservation.org (página de contacto oficial)",
+    "phone": "+1 508-388-9824 (EE. UU.)",
+    "director_or_president": "Dra. Lucy Keith-Diagne, fundadora/directora (no lo tengo)",
     "what_they_do": "Investigación y conservación del manatí africano en Senegal y la región: rescates, uso del hábitat, dieta, genética, reducción de caza y captura accidental.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://africanaquaticconservation.org/team/lucy-keith-diagne/",
+    "notes": "Verificación 07-nov-2026: Email personal antiguo lkd@africanaquaticconservation.org (Pew 2017; sin verificar)."
    }
   ],
   "photographers": [],
@@ -426,9 +442,11 @@
     "project_page_url": "no lo tengo",
     "contact_email": "no lo tengo",
     "phone": "no lo tengo",
-    "director_or_president": "Vladimir Russo (director ejecutivo de ambiente, según VerAngola 2025)",
+    "director_or_president": "Vladimir Russo, director executivo (2025)",
     "what_they_do": "ONG angoleña creada en 1995; el Proyecto de Conservación de la Palanca Negra Gigante (liderado por Pedro Vaz Pinto desde 2003) es uno de sus proyectos principales.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://www.verangola.net/va/pt/082025/Ambiente/45642/Fundação-Kissama-assinala-três-décadas-com-novos-projectos.htm",
+    "notes": "Verificación 07-nov-2026: Fuente de prensa (VerAngola 2025), no oficial. Coordinador del proyecto palanca negra: Pedro Vaz Pinto. Sin email."
    }
   ],
   "photographers": [
@@ -483,21 +501,25 @@
     "project_page_url": "https://saharaconservation.org/saharan-species/dama-gazelle/",
     "contact_email": "scf@saharaconservation.org (agregador, sin verificar)",
     "phone": "no lo tengo",
-    "director_or_president": "John Watkin (CEO según oferta de empleo de hace ~4 años, sin verificar)",
+    "director_or_president": "John Watkin, CEO (anuncio oficial de nombramiento; ~2020) (2020 (vigencia 2026 sin verificar))",
     "what_they_do": "Rescate y traslado de gacelas dama a Ouadi Rimé-Ouadi Achim (2020), estrategia 2019–2028, sueltas y seguimiento satelital.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://saharaconservation.org/news/introducing-john-watkin-as-sahara-conservation-new-ceo/",
+    "notes": "Verificación 07-nov-2026: Hubo oferta 'Directeur général' (carenews/orientation-environnement): posible cambio de CEO."
    },
    {
     "name": "Estación Experimental de Zonas Áridas (EEZA-CSIC) – Parque de Rescate de Fauna Sahariana",
     "hq_country": "España",
     "hq_city": "Almería",
-    "website": "https://www.csic.es (EEZA, sin verificar URL propia)",
+    "website": "https://www.eeza.csic.es",
     "project_page_url": "https://www.csic.es/sites/default/files/d7/noticias/19octubre2021_aniv_operacionmohor_2.docx.pdf",
     "contact_email": "no lo tengo",
     "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "director_or_president": "Francisco Domingo, director de la EEZA (dato de 2021; sin verificar vigencia)",
     "what_they_do": "Desde 1971 cría en cautividad la gacela mhorr (Operación Mohor); coordina el EEP/EAZA desde 2002; convenios con Zoo Aquarium de Madrid (2021), Zoobotánico de Jerez y Río Safari (2026); reintroducciones en Senegal.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "no (centro público de investigación; colaboración vía CSIC)",
+    "director_source_url": "https://www.csic.es/sites/default/files/d7/noticias/19octubre2021_aniv_operacionmohor_2.docx.pdf",
+    "notes": "Verificación 07-nov-2026: Contacto institucional alternativo: comunicacion.andalucia@csic.es (documento CSIC 2022). BOE 2026 cita al director solo por cargo."
    }
   ],
   "photographers": [],
@@ -534,11 +556,13 @@
     "hq_city": "Kuruman River Reserve, Cabo Septentrional",
     "website": "https://kalahariresearchcentre.org/",
     "project_page_url": "https://kalahariresearchcentre.org/krc/",
-    "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "Prof. Tim Clutton-Brock (fundó el proyecto a inicios de los 90 desde Cambridge; cargo actual sin verificar)",
+    "contact_email": "meerkat.volunteers (at) gmail.com (solo voluntariado; web oficial)",
+    "phone": "+41 44 635 5282 (línea institucional UZH, sin verificar a quién pertenece)",
+    "director_or_president": "Marta Manser (Univ. Zúrich) y Tim Clutton-Brock (Univ. Cambridge) — directores del Kalahari Research Centre (no confirmado)",
     "what_they_do": "Fideicomiso sin ánimo de lucro propietario de la reserva desde 2001; estudio individualizado de suricatas más largo del mundo (con Cambridge y la Universidad de Zúrich); tiene sección 'Friends of the KMP'.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown — proyecto de investigación académica",
+    "director_source_url": "https://kalahariresearchcentre.org/krc/",
+    "notes": "Verificación 07-nov-2026: No es ONG de conservación al uso; probablemente poco adecuado para acuerdo comercial."
    }
   ],
   "photographers": [

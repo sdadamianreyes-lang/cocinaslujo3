@@ -17,11 +17,14 @@
     "hq_city": "Washington D.C. (y oficinas en RD Congo)",
     "website": "https://www.bonobo.org",
     "project_page_url": "https://www.bonobo.org/about",
-    "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "Sally Jewell Coxe, cofundadora, presidenta y CEO (https://www.bonobo.org/bci-board/sally-coxe)",
+    "contact_email": "bci@bonobo.org (página Contact Us oficial); info@bonobo.org (FAQ oficial, empleo/voluntariado)",
+    "phone": "(202) 332-1014",
+    "director_or_president": "Sally Jewell Coxe, cofundadora, presidenta y CEO (de la entrada; no reconfirmado) (no lo tengo)",
     "what_they_do": "Única organización internacional dedicada solo a conservar el bonobo en su hábitat: reservas comunitarias (p. ej. Kokolopori) con comunidades locales congoleñas.",
-    "accepts_corporate_partners": "unknown: es una 501(c)(3) que capta donaciones vía GlobalGiving/Benevity (sin verificar programa de empresas)"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://www.bonobo.org/bci-board/sally-coxe",
+    "accepts_corporate_partners_evidence_url": "https://www.bonobo.org/contact-us/",
+    "notes": "Verificación 07-nov-2026: 1629 K Street NW, Suite 300, Washington DC (CP 20006 vs 20008 según página)."
    },
    {
     "name": "Les Amis des Bonobos du Congo (ABC) / santuario Lola ya Bonobo",
@@ -31,9 +34,12 @@
     "project_page_url": "https://www.bonobos.org/our-strategy",
     "contact_email": "no lo tengo",
     "phone": "no lo tengo",
-    "director_or_president": "Fundada por Claudine André en 1994 (dirección actual no verificada)",
+    "director_or_president": "Claudine André — fundadora (dirección actual no verificada) (no lo tengo)",
     "what_they_do": "Único santuario del mundo para bonobos huérfanos; rehabilita y libera en la reserva Ekolo ya Bonobo. Apoyo en Europa vía 'Les Amis des Bonobos en Europe' (Francia, https://www.helloasso.com/associations/les-amis-des-bonobos-en-europe).",
-    "accepts_corporate_partners": "unknown: recibe apoyo de zoos (Twycross, Columbus) y de Friends of Bonobos (EE. UU.)"
+    "accepts_corporate_partners": "unknown — sin evidencia",
+    "director_source_url": "no lo tengo",
+    "accepts_corporate_partners_evidence_url": "https://www.bonobos.org/contact-us",
+    "notes": "Verificación 07-nov-2026: Email de contacto ofuscado en la web (Friends of Bonobos, EE.UU., reenvía consultas). Ariel Rogers era ED de Friends of Bonobos en 2018."
    }
   ],
   "photographers": [
@@ -80,7 +86,8 @@
     "phone": "no lo tengo",
     "director_or_president": "Damian Aspinall, presidente (según nota de prensa; sin verificar)",
     "what_they_do": "Rehabilita y reintroduce gorilas occidentales en el PN Meseta de Batéké (Gabón) desde 1998 y en Congo desde 1987.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "notes": "Verificación 07-nov-2026: Charity 326567 (cuentas 2024 presentadas). ppggabon@yahoo.fr no confirmado. CEO no encontrado."
    },
    {
     "name": "Berggorilla & Regenwald Direkthilfe",
@@ -88,11 +95,13 @@
     "hq_city": "no lo tengo",
     "website": "https://www.berggorilla.org",
     "project_page_url": "https://www.berggorilla.org/en/home/news-archive/article-view/the-aspinall-foundations-project-in-gabon/",
-    "contact_email": "no lo tengo",
+    "contact_email": "broecker@berggorilla.org (flyer en inglés en la web oficial, fecha desconocida; sin verificar vigencia)",
     "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "director_or_president": "Junta 2018: Laura Hagemann, Burkhard Bröcker, Angela Meder (presentación 2022); presidencia actual no confirmada",
     "what_they_do": "Asociación europea de ayuda directa a proyectos de gorilas; publica y apoya proyectos de campo (sin verificar alcance para la subespecie occidental).",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://www.berggorilla.org/fileadmin/user_upload/pdf/downloads/Verein/vereinspraesentation_12_2022.pdf",
+    "notes": "Verificación 07-nov-2026: Informe anual 2025 (mayo 2026): sede Jüdenweg 3, 33161 Hövelhof. Ver Impressum de la web."
    }
   ],
   "photographers": [
@@ -144,21 +153,25 @@
     "project_page_url": "https://okapiconservation.org/the-okapi",
     "contact_email": "no lo tengo",
     "phone": "no lo tengo",
-    "director_or_president": "John Lukas, presidente (fuente sin fecha, sin verificar); Berce Disiki Nsafuansa, director de conservación (web oficial)",
+    "director_or_president": "John Lukas, President and Founder (web oficial; también en informe anual 2023 vía Zoo Basel)",
     "what_they_do": "Desde 1987 trabaja con el ICCN congoleño en la Reserva de Okapis: apoyo a guardas, educación y desarrollo comunitario.",
-    "accepts_corporate_partners": "unknown: tiene apoyo de zoos (Dublin, Berlín, Maryland)"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://www.zoobasel.ch/uploads/files/website/Jahresbericht_Okapi-Conservation-Project_2023_1.pdf",
+    "notes": "Verificación 07-nov-2026: Patrocinador fiscal: Wildlife Conservation Global Inc. (EIN 26-0035224). Sin email público encontrado."
    },
    {
     "name": "EAZA – Programa EEP del okapi (zoos europeos)",
     "hq_country": "Países Bajos (EAZA)",
     "hq_city": "Ámsterdam",
-    "website": "https://eaza.net",
+    "website": "https://www.eaza.net",
     "project_page_url": "https://eaza.net/conservation/programmes/eep-pages/okapi-eep",
     "contact_email": "no lo tengo",
     "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "director_or_president": "Sander Hofman (Zoo Antwerpen), coordinador EEP okapi (2024)",
     "what_they_do": "Programa europeo de cría en zoos que también canaliza fondos al OCP; vía europea para contactar.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://strapi.eaza.net/uploads/Okapi_EEP_EAZA_10_29_2024_3_03_12_PM_ec887d7d00.html",
+    "notes": "Verificación 07-nov-2026: Contactos de coordinadores solo en el Member Area de EAZA."
    }
   ],
   "photographers": [],
@@ -191,23 +204,27 @@
     "hq_city": "Horsham, West Sussex (sin verificar)",
     "website": "https://www.bornfree.org.uk",
     "project_page_url": "no lo tengo",
-    "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
+    "contact_email": "info@bornfree.org.uk (Charity Commission, nº 1070906)",
+    "phone": "01403 240170 (Charity Commission)",
     "director_or_president": "no lo tengo",
     "what_they_do": "ONG británica que lideró la campaña contra la matanza de hasta 2.000 hipopótamos en el valle de Luangwa (Zambia); defensa de la especie en CITES.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "sí — página Corporate Partners con contactos Molly Rutherford (Partnerships Manager) y Olivia Evans (Partnerships Officer); folleto corporativo 2023",
+    "accepts_corporate_partners_evidence_url": "https://bornfree.org.uk/corporate-partners",
+    "notes": "Verificación 07-nov-2026: CEO actual no confirmado (consultar Companies House 03603432). molly@bornfree.org.uk aparece en folleto 2023 (sin verificar vigencia)."
    },
    {
     "name": "Conservation Lower Zambezi (CLZ)",
     "hq_country": "Zambia",
     "hq_city": "no lo tengo",
-    "website": "no lo tengo",
+    "website": "www.conservationlowerzambezi.org (sin verificar; fuente 2012)",
     "project_page_url": "https://www.fondationensemble.org/en/projet/community-based-conservation-of-african-elephants-loxodonta-africana-and-common-hippo-hippopotamus-amphibius-through-the-mitigation-of-human-wildlife-conflicts",
     "contact_email": "no lo tengo",
     "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "director_or_president": "Ian Stevenson, CEO (2025)",
     "what_they_do": "ONG zambiana (desde 1994) con proyecto de conservación comunitaria de elefantes e hipopótamos reduciendo el conflicto con humanos; financiada por la Fondation Ensemble (Francia).",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://www.africanparks.org/conservation-lower-zambezi-joins-african-parks-incubation-programme",
+    "notes": "Verificación 07-nov-2026: CLZ se unió al programa de incubación de African Parks (mayo 2025). Dirección: Chongwe Road, Lusaka (directorio, sin verificar)."
    }
   ],
   "photographers": [
@@ -249,11 +266,14 @@
     "hq_city": "Ciudad del Cabo / Western Cape (sin verificar)",
     "website": "https://www.capeleopard.org.za",
     "project_page_url": "https://capeleopard.org.za/about",
-    "contact_email": "no lo tengo",
-    "phone": "076 522 1201 (Helen Turnbull, donaciones y alianzas, según la web; general/medios: Jeannie Hayward, 082 337 0964)",
-    "director_or_president": "Helen Turnbull, CEO (desde 2015, según su perfil en la web oficial)",
+    "contact_email": "contact@capeleopard.org.za (nota de prensa; sin verificar en la web oficial)",
+    "phone": "076 522 1201 (Helen Turnbull; donaciones y alianzas)",
+    "director_or_president": "Helen Turnbull, CEO (desde 2015) (2025)",
     "what_they_do": "Investigación y conservación del leopardo del Cabo, mitigación del conflicto con ganaderos y educación ambiental.",
-    "accepts_corporate_partners": "yes (probable): la web tiene contacto específico para 'donations and partnerships' y busca patrocinios (sin verificar)"
+    "accepts_corporate_partners": "sí: la página de contacto tiene apartado 'Donations, partnerships & other queries' a cargo de Helen Turnbull; nota de prensa 2025 de alianza con empresa",
+    "director_source_url": "https://capeleopard.org.za/about/team/story/helen-turnbull",
+    "accepts_corporate_partners_evidence_url": "https://www.capeleopard.org.za/contact",
+    "notes": "Verificación 07-nov-2026: Medios: Jeannie Hayward 082 337 0964. P.O. Box 31139, Tokai 7966, Ciudad del Cabo."
    },
    {
     "name": "Panthera",
@@ -261,11 +281,14 @@
     "hq_city": "Nueva York (sin verificar)",
     "website": "https://www.panthera.org",
     "project_page_url": "no lo tengo",
-    "contact_email": "no lo tengo",
+    "contact_email": "info@panthera.org (página oficial de Corporate Partnerships)",
     "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "director_or_president": "Fred Launay, Ph.D., President and CEO (desde 2017) (no lo tengo)",
     "what_they_do": "ONG global de grandes felinos con programa de leopardo en África (sin verificar en esta pasada).",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "sí (la página oficial invita a socios filantrópicos/corporativos, incluidos programas de royalties)",
+    "director_source_url": "https://panthera.org/people-panthera",
+    "accepts_corporate_partners_evidence_url": "https://panthera.org/corporate-partnerships",
+    "notes": "Verificación 07-nov-2026: Prensa: prpanthera@panthera.org. Año del cargo actual no confirmado con fuente 2025."
    }
   ],
   "photographers": [
@@ -316,13 +339,15 @@
     "name": "Parc de la Lékédi",
     "hq_country": "Gabón",
     "hq_city": "Bakoumba (sin verificar)",
-    "website": "no lo tengo",
+    "website": "http://www.parcdelalekedi.com/ (sin verificar)",
     "project_page_url": "https://wewildafrica.com/?p=7780",
     "contact_email": "no lo tengo",
     "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "director_or_president": "Éric Willaume — director ejecutivo de la Fondation Lékédi Biodiversité (2021)",
     "what_they_do": "Parque privado que ha liberado dos grupos de mandriles nacidos en cautividad (primera liberación de 36 ejemplares, Oryx 2008).",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown — fundación corporativa de Eramet/Comilog",
+    "director_source_url": "https://www.eramet.com/wp-content/uploads/2023/04/Eramet-PR-Inauguration-Lekedi-Biodiversity-Foundation-Gabon-2.pdf",
+    "notes": "Verificación 07-nov-2026: Gestionado por la Fondation Lékédi Biodiversité desde junio 2021 (filial Sodepal/Comilog/Eramet)."
    }
   ],
   "photographers": [],
@@ -353,11 +378,13 @@
     "hq_city": "Antananarivo (sin verificar)",
     "website": "no lo tengo",
     "project_page_url": "https://www.lemurconservationnetwork.org/wordpress/wp-content/uploads/2023/09/LCN-Indri-FactSheet.pdf",
-    "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "contact_email": "jonah@gerp-mg.org (sin verificar; directorio TWAS 2023, email personal)",
+    "phone": "+261 33 12 33 883 (sin verificar)",
+    "director_or_president": "Jonah Ratsimbazafy, presidente (sin verificar) (2023)",
     "what_they_do": "Asociación malgache que gestiona el área protegida de Maromizaha, con seguimiento a largo plazo de grupos de indris (en colaboración con la Universidad de Turín).",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://www.twas.org/sites/default/files/ratsimbazafy_jonah_cv.docx",
+    "notes": "Verificación 07-nov-2026: Email antiguo gerp@moov.mg (2014-2015). Dirección: 34 Cité des Professeurs, Fort Duschene, BP 779, 101 Antananarivo."
    },
    {
     "name": "Chester Zoo (programa de indris)",
@@ -365,11 +392,13 @@
     "hq_city": "Chester",
     "website": "https://www.chesterzoo.org",
     "project_page_url": "https://chesterzoo.org/what-we-do/our-zoo/biographies/valeria-ferrario",
-    "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
+    "contact_email": "fundraising@chesterzoo.org (página oficial de apoyo corporativo)",
+    "phone": "01244 650201 (registro de la charity)",
     "director_or_president": "no lo tengo",
     "what_they_do": "Apoya un doctorado de monitoreo acústico de indris en Maromizaha y Mangabe con dos asociaciones malgaches.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "sí: páginas oficiales 'Partner with us' y fundraising corporativo",
+    "accepts_corporate_partners_evidence_url": "https://www.chesterzoo.org/support-our-charity/partner-with-us",
+    "notes": "Verificación 07-nov-2026: Contacto senior 2025: Hannah Wright, Senior Strategic Partnerships & Development Manager (prensa). Entidad: The North of England Zoological Society."
    }
   ],
   "photographers": [
@@ -410,22 +439,27 @@
     "website": "https://www.durrell.org",
     "project_page_url": "https://www.durrell.org/media/o2sj2cjs/job-description-head-of-captive-breeding-madagascar.pdf",
     "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "no lo tengo (en 2015 el director del programa era Richard Lewis; puede estar desactualizado)",
+    "phone": "+44 1534 860111 (Prospeo; sin verificar)",
+    "director_or_president": "Rebecca Brewer, Chief Executive Officer (nombrada dic. 2024 tras ser interina; una noticia posterior sin fecha habla de reclutar nuevo CEO: sin verificar)",
     "what_they_do": "Su mayor programa (más de 70 empleados en Madagascar). Organizó en 1990 la misión de rescate de aye-ayes y creó el EEP europeo en 2005.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "sí (más de 50 socios corporativos; responsable Claire Roth, Strategic Corporate Partnerships Manager)",
+    "director_source_url": "https://www.durrell.org/team/",
+    "accepts_corporate_partners_evidence_url": "https://www.durrell.org/get-involved/partnerships/corporate-partnerships/",
+    "notes": "Verificación 07-nov-2026: info@durrell.org no confirmado. Ver https://www.durrell.org/news/recruitment-underway-for-new-ceo-and-trustees-at-durrell/."
    },
    {
     "name": "Madagascar Fauna and Flora Group (MFG)",
     "hq_country": "Consorcio internacional de zoos (Madagascar)",
     "hq_city": "no lo tengo",
-    "website": "no lo tengo",
+    "website": "https://www.madagascarfaunaflora.org",
     "project_page_url": "no lo tengo",
     "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "phone": "Teléfonos de oficina Toamasina y Parc Ivoloina en la web oficial (no visibles en snippet)",
+    "director_or_president": "Karen Freeman — Executive Director (página de staff oficial; fecha no confirmada) (no confirmado)",
     "what_they_do": "Consorcio formalizado en 1988 que combina cría en cautividad e investigación de campo en Madagascar; el aye-aye es su logotipo.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown — consorcio de zoos; acepta 'member institutions'",
+    "director_source_url": "https://www.madagascarfaunaflora.org/mfg-staff.html",
+    "notes": "Verificación 07-nov-2026: Contacto oficial: Tim L. Tetzlaff (Past-Chair), email ofuscado en snippet."
    }
   ],
   "photographers": [],
@@ -458,9 +492,10 @@
     "project_page_url": "https://turtlesurvival.org/?p=5518",
     "contact_email": "no lo tengo",
     "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "director_or_president": "Marc Dupuis-Desormeaux, President & CEO (desde 05/09/2023; sigue en Impact Report 2025)",
     "what_they_do": "Rescate y rehabilitación de tortugas decomisadas (decenas de miles desde 2018) y programa de conservación de la especie en Madagascar.",
-    "accepts_corporate_partners": "unknown: tiene tienda propia; programa de empresas sin verificar"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://turtlesurvival.org/new-ceo-and-president-named/"
    },
    {
     "name": "Durrell Wildlife Conservation Trust – Programa Madagascar",
@@ -469,10 +504,13 @@
     "website": "https://www.durrell.org",
     "project_page_url": "https://www.durrell.org/media/o2sj2cjs/job-description-head-of-captive-breeding-madagascar.pdf",
     "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "phone": "+44 1534 860111 (Prospeo; sin verificar)",
+    "director_or_president": "Rebecca Brewer, Chief Executive Officer (nombrada dic. 2024 tras ser interina; una noticia posterior sin fecha habla de reclutar nuevo CEO: sin verificar)",
     "what_they_do": "Cría en cautividad de quelonios malgaches y lucha contra el tráfico (sobre todo angonoka; su trabajo directo con la radiada está sin verificar).",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "sí (más de 50 socios corporativos; responsable Claire Roth, Strategic Corporate Partnerships Manager)",
+    "director_source_url": "https://www.durrell.org/team/",
+    "accepts_corporate_partners_evidence_url": "https://www.durrell.org/get-involved/partnerships/corporate-partnerships/",
+    "notes": "Verificación 07-nov-2026: info@durrell.org no confirmado. Ver https://www.durrell.org/news/recruitment-underway-for-new-ceo-and-trustees-at-durrell/."
    }
   ],
   "photographers": [],
@@ -500,13 +538,15 @@
     "name": "Loro Parque Fundación",
     "hq_country": "España",
     "hq_city": "Puerto de la Cruz, Tenerife",
-    "website": "https://www.loroparque-fundacion.org",
+    "website": "https://www.loroparque-fundacion.org/en/",
     "project_page_url": "https://www.loroparque-fundacion.org/en/?p=50060",
-    "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "contact_email": "lpf@loroparque-fundacion.org (confirmado en la revista oficial Cyanopsitta nº127, 2025, publicada en loroparque-fundacion.org)",
+    "phone": "+34 922 373 841 (ext. 281) (Cyanopsitta 127, 2025)",
+    "director_or_president": "Christoph Kiessling — miembro del patronato (presidencia no confirmada en esta pasada; sin verificar). Patronato: Wolfgang, Christoph, Brigitte e Isabel Kiessling. Rafael Zamora citado como director científico (dic. 2024, prensa)",
     "what_they_do": "Fundación española que desde 2000 ha apoyado 5 proyectos del loro gris (Camerún desde 2006, Ghana 2011–2016); su estudio en Ghana ayudó a la protección en CITES.",
-    "accepts_corporate_partners": "unknown (probable: es una fundación ligada a empresa con patrocinadores; sin verificar)"
+    "accepts_corporate_partners": "sí — modelo ya probado: Versele-Laga dona una cantidad por cada envase vendido de 'Loro Parque Prestige' (alianza de más de 18 años, https://www.loroparque.com/en/versele-laga-and-loro-parque-fundacion-enhance-cooperation/); también ZEBEC donó material",
+    "director_source_url": "https://diariodeavisos.elespanol.com/2024/12/loro-parque-fundacion-1745000-dolares-naturaleza-2025/ (sin verificar, prensa)",
+    "notes": "Verificación 07-nov-2026: Precedente 'por unidad vendida' muy similar a la propuesta de Foundly. Invierte 1.745.000 $ en 67 proyectos en 2025. Otras direcciones (dir.cientifica@, papageien@) pueden estar desactualizadas."
    },
    {
     "name": "World Parrot Trust",
@@ -514,11 +554,13 @@
     "hq_city": "Hayle, Cornualles (sin verificar)",
     "website": "https://www.parrots.org",
     "project_page_url": "no lo tengo",
-    "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "contact_email": "uk@parrots.org (Charity Commission, nº 800944)",
+    "phone": "+44 1736 751026 (Charity Commission y web oficial)",
+    "director_or_president": "James Gilardi — Executive Director (GuideStar, entidad EE.UU.; sin verificar) (no confirmado)",
     "what_they_do": "ONG internacional de loros con programa para el loro gris (no confirmado en esta búsqueda).",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown — sin evidencia",
+    "director_source_url": "https://www.guidestar.org/profile/62-1561595 (sin verificar)",
+    "notes": "Verificación 07-nov-2026: Glanmor House, Hayle, Cornwall TR27 4HB. Nueva CIO registrada feb. 2025 (nº 1212263) en la misma dirección."
    }
   ],
   "photographers": [],

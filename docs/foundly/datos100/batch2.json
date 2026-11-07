@@ -22,14 +22,14 @@
     "hq_city": "Madrid (sin verificar)",
     "website": "https://www.wwf.es",
     "project_page": "https://wwfes.awsassets.panda.org/downloads/10-medidas-para-salvar-al-vison.pdf",
-    "contact_email": "info@wwf.es (general, página Contacta con WWF España); marketing@wwf.es (empresas, citado en wwf.es/colabora/empresas_por_el_planeta)",
+    "contact_email": "info@wwf.es (documento oficial WWF España: 'Gran Vía de San Francisco 8-D, 28005 Madrid. Tel.: +34 91 354 0578. Email: info@wwf.es')",
     "phone": "+34 91 354 05 78",
     "director_or_president": "Juan Carlos del Olmo (Secretario General); Presidente Junta Rectora: Antonio Lucio Gil (sin verificar fecha) — Secretario General (2025 (cita en nota de prensa wwf.es sobre el lobo, ~2025; página Equipo sin fecha))",
     "what_they_do": "Organizó seminarios técnicos sobre el visón europeo (2020) y publicó en 2024 '10 medidas para salvar al visón europeo', incluida la petición de un centro unificado de cría en cautividad.",
-    "accepts_corporate_partners": "unknown (WWF tiene programas de empresas a nivel general, no verificado en esta sesión)",
+    "accepts_corporate_partners": "sí — informe oficial 'Corporate Partnerships Report Spain FY21' (wwfes.awsassets.panda.org) describe alianzas y marketing con causa; >100 empresas en La Hora del Planeta 2025",
     "director_source_url": "https://www.wwf.es/somos/somos_equipo/",
-    "accepts_corporate_partners_evidence_url": "https://www.wwf.es/colabora/empresas_por_el_planeta/",
-    "notes": "Sede: Gran Vía de San Francisco 8-D, 28005 Madrid. Programas: Empresas Amigas (250/500/1000 €/mes), Campañas con empresas, Grandes proyectos (Correos, Reale), Cien Empresas por los Bosques (desde 3.000 €). Campañas con empresas encaja con modelo 5 €/camiseta (licencia de marca WWF suele requerir acuerdo formal). Presidente Antonio Lucio Gil procede de un PDF de perfiles de Junta Rectora sin fecha."
+    "accepts_corporate_partners_evidence_url": "https://www.wwf.es/colabora/empresas_por_el_planeta (de la entrada; no reconfirmado)",
+    "notes": "Verificación 07-nov-2026: marketing@wwf.es NO aparece en ningún resultado: (sin verificar). pesca@wwf.es solo para pesca (listado CE). Junta Rectora: PDF oficial perfil_miembros_de_la_junta_rectora_wwf_espana.pdf existe, nombre del presidente no confirmado."
    },
    {
     "name": "Asociación Visón Europeo",
@@ -42,7 +42,7 @@
     "director_or_president": "no lo tengo",
     "what_they_do": "ONG socia del proyecto LIFE Lutreola Spain (con Gobierno de La Rioja, Generalitat Valenciana, Senda Viva y TRAGSATEC); participa en cría ex situ y lucha contra el visón americano.",
     "accepts_corporate_partners": "unknown",
-    "notes": "Fundada 22/09/2003; dirección Av. Diagonal 645, Barcelona (sin verificar, Iberinform). Socia beneficiaria del LIFE Lutreola Spain (vinculada a Universidad de Barcelona). Sin web propia localizada. Alternativa: contactar vía coordinación LIFE Lutreola (Gobierno de Aragón, biodiversidad@aragon.es) o considerar WWF España/visón."
+    "notes": "Verificación 07-nov-2026: Solo aparece como socio del proyecto LIFE Lutreola Spain (https://www.aragon.es/-/proyecto-life-lutreola) y autora de un informe de 2012. No hay email, web ni presidente en los resultados. Vía alternativa: contactar al proyecto LIFE Lutreola."
    },
    {
     "name": "Fundación para la Investigación en Etología y Biodiversidad (FIEB)",
@@ -51,13 +51,13 @@
     "website": "https://fundacion-biodiversidad.es",
     "project_page": "no lo tengo",
     "contact_email": "no lo tengo (dato borrado: se había cruzado con otra organización)",
-    "phone": "no lo tengo (dato borrado: se había cruzado con otra organización)",
+    "phone": "+34 620 33 91 88 (Portal Europeo de la Juventud / Cuerpo Europeo de Solidaridad, ficha 82860)",
     "director_or_president": "no lo tengo (dato borrado: se había cruzado con otra organización)",
     "what_they_do": "Gestiona un Centro de Cría en Cautividad y Estudio del Visón Europeo; 35 de 49 crías del programa nacieron allí según fuente secundaria (https://www.eldiario.es/castilla-la-mancha/ecologica/vida-centro-cria-vison-europeo_132_2270172.amp.html, sin verificar).",
-    "accepts_corporate_partners": "unknown",
+    "accepts_corporate_partners": "sí (indicio: colaboración con Telefónica en la plataforma SMARTfieb; https://blogthinkbig.com/thinking-things-y-fieb)",
     "director_source_url": "no lo tengo (dato borrado: se había cruzado con otra organización)",
     "accepts_corporate_partners_evidence_url": "no lo tengo (dato borrado: se había cruzado con otra organización)",
-    "notes": ""
+    "notes": "Verificación 07-nov-2026: Instalaciones en Casarrubios del Monte (Toledo). Ficha de voluntariado: https://youth.europa.eu/volunteering/organisation/82860_es. Proyectos: visón europeo, lechuza, lémur de cola anillada. Un directorio de terceros (prospeo.io) cita una 'Fieb Foundation' en Tres Cantos con directora Mª Carmen Aranda: no confirmado que sea la misma entidad (sin verificar). No hay email."
    }
   ],
   "photographers": [
@@ -128,25 +128,26 @@
     "website": "https://fundacion-biodiversidad.es",
     "project_page": "https://fundacion-biodiversidad.es/wp-content/uploads/2018/11/np_lifedesmania-guiarestauracionecologica.pdf",
     "contact_email": "ieeb@fundacion-biodiversidad.es (Iniciativa Española Empresa y Biodiversidad); prensa@fundacion-biodiversidad.es; general biodiversidad@fundacion-biodiversidad.es (sin verificar, de directorio de terceros)",
-    "phone": "+34 91 121 09 20",
-    "director_or_president": "Félix Romero Cañizares — Director (Nombrado mayo 2025; firma resoluciones como director en 2026)",
+    "phone": "+34 91 121 09 20 (sede Madrid, página oficial de contacto)",
+    "director_or_president": "Félix Romero Cañizares — Director (2026)",
     "what_they_do": "Fundación pública que coordinó el proyecto LIFE+ Desmania (2012-2016) para frenar el declive del desmán en el norte peninsular.",
-    "accepts_corporate_partners": "unknown (fundación pública; evidencia no verificada)",
-    "director_source_url": "https://fundacion-biodiversidad.es/notas_de_prensa_mite/felix-romero-canizares-nuevo-director-de-la-fundacion-biodiversidad/",
-    "accepts_corporate_partners_evidence_url": "https://ieeb.fundacion-biodiversidad.es/contacto/",
-    "notes": "Sede: C/ Peñuelas 10, 28005 Madrid. Fundación pública del sector público estatal: canaliza ayudas/convocatorias, no es receptora típica de donaciones por producto; la vía empresarial es la Iniciativa Española Empresa y Biodiversidad (IEEB). Prioridad baja para modelo 5 €/camiseta."
+    "accepts_corporate_partners": "sí — la Iniciativa Española Empresa y Biodiversidad (IEEB) admite adhesión de grandes, medianas y pequeñas empresas (modelo 2023) firmando el Pacto por la Biodiversidad y el Capital Natural, modalidades 'Conocimiento' o 'Acción' (folleto IEEB y notas de Holcim/Lantania)",
+    "director_source_url": "https://boe.es/boe/dias/2026/05/07/pdfs/BOE-B-2026-14488.pdf ; https://www.miteco.gob.es/es/prensa/ultimas-noticias/2025/mayo/felix-romero-canizares--nuevo-director-de-la-fundacion-biodivers.html",
+    "accepts_corporate_partners_evidence_url": "https://ieeb.fundacion-biodiversidad.es",
+    "notes": "Verificación 07-nov-2026: Sede: C/ de las Peñuelas, 10, 28005 Madrid (página oficial /en/contact). Oficina Sevilla +34 954 211 417. Nombrado 28-05-2025 (MITECO); firma resolución de 05-05-2026 publicada en BOE 07-05-2026 (BOE-B-2026-14488). Patronato presidido por la ministra Sara Aagesen. Es fundación del sector público: un acuerdo '5 €/camiseta' encaja mejor vía IEEB que como donación directa. Entrada duplicada con la otra 'Fundación Biodiversidad'."
    },
    {
     "name": "Fundación Patrimonio Natural de Castilla y León",
     "hq_country": "España",
     "hq_city": "Valladolid (sin verificar)",
-    "website": "no lo tengo",
+    "website": "https://patrimonionatural.org",
     "project_page": "https://elmirondesoria.es/cyl/junta-de-castilla-y-leon/la-junta-desarrolla-tres-proyectos-life-en-la-comunidad/amp",
-    "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
+    "contact_email": "patrimonionatural@patrimonionatural.org (sin verificar: lo vi en listado de Wikiloc, no en snippet de la web oficial)",
+    "phone": "983 345 850 (sin verificar)",
     "director_or_president": "no lo tengo",
     "what_they_do": "Socio del LIFE+ Desmania en Castilla y León (prospección de ríos, control de visón americano, educación ambiental).",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "notes": "Verificación 07-nov-2026: Ente de la Junta de CyL. En anuncios TED 2025 (registro oficial UE) figura mesa.contratacion@patrimonionatural.org, sede Valladolid 47008 (es contratación, no colaboraciones). No encontré el nombre del director gerente actual."
    }
   ],
   "photographers": [
@@ -208,13 +209,14 @@
     "name": "CIRCE (Conservación, Información y Estudio sobre Cetáceos)",
     "hq_country": "España",
     "hq_city": "El Pelayo, Algeciras (Cádiz)",
-    "website": "https://circe.info/",
+    "website": "https://circe.info/ (también circe-asso.org en anuncios)",
     "project_page": "https://circe.info/conservacion/",
     "contact_email": "inma@circe.info (página de contacto); renaud@circe.info en el aviso legal — vistos en resultados de búsqueda de circe.info, no abiertos directamente (sin verificar)",
     "phone": "+34 605 99 81 95 (circe.info/contacto, sin verificar)",
     "director_or_president": "Philippe Verborgh citado como presidente en 2017 (https://www.ecoticias.com/naturaleza/95775_orcas-estrecho-avistadas-portugal, sin verificar); Renaud de Stephanis como contacto principal en SEAMAP (https://seamap.env.duke.edu/provider/1679). Cargo actual: no lo tengo.",
     "what_they_do": "Fotoidentifica a cada orca del Estrecho desde 1999, colabora con MITECO en marcaje satelital y propone medidas para reducir interacciones con veleros.",
-    "accepts_corporate_partners": "yes (probable): se financia con contratos públicos, subvenciones y contratos con empresas privadas (https://alcaidesamarina.com/?p=5970, sin verificar)"
+    "accepts_corporate_partners": "unknown",
+    "notes": "Verificación 07-nov-2026: Dirección: C/ Cabeza de Manzaneda 3, 11390 Pelayo-Algeciras (Cádiz) (sin verificar)."
    },
    {
     "name": "Loro Parque Fundación",
@@ -222,23 +224,25 @@
     "hq_city": "Puerto de la Cruz (Tenerife)",
     "website": "https://www.loroparque-fundacion.org/en/",
     "project_page": "https://www.loroparque-fundacion.org/en/loro-parque-foundation-collaborates-in-campaign-to-protect-orcas-in-the-strait-of-gibraltar/",
-    "contact_email": "lpf@loroparque-fundacion.org (visto en resultados de búsqueda del sitio oficial; sin verificar en página abierta)",
-    "phone": "+34 922 373 841 (ext. 281) (página de contacto, sin verificar)",
+    "contact_email": "lpf@loroparque-fundacion.org (confirmado en la revista oficial Cyanopsitta nº127, 2025, publicada en loroparque-fundacion.org)",
+    "phone": "+34 922 373 841 (ext. 281) (Cyanopsitta 127, 2025)",
     "director_or_president": "Christoph Kiessling, presidente desde 2017 (https://www.loroparque-fundacion.org/en/who-we-are/, sin verificar). Javier Almunia dejó la dirección (https://www.loroparque-fundacion.org/en/loro-parque-fundacion-appoints-martin-boye-as-new-scientific-director-for-marine-biology/); Martin Böye, nuevo director científico de Biología Marina.",
     "what_they_do": "Financia desde 2006 el seguimiento de la orca ibérica con CIRCE (dieta, acústica, timones antibloqueo) y participó en el plan de conservación.",
-    "accepts_corporate_partners": "yes: formulario de patrocinio para empresas y página 'Entidades Amigas' (https://www.loroparque-fundacion.org/en/sponsor-form/, https://www.loroparque-fundacion.org/en/entidades-amigas/)"
+    "accepts_corporate_partners": "sí — modelo ya probado: Versele-Laga dona una cantidad por cada envase vendido de 'Loro Parque Prestige' (alianza de más de 18 años, https://www.loroparque.com/en/versele-laga-and-loro-parque-fundacion-enhance-cooperation/); también ZEBEC donó material",
+    "notes": "Verificación 07-nov-2026: Precedente 'por unidad vendida' muy similar a la propuesta de Foundly. Invierte 1.745.000 $ en 67 proyectos en 2025. Otras direcciones (dir.cientifica@, papageien@) pueden estar desactualizadas."
    },
    {
     "name": "Grupo de Trabajo Orca Atlántica (GTOA)",
     "hq_country": "España / Portugal",
     "hq_city": "no lo tengo",
-    "website": "https://www.orcaiberica.org/en/que-son-las-orcas",
+    "website": "https://orcaiberica.org",
     "project_page": "https://www.orcaiberica.org/en/que-son-las-orcas",
     "contact_email": "gt.orcas.ibericas@gmail.com (publicado en noonsite 2021, no en la web oficial; sin verificar)",
     "phone": "no lo tengo",
     "director_or_president": "no lo tengo",
     "what_they_do": "Colectivo de científicos españoles y portugueses que estudia la población y las interacciones con barcos; catálogo de aletas dorsales.",
-    "accepts_corporate_partners": "unknown (no consta personalidad jurídica formal)"
+    "accepts_corporate_partners": "unknown",
+    "notes": "Verificación 07-nov-2026: No hallé página de contacto ni coordinador. La Cruising Association colabora con GTOA en reportes de interacciones."
    }
   ],
   "photographers": [
@@ -344,11 +348,12 @@
     "hq_city": "Puerto de la Cruz (Tenerife)",
     "website": "https://www.loroparque-fundacion.org/en/",
     "project_page": "https://www.loroparque-fundacion.org/en/monachus-monachus-mediterranean-monk-seal",
-    "contact_email": "lpf@loroparque-fundacion.org (sin verificar en página abierta)",
-    "phone": "+34 922 373 841 (ext. 281) (sin verificar)",
+    "contact_email": "lpf@loroparque-fundacion.org (confirmado en la revista oficial Cyanopsitta nº127, 2025, publicada en loroparque-fundacion.org)",
+    "phone": "+34 922 373 841 (ext. 281) (Cyanopsitta 127, 2025)",
     "director_or_president": "Christoph Kiessling, presidente (https://www.loroparque-fundacion.org/en/who-we-are/, sin verificar)",
     "what_they_do": "Tiene ficha de proyecto para la foca monje; financia conservación de especies marinas.",
-    "accepts_corporate_partners": "yes (https://www.loroparque-fundacion.org/en/sponsor-form/)"
+    "accepts_corporate_partners": "sí — modelo ya probado: Versele-Laga dona una cantidad por cada envase vendido de 'Loro Parque Prestige' (alianza de más de 18 años, https://www.loroparque.com/en/versele-laga-and-loro-parque-fundacion-enhance-cooperation/); también ZEBEC donó material",
+    "notes": "Verificación 07-nov-2026: Precedente 'por unidad vendida' muy similar a la propuesta de Foundly. Invierte 1.745.000 $ en 67 proyectos en 2025. Otras direcciones (dir.cientifica@, papageien@) pueden estar desactualizadas."
    }
   ],
   "photographers": [
@@ -418,37 +423,40 @@
     "name": "Fundación Oceanogràfic",
     "hq_country": "España",
     "hq_city": "Valencia",
-    "website": "no lo tengo (sin verificar)",
+    "website": "https://www.oceanografic.org (contacto: https://www.oceanografic.org/en/contacto/)",
     "project_page": "https://www.ecoticias.com/naturaleza/liberan-36-tortugas-bobas-playa-elche-tras-ano-cuidado-oceanografic-valencia",
     "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
+    "phone": "+34 960 47 06 47 (teléfono del acuario, no necesariamente de la Fundación; sin verificar)",
     "director_or_president": "no lo tengo (Beatriz Domínguez citada como coordinadora del programa Head Starting, fuente prensa, sin verificar)",
     "what_they_do": "Custodia nidos, incuba huevos y cría tortugas un año (Head Starting) antes de liberarlas; campaña 'Tortugas en el Mediterráneo' / 'Aquí salvamos tortugas' en 79 municipios.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "notes": "Verificación 07-nov-2026: Dirección: Carrer d'Eduardo Primo Yúfera 1, 46013 Valencia (registro EDMO). No se confirmó ninguna dirección fundacion@oceanografic.*."
    },
    {
     "name": "Fundació CRAM",
     "hq_country": "España",
     "hq_city": "El Prat de Llobregat (Barcelona) (sin verificar; dirección antigua en Premià de Mar)",
-    "website": "no lo tengo",
+    "website": "https://www.cram.org (citado en documento del PEMB de 2011; sin verificar)",
     "project_page": "https://beteve.cat/medi-ambient/augmenten-rescats-fauna-marina-tortugues-fundacio-cram/",
     "contact_email": "no lo tengo (ferran@cram.org aparece en una página antigua del MAPA, no en la web oficial: sin verificar)",
     "phone": "93 752 45 81 (fuente prensa, sin verificar)",
     "director_or_president": "Ferran Alegre i Ninou, presidente según página antigua del MAPA (https://www.mapa.gob.es/es/pesca/temas/proteccion-recursos-pesqueros/acciones-para-la-sostenibilidad-pesquera/las-tortugas-marinas-y-la-pesca/reduciendo-la-mortandad/estudio2, sin verificar/posiblemente desactualizado)",
     "what_they_do": "Centro de recuperación de fauna marina de Cataluña: rescata, rehabilita y libera tortugas bobas; forma a pescadores contra la captura accidental.",
-    "accepts_corporate_partners": "yes: convenios con Aena (2018) y Damm (https://www.aena.es/doc/detalleprensa/190102-aena-suelta-tortugas-y-convenio-cram.pdf)"
+    "accepts_corporate_partners": "sí (indicio: convenio con Aena y liberaciones con Damm; https://www.aena.es/es/prensa/aena-y-la-fundacion-para-la-conservacion-y-recuperacion-de-animales---marinos-cram-devuelven-al-mar-tortugas-recuperadas-en-la-playa-de-el---prat.html)",
+    "notes": "Verificación 07-nov-2026: Dirección: Carrer de Lo Gaiter del Llobregat 112, 08820 El Prat de Llobregat (listado de terceros). No encontré email ni presidente actual; ferran@cram.org del input sigue sin verificar."
    },
    {
     "name": "Xaloc (ONG Xaloc Mar)",
     "hq_country": "España",
     "hq_city": "no lo tengo",
-    "website": "no lo tengo",
+    "website": "hermanosdesal.org según ficha MITECO/CENEAM (sin verificar; dominio no coincide con el nombre)",
     "project_page": "https://www.corresponsables.com/actualidad/por-segundo-ano-consecutivo-reale-foundation-y-la-ong-xaloc-mar-se-unen-para-proteger-y-cuidar-a-las-tortugas-marinas-del-mediterraneo/",
     "contact_email": "no lo tengo",
     "phone": "no lo tengo",
     "director_or_president": "no lo tengo",
     "what_they_do": "Protección y vigilancia de nidos de tortugas marinas en el Mediterráneo con voluntariado.",
-    "accepts_corporate_partners": "yes: alianza renovada con Reale Foundation (mismo enlace)"
+    "accepts_corporate_partners": "sí (indicio) — campaña 'Alerta Tortuga' con Reale Foundation 2024-2025 (corresponsables.com, sin verificar)",
+    "notes": "Verificación 07-nov-2026: Ficha CENEAM: https://www.miteco.gob.es/content/dam/miteco/es/ceneam/recursos/mini-portales-tematicos/xaloc_tcm30-440321.pdf . Colabora con Oceanogràfic de València."
    }
   ],
   "photographers": [
@@ -540,13 +548,15 @@
     "name": "IUCN SSC Bison Specialist Group",
     "hq_country": "Internacional",
     "hq_city": "no lo tengo",
-    "website": "https://www.iucn.org/news/species-survival-commission/202203/new-report-reviews-efforts-return-european-bison-brink-extinction",
+    "website": "https://iucn.org/our-union/commissions/group/iucn-ssc-bison-specialist-group",
     "project_page": "https://iucn.org/sites/default/files/2023-09/2020-bison-sg-report_publication.pdf",
-    "contact_email": "no lo tengo",
+    "contact_email": "iucn.bsg.plumb@gmail.com (artículo Cambridge 2022) (sin verificar)",
     "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "director_or_president": "Glenn Plumb, Chair (informe 2023 del grupo); Prof. Wanda Olech, Co-Chair (página del grupo en iucn.org)",
     "what_they_do": "Grupo científico que evalúa y coordina la conservación del bisonte europeo (no es receptor típico de donaciones).",
-    "accepts_corporate_partners": "no (probable; grupo técnico) (sin verificar)"
+    "accepts_corporate_partners": "no (grupo científico voluntario, no recauda vía empresas)",
+    "director_source_url": "https://iucn.org/sites/default/files/2024-07/2023-iucn-ssc-bison-sg-report_publication.pdf",
+    "notes": "Verificación 07-nov-2026: Para bisonte europeo, Wanda Olech es el contacto de prensa."
    },
    {
     "name": "Bison Bonasus – Reserva y Centro de Interpretación del Bisonte Europeo (San Cebrián de Mudá, Palencia)",
@@ -555,7 +565,9 @@
     "website": "https://bisonbonasus.com",
     "contact_email": "bisontesancebrian@mundominer.es",
     "what_they_do": "C/ El Campo s/n, 34839 San Cebrián de Mudá. Tel. 979 605 823; reservas 666 229 574. Las fuentes no coinciden del todo en los teléfonos. Fuentes: https://www.spain.info/en/leisure-parks/bison-bonasus-reserve-visitors-centre/ , https://www.turismocastillayleon.com/es/arte-cultura-patrimonio/museos/bisonbonasus-reserva-centro-interpretacion-bisonte-europeo",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown — sin evidencia",
+    "phone": "+34 979 605 823; +34 623 025 605; reservas +34 666 229 574 (sin verificar; fichas turísticas)",
+    "notes": "Verificación 07-nov-2026: Dirección según Turismo Castilla y León: C/ El Campo s/n, 34839 San Cebrián de Mudá (otra ficha dice Calle Rosario s/n). Gestión de visitas: Asociación para el Desarrollo Local Sierra Corisa (sin verificar). Proyecto ligado a Mundo Miner (Tremedal)."
    },
    {
     "name": "Centro de Conservación del Bisonte Europeo en España (European Bison Conservation Center, EBCC) – dir. Fernando Morán Castillo",
@@ -564,25 +576,31 @@
     "website": "no lo tengo",
     "contact_email": "ebcc.spain@gmail.com (tomado de una página de Change.org, de terceros; sin verificar)",
     "what_they_do": "Fundado por el veterinario asturiano Fernando Morán. Soltó bisontes cerca de Teverga (2014, primeros nacimientos en Asturias), en Sierro (cerca de Oviedo), en Villayón (finca de 2.000 ha) y en Cantalejo y El Cubillo (Segovia). Ha recibido animales de Polonia. Fuentes: https://theolivepress.es/spain-news/2014/05/29/bison-bounce-back-in-spain-for-the-first-time-in-10000-years/ , https://rewildingeurope.com/blog/biggest-bison-transport-ever/ , https://www.elsaltodiario.com/biodiversidad/bisonte-europeo-bison-bonasus-vuelto-peninsula , https://www.change.org/p/teresa-ribera-rodriguez-ministra-para-la-transicion-ecologica-ayuda-al-bisonte-europeo-en-iberia-european-bison-in-spanish-red-list/u/27091101",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "director_or_president": "Fernando Morán, veterinario fundador (2008) — FALLECIDO el 31-dic-2025 según obituario de El Debate (sin verificar con segunda fuente); no sé quién dirige ahora (2026 (obituario))",
+    "director_source_url": "https://www.eldebate.com/obituarios/20260131/hombre-devolvio-bisontes-altamira_380009.html",
+    "notes": "Verificación 07-nov-2026: IMPORTANTE: no dirigirse a Morán. Wisenten.nl (mayo 2026) también habla de él en pasado ('RIP Fernando Morán'). El email ebcc.spain@gmail.com del input no se pudo confirmar. Posible vía: Wisenten (NL) o el IUCN Bison Specialist Group."
    },
    {
     "name": "Reserva de Valdeserrillas (Benagéber, Valencia) – True Nature Foundation",
     "hq_country": "España",
     "hq_city": "",
-    "website": "no lo tengo (Ayto. de Benagéber: benageber.es; turismo@benageber.es)",
-    "contact_email": "no lo tengo",
+    "website": "https://truenaturefoundation.org/ (citada en un artículo de prensa; sin verificar)",
+    "contact_email": "turismo@benageber.es (es del Ayuntamiento/turismo, no de la fundación; Diputació de València turismo)",
     "what_they_do": "Aquí se soltaron 12 bisontes con el programa de cría de la EAZA (True Nature Foundation). En 2016 aparecieron bisontes decapitados y se informó de que los animales serían trasladados unos 700 km. Estado actual de la manada: (sin verificar). Fuentes: https://www.thelocal.es/20160923/second-bison-found-decapitated-at-spanish-nature-reserve/ , https://www.ecoticias.com/naturaleza/128476_lios-misterios-reserva-valdeserrillas-bisontes",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "notes": "Verificación 07-nov-2026: PRECAUCIÓN: en 2020 la reserva sufrió daños graves por temporales y se decidió trasladar los bisontes; la prensa informa que el responsable de la reserva fue investigado por la Fiscalía por presunto maltrato animal (bisontes decapitados). Riesgo reputacional alto: no recomendable como socio."
    },
    {
     "name": "Valle del Bisonte – Anciles (Riaño, León)",
     "hq_country": "España",
     "hq_city": "",
-    "website": "no lo tengo",
-    "contact_email": "no lo tengo",
+    "website": "http://www.ayuntamientoriano.es (Ayuntamiento, según turismocastillayleon.com)",
+    "contact_email": "info@aytoriano.es (Ayuntamiento de Riaño, según Turismo Castilla y León; no específico del proyecto bisonte)",
     "what_they_do": "La Fundación Valle del Bisonte (Ayto. de Riaño + True Nature Foundation) se disolvió en 2023. Ahora el proyecto lo gestiona el Ayuntamiento de Riaño, que prevé sacar a concurso la parte turística. Fuentes: https://www.diariodeleon.es/leon/provincia/230305/860147/riano-asumira-solitario-gestion-proyecto-sobre-recuperacion-bisonte.html , https://www.diariodeleon.es/ocio/destinos/260824/2095137/bisontes-europeos-leon-valle-anciles_amp.html",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "phone": "987 740 613 (Ayuntamiento de Riaño, según Turismo Castilla y León)",
+    "notes": "Verificación 07-nov-2026: La Fundación Valle del Bisonte (Ayto. Riaño + Fundación True Nature) fue disuelta; el Ayuntamiento gestiona el proyecto en solitario (Diario de León: https://www.diariodeleon.es/leon/provincia/230305/860147/riano-asumira-solitario-gestion-proyecto-sobre-recuperacion-bisonte.html). Fuente contacto: https://www.turismocastillayleon.com/es/servicios/ayuntamientos/riano. Visitas guiadas por Ubuntu Aventuras."
    },
    {
     "name": "Otros proyectos (sin entidad gestora confirmada)",

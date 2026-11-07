@@ -44,15 +44,17 @@
     "name": "International Rhino Foundation (IRF)",
     "hq_country": "Estados Unidos",
     "hq_city": "Fort Worth, Texas (sin verificar; directorio no oficial). Oficina también en Strasburg, Virginia (sin verificar)",
-    "website": "https://rhinos.org/",
+    "website": "https://rhinos.org",
     "species_project_page": "https://rhinos.org/about-rhinos/rhino-species/white-rhino/",
     "contact_email": "no lo tengo",
     "phone": "no lo tengo",
-    "director_or_president": "Nina Fascione, Executive Director (nombrada en 2020)",
+    "director_or_president": "Nina Fascione, Executive Director (2025)",
     "director_source": "https://rhinos.org/?p=4304",
     "what_they_do": "Financia protección y monitorización de las 5 especies de rinoceronte y publica el informe anual 'State of the Rhino'.",
-    "accepts_corporate_partners": "yes",
-    "accepts_corporate_partners_evidence": "https://rhinos.org/?p=6865 (página Corporate Partners; niveles desde 15.000 USD 'Silver'; ej. Blue Rhino)"
+    "accepts_corporate_partners": "unknown",
+    "accepts_corporate_partners_evidence": "https://rhinos.org/?p=6865 (página Corporate Partners; niveles desde 15.000 USD 'Silver'; ej. Blue Rhino)",
+    "director_source_url": "https://rhinos.org/blog/news-room/sotr2025/",
+    "notes": "Verificación 07-nov-2026: Confirmada en nota de prensa sept. 2025. Sede Strasburg, Virginia. info@rhinos.org no confirmado."
    },
    {
     "name": "BioRescue (consorcio liderado por Leibniz-IZW)",
@@ -60,13 +62,15 @@
     "hq_city": "Berlín",
     "website": "https://biorescue.org/",
     "species_project_page": "https://biorescue.org/de/node/235",
-    "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "contact_email": "hildebrandt@izw-berlin.de (página de contacto oficial)",
+    "phone": "+49 (0)30 5168 440",
+    "director_or_president": "Prof. Thomas Hildebrandt, jefe del proyecto (no lo tengo (página sin fecha))",
     "director_source": "no lo tengo",
     "what_they_do": "Programa científico de reproducción asistida (FIV, embriones, células madre) para salvar al rinoceronte blanco del norte, con Ol Pejeta y Kenya Wildlife Service.",
     "accepts_corporate_partners": "unknown",
-    "accepts_corporate_partners_evidence": "no lo tengo (consorcio científico; presencia UE, encaja con el storytelling del rinoceronte del norte)"
+    "accepts_corporate_partners_evidence": "no lo tengo (consorcio científico; presencia UE, encaja con el storytelling del rinoceronte del norte)",
+    "director_source_url": "https://biorescue.org/en/kontakt",
+    "notes": "Verificación 07-nov-2026: Comunicación/prensa: Steven Seet, seet@izw-berlin.de. Es un consorcio de investigación financiado públicamente; un acuerdo de 5 €/camiseta probablemente deba canalizarse vía Leibniz-IZW."
    }
   ],
   "photographers": [
@@ -155,11 +159,13 @@
     "species_project_page": "https://gorillas.org/latest-census-shows-another-rise-in-mountain-gorilla-numbers/",
     "contact_email": "info@gorillas.org (publicado en el Registro de la Charity Commission; no verificado en la web oficial)",
     "phone": "020 7916 4974 (Charity Commission)",
-    "director_or_president": "Jillian Miller, Executive Director (según página de equipo de la web; vigencia sin verificar). Presidente del patronato: Ian Redmond OBE (sin verificar)",
+    "director_or_president": "Jillian Miller, Executive Director; Ian Redmond OBE, Chairman of trustees (no lo tengo)",
     "director_source": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/4027969/contact-information (contacto); nombre del director según búsqueda en gorillas.org (sin verificar)",
     "what_they_do": "Charity británica (nº 1117131) que apoya proyectos comunitarios de conservación de gorilas en Ruanda, Uganda y RDC.",
-    "accepts_corporate_partners": "unknown",
-    "accepts_corporate_partners_evidence": "no lo tengo (organiza eventos como la Great Gorilla Run: https://www.4apes.com/events/eventdetail/53/-/great-gorilla-run)"
+    "accepts_corporate_partners": "sí (patrocinio corporativo de Gorilla Glue, Gorilla Spirits, That Gorilla Brand, según Wikipedia; sin verificar en web oficial)",
+    "accepts_corporate_partners_evidence": "no lo tengo (organiza eventos como la Great Gorilla Run: https://www.4apes.com/events/eventdetail/53/-/great-gorilla-run)",
+    "director_source_url": "https://gorillas.org/about/meet-our-team",
+    "notes": "Verificación 07-nov-2026: No se confirmó info@gorillas.org en esta búsqueda (el input lo atribuye al registro de la Charity Commission). Año del cargo no confirmado."
    },
    {
     "name": "International Gorilla Conservation Programme (IGCP)",
@@ -168,12 +174,13 @@
     "website": "https://igcp.org/",
     "species_project_page": "https://igcp.org/content/uploads/2025/05/Bwindi-Sarambwe-Census-2025_PressRelease.pdf",
     "contact_email": "no lo tengo",
-    "phone": "+250 783338022 (según resultados de búsqueda; sin verificar en web)",
+    "phone": "+250 783 338 022 (anuncio oficial IGCP dic. 2022)",
     "director_or_president": "Anna Behm Masozera, Director (fuentes de 2020-2021; vigencia sin verificar)",
     "director_source": "https://events.globallandscapesforum.org/speaker/anna-behm-masozera/",
     "what_they_do": "Coalición (Fauna & Flora + WWF) que coordina censos y conservación transfronteriza del gorila de montaña.",
     "accepts_corporate_partners": "unknown",
-    "accepts_corporate_partners_evidence": "no lo tengo"
+    "accepts_corporate_partners_evidence": "no lo tengo",
+    "notes": "Verificación 07-nov-2026: Anna Behm Masozera probablemente ya no es directora (IGCP buscó nuevo director en 2021). Oficina: Scola House, KN 8 Ave, Kacyiru, Kigali."
    }
   ],
   "alternative_foundation_eu": "Berggorilla & Regenwald Direkthilfe e.V. (Hövelhof, Alemania; https://www.berggorilla.org/) — asociación europea de apoyo directo a gorilas; junta y emails actuales no verificados (informe 2025: https://www.berggorilla.org/fileadmin/user_upload/pdf/downloads/Verein/brd-jahresbericht-2025.pdf).",
@@ -276,13 +283,14 @@
     "hq_city": "Riudellots de la Selva (Girona)",
     "website": "https://www.fundacionmona.org/",
     "species_project_page": "no lo tengo",
-    "contact_email": "no lo tengo (recerca@fundacionmona.org aparece en un documento de la UAB, no en la web oficial: https://www.uab.cat/doc/ofer_prac_mona)",
-    "phone": "no lo tengo",
+    "contact_email": "info@fundaciomona.org (sin verificar; de guía turística Arrival Guides)",
+    "phone": "+34 972 477 618 (sin verificar)",
     "director_or_president": "Olga Feliu, Directora del centro (documento UAB 2022; sin verificar en web oficial)",
     "director_source": "https://www.uab.cat/doc/ofer_prac_mona",
     "what_they_do": "Centro de rescate y rehabilitación de chimpancés y otros primates (ex-mascotas, circos) en Girona; investigación y educación.",
     "accepts_corporate_partners": "unknown",
-    "accepts_corporate_partners_evidence": "no lo tengo"
+    "accepts_corporate_partners_evidence": "no lo tengo",
+    "notes": "Verificación 07-nov-2026: Agregador Prospeo nombra a Xavier Benzekri Pellejà como director gerente (sin verificar, no fiable). Olga Feliu (input) no confirmada. Sede: C-25, Riudellots de la Selva (Girona)."
    },
    {
     "name": "Wild Chimpanzee Foundation (WCF)",
@@ -290,13 +298,16 @@
     "hq_city": "Cologny-Ginebra (Suiza); Leipzig (Alemania)",
     "website": "https://www.wildchimps.org/",
     "species_project_page": "https://www.wildchimps.org/projects-ivory-coast",
-    "contact_email": "no lo tengo (la web lo muestra ofuscado)",
-    "phone": "no lo tengo",
-    "director_or_president": "Peter Lehmann, Presidente (elegido 2024); Hedwige Boesch, Directora WCF Europa/Sede. Fundador Christophe Boesch falleció en enero de 2024.",
+    "contact_email": "wcf@wildchimps.org (página Imprint del sitio oficial)",
+    "phone": "+49 (0)341 5904858 (Imprint oficial, oficina de Leipzig)",
+    "director_or_president": "Dr. Ilka Herbinger — Deputy Director (documento WCF 2024, cargo en otra entidad también); input: Peter Lehmann presidente (no re-verificado)",
     "director_source": "https://wildchimps.org/fileadmin/content_files/pdfs/news/WCF_communique_org_def_e_3_5_2024.pdf",
     "what_they_do": "Protege chimpancés occidentales (CR) en Costa de Marfil, Liberia y Guinea: biomonitoreo, parques nacionales y educación.",
-    "accepts_corporate_partners": "unknown",
-    "accepts_corporate_partners_evidence": "no lo tengo"
+    "accepts_corporate_partners": "unknown — sin evidencia",
+    "accepts_corporate_partners_evidence": "no lo tengo",
+    "director_source_url": "https://wildchimps.org/fileadmin/content_files/pdfs/news/2024_WCF_Scientific_committee_04-07-2024.pdf",
+    "accepts_corporate_partners_evidence_url": "https://www.wildchimps.org/imprint",
+    "notes": "Verificación 07-nov-2026: Sede legal Cologny (Suiza), oficina europea Leipzig. La web muestra el email con aviso 'remove the brackets' (ofuscación)."
    }
   ],
   "photographers": [
@@ -373,18 +384,18 @@
     "name": "Panthera",
     "hq_country": "Estados Unidos",
     "hq_city": "Nueva York",
-    "website": "https://panthera.org",
+    "website": "https://www.panthera.org",
     "species_project_page": "no lo tengo",
-    "contact_email": "info@panthera.org",
+    "contact_email": "info@panthera.org (página oficial de Corporate Partnerships)",
     "phone": "+1 646 786 0400",
-    "director_or_president": "Dr. Frederic (Fred) Launay — President & CEO (Desde 2017; listado como CEO en panthera.org (consultado 2026, sin fecha explícita))",
+    "director_or_president": "Fred Launay, Ph.D., President and CEO (desde 2017) (no lo tengo)",
     "director_source": "https://theorg.com/org/panthera-corporation/org-chart/fred-launay (sin verificar en panthera.org)",
     "what_they_do": "ONG dedicada exclusivamente a los felinos salvajes; programas de leones (p. ej., Kafue, Zambia) y lucha contra el furtivismo.",
-    "accepts_corporate_partners": "yes",
+    "accepts_corporate_partners": "sí (la página oficial invita a socios filantrópicos/corporativos, incluidos programas de royalties)",
     "accepts_corporate_partners_evidence": "https://issuu.com/pantheracats/docs/panthera_overview (menciona trabajo con 'corporate partners'; sin página corporativa verificada)",
-    "director_source_url": "https://panthera.org/fred-launay",
+    "director_source_url": "https://panthera.org/people-panthera",
     "accepts_corporate_partners_evidence_url": "https://panthera.org/corporate-partnerships",
-    "notes": "Sede Nueva York. Prensa: prpanthera@panthera.org. Chair del Board: Jonathan Ayers."
+    "notes": "Verificación 07-nov-2026: Prensa: prpanthera@panthera.org. Año del cargo actual no confirmado con fuente 2025."
    },
    {
     "name": "Lion Recovery Fund (iniciativa de Wildlife Conservation Network)",
@@ -392,13 +403,15 @@
     "hq_city": "San Francisco (WCN) (sin verificar)",
     "website": "https://lionrecoveryfund.org/",
     "species_project_page": "https://wildnet.org/recovering-lions-restoring-landscapes/",
-    "contact_email": "no lo tengo en la web oficial (el perfil de Peter Lindsey en catsg.org indica peter(at)wildnet.org: https://catsg.org/team-3/peter-lindsey)",
+    "contact_email": "info@lionrecoveryfund.org",
     "phone": "no lo tengo",
-    "director_or_president": "Dr. Peter Lindsey, Director del Lion Recovery Fund",
+    "director_or_president": "Dr. Peter Lindsey, Director (no lo tengo)",
     "director_source": "https://catsg.org/team-3/peter-lindsey",
     "what_they_do": "Fondo que canaliza el 100% de las donaciones a los mejores proyectos de recuperación de leones y sus paisajes en África; objetivo duplicar la población de leones.",
     "accepts_corporate_partners": "unknown",
-    "accepts_corporate_partners_evidence": "no lo tengo"
+    "accepts_corporate_partners_evidence": "no lo tengo",
+    "director_source_url": "https://lionrecoveryfund.org/?p=2839",
+    "notes": "Verificación 07-nov-2026: Email de la web oficial (para enviar resúmenes de trabajo). peter(at)wildnet.org en catsg.org (sin verificar). Contacto turismo: Melissa Fenton (Lionscape Coalition)."
    },
    {
     "name": "Born Free Foundation",
@@ -406,16 +419,16 @@
     "hq_city": "Horsham, West Sussex (2nd Floor, Frazer House, 14 Carfax, RH12 1ER)",
     "website": "https://www.bornfree.org.uk",
     "species_project_page": "no lo tengo",
-    "contact_email": "info@bornfree.org.uk (Charity Commission); partnerships: molly@bornfree.org.uk (Molly Rutherford, Partnerships Manager, Corporate Brochure 2024)",
-    "phone": "+44 1403 240170",
+    "contact_email": "info@bornfree.org.uk (Charity Commission, nº 1070906)",
+    "phone": "01403 240170 (Charity Commission)",
     "director_or_president": "Karen Botha (Managing Director); Will Travers OBE (Co-Founder & Executive President) — Managing Director (no existe cargo 'CEO' publicado actualmente) (2024 (Informe anual YE marzo 2024; página Team vigente))",
     "director_source": "https://www.bornfree.org.uk/wp-content/uploads/2024/09/Born-Free-Corporate-Brochure-2024.pdf",
     "what_they_do": "ONG británica nacida de la historia de la leona Elsa ('Nacida libre'): protección de leones en libertad, santuarios y campañas contra la caza de trofeos.",
-    "accepts_corporate_partners": "yes",
+    "accepts_corporate_partners": "sí — página Corporate Partners con contactos Molly Rutherford (Partnerships Manager) y Olivia Evans (Partnerships Officer); folleto corporativo 2023",
     "accepts_corporate_partners_evidence": "https://www.bornfree.org.uk/corporate-partners/",
     "director_source_url": "https://www.bornfree.org.uk/team/",
     "accepts_corporate_partners_evidence_url": "https://bornfree.org.uk/corporate-partners",
-    "notes": "Frazer House 2nd Floor, 14 Carfax, Horsham RH12 1ER, UK. Charity nº 1070906. Brochure 2024 contempla donar % de ventas -> encaja con 5 €/camiseta. Adam M. Roberts (CEO 2014-15) ya no está (fallecido)."
+    "notes": "Verificación 07-nov-2026: CEO actual no confirmado (consultar Companies House 03603432). molly@bornfree.org.uk aparece en folleto 2023 (sin verificar vigencia)."
    }
   ],
   "photographers": [
@@ -500,10 +513,10 @@
     "name": "Cheetah Conservation Botswana (CCB)",
     "hq_country": "Botsuana",
     "hq_city": "Gaborone (sin verificar)",
-    "website": "https://cheetah.org",
+    "website": "https://www.cheetahconservationbotswana.org (CORRECCIÓN: cheetah.org es otra organización)",
     "species_project_page": "https://cheetahconservationbotswana.org/what-we-do.html",
     "contact_email": "no lo tengo (dato borrado: se había cruzado con otra organización)",
-    "phone": "no lo tengo (dato borrado: se había cruzado con otra organización)",
+    "phone": "3500613 (Gaborone)",
     "director_or_president": "Rebecca Klein (sin verificar)",
     "director_source": "https://www.cheetahconservationbotswana.org/who-we-are.html",
     "what_they_do": "Conservación del guepardo en Botsuana mediante investigación y trabajo con comunidades ganaderas (miembro de Wildlife Conservation Network).",
@@ -511,7 +524,7 @@
     "accepts_corporate_partners_evidence": "https://www.cheetahconservationbotswana.org/supporters.html (página de supporters)",
     "director_source_url": "no lo tengo (dato borrado: se había cruzado con otra organización)",
     "accepts_corporate_partners_evidence_url": "no lo tengo (dato borrado: se había cruzado con otra organización)",
-    "notes": ""
+    "notes": "Verificación 07-nov-2026: Un directorio da info@cheethconservationbotswana.org (dominio mal escrito, no usar). Dirección: B5 Kgale Siding Office Park, Plot 1069-KO, Private Bag BO 284, Gaborone."
    },
    {
     "name": "Born Free Foundation",
@@ -519,16 +532,16 @@
     "hq_city": "Horsham, West Sussex",
     "website": "https://www.bornfree.org.uk",
     "species_project_page": "https://bornfree.org.uk/animals/cheetah",
-    "contact_email": "info@bornfree.org.uk (Charity Commission); partnerships: molly@bornfree.org.uk (Molly Rutherford, Partnerships Manager, Corporate Brochure 2024)",
-    "phone": "+44 1403 240170",
+    "contact_email": "info@bornfree.org.uk (Charity Commission, nº 1070906)",
+    "phone": "01403 240170 (Charity Commission)",
     "director_or_president": "Karen Botha (Managing Director); Will Travers OBE (Co-Founder & Executive President) — Managing Director (no existe cargo 'CEO' publicado actualmente) (2024 (Informe anual YE marzo 2024; página Team vigente))",
     "director_source": "https://www.bornfree.org.uk/wp-content/uploads/2024/09/Born-Free-Corporate-Brochure-2024.pdf",
     "what_they_do": "Proyectos de felinos en África y campañas contra el comercio de crías de guepardo como mascotas.",
-    "accepts_corporate_partners": "yes",
+    "accepts_corporate_partners": "sí — página Corporate Partners con contactos Molly Rutherford (Partnerships Manager) y Olivia Evans (Partnerships Officer); folleto corporativo 2023",
     "accepts_corporate_partners_evidence": "https://www.bornfree.org.uk/corporate-partners/",
     "director_source_url": "https://www.bornfree.org.uk/team/",
     "accepts_corporate_partners_evidence_url": "https://bornfree.org.uk/corporate-partners",
-    "notes": "Frazer House 2nd Floor, 14 Carfax, Horsham RH12 1ER, UK. Charity nº 1070906. Brochure 2024 contempla donar % de ventas -> encaja con 5 €/camiseta. Adam M. Roberts (CEO 2014-15) ya no está (fallecido)."
+    "notes": "Verificación 07-nov-2026: CEO actual no confirmado (consultar Companies House 03603432). molly@bornfree.org.uk aparece en folleto 2023 (sin verificar vigencia)."
    }
   ],
   "photographers": [
@@ -621,13 +634,14 @@
     "hq_city": "Dallas, Texas (8333 Douglas Avenue, Suite 300)",
     "website": "https://savegiraffesnow.org/",
     "species_project_page": "https://savegiraffesnow.org/news-blog/page/7",
-    "contact_email": "Prensa: amber@savegiraffesnow.org (página de contacto oficial https://savegiraffesnow.org/contact-us/, según índice de búsqueda)",
-    "phone": "214-760-6000 (página de contacto, según búsqueda)",
+    "contact_email": "kaylaw@savegiraffesnow.org (página de contacto oficial https://savegiraffesnow.org/contact-us/, según índice de búsqueda)",
+    "phone": "214-760-6000",
     "director_or_president": "David O'Connor, President (informe 2020; vigencia sin verificar). Fundadora y CEO: Susan Myers",
     "director_source": "https://savegiraffesnow.org/wp-content/uploads/2021/03/SGN_2020_AnnualImpact_Interactive_Pages_0309.pdf",
     "what_they_do": "Financia proyectos de conservación de jirafas en África (p. ej., rescate de jirafas de Rothschild en la isla Longicharo, Kenia, 2020).",
     "accepts_corporate_partners": "unknown",
-    "accepts_corporate_partners_evidence": "no lo tengo"
+    "accepts_corporate_partners_evidence": "no lo tengo",
+    "notes": "Verificación 07-nov-2026: Dirección: 8333 Douglas Avenue, Suite 300, Dallas TX 75225. Hay sección 'Our Partners' en la web, contenido no visto. amber@savegiraffesnow.org (input) no reapareció en esta búsqueda."
    }
   ],
   "foundation_eu_note": "No se ha localizado una fundación de jirafas con oficina/registro en España/UE: la entidad británica de GCF está cerrada. Alternativa: acuerdo directo con GCF (Namibia).",

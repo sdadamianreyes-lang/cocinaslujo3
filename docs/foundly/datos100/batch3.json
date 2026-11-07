@@ -41,10 +41,11 @@
     "website": "https://www.wwf.se",
     "project_url": "https://skistar-ab.mynewsdesk.com/pressreleases/aarets-pantamera-insamling-fraan-skistar-gaar-till-wwf-sveriges-arbete-foer-att-raedda-fjaellraeven-3112220.pdf (página de proyecto en wwf.se: no lo tengo)",
     "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
+    "phone": "+46 8 624 74 00 (listado oficial de oficinas WWF, wwf.panda.org)",
     "director_or_president": "Gustaf Lind, generalsekreterare (sin verificar) (fecha del nombramiento no confirmada) — https://miljo-utveckling.se/amne/wwf",
     "what_they_do": "Trabajo de campo con el zorro ártico: alimentación suplementaria todo el año, censo de camadas, socio de Felles Fjellrev y proyecto con Nordens Ark (financiado por Postkodlotteriet).",
-    "accepts_corporate_partners": "yes — SkiStar dona su recaudación Pantamera al trabajo de WWF Sverige con el zorro ártico: https://skistar-ab.mynewsdesk.com/pressreleases/aarets-pantamera-insamling-fraan-skistar-gaar-till-wwf-sveriges-arbete-foer-att-raedda-fjaellraeven-3112220.pdf"
+    "accepts_corporate_partners": "sí — WWF trabaja con empresas (departamento Näringsliv och Finans, dirigido por Elin Larsson en 2022, sin verificar)",
+    "notes": "Verificación 07-nov-2026: Dirección: Ulriksdals Slott, 170 81 Solna. No se encontró email público."
    },
    {
     "name": "Nordens Ark (fundación)",
@@ -56,7 +57,8 @@
     "phone": "no lo tengo",
     "director_or_president": "Mats Höggren, VD (sin verificar) (fuente 2021) — https://nordensark.se/media/180167/nordensarkeffektrapport-2021.pdf",
     "what_they_do": "Fundación privada sin ánimo de lucro: cría en cautividad y reintroducción de especies nórdicas amenazadas, incluido el zorro ártico; socio de WWF en proyecto 2024 de 4 años.",
-    "accepts_corporate_partners": "yes — sus informes de impacto listan empresas donantes/socias (Coop Väst, LRF Västra Götaland, etc.): https://nordensark.se/media/181144/effektrapport-2024.pdf"
+    "accepts_corporate_partners": "unknown",
+    "notes": "Verificación 07-nov-2026: Existe Effektrapport 2024 en nordensark.se (no vi el VD en snippet). info@nordensark.se no confirmado."
    },
    {
     "name": "WWF Suomi (WWF Finland)",
@@ -65,10 +67,11 @@
     "website": "https://wwf.fi",
     "project_url": "https://wwf.fi/app/uploads/e/9/n/vgbje4h6nzasotux77rb65/vuosikertomus-2024-2025-valmis.pdf (informe anual; página de proyecto específica: no lo tengo)",
     "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
+    "phone": "+358 9 774 0100 (listado de oficinas WWF, posiblemente antiguo)",
     "director_or_president": "no lo tengo",
     "what_they_do": "Apoya junto a Metsähallitus la protección del naali en Laponia (Enontekiö): financia alimentación suplementaria y cámaras de fototrampeo.",
-    "accepts_corporate_partners": "unknown — sin evidencia específica encontrada"
+    "accepts_corporate_partners": "unknown",
+    "notes": "Verificación 07-nov-2026: La dirección Lintulahdenkatu 10, Helsinki puede estar desfasada (oferta de 2026 sitúa la oficina en Sörnäinen). info@wwf.fi no confirmado; secretario general no encontrado."
    }
   ],
   "photographers": [
@@ -150,9 +153,12 @@
     "project_url": "no lo tengo (presencia en Svalbard: PBI Ice House en Longyearbyen y colaboración con Basecamp Explorer: https://basecampexplorer.com/?p=48835)",
     "contact_email": "no lo tengo",
     "phone": "no lo tengo",
-    "director_or_president": "Krista Wright, Executive Director/CEO desde 2013 (sin verificar) (fuente secundaria: https://en.wikipedia.org/wiki/Polar_Bears_International)",
+    "director_or_president": "Krista Wright, Executive Director (no CEO) (no lo tengo)",
     "what_they_do": "ONG dedicada exclusivamente al oso polar: investigación, conservación del hielo marino y divulgación; trabaja en Svalbard.",
-    "accepts_corporate_partners": "yes — socios corporativos como Canada Goose (>6 M$), Fahlo (10 % ventas netas) y Basecamp Explorer: https://polarbearsinternational.org/news-media/articles/fahlo-bracelets-polar-bear-tracker , https://www.canadagoose.com/pbi"
+    "accepts_corporate_partners": "sí (programa de patrocinio corporativo, desde 35.000 USD; socios: Frontiers North, Canada Goose, Payworks)",
+    "director_source_url": "https://polarbearsinternational.org/about-us",
+    "accepts_corporate_partners_evidence_url": "https://polarbearsinternational.org/get-involved/corporate-sponsorship-program",
+    "notes": "Verificación 07-nov-2026: info@pbears.org NO encontrado: no usar. Contacto de patrocinio vía formulario. Dirección listada por IUCN US: 1828 L Street NW, Suite 1050, Washington DC (sin verificar). Año del cargo no confirmado en snippet."
    },
    {
     "name": "WWF Norge (Verdens naturfond)",
@@ -160,11 +166,12 @@
     "hq_city": "Oslo (sin verificar)",
     "website": "https://www.wwf.no",
     "project_url": "https://arctic.blogs.panda.org/field/survival-against-the-odds/ (seguimiento por satélite de osos de Svalbard con el Instituto Polar Noruego desde 2003)",
-    "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "contact_email": "post@wwf.no (lista de entidades consultadas, Havtil feb 2025) (sin verificar)",
+    "phone": "+47 22 03 65 00 (panda.org, antiguo) (sin verificar)",
+    "director_or_president": "Karoline Andaur, generalsekretær (2025 (Årsmelding 2025 de WWF))",
     "what_they_do": "Financia junto al Instituto Polar Noruego el marcaje satelital y estudio de osos polares de Svalbard.",
-    "accepts_corporate_partners": "unknown — sin evidencia específica encontrada (WWF en general sí tiene programas corporativos)"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://media.wwf.no/assets/attachments/3-WWF-A%CC%8Arsmelding-2025.pdf"
    }
   ],
   "photographers": [
@@ -238,13 +245,13 @@
     "hq_city": "no lo tengo",
     "website": "https://4vultures.org",
     "project_url": "https://4vultures.org/life-aegypius-return/the-cinereous-vulture/key-facts-and-figures/",
-    "contact_email": "info@4vultures.org",
+    "contact_email": "info@4vultures.org (oficial; aparece en oferta de empleo de 2026 publicada en 4vultures.org)",
     "phone": "no lo tengo",
     "director_or_president": "José Tavares (Director); Jovan Andevski (Conservation Director, 2025) — Director (2026 (en el cargo desde 2013; activo en enero 2026))",
     "what_they_do": "ONG internacional (fundada en 2009) dedicada a los buitres europeos: reintroducción y seguimiento del buitre negro (LIFE Aegypius Return, Portugal-España).",
-    "accepts_corporate_partners": "unknown — no se encontró página de socios corporativos",
+    "accepts_corporate_partners": "unknown — sin evidencia",
     "director_source_url": "https://4vultures.org/about-us/meet-the-team/",
-    "notes": "Oficina: Sandstrasse 2, CH-8003 Zürich, Suiza. Email personal j.tavares@4vultures.org aparece en lista de participantes CMS sin fecha (sin verificar vigencia). Prensa: e.karatzia@4vultures.org. Quebrantahuesos, buitre negro, alimoche."
+    "notes": "Verificación 07-nov-2026: Dirección antigua Wuhrstrasse 12, 8003 Zürich (2019, puede estar desactualizada). j.tavares@4vultures.org figura en una lista CMS antigua (sin verificar vigencia)."
    },
    {
     "name": "GREFA (Grupo de Rehabilitación de la Fauna Autóctona y su Hábitat)",
@@ -254,12 +261,12 @@
     "project_url": "https://majadahondamagazin.es/wp-content/uploads/2018/10/NP-GREFA-181008-Proyecto-Monachus-liberaciones.pdf (Proyecto Monachus; página oficial del proyecto no lo tengo)",
     "contact_email": "grefa@grefa.org (general, web oficial); fgarces@grefa.org (GREFA + Empresas)",
     "phone": "+34 91 638 75 50",
-    "director_or_president": "Ernesto Carlos Álvarez Xusto (Presidente); José Fernando Garcés Toledano (Secretario General) — Presidente (Junta inscrita 03/12/2019 (web oficial); Garcés confirmado como Secretario General en noticia de 2025-2026)",
+    "director_or_president": "Ernesto Álvarez, presidente (dato de entrada; no confirmado en esta búsqueda) (no lo tengo)",
     "what_they_do": "Hospital de fauna y ONG madrileña; Proyecto Monachus de reintroducción del buitre negro (p. ej. Sierra de la Demanda).",
-    "accepts_corporate_partners": "unknown — sin evidencia encontrada",
-    "director_source_url": "https://www.grefa.org/grefa1/acerca-de-grefa",
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "no lo tengo",
     "accepts_corporate_partners_evidence_url": "https://www.grefa.org/hospiatl2/grefa-empresas.html",
-    "notes": "Majadahonda (Madrid). Programa 'GREFA + Empresas'. Buitre negro, hospital de fauna. Cercanía geográfica a Foundly (Madrid) -> candidato fuerte. Emails de empresas proceden de páginas de hace 4-5 años."
+    "notes": "Verificación 07-nov-2026: La búsqueda no devolvió páginas de grefa.org."
    },
    {
     "name": "AMUS (Acción por el Mundo Salvaje)",
@@ -269,9 +276,12 @@
     "project_url": "https://www.endesa.com/es/prensa/sala-de-prensa/noticias/eficiencia-energetica/medioambiente/proteccion-buitre-negro",
     "contact_email": "no lo tengo",
     "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "director_or_president": "Álvaro Guerrero — presidente (sin verificar; entrevista 2015)",
     "what_they_do": "ONG extremeña de recuperación de fauna; programa de conservación del hábitat del buitre negro.",
-    "accepts_corporate_partners": "yes — alianza con Fundación Endesa (mayo 2025) para proteger el buitre negro: https://www.corresponsables.com/actualidad/fundacion-endesa-y-accion-por-el-mundo-salvaje-se-unen-para-proteger-el-buitre-negro/"
+    "accepts_corporate_partners": "unknown — sin evidencia",
+    "director_source_url": "https://www.consumer.es/?p=139716 (sin verificar)",
+    "accepts_corporate_partners_evidence_url": "https://www.teaming.net/amusaccion-por-el-mundo-salvaje (Teaming, solo donaciones individuales)",
+    "notes": "Verificación 07-nov-2026: La web tiene sección 'Contacto' pero el email no apareció en los snippets. Apdo. de correos 6, 06220 Villafranca de los Barros (Badajoz) (memoria 2016). Fundada en 1995 en Extremadura; miembro UICN. Ecoticias publicó 'hay que salvar a AMUS' (posibles apuros económicos)."
    }
   ],
   "photographers": [],
@@ -328,11 +338,13 @@
     "hq_city": "Nairobi (estación en Samburu)",
     "website": "https://savetheelephants.org",
     "project_url": "https://savetheelephants.org/news/making-samburu-safe-for-elephants/",
-    "contact_email": "no lo tengo",
+    "contact_email": "info@savetheelephants.org (Charity Commission, registro primario; nº 1118804)",
     "phone": "no lo tengo",
-    "director_or_president": "Frank Pope, CEO — https://savetheelephants.org/about-ste/our-people/frank-pope/",
+    "director_or_president": "Frank Pope — CEO (no confirmado (página oficial sin fecha))",
     "what_they_do": "Investigación y protección del elefante (seguimiento GPS, coexistencia), cofundadora del Elephant Crisis Fund con WCN.",
-    "accepts_corporate_partners": "unknown — colaboraciones con empresas mencionadas, sin programa corporativo confirmado"
+    "accepts_corporate_partners": "unknown — sin evidencia",
+    "director_source_url": "https://savetheelephants.org/about-ste/our-people/frank-pope/",
+    "notes": "Verificación 07-nov-2026: Dirección registrada en Londres c/o Gerald Edelman (puede estar desactualizada). Teléfono keniano +254720441178 solo en directorio de terceros (sin verificar)."
    },
    {
     "name": "Tusk Trust",
@@ -340,11 +352,14 @@
     "hq_city": "Londres (sin verificar)",
     "website": "https://www.tusk.org",
     "project_url": "https://www.tusk.org/news/african-elephant-species-exposed-as-critically-endangered/",
-    "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "Nick Bubb, CEO (sucede al fundador Charlie Mayhew) — https://tusk.org/news/tusk-announces-appointment-of-new-ceo",
+    "contact_email": "info@tusk.org",
+    "phone": "01747 831005",
+    "director_or_president": "Nick Bubb, CEO (del input; no confirmado con fuente 2025) (no lo tengo)",
     "what_they_do": "Charity británica que financia ~56 proyectos de conservación en 18 países africanos, incluida la Elephant Protection Initiative.",
-    "accepts_corporate_partners": "yes — página de socios corporativos (DHL Express Europe, Land Rover, etc.) y responsable de alianzas corporativas Adele Emmett: https://tusk.org/about-us/supporting-partners , https://tusk.org/about-us/who-we-are/tusk-team"
+    "accepts_corporate_partners": "sí: página de Corporate Partners (DHL Express, Land Rover, Safaricom, Ninety One, etc.)",
+    "director_source_url": "https://tusk.org/news/tusk-announces-appointment-of-new-ceo",
+    "accepts_corporate_partners_evidence_url": "https://tusk.org/about-us/supporting-partners",
+    "notes": "Verificación 07-nov-2026: Email/teléfono del Charity Commission register (charity 1186533). Dirección: 1a Place Farm, Court Street, Tisbury, Salisbury SP3 6LW."
    },
    {
     "name": "David Shepherd Wildlife Foundation (DSWF)",
@@ -352,11 +367,13 @@
     "hq_city": "Guildford (Surrey)",
     "website": "https://davidshepherd.org",
     "project_url": "https://davidshepherd.org/news-events-insights/news/african-forest-and-savanna-elephants-recognised-as-two-species/",
-    "contact_email": "no lo tengo",
-    "phone": "01483 272323 (sin verificar) (fuente de 2017)",
-    "director_or_president": "no lo tengo (Karen Botha fue CEO desde 2017 pero volvió a Born Free)",
+    "contact_email": "dswf@davidshepherd.org (Registro de la Charity Commission)",
+    "phone": "01483 272323 (web oficial, oficina de Shalford, Guildford)",
+    "director_or_president": "Georgina Lamb, Chief Executive (no lo tengo (página del equipo sin fecha))",
     "what_they_do": "Fundación británica que financia proyectos de protección de elefantes, rinocerontes y tigres.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://davidshepherd.org/about/meet-the-team",
+    "notes": "Verificación 07-nov-2026: Registro: https://register-of-charities.charitycommission.gov.uk/en/constituency-search/-/charity-details/4012186/contact-information . Karen Botha ya no es CEO."
    }
   ],
   "photographers": [
@@ -435,11 +452,13 @@
     "hq_city": "Ithaca (Nueva York) (sin verificar)",
     "website": "https://www.elephantlisteningproject.org",
     "project_url": "https://www.birds.cornell.edu/ccb/elephant-listening-project/team/",
-    "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "Daniela Hedwig, Directora (desde 2021) — https://www.birds.cornell.edu/home/staff/daniela-hedwig/",
+    "contact_email": "dh646@cornell.edu (email personal de la directora en su perfil oficial de Cornell)",
+    "phone": "+1 607-254-2139",
+    "director_or_president": "Daniela Hedwig, Director of the Elephant Listening Project (desde 2021) (2021 (perfil oficial vigente, sin fecha de actualización))",
     "what_they_do": "Monitoriza elefantes de bosque por bioacústica en África central (Dzanga Bai) y forma a equipos locales.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://www.birds.cornell.edu/home/staff/daniela-hedwig/",
+    "notes": "Verificación 07-nov-2026: Oficina: 159 Sapsucker Woods Road, Ithaca NY 14850. Es un proyecto universitario: los acuerdos con empresas probablemente pasan por el Cornell Lab."
    },
    {
     "name": "African Parks (Parque Nacional Odzala-Kokoua)",
@@ -447,11 +466,14 @@
     "hq_city": "Johannesburgo (sin verificar)",
     "website": "https://www.africanparks.org",
     "project_url": "https://www.africanparks.org/the-parks/odzala-kokoua/partners",
-    "contact_email": "no lo tengo",
+    "contact_email": "info@african-parks.org (fact sheet oficial de 2016; vigencia sin verificar); odzala@african-parks.org (tercero, sin verificar)",
     "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "director_or_president": "Peter Fearnhead, CEO (citado 2020; vigencia sin verificar) (2020 (sin verificar))",
     "what_they_do": "Gestiona Odzala-Kokoua (Rep. del Congo) desde 2010; ~8.000 elefantes de bosque estimados en el parque. Nota: reconoció abusos de derechos humanos en el parque (BBC, mayo 2025).",
-    "accepts_corporate_partners": "unknown — página de socios del parque existe pero no se verificó si incluye empresas"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://www.africanparks.org/government-republic-congo-redoubles-protection-odzala-kokoua",
+    "accepts_corporate_partners_evidence_url": "https://www.africanparks.org/the-parks/odzala-kokoua/contact (contacto del parque)",
+    "notes": "Verificación 07-nov-2026: Web del parque: visitodzalala-kokoua.org (sic, snippet)."
    },
    {
     "name": "Dzanga-Sangha Protected Areas (gestión con WWF)",
@@ -459,11 +481,13 @@
     "hq_city": "no lo tengo",
     "website": "https://dzanga-sangha.org",
     "project_url": "https://dzanga-sangha.org/african-elephant-iucn-red-list/",
-    "contact_email": "no lo tengo",
+    "contact_email": "larranz(at)wwfcar.org (consultas generales) y nortega(at)wwfcar.org (turismo) — página oficial de contacto, escritos con (at); Luis Arranz puede ser exdirector",
     "phone": "no lo tengo",
     "director_or_president": "no lo tengo",
     "what_they_do": "Área protegida famosa por Dzanga Bai, claro donde se reúnen elefantes de bosque; proyecto de investigación Dzanga Forest Elephant Project (PI: Ivonne Kienast).",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown — sin evidencia",
+    "accepts_corporate_partners_evidence_url": "https://dzanga-sangha.org/contact/",
+    "notes": "Verificación 07-nov-2026: Página de contacto oficial: https://dzanga-sangha.org/contact/ . Director actual no encontrado."
    }
   ],
   "photographers": [
@@ -541,9 +565,11 @@
     "project_url": "https://rhinos.org/blog/tag/lowveld-rhino-trust",
     "contact_email": "no lo tengo",
     "phone": "no lo tengo",
-    "director_or_president": "Nina Fascione, Executive Director (nombrada en marzo de 2020; vigencia (sin verificar)) — https://rhinos.org/?p=7281",
+    "director_or_president": "Nina Fascione, Executive Director (2025)",
     "what_they_do": "Financia la principal población de rinoceronte negro de Zimbabue vía Lowveld Rhino Trust; coautora del informe anual State of the Rhino.",
-    "accepts_corporate_partners": "unknown — financiación vista: zoos, fundaciones, Disney Conservation Fund"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://rhinos.org/blog/news-room/sotr2025/",
+    "notes": "Verificación 07-nov-2026: Confirmada en nota de prensa sept. 2025. Sede Strasburg, Virginia. info@rhinos.org no confirmado."
    },
    {
     "name": "David Shepherd Wildlife Foundation (DSWF)",
@@ -551,11 +577,13 @@
     "hq_city": "Guildford (Surrey)",
     "website": "https://davidshepherd.org",
     "project_url": "https://davidshepherd.org/news/project-update-dswf-visits-save-rhino-trust",
-    "contact_email": "no lo tengo",
-    "phone": "01483 272323 (sin verificar) (fuente de 2017)",
-    "director_or_president": "no lo tengo",
+    "contact_email": "dswf@davidshepherd.org (Registro de la Charity Commission)",
+    "phone": "01483 272323 (web oficial, oficina de Shalford, Guildford)",
+    "director_or_president": "Georgina Lamb, Chief Executive (no lo tengo (página del equipo sin fecha))",
     "what_they_do": "Apoya a Save the Rhino Trust (Namibia) en la protección del rinoceronte negro del desierto en Kunene.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://davidshepherd.org/about/meet-the-team",
+    "notes": "Verificación 07-nov-2026: Registro: https://register-of-charities.charitycommission.gov.uk/en/constituency-search/-/charity-details/4012186/contact-information . Karen Botha ya no es CEO."
    }
   ],
   "photographers": [

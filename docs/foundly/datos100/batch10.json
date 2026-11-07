@@ -20,13 +20,14 @@
     "name": "Jardín Botánico Canario Viera y Clavijo (Cabildo de Gran Canaria)",
     "hq_country": "España",
     "hq_city": "Las Palmas de Gran Canaria",
-    "website": "no lo tengo",
+    "website": "http://www.jardincanario.org/ (listado turístico, sin verificar)",
     "project_page_url": "no lo tengo",
-    "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
+    "contact_email": "jardincanario@grancanaria.com (listado turístico, sin verificar)",
+    "phone": "+34 928 219 580 (GBIF)",
     "director_or_president": "no lo tengo",
     "what_they_do": "Jardín botánico con banco de semillas de flora canaria desde 1983 y una colección importante de Dracaena draco (sin verificar que tenga un proyecto específico de drago)",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "unknown (es una entidad pública del Cabildo; probablemente necesite convenio administrativo)",
+    "notes": "Verificación 07-nov-2026: Otro email en GBIF: berna@grancanaria.com (ligado a la colección de plantas vivas). Dirección: Camino del Palmeral 15, Tafira Alta / Apdo. 14 Tafira Alta, 35017 Las Palmas."
    }
   ],
   "photographers": [],
@@ -62,21 +63,25 @@
     "project_page_url": "https://www.juntadeandalucia.es/medioambiente/portal/documents/20151/915520/Ficha-RESUMEN-2022-IC-%2BPinsapo.pdf",
     "contact_email": "no lo tengo",
     "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "director_or_president": "José López Quintanilla, Coordinador Regional del Plan de Recuperación del Pinsapo (presentación 2022; sin verificar vigencia)",
     "what_they_do": "Recogida de piñas y semillas, producción de plantones en el vivero de La Resinera, reforestación (licitaciones de 480.659 €) y convenio con la Universidad de Córdoba para definir áreas prioritarias de restauración",
-    "accepts_corporate_partners": "no lo tengo (organismo público)"
+    "accepts_corporate_partners": "sí (indicio: iniciativa 'Pinsapo suma' busca aglutinar entidades públicas y privadas; ficha 2022 https://www.juntadeandalucia.es/medioambiente/portal/documents/20151/915520/Ficha-RESUMEN-2022-IC-%2BPinsapo.pdf)",
+    "director_source_url": "https://www.miteco.gob.es/content/dam/miteco/es/ceneam/grupos-de-trabajo-y-seminarios/red-parques-nacionales/9gestionintegralparalaconservaciondelospinsaparesenelpnsierralasnievesceneamred_tcm30-540959.pdf",
+    "notes": "Verificación 07-nov-2026: Organismo público; sin email específico. Vía: delegación territorial de Málaga o Parque Nacional Sierra de las Nieves."
    },
    {
     "name": "Parque Nacional Sierra de las Nieves (Red de Parques Nacionales – MITECO/OAPN)",
     "hq_country": "España",
     "hq_city": "no lo tengo",
-    "website": "https://www.miteco.gob.es/fr/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/sierra-de-las-nieves/visita-virtual/galeria-sierra-nieves.html",
+    "website": "https://www.miteco.gob.es/ca/ceneam/recursos/pag-web/sierra-nieves-pn.html",
     "project_page_url": "https://www.miteco.gob.es/content/dam/miteco/es/ceneam/grupos-de-trabajo-y-seminarios/red-parques-nacionales/9gestionintegralparalaconservaciondelospinsaparesenelpnsierralasnievesceneamred_tcm30-540959.pdf",
     "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "phone": "952 028 411 (folleto IUCN 2023) (sin verificar)",
+    "director_or_president": "Rafael Haro, Director del Parque Nacional (apellido dudoso: Ramos/Rengel) (sin verificar) (2023 (sin verificar))",
     "what_they_do": "Gestión integral para la conservación de los pinsapares del parque nacional",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "no (administración pública; gestión Junta de Andalucía)",
+    "director_source_url": "https://iucn.org/sites/default/files/2023-11/folleto-sierra-de-las-nieves.pdf",
+    "notes": "Verificación 07-nov-2026: Conservador citado: Adriano Vázquez Mora (ecoticias, sin fecha, sin verificar)."
    }
   ],
   "photographers": [],
@@ -118,13 +123,14 @@
     "name": "Proyecto LIFE BACCATA (LIFE15 NAT/ES/000790) – IBADER Universidad de Santiago de Compostela, Junta de Castilla y León, CESEFOR, Fundación HAZI, TRAGSA",
     "hq_country": "España",
     "hq_city": "no lo tengo",
-    "website": "https://www.life-baccata.eu",
+    "website": "https://www.life-baccata.eu (no apareció en resultados)",
     "project_page_url": "https://webgate.ec.europa.eu/life/publicWebsite/project/LIFE15-NAT-ES-000790/conservation-and-restoration-of-mediterranean-taxus-baccata-woods-9580-in-the-cantabrian-mountains",
     "contact_email": "no lo tengo",
     "phone": "no lo tengo",
     "director_or_president": "no lo tengo",
     "what_they_do": "Conservación y restauración de tejedas en 15 lugares Red Natura 2000 de la Cordillera Cantábrica (2016-2020, 1.925.104 €): bancos de genes, cultivo de más de 20.000 ejemplares y actuaciones selvícolas",
-    "accepts_corporate_partners": "no lo tengo (proyecto LIFE ya finalizado)"
+    "accepts_corporate_partners": "no — proyecto LIFE finalizado",
+    "notes": "Verificación 07-nov-2026: Proyecto cerrado: sept. 2016 – dic. 2020 (agregador up2europe). No es un socio adecuado; habría que dirigirse a un socio vigente (p.ej. CESEFOR o IBADER-USC)."
    },
    {
     "name": "Asociación Amigos del Tejo y las Tejedas (AATT)",
@@ -136,7 +142,8 @@
     "phone": "no lo tengo",
     "director_or_president": "no lo tengo",
     "what_they_do": "Asociación dedicada a la conservación de tejos y tejedas (XV Asamblea en Puertomingalvo, Teruel, 2021); activa en Gúdar, Maestrazgo y l'Alcalatén (sin verificar ámbito completo)",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "unknown",
+    "notes": "Verificación 07-nov-2026: Solo un comunicado 2021 (XV Asamblea en Puertomingalvo, Teruel). Probar registro de asociaciones de Aragón o Valencia."
    }
   ],
   "photographers": [],
@@ -176,10 +183,12 @@
     "website": "https://www.wwf.es (sin verificar)",
     "project_page_url": "https://www.ecoticias.com/naturaleza/47139_wwf-desarrolla-un-proyecto-para-fomentar-la-produccion-ecologica-de-vinos-y-el-uso-de-corchos-fsc",
     "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "phone": "+34 91 354 05 78 (página antigua de WWF, sin verificar)",
+    "director_or_president": "Antonio Lucio Gil, presidente de la Junta Rectora (documento sin fecha, sin verificar). Director general 2025: no lo tengo",
     "what_they_do": "Fomenta la certificación FSC de alcornocales y el uso de tapones de corcho (casi 13.600 ha certificadas en la fase piloto); campaña 'Corcho sí. Alcornocales vivos'",
-    "accepts_corporate_partners": "Sí (trabajó con bodegas y empresas corcheras; sin verificar programa actual)"
+    "accepts_corporate_partners": "unknown (WWF tiene alianzas corporativas en general, pero no lo confirmé para WWF España)",
+    "director_source_url": "https://wwfes.awsassets.panda.org/downloads/perfil_miembros_de_la_junta_rectora_wwf_espana.pdf",
+    "notes": "Verificación 07-nov-2026: info@wwf.es NO confirmado. Dirección: Gran Vía de San Francisco 8, 28005 Madrid."
    }
   ],
   "photographers": [],
@@ -219,11 +228,13 @@
     "hq_city": "Madrid",
     "website": "https://www.miteco.gob.es",
     "project_page_url": "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/recursos-geneticos/Programa%20de%20conservación%20y%20mejora%20de%20los%20recursos%20genéticos%20de%20los%20olmos%20ibéricos%20para%20página%20WEB.pdf",
-    "contact_email": "no lo tengo",
+    "contact_email": "info@olmosvivos.es (proyecto LIFE+ Olmos Vivos 2014-2019; puede estar inactivo; sin verificar)",
     "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "director_or_president": "Luis Gil (UPM), referente del programa/editor de libro sobre olmos ibéricos (cargo actual sin verificar) (no lo tengo)",
     "what_they_do": "Prospección de olmos sanos, ensayos de resistencia, cruzamientos y selección; bancos de conservación y campo de plantas madre en el CNRGF Valsaín; cesión de clones a ayuntamientos (p. ej. Pamplona)",
-    "accepts_corporate_partners": "no lo tengo (programa público, cofinanciado por FEADER)"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://www.boe.es/boe/dias/2022/01/27/pdfs/BOE-A-2022-1309.pdf (convenio MAPA-UPM 2022, sin nombre de coordinador en el resumen)",
+    "notes": "Verificación 07-nov-2026: Programa público (convenio MAPA-UPM, adenda BOE enero 2022). Contactar vía ETSI Montes UPM o DG Biodiversidad, Bosques y Desertificación."
    }
   ],
   "photographers": [],
@@ -269,10 +280,12 @@
     "website": "https://www.rufford.org",
     "project_page_url": "https://www.rufford.org/projects/jedidah-akawu-jacob/assessment-of-the-impact-of-fruit-and-leaf-harvesting-on-the-population-structure-and-regeneration-dynamics-of-a-digitata-in-gombe-state-nigeria/",
     "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "phone": "020 7436 8604",
+    "director_or_president": "Stuart Paterson, Chief Executive Officer (2024)",
     "what_they_do": "Fundación que concede becas a conservacionistas; financió un estudio del impacto de la recolección de frutos y hojas sobre la regeneración del baobab en Gombe (Nigeria)",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "no (fundación que concede becas, no busca socios corporativos; sin verificar)",
+    "director_source_url": "https://opencharities.uk/ew/1117270/files/2024-04-05-accounts.md",
+    "notes": "Verificación 07-nov-2026: Teléfono del Charity Commission (charity 1117270); email en blanco en el registro. 6th Floor, 250 Tottenham Court Road, Londres."
    }
   ],
   "photographers": [
@@ -314,23 +327,26 @@
     "hq_city": "Antananarivo (sin verificar)",
     "website": "https://www.madagasikara-voakajy.org",
     "project_page_url": "https://www.madagasikara-voakajy.org/field-news/species-conservation/sustainable-management-of-the-grandidier-s-baobab",
-    "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
+    "contact_email": "voakajy@voakajy.mg (sección de contacto de la web oficial)",
+    "phone": "+261 (0)20 22 52 379; +261 (0)34 25 15 523",
     "director_or_president": "no lo tengo",
     "what_they_do": "Estudia la polinización del baobab desde 2005, coordina la estrategia de conservación del baobab de Grandidier en Menabe (2018-2022), restauración de poblaciones y derechos de gestión comunitaria de bosques de baobabs",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "unknown",
+    "notes": "Verificación 07-nov-2026: Lot II F 14 P Bis A Andraisoro, BP 5181, 101 Antananarivo. Director no encontrado (ver 'Our Team')."
    },
    {
     "name": "Global Trees Campaign (Fauna & Flora + Botanic Gardens Conservation International)",
     "hq_country": "Reino Unido",
     "hq_city": "Cambridge (sin verificar)",
-    "website": "https://globaltrees.org",
+    "website": "https://globaltrees.org (posiblemente inactiva)",
     "project_page_url": "https://globaltrees.org/projects/sustainable-futures-for-malagasy-baobabs",
-    "contact_email": "no lo tengo",
+    "contact_email": "globaltrees@bgci.org (página oficial BGCI del Global Tree Specialist Group; es del GTSG, no necesariamente de la campaña)",
     "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "director_or_president": "Malin Rivers, Chair del Global Tree Specialist Group (no de la campaña) (no lo tengo)",
     "what_they_do": "Financia y apoya el proyecto 'Sustainable futures for Malagasy baobabs' con Madagasikara Voakajy",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://www.bgci.org/resources/bgci-tools-and-resources/global-tree-specialist-group-newsletters/",
+    "notes": "Verificación 07-nov-2026: ATENCIÓN: BGCI publicó 'The Global Trees Campaign has now ended' (https://www.bgci.org/news-events/the-global-trees-campaign-has-now-ended/). Reorientar a BGCI o Fauna & Flora directamente."
    }
   ],
   "photographers": [
@@ -373,13 +389,16 @@
     "name": "Fondation Mohammed VI pour la Protection de l'Environnement",
     "hq_country": "Marruecos",
     "hq_city": "Rabat (sin verificar)",
-    "website": "no lo tengo",
+    "website": "https://fm6e.org",
     "project_page_url": "no lo tengo",
-    "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "Princesa Lalla Hasna (presidenta)",
+    "contact_email": "environnement@fm6e.org (ficha UNCCD de OSC, contacto Sra. Nouzha Alaoui) (sin verificar)",
+    "phone": "+212 5 37 65 88 44 (UNCCD) (sin verificar)",
+    "director_or_president": "Princesa Lalla Hasna, presidenta (de la entrada; no reconfirmado) (no lo tengo)",
     "what_they_do": "Fundación medioambiental marroquí (2001); no se ha confirmado un programa específico de cedro (sin verificar)",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "no lo tengo",
+    "accepts_corporate_partners_evidence_url": "https://fm6e.org/en/lafondation/",
+    "notes": "Verificación 07-nov-2026: Dirección: Km 3,2 Route des Zaërs, Av. Mohammed VI, B.P. 5679, Rabat (página 2015)."
    }
   ],
   "photographers": [],
@@ -413,23 +432,27 @@
     "hq_city": "no lo tengo",
     "website": "https://www.friendsofsoqotra.org",
     "project_page_url": "https://www.friendsofsoqotra.org/Research/Research projects.html",
-    "contact_email": "no lo tengo",
+    "contact_email": "fos.secretary@gmail.com (Charity Commission, nº 1097546)",
     "phone": "no lo tengo",
     "director_or_president": "Kay Van Damme (chairman, según prensa)",
     "what_they_do": "Asociación que apoya investigación y conservación en Socotra, incluidos estudios de estructura poblacional del drago (Pavlis y Habrová)",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "unknown — sin evidencia",
+    "notes": "Verificación 07-nov-2026: Sede registrada en East Tisted, Hampshire (Reino Unido). FriendsofSoqotra@aol.com es antigua."
    },
    {
     "name": "Royal Botanic Garden Edinburgh (RBGE)",
     "hq_country": "Reino Unido",
     "hq_city": "Edimburgo",
-    "website": "https://stories.rbge.org.uk",
+    "website": "https://www.rbge.org.uk (corregido; stories.rbge.org.uk es solo el blog)",
     "project_page_url": "https://stories.rbge.org.uk/archives/25866",
     "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "phone": "0131 248 2909 (sin verificar)",
+    "director_or_president": "Prof. Julia Knights, Regius Keeper (sucede a Simon Milne, retirado a finales de 2025) (2026)",
     "what_they_do": "Larga tradición científica en Socotra; investigación sobre el declive del drago y formación de técnicos socotríes",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://www.rbge.org.uk/media/3adh130d/head-of-communications-and-public-affairs-june-2026.pdf",
+    "accepts_corporate_partners_evidence_url": "https://rbge.org.uk/about-us/corporate-information",
+    "notes": "Verificación 07-nov-2026: No usar s.milne@rbge.ac.uk (antiguo)."
    }
   ],
   "photographers": [
@@ -494,19 +517,22 @@
     "phone": "no lo tengo",
     "director_or_president": "no lo tengo",
     "what_they_do": "Iniciativa de turismo sostenible (desde 2017) para apadrinar metros de pradera; financia proyectos científicos (150.000 € en convocatoria 2026-2027)",
-    "accepts_corporate_partners": "Sí (empresas como Red Eléctrica han apadrinado posidonia)"
+    "accepts_corporate_partners": "sí — el proyecto permite a empresas y particulares apadrinar metros de posidonia (p. ej. Red Eléctrica apadrinó 6.000 m², prensa) (sin verificar)",
+    "notes": "Verificación 07-nov-2026: Consell destina 150.000 € a proyectos posidonia 2026-2027 (Periódico de Ibiza, abr 2026)."
    },
    {
     "name": "Asociación Vellmarí Formentera",
     "hq_country": "España",
     "hq_city": "Formentera (Marina de Formentera)",
-    "website": "no lo tengo",
+    "website": "asociaciónvellmari.com (sin verificar; enlace en nota de Beachouse Ibiza)",
     "project_page_url": "https://inspain.news/formentera-posidonia-restoration-creates-an-underwater-garden/",
-    "contact_email": "no lo tengo",
+    "contact_email": "formentera@vellmari.com (sin verificar; noudiari.es, evento pasado)",
     "phone": "no lo tengo",
-    "director_or_president": "Manu San Félix (fundador del centro Vellmarí)",
+    "director_or_president": "Manu San Félix — fundador (biólogo marino); Cristina Ozores — directora del programa de educación marina (marilles.org) (no lo tengo)",
     "what_they_do": "Restauración de posidonia con apoyo de MSC Foundation: más de 86.000 brotes plantados desde 2021, objetivo de más de 100.000 en 2026 (fuente única)",
-    "accepts_corporate_partners": "Sí (sin verificar; colabora con MSC Foundation)"
+    "accepts_corporate_partners": "sí — colabora con empresas: MSC Foundation, Blancpain (Ocean Commitment), Paul&Shark, Six Senses Ibiza, Beachouse Ibiza",
+    "director_source_url": "https://marilles.org/en/post/cristina-ozores-educacion-marina-de-vellmari (sin verificar)",
+    "notes": "Verificación 07-nov-2026: Centro de buceo + asociación en el puerto de La Savina (Formentera) desde 1993. Más de 86.000 haces de posidonia plantados desde 2021. Precedentes de marcas de moda/lujo (Paul&Shark) relevantes para Foundly."
    }
   ],
   "photographers": [
@@ -551,11 +577,13 @@
     "hq_city": "Gobabeb (desierto del Namib)",
     "website": "https://gobabeb.org",
     "project_page_url": "https://gobabeb.org/research/student-research-profiles",
-    "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "contact_email": "research@gobabeb.org (web oficial, para investigación); general: gobabeb@gobabeb.org (sin verificar)",
+    "phone": "+264 (0)64 20 5555 (web)",
+    "director_or_president": "Dra. Gillian Maggs-Kölling, Executive Director (página sin fecha) (no lo tengo)",
     "what_they_do": "Centro de investigación con datos de crecimiento de hojas de Welwitschia desde 1982; apoya el seguimiento a largo plazo (proyecto SCIONA, 50 plantas marcadas) y estudios demográficos con drones",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://gobabeb.org/home/who-we-are",
+    "notes": "Verificación 07-nov-2026: PO Box 953, Walvis Bay. Evitar eugene@gobabebtrc.org (antiguo)."
    },
    {
     "name": "Mohamed bin Zayed Species Conservation Fund",
@@ -563,11 +591,13 @@
     "hq_city": "Abu Dabi (sin verificar)",
     "website": "https://www.speciesconservation.org",
     "project_page_url": "https://speciesconservation.org/small-grant/welwitschia/19816",
-    "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "contact_email": "enquiries@mbzfund.org (página de contacto oficial, según buscador)",
+    "phone": "+971 2 632 9117",
+    "director_or_president": "Nicolas Heard, Acting Director General; Razan Khalifa Al Mubarak, (Executive) Managing Director (2025)",
     "what_they_do": "Fondo que financió el proyecto SCIONA sobre conservación de Welwitschia en Kunene",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "unknown (es un fondo donante de becas; un acuerdo de donación por camiseta encaja poco)",
+    "director_source_url": "https://www.iucncongress2025.org/node/4476",
+    "notes": "Verificación 07-nov-2026: Dirección: PO Box 131112, Abu Dhabi. Email de Heard: nheard@mbzf.org (oficial según buscador)."
    }
   ],
   "photographers": [],
@@ -601,11 +631,12 @@
     "hq_city": "Ciudad del Cabo (Kirstenbosch) (sin verificar)",
     "website": "https://botanicalsociety.org.za",
     "project_page_url": "https://botanicalsociety.org.za/conservation/",
-    "contact_email": "no lo tengo",
+    "contact_email": "info@botanicalsociety.org.za (directorio ONG Commonwealth) (sin verificar)",
     "phone": "no lo tengo",
     "director_or_president": "no lo tengo",
     "what_they_do": "Organización civil de conservación de plantas autóctonas sudafricanas desde 1913, con ramas locales y en colaboración con SANBI",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "unknown",
+    "notes": "Verificación 07-nov-2026: Zaitoon Rabaney fue directora ejecutiva hasta 2019. Chair citado: Bongani Mnisi (sin fecha, sin verificar)."
    }
   ],
   "photographers": [],
@@ -644,13 +675,14 @@
     "name": "Gobierno de Aragón (Departamento de Medio Ambiente) – programa de vigilancia del zapatito de dama",
     "hq_country": "España",
     "hq_city": "Zaragoza",
-    "website": "https://www.aragon.es",
+    "website": "https://www.aragon.es/-/zapatito-dama",
     "project_page_url": "https://www.aragon.es/documents/20127/674325/10-ZAPATITO.pdf/21d26952-8659-c13f-dba1-98883a80ac29",
     "contact_email": "no lo tengo",
     "phone": "no lo tengo",
     "director_or_president": "no lo tengo",
     "what_they_do": "Vigilancia durante la floración (desde un proyecto LIFE) para evitar recolección; semillas en bancos de germoplasma; refuerzo previsto del núcleo de Ordesa",
-    "accepts_corporate_partners": "no lo tengo (organismo público)"
+    "accepts_corporate_partners": "no (administración pública)",
+    "notes": "Verificación 07-nov-2026: Plan de Recuperación: Decreto 234/2004. Técnico citado en informe MITECO 2015: David Guzmán Otano (sin verificar vigencia). Contactar Dirección General de Medio Natural vía aragon.es."
    },
    {
     "name": "Plantlife",
@@ -660,9 +692,12 @@
     "project_page_url": "https://www.plantlife.org.uk/plants-and-fungi/ladys-slipper/",
     "contact_email": "no lo tengo",
     "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "director_or_president": "Jane Madgwick — Chief Executive (desde julio 2025)",
     "what_they_do": "Socio del programa de recuperación con Natural England, Kew, Yorkshire Wildlife Trust, BSBI y National Trust; seguimiento de reintroducciones (primer ejemplar natural en casi 100 años)",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "sí — página oficial de partnerships con formulario 'Get in touch to become a Corporate Partner'",
+    "director_source_url": "https://www.plantlife.org.uk/jane-madgwick-starts-as-plantlife-internationals-new-ceo/",
+    "accepts_corporate_partners_evidence_url": "https://plantlife.org.uk/join-donate/partnerships",
+    "notes": "Verificación 07-nov-2026: Emails julia.korn@ y beth.webb@plantlife.org.uk son de grants/trusts, no de empresas."
    }
   ],
   "photographers": [],
@@ -695,13 +730,15 @@
     "name": "Parque Nacional del Teide (Cabildo de Tenerife / Red de Parques Nacionales)",
     "hq_country": "España",
     "hq_city": "La Orotava (Tenerife) (sin verificar)",
-    "website": "no lo tengo",
+    "website": "https://www.miteco.gob.es/es/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/teide.html",
     "project_page_url": "https://www.miteco.gob.es/content/dam/miteco/es/parques-nacionales-oapn/red-parques-nacionales/programa-investigacion/14respuestadelavegetacionestructuranteppnncanarios_tcm30-552694.pdf",
-    "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "contact_email": "pnteide@tenerife.es",
+    "phone": "922 92 23 71",
+    "director_or_president": "José Luis Martín Esquivel, director-conservador (página de contacto del Gobierno de Canarias, sin fecha; sin verificar). El MITECO aún cita a Manuel Durbán Villalonga (informes 2019-2020) (no lo tengo)",
     "what_they_do": "Cercas de exclusión de herbívoros desde 2009, seguimiento de flora amenazada y plan de reducción de conejos",
-    "accepts_corporate_partners": "no lo tengo (organismo público)"
+    "accepts_corporate_partners": "unknown (organismo público)",
+    "director_source_url": "https://www.gobiernodecanarias.org/parquesnacionales/teide/contacto/",
+    "notes": "Verificación 07-nov-2026: Email y teléfono de la ficha oficial del MITECO. Por el Decreto 214/2025 la gestión pasó al Cabildo de Tenerife y el puesto de director-conservador se integra como jefe de servicio (Diario de Avisos, 2026): el responsable puede haber cambiado. Dirección: C/ Doctor Sixto Perera González 25, El Mayorazgo, 38300 La Orotava."
    }
   ],
   "photographers": [],
@@ -746,9 +783,11 @@
     "project_page_url": "https://agerpres.ro/english/2026/03/05/brgv-researchers-aim-to-preserve-edelweiss-seeds-for-up-to-100-years--1534448",
     "contact_email": "no lo tengo",
     "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "director_or_president": "Costel Vînătoru, director (al menos hasta 2024; sin verificar)",
     "what_they_do": "Investiga la germinación y conservación de semillas de edelweiss con el objetivo de preservarlas hasta 100 años",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "no (institución pública del Ministerio de Agricultura)",
+    "director_source_url": "https://www.agir.ro/univers-ingineresc/numar-17-2024/banca-de-resurse-genetice-vegetale-buzau-si-a-consolidat-pozitia-de-lider-in-cercetarea-agricola-la-nivel-global_8486.html",
+    "notes": "Verificación 07-nov-2026: Situada en Parque Crâng, Buzău. Noticias 2026 citan al 'director del BRGV' sin nombre."
    }
   ],
   "photographers": [],

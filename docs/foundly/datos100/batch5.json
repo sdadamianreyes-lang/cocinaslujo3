@@ -21,7 +21,8 @@
     "phone": "+44 7712 527700 (registro de la Charity Commission: https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5108641/contact-information)",
     "director_or_president": "Nicholas Dyer, cofundador y CEO (CEO desde febrero de 2023). Presidente del patronato: Michael Cuthbert. Fuente: https://paintedwolf.org/about/leadership-and-governance/ (sin verificar: visto solo en el buscador)",
     "what_they_do": "Fundación británica centrada solo en el licaón: financia a organizaciones de campo de toda África, hace campañas de sensibilización y gestiona el Painted Dog Fund.",
-    "accepts_corporate_partners": "yes (probable): un directorio de financiadores remite a info@ para partnerships (https://www.hinchilla.com/funder-directory/painted-wolf-foundation); hay apoyo de marcas como Explorers Against Extinction (https://paintedwolf.org/?p=3497). Sin verificar en una página oficial de empresas."
+    "accepts_corporate_partners": "sí — socio comercial Painted Wolf Wines desde el inicio (paintedwolf.org)",
+    "notes": "Verificación 07-nov-2026: Impact Report: https://paintedwolf.org/wp-content/uploads/2025/12/PWF-Impact-Report-Web.pdf"
    },
    {
     "name": "Endangered Wildlife Trust (EWT), Carnivore Conservation Programme / Wild Dog Range Expansion Project",
@@ -30,10 +31,12 @@
     "website": "https://ewt.org.za",
     "project_page": "https://ewt.org.za/sp-sept-2019-wild-dogs-are-back-in-tembe-elephant-park",
     "contact_email": "coled@ewt.org.za (Cole du Plessis, coordinador del Wild Dog Range Expansion Project; aparece en artículos de EWT de 2019-2021; puede estar desactualizado: sin verificar)",
-    "phone": "no lo tengo",
-    "director_or_president": "no lo tengo (CEO de EWT no verificado). Responsable del proyecto de licaones: Cole du Plessis (sin verificar), según https://ewt.org.za/wp-content/uploads/2022/11/EWT-Wild-Dog-HF_Press-Release_Oct_2021.pdf",
+    "phone": "+27 (0)11 372 3600/1/2/3 (sin verificar; South African Tourism y UNCCD)",
+    "director_or_president": "Yolan Friedmann — CEO (páginas 'Word from the CEO' del sitio oficial, sin fecha) (no confirmado)",
     "what_they_do": "Coordinan desde 1998 la metapoblación de licaones de Sudáfrica: reintroducciones en reservas, collares GPS y conflicto con ganaderos.",
-    "accepts_corporate_partners": "unknown: es una ONG grande con programas corporativos (sin verificar)"
+    "accepts_corporate_partners": "unknown — sin evidencia",
+    "director_source_url": "https://ewt.org.za/?p=27429",
+    "notes": "Verificación 07-nov-2026: coled@ewt.org.za del input sigue sin verificar."
    },
    {
     "name": "Painted Dog Conservation (PDC)",
@@ -41,11 +44,13 @@
     "hq_city": "Dete, junto al Parque Nacional de Hwange",
     "website": "https://www.painteddog.org",
     "project_page": "https://www.painteddog.org/our-blog/pdc-history-25-years-counting",
-    "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "Peter Blinston, director ejecutivo (en otras fuentes, managing director); fundador: Gregory Rasmussen. Fuentes: https://www.painteddog.org/our-blog/pdc-history-25-years-counting y https://en.wikipedia.org/wiki/Painted_Dog_Conservation (sin verificar)",
+    "contact_email": "info@painteddog.org",
+    "phone": "+263 (0)772 162 852",
+    "director_or_president": "Peter Blinston, Executive Director (no lo tengo)",
     "what_they_do": "Patrullas antifurtivos, retirada de lazos, centro de rehabilitación y educación comunitaria alrededor de Hwange.",
-    "accepts_corporate_partners": "unknown: la financia la David Shepherd Wildlife Foundation (Reino Unido) (https://davidshepherd.org/news-events-insights/news/painted-dog-update/)"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://www.painteddog.org/meet-the-team-1",
+    "notes": "Verificación 07-nov-2026: Página contact-us oficial. PO Box 72, Dete, Zimbabue. Director de Operaciones: David Kuvawoga. Filial UK: pdcuk@painteddog.org."
    }
   ],
   "photographers": [
@@ -121,7 +126,8 @@
     "phone": "no lo tengo",
     "director_or_president": "Copresidentes en 2025: Nicci Wright y Alexis Kriel (https://talkinganimals.net/2025/07/nicci-wright-co-founder-of-the-african-pangolin-working-group/). Fundador: Prof. Ray Jansen (TUT) (https://tut.ac.za/latest-news/615-faculty-of-science-celebrates-prof-jansens-feature-in-acclaimed-netflix-documentary). Sin verificar.",
     "what_they_do": "Rescate, rehabilitación y suelta de pangolines de Temminck decomisados, apoyo a la policía contra el tráfico e investigación. Tienen mandato del DFFE sudafricano.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "notes": "Verificación 07-nov-2026: Instagram @african_pangolin_conservation (Linktree) y Facebook."
    },
    {
     "name": "Tikki Hywood Foundation",
@@ -133,7 +139,8 @@
     "phone": "no lo tengo",
     "director_or_president": "Lisa Hywood, fundadora (nombre conocido, pero no verificado en una fuente primaria en esta búsqueda: sin verificar)",
     "what_they_do": "Rescate, rehabilitación y suelta de pangolines en Zimbabue y formación de fuerzas de seguridad. Recibió 150.170 USD a tres años del Pangolin Crisis Fund.",
-    "accepts_corporate_partners": "unknown: financiada por la Beit Trust (Reino Unido) (https://beittrust.org.uk/?p=1918)"
+    "accepts_corporate_partners": "unknown",
+    "notes": "Verificación 07-nov-2026: Solo aparece como beneficiaria del Pangolin Crisis Fund (https://pangolincrisisfund.org/?p=419) y Beit Trust. Sin email."
    },
    {
     "name": "Born Free Foundation",
@@ -141,14 +148,14 @@
     "hq_city": "Horsham, West Sussex",
     "website": "https://www.bornfree.org.uk",
     "project_page": "https://www.bornfree.org.uk/animals/pangolins/temmincks-pangolin/",
-    "contact_email": "info@bornfree.org.uk (Charity Commission); partnerships: molly@bornfree.org.uk (Molly Rutherford, Partnerships Manager, Corporate Brochure 2024)",
-    "phone": "+44 1403 240170",
+    "contact_email": "info@bornfree.org.uk (Charity Commission, nº 1070906)",
+    "phone": "01403 240170 (Charity Commission)",
     "director_or_president": "Karen Botha (Managing Director); Will Travers OBE (Co-Founder & Executive President) — Managing Director (no existe cargo 'CEO' publicado actualmente) (2024 (Informe anual YE marzo 2024; página Team vigente))",
     "what_they_do": "ONG británica de conservación y bienestar animal. Trabaja con el pangolín de Temminck en Kenia y financia proyectos de campo.",
-    "accepts_corporate_partners": "unknown: es una ONG grande con partners corporativos conocidos (p. ej. Land Rover, que aparece en materiales de EWCP), sin verificar",
+    "accepts_corporate_partners": "sí — página Corporate Partners con contactos Molly Rutherford (Partnerships Manager) y Olivia Evans (Partnerships Officer); folleto corporativo 2023",
     "director_source_url": "https://www.bornfree.org.uk/team/",
     "accepts_corporate_partners_evidence_url": "https://bornfree.org.uk/corporate-partners",
-    "notes": "Frazer House 2nd Floor, 14 Carfax, Horsham RH12 1ER, UK. Charity nº 1070906. Brochure 2024 contempla donar % de ventas -> encaja con 5 €/camiseta. Adam M. Roberts (CEO 2014-15) ya no está (fallecido)."
+    "notes": "Verificación 07-nov-2026: CEO actual no confirmado (consultar Companies House 03603432). molly@bornfree.org.uk aparece en folleto 2023 (sin verificar vigencia)."
    }
   ],
   "photographers": [
@@ -211,10 +218,13 @@
     "website": "https://www.grevyszebratrust.org",
     "project_page": "https://www.grevyszebratrust.org/great-grevys-rally/",
     "contact_email": "no lo tengo (la web usa formulario de contacto: https://www.grevyszebratrust.org/about-us/contact-us/)",
-    "phone": "+254 743 923 155 (página de contacto oficial, vista en el buscador)",
-    "director_or_president": "Peter Lalampaa, director ejecutivo desde mayo de 2024; Belinda Low Mackey, cofundadora y asesora estratégica. Fuentes: https://www.grevyszebratrust.org/our-team/ y https://www.grevyszebratrust.org/wp-content/uploads/2024/07/GZT-Report-Q2-2024-final-16th-July.pdf (sin verificar)",
+    "phone": "+254 743 923 155 (página Contact us oficial)",
+    "director_or_president": "Peter Lalampaa, Executive Director (Belinda Low Mackey asesora) (2024)",
     "what_they_do": "Única organización dedicada en exclusiva a la cebra de Grevy: guerreros Samburu y Rendille como monitores, censo Great Grevy's Rally y gestión de pastos con comunidades.",
-    "accepts_corporate_partners": "yes (probable): la web tiene secciones 'Our Partners' y 'Corporate Supporters' según el buscador; es socio de WCN (https://wildnet.org/?p=3802). Sin verificar."
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://www.grevyszebratrust.org/our-team/",
+    "accepts_corporate_partners_evidence_url": "https://www.grevyszebratrust.org/about-us/contact-us/",
+    "notes": "Verificación 07-nov-2026: Oficina: Langata Link Complex, Langata South Road, Nairobi."
    },
    {
     "name": "Marwell Wildlife",
@@ -222,11 +232,14 @@
     "hq_city": "Winchester, Hampshire",
     "website": "https://www.marwell.org.uk",
     "project_page": "https://www.marwell.org.uk/save-our-stripes/",
-    "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "contact_email": "marwell@marwell.org.uk (Charity Commission, nº 275433, y página oficial de contacto)",
+    "phone": "01962 777407 (general, Charity Commission); 01962 777992 (equipo de Fundraising/partnerships, web oficial)",
+    "director_or_president": "Laura Read — Chief Executive (no confirmado)",
     "what_they_do": "Lleva unos 20 años con la cebra de Grevy en el norte de Kenia: equipo de campo, collares GPS y estrategia nacional. Es miembro fundador del Grevy's Zebra Technical Committee del KWS.",
-    "accepts_corporate_partners": "yes (probable): campaña 'Save Our Stripes' (2025) abierta a apoyos y subastas benéficas (https://www.marwell.org.uk/zoo-news/marwells-zany-zebras-raises-thousands-for-conservation). Sin verificar la política corporativa."
+    "accepts_corporate_partners": "sí — página Corporate Partnerships; 'Conservation Champion Partnership' desde 50.000 £/año; contrataba un Fundraising & Partnerships Officer en abril 2025",
+    "director_source_url": "https://blooloop.com/laura-read/ (sin verificar); carta oficial https://www.marwell.org.uk/?p=147410",
+    "accepts_corporate_partners_evidence_url": "https://www.marwell.org.uk/?p=156543",
+    "notes": "Verificación 07-nov-2026: El umbral de 50.000 £ es para el nivel alto; puede haber niveles inferiores."
    },
    {
     "name": "Kolmården Fundraising Foundation (Kolmården Zoo)",
@@ -238,7 +251,8 @@
     "phone": "no lo tengo",
     "director_or_president": "no lo tengo",
     "what_they_do": "Fundación de un zoo sueco que financia desde 2011 el trabajo de Marwell con la cebra de Grevy en Kenia. Es la vía UE.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "notes": "Verificación 07-nov-2026: Nombre legal: Insamlingsstiftelsen Kolmården Foundation (miembro UICN). Dirección postal del parque: 618 92 Kolmården. Probar Länsstyrelsen (registro de fundaciones)."
    }
   ],
   "photographers": [
@@ -302,9 +316,11 @@
     "project_page": "https://www.ethiopianwolf.org/about-us/about-ewcp",
     "contact_email": "claudio.sillero@zoo.ox.ac.uk (aparece en ethiopianwolf.org y en páginas de Oxford según el buscador; sin verificar)",
     "phone": "01865 611113 (+44 1865 611113; Lady Margaret Hall, Oxford: https://www.lmh.ox.ac.uk/node/366, sin verificar)",
-    "director_or_president": "Prof. Claudio Sillero-Zubiri, fundador y director ejecutivo desde 1995. Fuente: https://www.ethiopianwolf.org/the-team/claudio-sillero (sin verificar). Nota: es argentino-británico y habla español.",
+    "director_or_president": "Prof. Claudio Sillero-Zubiri, fundador y director (dato de entrada; no reconfirmado) (no lo tengo)",
     "what_they_do": "Desde 1995: vacunación de lobos y perros contra la rabia (incluida vacuna oral), monitores locales y educación en las tierras altas.",
-    "accepts_corporate_partners": "yes (probable): tiene partners corporativos como Land Rover (vía Born Free) y recauda con WCN y GlobalGiving (https://www.globalgiving.org/projects/help-the-ethiopian-wolf-the-worlds-rarest-canid/). Sin verificar."
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "no lo tengo",
+    "notes": "Verificación 07-nov-2026: Dirección antigua: PO Box 215 Robe, Bale, Etiopía. El email personal claudio.sillero@zoo.ox.ac.uk de la entrada no se reconfirmó."
    },
    {
     "name": "Born Free Foundation",
@@ -312,14 +328,14 @@
     "hq_city": "Horsham, West Sussex",
     "website": "https://www.bornfree.org.uk",
     "project_page": "https://www.bornfree.org.uk/news/new-life-new-hope-for-ethiopian-wolves/",
-    "contact_email": "info@bornfree.org.uk (Charity Commission); partnerships: molly@bornfree.org.uk (Molly Rutherford, Partnerships Manager, Corporate Brochure 2024)",
-    "phone": "+44 1403 240170",
+    "contact_email": "info@bornfree.org.uk (Charity Commission, nº 1070906)",
+    "phone": "01403 240170 (Charity Commission)",
     "director_or_president": "Karen Botha (Managing Director); Will Travers OBE (Co-Founder & Executive President) — Managing Director (no existe cargo 'CEO' publicado actualmente) (2024 (Informe anual YE marzo 2024; página Team vigente))",
     "what_they_do": "Principal financiador de EWCP desde 1995 (casi 30 años). Es la vía más sencilla para un acuerdo desde Europa.",
-    "accepts_corporate_partners": "yes (probable): alianza Land Rover–Born Free visible en ethiopianwolf.org (https://www.ethiopianwolf.org/news/reflection-on-30-years-of-ewcp). Sin verificar.",
+    "accepts_corporate_partners": "sí — página Corporate Partners con contactos Molly Rutherford (Partnerships Manager) y Olivia Evans (Partnerships Officer); folleto corporativo 2023",
     "director_source_url": "https://www.bornfree.org.uk/team/",
     "accepts_corporate_partners_evidence_url": "https://bornfree.org.uk/corporate-partners",
-    "notes": "Frazer House 2nd Floor, 14 Carfax, Horsham RH12 1ER, UK. Charity nº 1070906. Brochure 2024 contempla donar % de ventas -> encaja con 5 €/camiseta. Adam M. Roberts (CEO 2014-15) ya no está (fallecido)."
+    "notes": "Verificación 07-nov-2026: CEO actual no confirmado (consultar Companies House 03603432). molly@bornfree.org.uk aparece en folleto 2023 (sin verificar vigencia)."
    },
    {
     "name": "Wildlife Conservation Research Unit (WildCRU), Universidad de Oxford",
@@ -329,9 +345,11 @@
     "project_page": "https://www.wildcru.org/programmes/ethiopian-wolf-conservation-programme/",
     "contact_email": "no lo tengo",
     "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "director_or_president": "Prof. Amy Dickman, Director (desde 1 enero 2022). Prof. Claudio Sillero, Deputy Director y fundador/director del Ethiopian Wolf Conservation Programme",
     "what_they_do": "Unidad universitaria que alberga científicamente el EWCP.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://www.biology.ox.ac.uk/node/2368156",
+    "notes": "Verificación 07-nov-2026: wildcru@biology.ox.ac.uk NO confirmado: no usar. Para el lobo etíope el interlocutor natural es el EWCP (Sillero). Vigencia en 2026 sin verificar."
    }
   ],
   "photographers": [
@@ -398,7 +416,8 @@
     "phone": "no lo tengo",
     "director_or_president": "Dra. Marni LaFleur, fundadora y directora; Dra. Seheno Cordaunt-Andriantsaralaza, directora en Madagascar. Fuente: https://populationconnection.org/learn/global-partners/lemur-love/ (sin verificar)",
     "what_they_do": "La ONG más centrada en el lémur de cola anillada: investigación en Tsimanampetsotsa, mapa genético ('PoopScience'), centro de rescate del tráfico de mascotas y liderazgo de mujeres malgaches.",
-    "accepts_corporate_partners": "unknown: recauda vía GoFundMe Charity y Population Connection (https://gofundme.com/charity/lemur-love-inc)"
+    "accepts_corporate_partners": "unknown",
+    "notes": "Verificación 07-nov-2026: 501(c)(3) 'Lemur Love Inc' en ProPublica: https://projects.propublica.org/nonprofits/organizations/461174852"
    },
    {
     "name": "Madagascar Fauna and Flora Group (MFG)",
@@ -407,10 +426,12 @@
     "website": "https://www.madagascarfaunaflora.org",
     "project_page": "https://www.madagascarfaunaflora.org/member-institutions.html",
     "contact_email": "no lo tengo",
-    "phone": "(+261) 034 57 591 66 (oficina de Toamasina, web oficial vista en el buscador; sin verificar)",
-    "director_or_president": "no lo tengo",
+    "phone": "Teléfonos de oficina Toamasina y Parc Ivoloina en la web oficial (no visibles en snippet)",
+    "director_or_president": "Karen Freeman — Executive Director (página de staff oficial; fecha no confirmada) (no confirmado)",
     "what_they_do": "Consorcio de zoos que gestiona el Parc Ivoloina y programas de conservación en Madagascar. Zoo Zúrich es miembro gestor y es la vía europea (https://www.lemurconservationnetwork.org/?p=1410).",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown — consorcio de zoos; acepta 'member institutions'",
+    "director_source_url": "https://www.madagascarfaunaflora.org/mfg-staff.html",
+    "notes": "Verificación 07-nov-2026: Contacto oficial: Tim L. Tetzlaff (Past-Chair), email ofuscado en snippet."
    },
    {
     "name": "Lemur Conservation Network (LCN)",
@@ -418,11 +439,13 @@
     "hq_city": "no lo tengo",
     "website": "https://www.lemurconservationnetwork.org",
     "project_page": "https://www.lemurconservationnetwork.org/two-new-studies-indicate-that-ring-tailed-lemurs-are-threatened-with-extinction-in-the-wild/",
-    "contact_email": "no lo tengo",
+    "contact_email": "lemurconservationnetwork@gmail.com",
     "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "director_or_president": "Lynne Venart, Director (no lo tengo)",
     "what_they_do": "Red que agrupa ONG de lémures. Sirve para encontrar socios alternativos como Reniala (centro de rescate) o el Duke Lemur Center.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://www.lemurconservationnetwork.org/?p=191",
+    "notes": "Verificación 07-nov-2026: Página oficial de contacto (fecha no visible). Madagascar Manager: Seheno Corduant Andriantsaralaza."
    }
   ],
   "photographers": [
@@ -482,11 +505,13 @@
     "hq_city": "Ciudad del Cabo (Table View); centros también en Port Elizabeth/Gqeberha",
     "website": "https://www.sanccob.co.za",
     "project_page": "https://sanccob.co.za/seabird-conservation/",
-    "contact_email": "reception@sanccob.co.za (en la web oficial según el buscador; sin verificar)",
-    "phone": "+27 21 557 6155 (web oficial según el buscador; sin verificar)",
-    "director_or_president": "Natalie Maskell, CEO (sucedió a Stephen van der Spuy; ya era CEO en julio de 2025). Presidenta del consejo: Inge Cilliers (desde el 11/11/2022). Fuentes: https://sanccob.co.za/news/sanccob-appoints-new-ceo/ y https://sanccob.co.za/about-us/ (sin verificar)",
+    "contact_email": "volunteers@sanccob.co.za (web oficial; es el buzón de voluntariado). reception@sanccob.co.za NO confirmado",
+    "phone": "+27 21 557 6155 (Ciudad del Cabo, 24 h); +27 41 583 1830 (Gqeberha)",
+    "director_or_president": "Natalie Maskell, CEO (no lo tengo (anuncio oficial sin fecha visible; entrada: ya CEO en julio 2025))",
     "what_they_do": "Rescate, rehabilitación y cría a mano de pingüinos (más de 7.000 pollos liberados desde 2006), investigación y creación de nuevas colonias (De Hoop).",
-    "accepts_corporate_partners": "yes: la página 'Get Involved' ofrece donaciones corporativas y campañas de marketing con causa (https://sanccob.co.za/get-involved/), además de adopciones de pingüinos (https://adopt.sanccob.co.za/get-involved/adopt-a-penguin/)"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://sanccob.co.za/news/sanccob-appoints-new-ceo/",
+    "notes": "Verificación 07-nov-2026: La página About aún la etiqueta como 'Board Director' (posible desactualización). Contacto: https://sanccob.co.za/contact-us/"
    },
    {
     "name": "BirdLife South Africa, Seabird Conservation Programme",
@@ -494,11 +519,13 @@
     "hq_city": "Johannesburgo (Isdell House); equipo de aves marinas en Ciudad del Cabo",
     "website": "https://www.birdlife.org.za",
     "project_page": "https://www.birdlife.org.za/what-we-do/seabird-conservation/meet-the-team/",
-    "contact_email": "seabird@birdlife.org.za (en la página 'Meet the Team' según el buscador; sin verificar)",
+    "contact_email": "ceo@birdlife.org.za (página oficial del CEO en birdlife.org.za)",
     "phone": "no lo tengo",
-    "director_or_president": "no lo tengo (CEO no verificado). Responsable de pingüinos: Dra. Christina Hagen, Pamela Isdell Fellow of Penguin Conservation (https://www.birdlife.org.za/blsa-team/christina-hagen/; sin verificar)",
+    "director_or_president": "Mark D. Anderson, Chief Executive Officer (no lo tengo)",
     "what_they_do": "Nuevas colonias (De Hoop), incidencia política para cerrar zonas de pesca alrededor de las colonias y colaboración en la evaluación de 2024.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "sí (indicio: socio corporativo Chamberlain Hardware en South African Bird Fair 2025)",
+    "director_source_url": "https://www.birdlife.org.za/blsa-team/mark-d-anderson/",
+    "notes": "Verificación 07-nov-2026: info@birdlife.org.za no encontrado. seabird@birdlife.org.za (input) no reconfirmado. Sede: Isdell House, Johannesburgo. Año del cargo no confirmado en snippet."
    },
    {
     "name": "BirdLife International (vía europea)",
@@ -507,10 +534,12 @@
     "website": "https://www.birdlife.org",
     "project_page": "no lo tengo",
     "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "phone": "01223 277318 (Registro Charity Commission, n.º 1042125)",
+    "director_or_president": "Martin Harper, Chief Executive Officer (página Global Office oficial) (2023 (nombramiento; página sin fecha))",
     "what_they_do": "Red global de la que forma parte BirdLife South Africa. SEO/BirdLife es su socio en España (Madrid), una opción para canalizar la donación localmente (sin verificar si financia el proyecto del pingüino).",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "sí — tiene puesto 'Head of Business and Nature' y alianza con Cemex",
+    "director_source_url": "https://www.birdlife.org/global-office/",
+    "notes": "Verificación 07-nov-2026: David Attenborough Building, Pembroke Street, Cambridge CB2 3QZ."
    }
   ],
   "photographers": [

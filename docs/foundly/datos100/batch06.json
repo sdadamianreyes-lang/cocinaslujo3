@@ -25,25 +25,28 @@
     "name": "Fundación LIMNE",
     "hq_country": "España",
     "hq_city": "Valencia (sin verificar)",
-    "website": "no lo tengo",
+    "website": "https://limne.org (según Idealist; sin verificar)",
     "project_page_url": "no lo tengo",
     "contact_email": "no lo tengo",
     "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "director_or_president": "Sales Tomás Pons, directora gerente (sin verificar) (2025)",
     "what_they_do": "Impulsó junto con la Generalitat Valenciana y la Fundación Aguas de Valencia el 'Proyecto Nutria' (2017) para la recuperación de la nutria en la Comunidad Valenciana, con fuerte componente social.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://2025.comarcalcv.com/?p=13483 (prensa, sin verificar)",
+    "notes": "Verificación 07-nov-2026: Fundación privada sin ánimo de lucro creada en 2007, Valencia; colabora con Global Omnium y Aguas de Valencia (estudio 2025 sobre nutrias): indicio de que acepta colaboraciones corporativas."
    },
    {
     "name": "ANSE – Asociación de Naturalistas del Sureste",
     "hq_country": "España",
     "hq_city": "Murcia (sin verificar)",
-    "website": "no lo tengo",
+    "website": "https://www.asociacionanse.org",
     "project_page_url": "no lo tengo",
     "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
+    "phone": "968 96 64 07 (OceanExpert, https://oceanexpert.org/institution/25255; sin verificar en web oficial)",
     "director_or_president": "no lo tengo",
     "what_they_do": "ONG del sureste que hace seguimiento de la nutria en la cuenca del Segura (detectó rastros en Orihuela en 2013).",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "notes": "Verificación 07-nov-2026: Dirección: Plaza Pintor José María Párraga 11 bajo, 30002 Murcia. Fundada en 1973. Email oculto tras login en OceanExpert/SALTO. Presidente actual no encontrado."
    }
   ],
   "photographers": [
@@ -92,23 +95,28 @@
     "hq_city": "no lo tengo",
     "website": "https://secem.es",
     "project_page_url": "no lo tengo",
-    "contact_email": "no lo tengo",
+    "contact_email": "secretaria@secem.es (libro de resúmenes del congreso 2023 alojado en secem.es)",
     "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "director_or_president": "Miguel Delibes de Castro, Presidente (BOE 2020; vigencia 2026 sin verificar)",
     "what_they_do": "Sociedad científica que publicó en enero de 2026 un manifiesto sobre la preocupante situación del gato montés y pide una estrategia ibérica conjunta.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://boe.es/boe/dias/2020/08/07/pdfs/BOE-A-2020-9415.pdf",
+    "notes": "Verificación 07-nov-2026: Correspondencia: Apdo. de Correos 16020, 41015 Sevilla. Presidencia obtenida del resumen del buscador sobre el BOE; conviene comprobar."
    },
    {
     "name": "Royal Zoological Society of Scotland (RZSS) – proyecto Saving Wildcats",
     "hq_country": "Reino Unido",
     "hq_city": "Edimburgo (sin verificar)",
-    "website": "https://rzss.org.uk",
+    "website": "https://www.rzss.org.uk",
     "project_page_url": "https://rzss.org.uk/conservation/conservation-projects/european-wildcat",
     "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "phone": "0131 314 0380 (equipo de corporate partnerships, web oficial)",
+    "director_or_president": "David Field — Chief Executive (no confirmado)",
     "what_they_do": "Lidera el programa LIFE Saving Wildcats de cría y liberación en el P.N. Cairngorms, con socios como NatureScot, Nordens Ark y la Junta de Andalucía.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "sí — página oficial de corporate partnerships y sponsorship (p.ej. Baillie Gifford)",
+    "director_source_url": "https://www.edinburghzoo.org.uk/news/article/17125/rzss-appoints-new-ceo/",
+    "accepts_corporate_partners_evidence_url": "https://www.rzss.org.uk/support/corporate-partnerships/",
+    "notes": "Verificación 07-nov-2026: No se encontró email público; formato FLast@rzss.org.uk es inferido por terceros: NO usar."
    }
   ],
   "photographers": [],
@@ -154,23 +162,28 @@
     "hq_city": "no lo tengo",
     "website": "https://www.kora.ch",
     "project_page_url": "no lo tengo",
-    "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "contact_email": "info@kora.ch (sin verificar; de anuncio de empleo de KORA alojado en kampajobs.ch)",
+    "phone": "+41 31 951 70 40 (sin verificar)",
+    "director_or_president": "Christian Stauffer, director gerente desde ago. 2020 (web oficial); Nina Gerber también figura como Geschäftsführerin (registro vía fundraiso, sin verificar) — dato contradictorio (no lo tengo)",
     "what_they_do": "Fundación suiza que monitoriza el lince y otros carnívoros por mandato de la Oficina Federal de Medio Ambiente; socia del Balkan Lynx Recovery Programme.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://kora.ch/en/kora/team/christian-stauffer/",
+    "accepts_corporate_partners_evidence_url": "https://www.kora.ch/en/general/support",
+    "notes": "Verificación 07-nov-2026: Sede Ittigen (Suiza). Email personal Stauffer: ch.stauffer@kora.ch (web oficial)."
    },
    {
     "name": "EuroNatur Stiftung",
     "hq_country": "Alemania",
     "hq_city": "no lo tengo",
-    "website": "no lo tengo",
+    "website": "https://www.euronatur.org",
     "project_page_url": "no lo tengo",
-    "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "contact_email": "info@euronatur.org (directorio lifeverde.de, sin verificar en la web oficial)",
+    "phone": "07732 9272-0",
+    "director_or_president": "Gabriel Schwaderer, Geschäftsführender Direktor; presidente: Prof. Dr. Thomas Potthast (2026)",
     "what_they_do": "Fundación alemana socia del Balkan Lynx Recovery Programme (con MES en Macedonia del Norte y PPNEA en Albania).",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://www.lobbyregister.bundestag.de/suche/R003279",
+    "notes": "Verificación 07-nov-2026: Westendstraße 3, 78315 Radolfzell. El Lobbyregister del Bundestag es registro oficial (extractos 2026)."
    }
   ],
   "photographers": [
@@ -217,13 +230,14 @@
     "name": "WWF Finlandia",
     "hq_country": "Finlandia",
     "hq_city": "Helsinki (sin verificar)",
-    "website": "no lo tengo",
+    "website": "https://wwf.fi (según perfil de terceros)",
     "project_page_url": "no lo tengo",
     "contact_email": "no lo tengo",
     "phone": "no lo tengo",
     "director_or_president": "no lo tengo",
     "what_they_do": "Ha intervenido en la política de gestión del glotón en Finlandia (oposición a la caza hasta que la población crezca claramente; apoyo a compensaciones por territorio).",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "notes": "Verificación 07-nov-2026: Búsqueda sin resultados útiles: sin email ni secretario general. Sede en Helsinki."
    },
    {
     "name": "LCIE – Large Carnivore Initiative for Europe (grupo de especialistas de la UICN)",
@@ -282,11 +296,13 @@
     "hq_city": "no lo tengo",
     "website": "https://secem.es",
     "project_page_url": "no lo tengo",
-    "contact_email": "no lo tengo",
+    "contact_email": "secretaria@secem.es (libro de resúmenes del congreso 2023 alojado en secem.es)",
     "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "director_or_president": "Miguel Delibes de Castro, Presidente (BOE 2020; vigencia 2026 sin verificar)",
     "what_they_do": "Publica la ficha de referencia de Rupicapra pyrenaica en el Atlas de mamíferos; sociedad científica, no fundación específica de la especie.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://boe.es/boe/dias/2020/08/07/pdfs/BOE-A-2020-9415.pdf",
+    "notes": "Verificación 07-nov-2026: Correspondencia: Apdo. de Correos 16020, 41015 Sevilla. Presidencia obtenida del resumen del buscador sobre el BOE; conviene comprobar."
    }
   ],
   "photographers": [],
@@ -333,11 +349,13 @@
     "hq_city": "Cornualles (sin verificar ciudad)",
     "website": "no lo tengo",
     "project_page_url": "no lo tengo",
-    "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "Sue Sayer (directora, según Cornish Times; sin verificar fecha)",
+    "contact_email": "sue@cornwallsealgroup.co.uk (Charity Commission, nº 1162936)",
+    "phone": "01736 754562 (Charity Commission)",
+    "director_or_president": "Sue Sayer — Chair (trustee, nombrada 2015, Charity Commission); también descrita como fundadora y directora (2015 (registro))",
     "what_they_do": "Charity registrada (n.º 1162936) que investiga la foca gris en Cornualles mediante foto-identificación desde 2000, con voluntarios, educación y programa de adopción de focas salvajes.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "sí — Carbis Bay Hotel y Aspects Holidays (adopción de foca) colaboran",
+    "director_source_url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5055987/trustees",
+    "notes": "Verificación 07-nov-2026: Dirección: Copperleaf Cottage, Phillack Hill, Hayle TR27 5AD."
    }
   ],
   "photographers": [],
@@ -382,7 +400,8 @@
     "phone": "no lo tengo",
     "director_or_president": "no lo tengo",
     "what_they_do": "ONG fundada en 1999 en Ibiza dedicada al estudio de poblaciones de cetáceos en Baleares, incluido el delfín mular (impacto del tráfico de barcos en es Freus).",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown — sin evidencia",
+    "notes": "Verificación 07-nov-2026: No se encontró web ni email. Fundada en Palma (1998/1999 según fuentes), proyecto 'Nuestros Delfines' en Ibiza y Formentera (hidrófonos, ruido submarino). Convenios con Ayto. Sant Antoni (2019) y colaboración con Marina Ibiza (empresa) según noudiari.es. Ficha CENEAM: https://www.miteco.gob.es/es/ceneam/recursos/mini-portales-tematicos/tursiops_tcm30-440307.pdf"
    }
   ],
   "photographers": [
@@ -429,13 +448,14 @@
     "name": "CIRCE – Conservación, Información y Estudio sobre Cetáceos",
     "hq_country": "España",
     "hq_city": "Andalucía, zona del Estrecho (sin verificar ciudad)",
-    "website": "no lo tengo",
+    "website": "www.circe.info (sin verificar; listado MITECO)",
     "project_page_url": "no lo tengo",
     "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
+    "phone": "+34 605 998 195 (Renaud de Stephanis, listado OBIS-SEAMAP; sin verificar)",
     "director_or_president": "Renaud de Stephanis (citado como responsable de CIRCE en prensa 2024; cargo sin verificar)",
     "what_they_do": "Estudia y foto-identifica cachalotes en el Estrecho de Gibraltar desde los años 90; promueve observadores a bordo de ferris contra colisiones.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "notes": "Verificación 07-nov-2026: Dirección: C/ Cabeza de Manzaneda 3, 11390 Pelayo-Algeciras (Cádiz). Emails antiguos de personal (philippe@circe.info, cv@circe-asso.org) en listas de correo; no usar como contacto general."
    },
    {
     "name": "Associació Edmaktub",
@@ -443,11 +463,13 @@
     "hq_city": "Barcelona",
     "website": "https://edmaktub.org",
     "project_page_url": "no lo tengo",
-    "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "contact_email": "edmaktub@edmaktub.org",
+    "phone": "(+34) 630 038 829 (web oficial); avistamientos (+34) 655 879 180",
+    "director_or_president": "Eduard Degollada, presidente (2025)",
     "what_they_do": "ONG de investigación de cetáceos fundada en 2000 por Eduard Degollada; trabaja en el talud catalán donde el cachalote es semi-residente.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://accobams.org/wp-content/uploads/2025/11/MOP9.Inf05_List-of-ACCOBAMS-Partners-Liste-des-Partenaires-de-lACCOBAMS.pdf",
+    "notes": "Verificación 07-nov-2026: El email aparece en la web oficial y en la lista de socios de ACCOBAMS (nov. 2025). Otro contacto: beatriutort@edmaktub.org (Beatriu Tort). Direcciones antiguas: info@edmaktub.org (2024), info@edmaktub.com (2015). Sede en Barcelona."
    }
   ],
   "photographers": [
@@ -496,23 +518,27 @@
     "hq_city": "Barcelona",
     "website": "https://edmaktub.org",
     "project_page_url": "https://edmaktub.org/wp-content/uploads/2023/06/Proyecto-Rorcual-y-Biodiversidad.pdf",
-    "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "contact_email": "edmaktub@edmaktub.org",
+    "phone": "(+34) 630 038 829 (web oficial); avistamientos (+34) 655 879 180",
+    "director_or_president": "Eduard Degollada, presidente (2025)",
     "what_they_do": "Dirige desde 2014 el 'Proyecto Rorcual' frente a la costa de Barcelona-Tarragona con apoyo de cofradías de pescadores; marcaje satelital con Tethys.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://accobams.org/wp-content/uploads/2025/11/MOP9.Inf05_List-of-ACCOBAMS-Partners-Liste-des-Partenaires-de-lACCOBAMS.pdf",
+    "notes": "Verificación 07-nov-2026: El email aparece en la web oficial y en la lista de socios de ACCOBAMS (nov. 2025). Otro contacto: beatriutort@edmaktub.org (Beatriu Tort). Direcciones antiguas: info@edmaktub.org (2024), info@edmaktub.com (2015). Sede en Barcelona."
    },
    {
     "name": "Tethys Research Institute",
     "hq_country": "Italia",
     "hq_city": "Milán (sin verificar)",
-    "website": "no lo tengo",
+    "website": "https://www.tethys.org",
     "project_page_url": "no lo tengo",
-    "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "contact_email": "tethys@tethys.org",
+    "phone": "+39 02 72 00 1947",
+    "director_or_president": "Simone Panigada, presidente (sin verificar; Wikipedia) (no lo tengo)",
     "what_they_do": "Instituto de investigación de cetáceos en el Mediterráneo (Santuario Pelagos); Simone Panigada colabora en el marcaje satelital de rorcuales con Edmaktub.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://en.wikipedia.org/wiki/Tethys_Research_Institute",
+    "notes": "Verificación 07-nov-2026: Web oficial tethys.org/contact. Sede: Acquario Civico di Milano, Viale G.B. Gadio 2, 20121 Milano. Hay noticia 'Tethys' new Board of Directors' en whalesanddolphins.tethys.org (no leída)."
    }
   ],
   "photographers": [],
@@ -553,13 +579,15 @@
     "name": "SEO/BirdLife",
     "hq_country": "España",
     "hq_city": "Madrid",
-    "website": "https://seo.org (sin verificar en esta sesión)",
+    "website": "https://www.seo.org",
     "project_page_url": "no lo tengo",
-    "contact_email": "no lo tengo",
+    "contact_email": "tienda@seo.org (solo tienda, según informe de Fundación Lealtad feb. 2025; no es contacto de alianzas)",
     "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "director_or_president": "Asunción Ruiz Guijosa, directora ejecutiva; Florentino de Lope Rebollo, presidente (2025)",
     "what_they_do": "Socio español de BirdLife; coordina el seguimiento de aves marinas orilladas en el Cantábrico y Atlántico peninsular (proyecto Interreg FAME), incluidos frailecillos.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "unknown (no encontré página de empresas en los resultados)",
+    "director_source_url": "https://fundacionlealtad.org/conoce-sociedad-espanola-de-ornitologia-seo-birdlife-ong-acreditada-por-fundacion-lealtad",
+    "notes": "Verificación 07-nov-2026: Fundación Lealtad es registro/acreditación de terceros reputado; Ecoticias (mayo 2025) confirma también a Asunción Ruiz como directora ejecutiva. Buscar email de alianzas en seo.org/contacto."
    },
    {
     "name": "BirdLife International",
@@ -567,11 +595,14 @@
     "hq_city": "Cambridge (sin verificar)",
     "website": "https://birdlife.org",
     "project_page_url": "https://datazone.birdlife.org/species/factsheet/atlantic-puffin-fratercula-arctica/summary",
-    "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "contact_email": "birdlife@birdlife.org (Registro de la Charity Commission)",
+    "phone": "+44 (0)1223 277318 (sin verificar)",
+    "director_or_president": "Martin Harper, CEO (nombrado nov. 2023; mensaje del CEO en el informe anual 2024)",
     "what_they_do": "Autoridad de la Lista Roja para aves; evalúa y promueve la conservación del frailecillo.",
-    "accepts_corporate_partners": "unknown"
+    "accepts_corporate_partners": "sí: tiene socios corporativos (oferta 'Head of Business and Nature' de julio 2026 gestiona relaciones con 'corporate Partners')",
+    "director_source_url": "https://opencharities.uk/ew/1042125/files/2024-12-31-accounts.md",
+    "accepts_corporate_partners_evidence_url": "https://www.birdlife.org/contact-us/",
+    "notes": "Verificación 07-nov-2026: David Attenborough Building, Pembroke Street, Cambridge CB2 3QZ."
    }
   ],
   "photographers": [

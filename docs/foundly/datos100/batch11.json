@@ -21,7 +21,8 @@
     "phone": "no lo tengo",
     "director_or_president": "no lo tengo",
     "what_they_do": "Federa asociaciones autonómicas de criadores (AECRIA-Madrid, AMIGA, ASAN, ACRIANICYL...) para un programa de cría y reconocimiento oficial de A. m. iberiensis.",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "unknown",
+    "notes": "Verificación 07-nov-2026: Constituida en 2024 en Zaldibia (Gipuzkoa). Miembros: ACAMI, ACRIANICYL, AECRIA-Madrid, AMIGA, ASAN, Dotze Reines, etc. Miguel Vélez es presidente de ACRIANICYL (no de la federación). Fuente: https://www.agronewscastillayleon.com/miguel-velez-abeja-negra. Sin email ni web oficial."
    },
    {
     "name": "BeeLife European Beekeeping Coordination",
@@ -33,7 +34,8 @@
     "phone": "no lo tengo",
     "director_or_president": "Noa Simón Delso figura como persona de contacto en ofertas de empleo (cargo sin verificar)",
     "what_they_do": "ONG europea de apicultores que trabaja por mejorar las condiciones de vida de los polinizadores e incide en política agraria y pesticidas en la UE.",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "unknown",
+    "notes": "Verificación 07-nov-2026: Registro belga CBE 0540.608.912; sede Avenue Louise 209/7, 1050 Ixelles. Ver registro para órganos actuales."
    }
   ],
   "photographers": [
@@ -82,10 +84,13 @@
     "website": "https://www.bumblebeeconservation.org",
     "project_page_url": "https://bumblebeeconservation.org/what-we-do/contact-us",
     "contact_email": "enquiries@bumblebeeconservation.org (fuente de 2010, sin verificar)",
-    "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "phone": "01786 594128 (Registro de la Charity Commission)",
+    "director_or_president": "Dr Andrew Impey, Chief Executive Officer (desde febrero 2026, sucede a Gill Perkins)",
     "what_they_do": "Organización benéfica dedicada exclusivamente a la conservación de abejorros: restauración de hábitat, ciencia ciudadana (BeeWalk) y divulgación.",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "sí (programa de miembros corporativos; Corney & Barrow)",
+    "director_source_url": "https://www.thirdsector.co.uk/conservation-charity-appoints-next-chief/governance/article/1943219",
+    "accepts_corporate_partners_evidence_url": "https://bumblebeeconservation.org/what-we-do/contact-us (contacto general); socio corporativo documentado: Corney & Barrow",
+    "notes": "Verificación 07-nov-2026: Email en la página oficial ofuscado en el snippet; enquiries@... del input (2010) sigue sin verificar. Registro: https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/4025087/contact-information. Fuente del nombramiento es prensa sectorial (Third Sector)."
    },
    {
     "name": "Xerces Society for Invertebrate Conservation",
@@ -93,11 +98,14 @@
     "hq_city": "Portland, Oregón (628 NE Broadway, Ste 200)",
     "website": "https://xerces.org",
     "project_page_url": "no lo tengo",
-    "contact_email": "no lo tengo",
-    "phone": "(855) 232-6639 o (503) 232-6639 (sin verificar)",
-    "director_or_president": "no lo tengo",
+    "contact_email": "scott.black@xerces.org (acuerdo PNW CESU, Univ. Washington) (sin verificar); email de patrocinio empresarial oculto en página Staff",
+    "phone": "(503) 232-6639",
+    "director_or_president": "Scott Black, Executive Director (sin verificar) (2025)",
     "what_they_do": "ONG de referencia mundial en conservación de invertebrados; programas de abejorros (Bumble Bee Watch, Atlas), monarca y polinizadores.",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "sí — página oficial 'Corporate Supporters' y 'Business Partnerships'",
+    "director_source_url": "https://depts.washington.edu/pnwcesu/wordpress/wp-content/uploads/2026/05/PANO-CESU-2020-2025-AMD02-sigs.pdf",
+    "accepts_corporate_partners_evidence_url": "https://www.xerces.org/corporate-supporters",
+    "notes": "Verificación 07-nov-2026: 628 NE Broadway, Suite 200, Portland, OR 97232."
    }
   ],
   "photographers": [
@@ -150,7 +158,8 @@
     "phone": "no lo tengo",
     "director_or_president": "Noa Simón Delso figura como persona de contacto en ofertas de empleo (cargo sin verificar)",
     "what_they_do": "ONG europea de apicultores que trabaja por mejorar las condiciones de vida de los polinizadores e incide en política agraria y pesticidas en la UE.",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "unknown",
+    "notes": "Verificación 07-nov-2026: Registro belga CBE 0540.608.912; sede Avenue Louise 209/7, 1050 Ixelles. Ver registro para órganos actuales."
    },
    {
     "name": "Buglife – The Invertebrate Conservation Trust",
@@ -158,11 +167,12 @@
     "hq_city": "Peterborough (Allia Future Business Centre, London Road, PE2 8AN)",
     "website": "https://www.buglife.org.uk",
     "project_page_url": "https://www.buglife.org.uk/about-us/contact-us",
-    "contact_email": "info@buglife.org.uk",
-    "phone": "no lo tengo",
+    "contact_email": "info@buglife.org.uk (página oficial de contacto y Charity Commission)",
+    "phone": "0300 102 7375 (web oficial; Charity Commission indica 0300 102 7275)",
     "director_or_president": "Matt Shardlow figuraba como CEO en fuentes antiguas (sin verificar hoy)",
     "what_they_do": "Única ONG europea dedicada a todos los invertebrados; coordinó la evaluación europea de luciérnagas (2024) y trabaja con ciervo volante y polinizadores.",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "sí (indicio) — oferta de empleo 2024 menciona gestión de 'our corporate partners'",
+    "notes": "Verificación 07-nov-2026: Allia Future Business Centre, London Road, Peterborough PE2 8AN. CEO actual no confirmado (Matt Shardlow sin verificar)."
    }
   ],
   "photographers": [
@@ -212,19 +222,22 @@
     "phone": "617528004 (sin verificar, solo en ficha GBIF)",
     "director_or_president": "Yeray Monasterio figura como contacto en GBIF (cargo sin verificar)",
     "what_they_do": "ONG fundada en 2007 dedicada a la conservación de mariposas y polillas en España; único representante español en Butterfly Conservation Europe; organiza la 'Mariposa del Año'.",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "unknown",
+    "notes": "Verificación 07-nov-2026: Fundada en 2007. Junta directiva no encontrada."
    },
    {
     "name": "Butterfly Conservation Europe (BCE)",
     "hq_country": "Países Bajos",
     "hq_city": "Wageningen (P.O. Box 506, NL-6700 AM)",
-    "website": "https://www.bc-europe.eu (sin verificar)",
+    "website": "https://www.bc-europe.eu",
     "project_page_url": "no lo tengo",
     "contact_email": "no lo tengo",
     "phone": "no lo tengo",
-    "director_or_president": "Chris van Swaay figuraba como presidente del consejo en informe de 2016 (puede haber cambiado, sin verificar)",
+    "director_or_president": "Nigel Bourn, presidente del consejo (chair); Chris van Swaay es ahora secretario; Anu Tiitsaar, tesorera (2026)",
     "what_they_do": "Federación europea de organizaciones de conservación de mariposas; coordina la Lista Roja Europea de Mariposas y el seguimiento europeo (eBMS).",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://bc-europe.eu/documents/69821697091d2.pdf",
+    "notes": "Verificación 07-nov-2026: Informe de Actividad 2025 de BCE (publicado feb. 2026, bc-europe.eu) da el consejo a 1-ene-2026. Un vídeo de la AGM 2025 del European Butterflies Group llamaba presidente a Sam Ellis; el único email @bc-europe.eu encontrado es sam.ellis@bc-europe.eu (lista de comité EBG dic. 2025, email personal, sin verificar). No hallé email general."
    }
   ],
   "photographers": [
@@ -267,19 +280,22 @@
     "phone": "617528004 (sin verificar, solo en ficha GBIF)",
     "director_or_president": "Yeray Monasterio figura como contacto en GBIF (cargo sin verificar)",
     "what_they_do": "ONG fundada en 2007 dedicada a la conservación de mariposas y polillas en España; único representante español en Butterfly Conservation Europe; organiza la 'Mariposa del Año'.",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "unknown",
+    "notes": "Verificación 07-nov-2026: Fundada en 2007. Junta directiva no encontrada."
    },
    {
     "name": "Butterfly Conservation Europe (BCE)",
     "hq_country": "Países Bajos",
     "hq_city": "Wageningen (P.O. Box 506, NL-6700 AM)",
-    "website": "https://www.bc-europe.eu (sin verificar)",
+    "website": "https://www.bc-europe.eu",
     "project_page_url": "no lo tengo",
     "contact_email": "no lo tengo",
     "phone": "no lo tengo",
-    "director_or_president": "Chris van Swaay figuraba como presidente del consejo en informe de 2016 (puede haber cambiado, sin verificar)",
+    "director_or_president": "Nigel Bourn, presidente del consejo (chair); Chris van Swaay es ahora secretario; Anu Tiitsaar, tesorera (2026)",
     "what_they_do": "Federación europea de organizaciones de conservación de mariposas; coordina la Lista Roja Europea de Mariposas y el seguimiento europeo (eBMS).",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://bc-europe.eu/documents/69821697091d2.pdf",
+    "notes": "Verificación 07-nov-2026: Informe de Actividad 2025 de BCE (publicado feb. 2026, bc-europe.eu) da el consejo a 1-ene-2026. Un vídeo de la AGM 2025 del European Butterflies Group llamaba presidente a Sam Ellis; el único email @bc-europe.eu encontrado es sam.ellis@bc-europe.eu (lista de comité EBG dic. 2025, email personal, sin verificar). No hallé email general."
    }
   ],
   "photographers": [
@@ -330,7 +346,8 @@
     "phone": "617528004 (sin verificar, solo en ficha GBIF)",
     "director_or_president": "Yeray Monasterio figura como contacto en GBIF (cargo sin verificar)",
     "what_they_do": "ONG fundada en 2007 dedicada a la conservación de mariposas y polillas en España; único representante español en Butterfly Conservation Europe; organiza la 'Mariposa del Año'.",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "unknown",
+    "notes": "Verificación 07-nov-2026: Fundada en 2007. Junta directiva no encontrada."
    },
    {
     "name": "Butterfly Conservation (Reino Unido)",
@@ -338,11 +355,14 @@
     "hq_city": "no lo tengo",
     "website": "https://butterfly-conservation.org",
     "project_page_url": "https://butterfly-conservation.org/news-and-blog/species-of-the-month-large-blue",
-    "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "contact_email": "corporate@butterfly-conservation.org (perfil en Work for Good; sin verificar en la web oficial)",
+    "phone": "01929 406015 (página oficial de apoyo corporativo)",
+    "director_or_president": "Julie Williams, Chief Executive Officer & Company Secretary (2024)",
     "what_they_do": "Socio del programa de reintroducción de la gran azul en Somerset y Gloucestershire.",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "sí: página oficial de apoyo corporativo que ofrece alianzas a medida; tiene puesto de Corporate Partnerships Manager",
+    "director_source_url": "https://butterfly-conservation.org/about-us/senior-leadership-team",
+    "accepts_corporate_partners_evidence_url": "https://www.butterfly-conservation.org/corporatesupport",
+    "notes": "Verificación 07-nov-2026: Informe anual 2024 la cita como Chief Executive."
    }
   ],
   "photographers": [
@@ -391,9 +411,11 @@
     "project_page_url": "https://www.stagbeetlemonitoring.org/",
     "contact_email": "arno.thomaes@inbo.be (contacto de dataset GBIF de la red europea, sin verificar como contacto institucional)",
     "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "director_or_president": "Nida Al-Fulaij, Chief Executive; Dr Andrew Kitchener, Chair (2024 (cuentas a 31/12/2024))",
     "what_they_do": "PTES financia y coordina la Red Europea de Seguimiento del Ciervo Volante (desde 2016, 14 países) y la 'Great Stag Hunt' de ciencia ciudadana.",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://ptes.org/about-us/meet-the-team",
+    "notes": "Verificación 07-nov-2026: Charity nº 274206. Dirección: 3 Cloisters House, 8 Battersea Park Road, London SW8 4BG. enquiries@ptes.org no confirmado. arno.thomaes@inbo.be (input) es contacto de dataset, no institucional."
    },
    {
     "name": "Buglife – The Invertebrate Conservation Trust",
@@ -401,11 +423,12 @@
     "hq_city": "Peterborough (Allia Future Business Centre, London Road, PE2 8AN)",
     "website": "https://www.buglife.org.uk",
     "project_page_url": "https://www.buglife.org.uk/about-us/contact-us",
-    "contact_email": "info@buglife.org.uk",
-    "phone": "no lo tengo",
+    "contact_email": "info@buglife.org.uk (página oficial de contacto y Charity Commission)",
+    "phone": "0300 102 7375 (web oficial; Charity Commission indica 0300 102 7275)",
     "director_or_president": "Matt Shardlow figuraba como CEO en fuentes antiguas (sin verificar hoy)",
     "what_they_do": "Única ONG europea dedicada a todos los invertebrados; coordinó la evaluación europea de luciérnagas (2024) y trabaja con ciervo volante y polinizadores.",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "sí (indicio) — oferta de empleo 2024 menciona gestión de 'our corporate partners'",
+    "notes": "Verificación 07-nov-2026: Allia Future Business Centre, London Road, Peterborough PE2 8AN. CEO actual no confirmado (Matt Shardlow sin verificar)."
    }
   ],
   "photographers": [
@@ -445,11 +468,13 @@
     "hq_city": "no lo tengo",
     "website": "https://www.gusanosdeluz.com",
     "project_page_url": "https://www.gusanosdeluz.com",
-    "contact_email": "no lo tengo",
+    "contact_email": "gusanosdeluz[at]gmail.com (sin verificar; Fireflyers International)",
     "phone": "no lo tengo",
-    "director_or_president": "José Ramón Guzmán Álvarez y Raphaël De Cock (fundadores)",
+    "director_or_president": "José Ramón Guzmán Álvarez y Raphaël De Cock — impulsores/fundadores (2022)",
     "what_they_do": "Plataforma de ciencia ciudadana nacida en 2009 para cartografiar y estudiar las luciérnagas de España.",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "unknown — proyecto de ciencia ciudadana, sin entidad jurídica clara",
+    "director_source_url": "https://www.elindependiente.com/futuro/animales/2022/02/09/photinus-signaticollis-la-luciernaga-sudamericana-que-avanza-por-europa/ (sin verificar)",
+    "notes": "Verificación 07-nov-2026: Plataforma nacida en 2009; web activa (archivo 2025). Escrito con [at] en la fuente: no se ha reconstruido la dirección."
    },
    {
     "name": "Buglife – The Invertebrate Conservation Trust",
@@ -457,11 +482,12 @@
     "hq_city": "Peterborough (Allia Future Business Centre, London Road, PE2 8AN)",
     "website": "https://www.buglife.org.uk",
     "project_page_url": "https://www.buglife.org.uk/about-us/contact-us",
-    "contact_email": "info@buglife.org.uk",
-    "phone": "no lo tengo",
+    "contact_email": "info@buglife.org.uk (página oficial de contacto y Charity Commission)",
+    "phone": "0300 102 7375 (web oficial; Charity Commission indica 0300 102 7275)",
     "director_or_president": "Matt Shardlow figuraba como CEO en fuentes antiguas (sin verificar hoy)",
     "what_they_do": "Única ONG europea dedicada a todos los invertebrados; coordinó la evaluación europea de luciérnagas (2024) y trabaja con ciervo volante y polinizadores.",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "sí (indicio) — oferta de empleo 2024 menciona gestión de 'our corporate partners'",
+    "notes": "Verificación 07-nov-2026: Allia Future Business Centre, London Road, Peterborough PE2 8AN. CEO actual no confirmado (Matt Shardlow sin verificar)."
    }
   ],
   "photographers": [
@@ -502,10 +528,12 @@
     "website": "https://seo.org",
     "project_page_url": "https://www.agronewscastillayleon.com/preocupacion-antiparasitos",
     "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "phone": "+34 914 340 910 (ZoomInfo; sin verificar)",
+    "director_or_president": "Asunción Ruiz, directora ejecutiva (sin verificar vigencia; fuentes sin fecha) (no lo tengo)",
     "what_they_do": "Coordina un LIFE en Extremadura que reduce el impacto de antiparasitarios en los insectos del estiércol en más de 10 fincas piloto.",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "sí (sin verificar): acuerdo 2025 con el Grupo Español de Crecimiento Verde sobre custodia del territorio (Corresponsables)",
+    "director_source_url": "no lo tengo",
+    "notes": "Verificación 07-nov-2026: No hallé email general oficial en snippets. No dedicar más a SEO sin revisar seo.org/contacto."
    },
    {
     "name": "Buglife – The Invertebrate Conservation Trust",
@@ -513,11 +541,12 @@
     "hq_city": "Peterborough (Allia Future Business Centre, London Road, PE2 8AN)",
     "website": "https://www.buglife.org.uk",
     "project_page_url": "https://www.buglife.org.uk/about-us/contact-us",
-    "contact_email": "info@buglife.org.uk",
-    "phone": "no lo tengo",
+    "contact_email": "info@buglife.org.uk (página oficial de contacto y Charity Commission)",
+    "phone": "0300 102 7375 (web oficial; Charity Commission indica 0300 102 7275)",
     "director_or_president": "Matt Shardlow figuraba como CEO en fuentes antiguas (sin verificar hoy)",
     "what_they_do": "Única ONG europea dedicada a todos los invertebrados; coordinó la evaluación europea de luciérnagas (2024) y trabaja con ciervo volante y polinizadores.",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "sí (indicio) — oferta de empleo 2024 menciona gestión de 'our corporate partners'",
+    "notes": "Verificación 07-nov-2026: Allia Future Business Centre, London Road, Peterborough PE2 8AN. CEO actual no confirmado (Matt Shardlow sin verificar)."
    }
   ],
   "photographers": [
@@ -556,11 +585,12 @@
     "hq_city": "Huntingdon (Ashcroft, Brington Road, Old Weston, PE28 5LP)",
     "website": "https://british-dragonflies.org.uk",
     "project_page_url": "https://british-dragonflies.org.uk/conservation-and-research/projects-2/dorsets-southern-damselflies/",
-    "contact_email": "no lo tengo",
-    "phone": "no lo tengo",
+    "contact_email": "consoff@british-dragonflies.org.uk (OpenCharities, a partir del registro de la Charity Commission n.º 1168300) (sin verificar); secretary@british-dragonflies.org.uk (GBIF) (sin verificar)",
+    "phone": "07798 627651 / 07818 113898 (conflicto entre fuentes) (sin verificar)",
     "director_or_president": "no lo tengo",
     "what_they_do": "Organización benéfica (nº 1168300) que lidera un proyecto multi-socio para salvar al caballito del diablo de Mercurio en Dorset.",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "unknown",
+    "notes": "Verificación 07-nov-2026: No hay CEO desde 2013 según informe anual; contacto en registro: Maria Giulia Checchi (cargo desconocido, desde feb 2025)."
    },
    {
     "name": "Buglife – The Invertebrate Conservation Trust",
@@ -568,11 +598,12 @@
     "hq_city": "Peterborough (Allia Future Business Centre, London Road, PE2 8AN)",
     "website": "https://www.buglife.org.uk",
     "project_page_url": "https://www.buglife.org.uk/about-us/contact-us",
-    "contact_email": "info@buglife.org.uk",
-    "phone": "no lo tengo",
+    "contact_email": "info@buglife.org.uk (página oficial de contacto y Charity Commission)",
+    "phone": "0300 102 7375 (web oficial; Charity Commission indica 0300 102 7275)",
     "director_or_president": "Matt Shardlow figuraba como CEO en fuentes antiguas (sin verificar hoy)",
     "what_they_do": "Única ONG europea dedicada a todos los invertebrados; coordinó la evaluación europea de luciérnagas (2024) y trabaja con ciervo volante y polinizadores.",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "sí (indicio) — oferta de empleo 2024 menciona gestión de 'our corporate partners'",
+    "notes": "Verificación 07-nov-2026: Allia Future Business Centre, London Road, Peterborough PE2 8AN. CEO actual no confirmado (Matt Shardlow sin verificar)."
    }
   ],
   "photographers": [
@@ -611,11 +642,12 @@
     "hq_city": "Peterborough (Allia Future Business Centre, London Road, PE2 8AN)",
     "website": "https://www.buglife.org.uk",
     "project_page_url": "https://www.buglife.org.uk/about-us/contact-us",
-    "contact_email": "info@buglife.org.uk",
-    "phone": "no lo tengo",
+    "contact_email": "info@buglife.org.uk (página oficial de contacto y Charity Commission)",
+    "phone": "0300 102 7375 (web oficial; Charity Commission indica 0300 102 7275)",
     "director_or_president": "Matt Shardlow figuraba como CEO en fuentes antiguas (sin verificar hoy)",
     "what_they_do": "Única ONG europea dedicada a todos los invertebrados; coordinó la evaluación europea de luciérnagas (2024) y trabaja con ciervo volante y polinizadores.",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "sí (indicio) — oferta de empleo 2024 menciona gestión de 'our corporate partners'",
+    "notes": "Verificación 07-nov-2026: Allia Future Business Centre, London Road, Peterborough PE2 8AN. CEO actual no confirmado (Matt Shardlow sin verificar)."
    },
    {
     "name": "People's Trust for Endangered Species (PTES) / European Stag Beetle Monitoring Network",
@@ -625,9 +657,11 @@
     "project_page_url": "https://www.stagbeetlemonitoring.org/",
     "contact_email": "arno.thomaes@inbo.be (contacto de dataset GBIF de la red europea, sin verificar como contacto institucional)",
     "phone": "no lo tengo",
-    "director_or_president": "no lo tengo",
+    "director_or_president": "Nida Al-Fulaij, Chief Executive; Dr Andrew Kitchener, Chair (2024 (cuentas a 31/12/2024))",
     "what_they_do": "PTES financia y coordina la Red Europea de Seguimiento del Ciervo Volante (desde 2016, 14 países) y la 'Great Stag Hunt' de ciencia ciudadana.",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://ptes.org/about-us/meet-the-team",
+    "notes": "Verificación 07-nov-2026: Charity nº 274206. Dirección: 3 Cloisters House, 8 Battersea Park Road, London SW8 4BG. enquiries@ptes.org no confirmado. arno.thomaes@inbo.be (input) es contacto de dataset, no institucional."
    }
   ],
   "photographers": [
@@ -678,7 +712,8 @@
     "phone": "617528004 (sin verificar, solo en ficha GBIF)",
     "director_or_president": "Yeray Monasterio figura como contacto en GBIF (cargo sin verificar)",
     "what_they_do": "ONG fundada en 2007 dedicada a la conservación de mariposas y polillas en España; único representante español en Butterfly Conservation Europe; organiza la 'Mariposa del Año'.",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "unknown",
+    "notes": "Verificación 07-nov-2026: Fundada en 2007. Junta directiva no encontrada."
    },
    {
     "name": "Xerces Society for Invertebrate Conservation",
@@ -686,11 +721,14 @@
     "hq_city": "Portland, Oregón (628 NE Broadway, Ste 200)",
     "website": "https://xerces.org",
     "project_page_url": "no lo tengo",
-    "contact_email": "no lo tengo",
-    "phone": "(855) 232-6639 o (503) 232-6639 (sin verificar)",
-    "director_or_president": "no lo tengo",
+    "contact_email": "scott.black@xerces.org (acuerdo PNW CESU, Univ. Washington) (sin verificar); email de patrocinio empresarial oculto en página Staff",
+    "phone": "(503) 232-6639",
+    "director_or_president": "Scott Black, Executive Director (sin verificar) (2025)",
     "what_they_do": "ONG de referencia mundial en conservación de invertebrados; programas de abejorros (Bumble Bee Watch, Atlas), monarca y polinizadores.",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "sí — página oficial 'Corporate Supporters' y 'Business Partnerships'",
+    "director_source_url": "https://depts.washington.edu/pnwcesu/wordpress/wp-content/uploads/2026/05/PANO-CESU-2020-2025-AMD02-sigs.pdf",
+    "accepts_corporate_partners_evidence_url": "https://www.xerces.org/corporate-supporters",
+    "notes": "Verificación 07-nov-2026: 628 NE Broadway, Suite 200, Portland, OR 97232."
    }
   ],
   "photographers": [
@@ -740,13 +778,15 @@
     "name": "Butterfly Conservation Europe (BCE) – alternativa europea; sin programa africano verificado",
     "hq_country": "Países Bajos",
     "hq_city": "Wageningen (P.O. Box 506, NL-6700 AM)",
-    "website": "https://www.bc-europe.eu (sin verificar)",
+    "website": "https://www.bc-europe.eu",
     "project_page_url": "no lo tengo",
     "contact_email": "no lo tengo",
     "phone": "no lo tengo",
-    "director_or_president": "Chris van Swaay figuraba como presidente del consejo en informe de 2016 (puede haber cambiado, sin verificar)",
+    "director_or_president": "Nigel Bourn, presidente del consejo (chair); Chris van Swaay es ahora secretario; Anu Tiitsaar, tesorera (2026)",
     "what_they_do": "Federación europea de organizaciones de conservación de mariposas; coordina la Lista Roja Europea de Mariposas y el seguimiento europeo (eBMS).",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "unknown",
+    "director_source_url": "https://bc-europe.eu/documents/69821697091d2.pdf",
+    "notes": "Verificación 07-nov-2026: Informe de Actividad 2025 de BCE (publicado feb. 2026, bc-europe.eu) da el consejo a 1-ene-2026. Un vídeo de la AGM 2025 del European Butterflies Group llamaba presidente a Sam Ellis; el único email @bc-europe.eu encontrado es sam.ellis@bc-europe.eu (lista de comité EBG dic. 2025, email personal, sin verificar). No hallé email general. Misma entidad que la fila anterior."
    }
   ],
   "photographers": [
@@ -784,11 +824,12 @@
     "hq_city": "Peterborough (Allia Future Business Centre, London Road, PE2 8AN)",
     "website": "https://www.buglife.org.uk",
     "project_page_url": "https://www.buglife.org.uk/about-us/contact-us",
-    "contact_email": "info@buglife.org.uk",
-    "phone": "no lo tengo",
+    "contact_email": "info@buglife.org.uk (página oficial de contacto y Charity Commission)",
+    "phone": "0300 102 7375 (web oficial; Charity Commission indica 0300 102 7275)",
     "director_or_president": "Matt Shardlow figuraba como CEO en fuentes antiguas (sin verificar hoy)",
     "what_they_do": "Única ONG europea dedicada a todos los invertebrados; coordinó la evaluación europea de luciérnagas (2024) y trabaja con ciervo volante y polinizadores.",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "sí (indicio) — oferta de empleo 2024 menciona gestión de 'our corporate partners'",
+    "notes": "Verificación 07-nov-2026: Allia Future Business Centre, London Road, Peterborough PE2 8AN. CEO actual no confirmado (Matt Shardlow sin verificar)."
    },
    {
     "name": "Equipo del estudio de Lista Roja de Goliathus (Luiselli et al., con Julia Fa, Manchester Metropolitan University)",
@@ -838,11 +879,14 @@
     "hq_city": "Granollers (Francesc Macià, 51)",
     "website": "https://www.catalanbms.org",
     "project_page_url": "https://www.catalanbms.org/cbms/upl/files/Poster_Cardui_ES.pdf",
-    "contact_email": "m.granollers.cn@diba.es (boletín 2016, sin verificar)",
+    "contact_email": "cstefanescu@mcng.cat (perfil en bibio.org, grupo coordinador del CBMS)",
     "phone": "no lo tengo",
-    "director_or_president": "Constantí Stefanescu (investigador de referencia, cargo sin verificar)",
+    "director_or_president": "Constantí Stefanescu, coordinador científico de BiBio y del CBMS (no lo tengo (página sin fecha; presentó en Butterfly Conservation Europe 2025))",
     "what_they_do": "Red de seguimiento de mariposas de Cataluña y Andorra; proyecto específico de seguimiento de la migración de Vanessa cardui.",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "unknown (tiene página de colaboradores, no verificado si incluye empresas)",
+    "director_source_url": "https://bibio.org/pages/CV-CStefanescu.php",
+    "accepts_corporate_partners_evidence_url": "https://www.catalanbms.org/en/colaboradors/",
+    "notes": "Verificación 07-nov-2026: El email del boletín 2016 (m.granollers.cn@diba.es) no se reconfirmó."
    },
    {
     "name": "Asociación ZERYNTHIA (protección de mariposas y polillas de España)",
@@ -854,7 +898,8 @@
     "phone": "617528004 (sin verificar, solo en ficha GBIF)",
     "director_or_president": "Yeray Monasterio figura como contacto en GBIF (cargo sin verificar)",
     "what_they_do": "ONG fundada en 2007 dedicada a la conservación de mariposas y polillas en España; único representante español en Butterfly Conservation Europe; organiza la 'Mariposa del Año'.",
-    "accepts_corporate_partners": "no lo tengo"
+    "accepts_corporate_partners": "unknown",
+    "notes": "Verificación 07-nov-2026: Fundada en 2007. Junta directiva no encontrada."
    }
   ],
   "photographers": [
