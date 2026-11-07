@@ -28,7 +28,7 @@ Camisetas orgánicas con las mejores fotos de naturaleza. Cada camiseta: **5 €
 
 | # | Decisión | Opciones | Recomendación | Fecha límite |
 |---|---|---|---|---|
-| 1 | **Precio final al público** (el precio de venta en España debe mostrarse con impuestos incluidos) | A) 39 € con 5/5/5 completo · B) 34 € y la parte de la marca es "lo que sobra" (≈1–2 €) · C) 34 € + envío aparte | **B** para el lanzamiento | Antes de diseñar la tienda |
+| ~~1~~ | ~~Precio final al público~~ | **DECIDIDO 07-nov-2026: opción C → 34 € + 4,95 € de envío** (pack 64 € + envío) | — | — |
 | 2 | **Nombre de marca** | Five for Wild (riesgo bajo) · Viste la Vida (bajo-medio) · Foundly (medio: registrada en EE.UU. clase 35) | **Five for Wild** (Foundly puede quedar como nombre de sociedad) | **4-dic-2026** si se pide la ayuda SME Fund (75 % de tasas, hasta 700 €) |
 | 3 | Vía fiscal con fundaciones | Convenio de colaboración empresarial (art. 25) vs. donativo (deducción 40–50 %) | **Convenio** (permite usar el nombre de la fundación) — confirmar con gestor | Antes de firmar con la primera fundación |
 | 4 | Sociedad del grupo que factura | — | Consultar con el gestor | Antes de abrir la tienda |
@@ -37,23 +37,27 @@ Camisetas orgánicas con las mejores fotos de naturaleza. Cada camiseta: **5 €
 
 ## 4. Números clave
 
-### 4.1 Por camiseta (Printful, 1 unidad, envío incluido)
-| Concepto | € |
-|---|---|
-| Costo Printful (producción + envío) | 16,30 (envío sin verificar: tabla 4,79 o 6,99 US$) |
-| Comisión de cobro (2,1 % + 0,30 €) | ~1,01 |
-| Fundación | 5,00 |
-| Fotógrafo | 5,00 |
-| Lo que queda para la marca | depende de la decisión 1 |
+### 4.1 Por camiseta — opción C: 34 € + 4,95 € de envío (precio al público)
+| Concepto | Envío Printful 4,79 US$ | Envío Printful 6,99 US$ |
+|---|---|---|
+| Lo que llega a Foundly del cobro | 32,19 | 32,19 |
+| Costo Printful (producción + envío) | −16,30 | −18,21 |
+| Comisión de cobro (2,1 % + 0,30 €) | −1,12 | −1,12 |
+| Fundación | −5,00 | −5,00 |
+| Fotógrafo | −5,00 | −5,00 |
+| **Queda para la marca** | **4,78** | **2,86** |
+
+Pack de 2 (64 € + 4,95 €): llegan 56,98 €; costo 29,69 €; comisión 1,75 €; 20 € a fundaciones y fotógrafos → **5,55 € para la marca (2,77 € por camiseta)**. El descuento del pack sale de la parte de la marca.
+Pendiente: confirmar en la calculadora de Printful el envío real a Madrid.
 
 ### 4.2 Modelo 12 meses (Foundly_modelo_financiero_12m.xlsx — supuestos editables, 3 escenarios)
-Calibrado con datos de mercado (CAP_MERCADO.md). Calculado con 34 € como neto: si se elige la opción B, el resultado de la marca baja.
+Calibrado con datos de mercado (CAP_MERCADO.md) y con la opción C (ingreso de 32,19 € por camiseta y 56,98 € por pack).
 
-| Escenario | Ventas año | Camisetas | A fundaciones | A fotógrafos | Resultado marca |
-|---|---|---|---|---|---|
-| Bajo | ~4.500 € | ~136 | ~680 € | ~680 € | ~−40 € |
-| Base | ~28.200 € | ~842 | ~4.200 € | ~4.200 € | ~4.180 € |
-| Alto | ~125.000 € | ~3.730 | ~18.700 € | ~18.700 € | ~21.200 € |
+| Escenario | Ingreso año | Camisetas | A fundaciones | A fotógrafos | Resultado marca | Recupera inversión |
+|---|---|---|---|---|---|---|
+| Bajo | ~4.200 € | ~136 | ~680 € | ~680 € | ~−380 € | No en el año |
+| Base | ~26.300 € | ~842 | ~4.200 € | ~4.200 € | ~2.200 € | Mes 5 |
+| Alto | ~116.600 € | ~3.730 | ~18.700 € | ~18.700 € | ~12.400 € | Mes 3 |
 
 Referencias de mercado: 60 % de las tiendas Shopify nuevas venden menos de 1.000 US$/mes el primer año; conversión en moda ~1,5–1,9 %; abandono de carrito ~70 % (CAP_MERCADO.md, CAP_TIENDA_OPERACIONES.md).
 
@@ -125,7 +129,7 @@ Edición limitada: **300 "Fundadoras" numeradas** del lince, después la **"Edic
 
 | Fase | Qué | Cuándo |
 |---|---|---|
-| 0. Decisiones | Precio, nombre, vía fiscal, sociedad | Nov 2026 |
+| 0. Decisiones | Precio ✅ (opción C) · nombre, vía fiscal, sociedad | Nov 2026 |
 | 1. Marca y legal | Búsqueda oficial de marca + registro OEPM; ayuda SME Fund | Antes del 4-dic-2026 |
 | 2. Aliados | Propuesta de 1 página a CBD-Hábitat y WWF España; contrato tipo con fotógrafos del lince | Nov–dic 2026 |
 | 3. Lista de espera | Página simple + redes, el 12-dic | Dic 2026 |
@@ -140,7 +144,7 @@ Edición limitada: **300 "Fundadoras" numeradas** del lince, después la **"Edic
 
 | Riesgo | Cómo se cubre |
 |---|---|
-| Margen de la marca casi nulo con 34 € | Decisión 1; revisar con ventas reales; B2B mejora margen |
+| Margen de la marca si el envío real es el caro (2,86 €/camiseta) | Confirmar envío; B2B mejora margen; revisar el pack |
 | Costo real de Printful y envío a Madrid | Pedir muestra y cotización antes de fijar precio |
 | Desconfianza ("cause-washing") | Recibos públicos, cifra exacta en € por prenda, sin promedios |
 | WWF exige contrato / agente de licencias | Empezar con CBD-Hábitat; WWF en paralelo |
