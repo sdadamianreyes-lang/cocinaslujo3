@@ -1,0 +1,1026 @@
+[
+ {
+  "common_name_es": "Delfín común del Mediterráneo",
+  "scientific_name": "Delphinus delphis (subpoblación mediterránea)",
+  "category": "Océanos",
+  "continent": "Europa / África / Asia (Mediterráneo)",
+  "countries": "España, Italia, Grecia, Israel, Marruecos, Argelia, Croacia, Turquía y demás ribereños",
+  "region": "Mar Mediterráneo (Alborán, Egeo, Jónico, Levante)",
+  "iucn_status": "Global (especie): Preocupación menor (LC) (sin verificar año); Subpoblación mediterránea: En peligro (EN), 2003, confirmado en 2021 (sin verificar el detalle); población israelí local declarada En peligro crítico (CR) (sin verificar)",
+  "population_estimate": "Sin estimación de abundancia para toda la cuenca; la evaluación UICN de 2021 apunta a <2.500 individuos maduros (snippet truncado, sin verificar)",
+  "trend": "En declive (≥50 % en tres generaciones según evaluación 2003)",
+  "taxonomy_note": "Delphinus capensis se considera hoy sinónimo/ecotipo de D. delphis; la subpoblación mediterránea se evalúa por separado.",
+  "foundations": [
+   {
+    "name": "Alnitak",
+    "hq_country": "España",
+    "hq_city": "no lo tengo (sin verificar)",
+    "website": "https://www.alnitak.info (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Investigación y conservación de cetáceos y tortugas marinas en el sur de España y Alborán; participación en proyectos LIFE, SCANS II y propuesta del Santuario de Alborán.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "CIRCE (Conservación, Información y Estudio sobre Cetáceos)",
+    "hq_country": "España",
+    "hq_city": "Algeciras, Cádiz (sin verificar)",
+    "website": "https://www.circe.info (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Campañas de seguimiento de cetáceos en el Estrecho de Gibraltar, incluidas las tres especies de delfines.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Ángel Fitor",
+    "nationality": "España (Alicante, 1973)",
+    "website": "no lo tengo",
+    "instagram": "@angelfitor",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo submarino especializado en el Mediterráneo; no verificada galería específica de delfín común.",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Jordi Chias",
+    "nationality": "España (Barcelona, 1973)",
+    "website": "no lo tengo (dato sin verificar eliminado)",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "10 veces premiado en Wildlife Photographer of the Year; navega entre Barcelona y Baleares buscando delfines (NHM 'Turtle in trouble'); galería de delfín común sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Silueta dinámica con el característico 'reloj de arena' amarillo-gris del flanco: muy legible y alegre en una camiseta.",
+  "sources": [
+   "https://frontiersin.org/articles/10.3389/fmars.2022.916950/full",
+   "https://archipelago.gr/density-and-abundance-of-delphinus-delphis-in-waters-south-of-samos-island-greece-eastern-mediterranean-sea/",
+   "https://www.gbif.org/dataset/9b73aa44-609b-44e6-a0fc-2df9eb32cee1",
+   "https://www.nhm.ac.uk/wpy/gallery/2010-turtle-in-trouble"
+  ]
+ },
+ {
+  "common_name_es": "Marsopa común del Báltico",
+  "scientific_name": "Phocoena phocoena (subpoblación del Báltico propio)",
+  "category": "Océanos",
+  "continent": "Europa",
+  "countries": "Suecia, Polonia, Alemania, Dinamarca, Finlandia, Lituania, Letonia, Estonia",
+  "region": "Báltico propio (área de cría principal: bancos de Midsjö, SE de Öland)",
+  "iucn_status": "Global (especie): Preocupación menor (LC) (sin verificar año); Subpoblación del Báltico propio: En peligro crítico (CR) (UICN y HELCOM)",
+  "population_estimate": "≈491 individuos (IC 95 %: 71–1.105), proyecto SAMBAH 2011–2013 (publicado 2022); ≈450–500 según comunicados",
+  "trend": "Crítica; posible estabilización o recuperación incipiente en detecciones suecas desde 2017 (no confirmado)",
+  "taxonomy_note": "Población genéticamente diferenciada de la del Belt/Kattegat; amenaza principal la captura accidental en redes de enmalle.",
+  "foundations": [
+   {
+    "name": "Sea Shepherd Global (campaña Mar Báltico)",
+    "hq_country": "Países Bajos",
+    "hq_city": "Ámsterdam (sin verificar)",
+    "website": "https://www.seashepherdglobal.org",
+    "project_page_url": "https://www.seashepherdglobal.org/our-campaigns/baltic-sea-campaign",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Vigilancia y retirada de redes de enmalle y reclamación de su prohibición en áreas protegidas del Báltico.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Coalition Clean Baltic",
+    "hq_country": "Suecia",
+    "hq_city": "Uppsala (sin verificar)",
+    "website": "https://ccb.se (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Coalición de ONG del Báltico (sin verificar su trabajo específico en marsopa).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Cetáceo pequeño y redondeado de cara 'sonriente'; mensaje potente de especie 'de 500 ejemplares' cerca de Europa.",
+  "sources": [
+   "https://www.ascobans.org/sites/default/files/SAMBAH%2520pressrelease%2520EN%25202014-12-10%2520FINAL.pdf",
+   "https://zenodo.org/records/5813711",
+   "https://openpolar.no/Record/crwiley:10.1111%2Fcsp2.468",
+   "https://www.seashepherdglobal.org/our-campaigns/baltic-sea-campaign"
+  ]
+ },
+ {
+  "common_name_es": "Zifio de Cuvier",
+  "scientific_name": "Ziphius cavirostris",
+  "category": "Océanos",
+  "continent": "Cosmopolita (todos los océanos)",
+  "countries": "España, Italia, Grecia, Francia y prácticamente todos los mares templados y tropicales",
+  "region": "Aguas profundas y cañones submarinos; en España: Alborán, Baleares, Canarias, Cantábrico",
+  "iucn_status": "Global: Preocupación menor (LC) (año sin verificar); Subpoblación mediterránea: Vulnerable (VU) C2a(ii), 2018 (Cañadas y Notarbartolo di Sciara); España: Vulnerable en el Catálogo Español de Especies Amenazadas",
+  "population_estimate": "Mediterráneo: <10.000 individuos maduros (criterio de la evaluación 2018); sin cifra global precisa",
+  "trend": "Mediterráneo: en declive inferido",
+  "taxonomy_note": "Única especie del género Ziphius; la subpoblación mediterránea es genéticamente distinta y fue propuesta por la UE para el Apéndice I de la CMS.",
+  "foundations": [
+   {
+    "name": "Alnitak",
+    "hq_country": "España",
+    "hq_city": "no lo tengo (sin verificar)",
+    "website": "https://www.alnitak.info (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Su investigadora Ana Cañadas co-firmó la evaluación UICN 2018 de la subpoblación mediterránea (sin verificar vínculo institucional); censos de cetáceos en Alborán.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Tethys Research Institute",
+    "hq_country": "Italia",
+    "hq_city": "Milán (sin verificar)",
+    "website": "https://www.tethys.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Investigación de cetáceos mediterráneos (sin verificar trabajo específico con zifios).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Ángel Fitor",
+    "nationality": "España (Alicante, 1973)",
+    "website": "no lo tengo",
+    "instagram": "@angelfitor",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo marino mediterráneo; galería de zifio sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Cabeza de 'pico de ganso' y cuerpo lleno de cicatrices blancas: rareza misteriosa del abismo, muy gráfica.",
+  "sources": [
+   "https://link.springer.com/10.1186/s41200-020-00197-y",
+   "https://cms.int/aquatic-mammals/sites/default/files/document/COP11_Doc_24_1_1_Prop_I_1_Ziphius_cavirostris_%28Ballenato_de_Cuvier%29_UE_S.pdf",
+   "https://www.ecoticias.com/naturaleza/zifios-varados-en-el-mar-de-alboran",
+   "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/biodiversidad-marina/8367_ballenato_cuvier_tcm30-521249.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Rorcual boreal",
+  "scientific_name": "Balaenoptera borealis",
+  "category": "Océanos",
+  "continent": "Cosmopolita (océanos abiertos)",
+  "countries": "Portugal (Azores), España (Galicia, Canarias), Islandia, Noruega, Canadá, Chile, Japón, entre otros",
+  "region": "Aguas oceánicas templadas; Azores como escala migratoria y zona de alimentación",
+  "iucn_status": "Global: En peligro (EN), 2018 (Cooke 2018)",
+  "population_estimate": "no lo tengo",
+  "trend": "En aumento según Wikipedia (sin verificar)",
+  "taxonomy_note": "Se reconocen dos subespecies (B. b. borealis y B. b. schlegelii); diezmado por la caza ballenera del siglo XX. CITES Apéndice I.",
+  "foundations": [
+   {
+    "name": "Whale and Dolphin Conservation (WDC)",
+    "hq_country": "Reino Unido",
+    "hq_city": "Chippenham (sin verificar)",
+    "website": "https://uk.whales.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Conservación de ballenas y delfines a escala global (sin verificar proyecto específico de rorcual boreal).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "OceanCare",
+    "hq_country": "Suiza",
+    "hq_city": "Wädenswil (sin verificar)",
+    "website": "https://www.oceancare.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Protección de mamíferos marinos, ruido submarino y colisiones (sin verificar trabajo específico).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Nuno Sá",
+    "nationality": "Portugal (Azores)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo/camarógrafo de Azores (BAFTA 2018, Blue Planet II); galería de rorcual boreal sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Ballena esbelta y veloz con aleta dorsal falcada alta: silueta elegante sobre azul profundo.",
+  "sources": [
+   "https://www.marinemammalhabitat.org/wp-content/uploads/imma-factsheets/NorthEastAtlanticOcean/Azores-Archipelago-NorthEastAtlanticOcean.pdf",
+   "https://en.wikipedia.org/wiki/Sei_whale",
+   "https://www.canada.ca/en/environment-climate-change/services/species-risk-public-registry/cosewic-assessments-status-reports/sei-whale/chapter-2.html"
+  ]
+ },
+ {
+  "common_name_es": "Tiburón mako (marrajo dientuso)",
+  "scientific_name": "Isurus oxyrinchus",
+  "category": "Océanos",
+  "continent": "Cosmopolita",
+  "countries": "España, Portugal, Marruecos y todos los océanos templados y tropicales",
+  "region": "Atlántico Norte (stock sobreexplotado según ICCAT), Mediterráneo, Índico, Pacífico",
+  "iucn_status": "Global: En peligro (EN), 2019 (sin verificar año; antes NT en 2000 y luego VU)",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive; stock del Atlántico Norte sobreexplotado (ICCAT)",
+  "taxonomy_note": "Tiburón más rápido conocido; capturado como pesca accesoria/objetivo por palangre de superficie. España prohibió su captura (fecha sin verificar).",
+  "foundations": [
+   {
+    "name": "Shark Trust",
+    "hq_country": "Reino Unido",
+    "hq_city": "Plymouth (sin verificar)",
+    "website": "https://www.sharktrust.org",
+    "project_page_url": "https://www.crowdfunder.co.uk/p/sharktrust",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Campaña 'No Limits?' por límites de captura científicos para tiburones en Europa; pidió protección del marrajo en 2019.",
+    "accepts_corporate_partners": "probable (sin verificar)"
+   },
+   {
+    "name": "Oceana Europa",
+    "hq_country": "España (oficina europea)",
+    "hq_city": "Madrid (sin verificar)",
+    "website": "https://europe.oceana.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Campañas de pesca sostenible y tiburones en Europa (sin verificar campaña específica de mako).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Nuno Sá",
+    "nationality": "Portugal (Azores)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotografía makos y tintoreras en Azores (bancos Condor, Pico y Faial).",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Cuerpo hidrodinámico azul metálico y dientes a la vista: la camiseta del 'deportivo' de los océanos.",
+  "sources": [
+   "https://iotc.org/sites/default/files/documents/2023/12/IOTC-2023-SC26-ES20_SMA_E_rev1.pdf",
+   "https://www.crowdfunder.co.uk/p/sharktrust",
+   "https://www.ecoticias.com/naturaleza/140123_organizaciones-britanicas-acusan-a-espana-portugal-marruecos-de-la-sobrepesca-del-tiburon-mako-piden-su-proteccion",
+   "https://dialnet.unirioja.es/descarga/articulo/6597153.pdf",
+   "https://www.divephotoguide.com/underwater-photography-special-features/article/photographer-week-nuno-sa/"
+  ]
+ },
+ {
+  "common_name_es": "Tiburón azul / tintorera",
+  "scientific_name": "Prionace glauca",
+  "category": "Océanos",
+  "continent": "Cosmopolita",
+  "countries": "España, Portugal, Francia, Reino Unido y todos los océanos",
+  "region": "Aguas oceánicas templadas y tropicales; Atlántico nororiental",
+  "iucn_status": "Global: Casi amenazado (NT) (año sin verificar; ya NT en 2007)",
+  "population_estimate": "no lo tengo",
+  "trend": "Stock atlántico no sobreexplotado según ICCAT (sin verificar fecha)",
+  "taxonomy_note": "Especie de tiburón más pescada del mundo; gran parte de los desembarcos atlánticos de la UE proceden de España, Francia, Portugal y Reino Unido.",
+  "foundations": [
+   {
+    "name": "Shark Trust",
+    "hq_country": "Reino Unido",
+    "hq_city": "Plymouth (sin verificar)",
+    "website": "https://www.sharktrust.org",
+    "project_page_url": "https://www.crowdfunder.co.uk/p/sharktrust",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "La campaña 'No Limits?' (2014) empezó por la tintorera para lograr límites de captura en Europa.",
+    "accepts_corporate_partners": "probable (sin verificar)"
+   },
+   {
+    "name": "Oceana Europa",
+    "hq_country": "España (oficina europea)",
+    "hq_city": "Madrid (sin verificar)",
+    "website": "https://europe.oceana.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Pesca sostenible y tiburones en Europa (sin verificar campaña concreta).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Nuno Sá",
+    "nationality": "Portugal (Azores)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Ganó el Epson Underwater Grand Prix 2011 con una tintorera de Condor (Faial, Azores).",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Azul eléctrico, ojos grandes y aletas pectorales largas: probablemente el tiburón más fotogénico para una camiseta.",
+  "sources": [
+   "https://iucn.org/sites/default/files/import/downloads/fast_facts_iucn_pelagix_report_findings_overview.pdf",
+   "https://www.crowdfunder.co.uk/p/sharktrust",
+   "https://live.wetpixel.com/full_frame/nuno-sa-azores",
+   "https://www.divephotoguide.com/underwater-photography-special-features/article/photographer-week-nuno-sa/"
+  ]
+ },
+ {
+  "common_name_es": "Tiburón oceánico de puntas blancas",
+  "scientific_name": "Carcharhinus longimanus",
+  "category": "Océanos",
+  "continent": "Cosmopolita (tropical)",
+  "countries": "Bahamas, Egipto (mar Rojo), Hawái (EE. UU.), y aguas oceánicas tropicales de todo el mundo",
+  "region": "Mar abierto tropical y subtropical",
+  "iucn_status": "Global: En peligro crítico (CR) (año sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "En fuerte declive",
+  "taxonomy_note": "Aletas largas y redondeadas con puntas blancas; muy afectado por palangre y comercio de aletas.",
+  "foundations": [
+   {
+    "name": "Shark Trust",
+    "hq_country": "Reino Unido",
+    "hq_city": "Plymouth (sin verificar)",
+    "website": "https://www.sharktrust.org",
+    "project_page_url": "https://www.crowdfunder.co.uk/p/sharktrust",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Conservación de tiburones y defensa de límites de captura (sin verificar proyecto específico).",
+    "accepts_corporate_partners": "probable (sin verificar)"
+   },
+   {
+    "name": "Oceana Europa",
+    "hq_country": "España (oficina europea)",
+    "hq_city": "Madrid (sin verificar)",
+    "website": "https://europe.oceana.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Campañas sobre tiburones oceánicos (sin verificar).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Brian Skerry",
+    "nationality": "EE. UU.",
+    "website": "no lo tengo (dato sin verificar eliminado)",
+    "instagram": "no lo tengo (dato sin verificar eliminado)",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de National Geographic con trabajos de tiburones oceánicos (sin verificar en esta pasada).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Las aletas 'pintadas' de blanco son un sello gráfico inmediato y elegante.",
+  "sources": [
+   "https://iotc.org/sites/default/files/content/Stock_status/2025/English/IOTC-2025-SC28-ES18_OCSE.pdf",
+   "https://www.pewtrusts.org/en/about/news-room/press-releases-and-statements/2007/02/22/more-oceanic-sharks-added-to-the-iucn-red-list?amp=1"
+  ]
+ },
+ {
+  "common_name_es": "Pez luna",
+  "scientific_name": "Mola mola",
+  "category": "Océanos",
+  "continent": "Cosmopolita",
+  "countries": "España, Portugal, Italia, Indonesia (Bali), Japón, Sudáfrica, EE. UU., entre otros",
+  "region": "Aguas templadas y tropicales de todos los océanos, incluido el Mediterráneo",
+  "iucn_status": "Global: Vulnerable (VU) A4bd, 2015 (otra fuente da 2011; sin verificar); Europa: Datos insuficientes (DD)",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive (captura accesoria en palangre, enmalle y arrastre)",
+  "taxonomy_note": "Pez óseo más pesado; el género Mola incluye además M. alexandrini y M. tecta.",
+  "foundations": [
+   {
+    "name": "Fundación Oceanogràfic",
+    "hq_country": "España",
+    "hq_city": "Valencia",
+    "website": "https://www.oceanografic.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Rescate y rehabilitación de fauna marina (ARCA del Mar) e investigación; sin verificar proyecto específico de pez luna.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Jordi Chias",
+    "nationality": "España (Barcelona, 1973)",
+    "website": "no lo tengo (dato sin verificar eliminado)",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo submarino mediterráneo; galería de pez luna sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   },
+   {
+    "name": "Nuno Sá",
+    "nationality": "Portugal (Azores)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de Azores; galería de pez luna sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Forma de disco gigante 'sin cola' absolutamente única y simpática: icono pop inmediato.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ocean_sunfish",
+   "https://issuu.com/allylandes/docs/eda_december_issue_2019_single/24",
+   "https://eunis.eea.europa.eu/species/124279"
+  ]
+ },
+ {
+  "common_name_es": "Tortuga lora",
+  "scientific_name": "Lepidochelys kempii",
+  "category": "Océanos",
+  "continent": "América del Norte",
+  "countries": "México, Estados Unidos",
+  "region": "Golfo de México; anidación concentrada en Rancho Nuevo (Tamaulipas) y Texas",
+  "iucn_status": "Global: En peligro crítico (CR) (año sin verificar)",
+  "population_estimate": "≈4.400 hembras anidadoras (2014); ≈5.000 hembras (2021, Gladys Porter Zoo); 15.210 nidos en Rancho Nuevo en 2020",
+  "trend": "Recuperación desde ~300 hembras a mediados de los 80, pero irregular",
+  "taxonomy_note": "Tortuga marina más pequeña y amenazada; anida en 'arribadas' diurnas.",
+  "foundations": [
+   {
+    "name": "Gladys Porter Zoo – Proyecto tortuga lora",
+    "hq_country": "EE. UU.",
+    "hq_city": "Brownsville, Texas",
+    "website": "https://gpz.org",
+    "project_page_url": "https://gpz.org/kemps-ridley-project/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Jaime Peña (curador, director de operaciones EE. UU.) (sin verificar actualidad)",
+    "what_they_do": "Lidera desde 1981 el equipo estadounidense del programa binacional en los campamentos de Tamaulipas.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Sea Turtle, Inc.",
+    "hq_country": "EE. UU.",
+    "hq_city": "South Padre Island, Texas",
+    "website": "https://seaturtleinc.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Rehabilitación de tortugas y gestión de nidos de tortuga lora en la isla.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Caparazón redondeado gris oliva y arribadas masivas en la playa: historia de recuperación esperanzadora.",
+  "sources": [
+   "https://extapps.dec.ny.gov/fs/programs/dfw/SWAP2025/Reptiles%20-%20Sea%20Turtles/Kemps%20ridley%20turtle.pdf",
+   "https://www.intechopen.com/chapters/75625",
+   "https://gpz.org/kemps-ridley-project/",
+   "https://seaturtleinc.org/?p=28188"
+  ]
+ },
+ {
+  "common_name_es": "Gaviota de Audouin",
+  "scientific_name": "Ichthyaetus audouinii (antes Larus audouinii)",
+  "category": "Océanos",
+  "continent": "Europa / África",
+  "countries": "España, Italia, Grecia, Túnez, Argelia, Marruecos, Chipre, Turquía",
+  "region": "Mediterráneo; colonias clave en delta del Ebro, islas Chafarinas, Alhucemas",
+  "iucn_status": "Global: Preocupación menor (LC) (sin verificar año; retirada de especies globalmente amenazadas por BirdLife); España: Vulnerable (Catálogo Español, desde 2010)",
+  "population_estimate": "≈16.000 parejas en el mundo, ≈14.000 en España (MITECO, año sin verificar); delta del Ebro la colonia más grande del Mediterráneo",
+  "trend": "Aumentó en el Mediterráneo occidental; caída fuerte en Chafarinas",
+  "taxonomy_note": "Endemismo mediterráneo; reclasificada en el género Ichthyaetus.",
+  "foundations": [
+   {
+    "name": "SEO/BirdLife",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://seo.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Seguimiento y defensa de la gaviota de Audouin (jornadas en Melilla sobre el desplome de Chafarinas).",
+    "accepts_corporate_partners": "sí (sin verificar)"
+   },
+   {
+    "name": "GOB Mallorca",
+    "hq_country": "España",
+    "hq_city": "Palma (sin verificar)",
+    "website": "https://www.gobmallorca.com",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Grupo balear de ornitología y defensa de la naturaleza; ha publicado sobre la especie.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Pico rojo coral con banda negra y patas oscuras: gaviota 'elegante' y exclusivamente mediterránea.",
+  "sources": [
+   "https://www.miteco.gob.es/en/parques-nacionales-oapn/centros-fincas/chafarinas/audouin.html",
+   "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/publicaciones/especies/gaviota_de_audouin_tcm30-100059.pdf",
+   "https://www.birdlife.org/news/2021/11/05/seabird-of-the-month-audouins-gull-larus-audouinii/",
+   "https://www.ecoticias.com/naturaleza/24334_una-nueva-colonia-de-gaviota-audouin-con-800-parejas-se-asienta-en-las-islas-de-alhucemas-en-territorio-espanol"
+  ]
+ },
+ {
+  "common_name_es": "Alcatraz atlántico",
+  "scientific_name": "Morus bassanus",
+  "category": "Océanos",
+  "continent": "Europa / América del Norte",
+  "countries": "Reino Unido, Irlanda, Islandia, Noruega, Francia, Canadá; invernante en España",
+  "region": "Atlántico Norte; Bass Rock (Escocia) es la mayor colonia del mundo",
+  "iucn_status": "Global: Preocupación menor (LC) (año sin verificar); Reino Unido: lista ámbar",
+  "population_estimate": "Bass Rock: de ≈75.000 a ≈55.000 'sitios' tras la gripe aviar (2014 → 2023)",
+  "trend": "En declive tras la gripe aviar H5N1 de 2022; recuperación estimada no antes de 2041",
+  "taxonomy_note": "Mayor ave marina del Atlántico Norte europeo; el género Morus incluye tres especies.",
+  "foundations": [
+   {
+    "name": "Scottish Seabird Centre",
+    "hq_country": "Reino Unido",
+    "hq_city": "North Berwick (sin verificar)",
+    "website": "https://www.seabird.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Centro de conservación de aves marinas que participa en el conteo de alcatraces de Bass Rock.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "SEO/BirdLife",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://seo.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Conservación de aves marinas en España, donde la especie inverna (sin verificar proyecto específico).",
+    "accepts_corporate_partners": "sí (sin verificar)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Richard Shucksmith",
+    "nationality": "Reino Unido (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://naturettl.com/underwater-world-gannets",
+    "note": "Fotografía submarina de alcatraces en Shetland (según Nature TTL).",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Tracey Lund",
+    "nationality": "Reino Unido (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://tokyofotoawards.jp/winners/social/2020/Underwater-Gannets-1",
+    "note": "Oro en Tokyo Foto Awards 2020 (Nature/Underwater) con alcatraces en Shetland.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Zambullida en flecha con cabeza amarillo crema y ojos azules: dinamismo puro.",
+  "sources": [
+   "https://www.birdguides.com/news/worlds-largest-gannet-colony-declines-by-a-quarter-following-bird-flu/",
+   "https://www.farminglife.com/country-and-farming/northern-gannet-populations-facing-a-long-road-to-recover-study-finds-8776890",
+   "https://www.biorxiv.org/content/10.1101/2023.05.01.538918.full.pdf",
+   "https://naturettl.com/underwater-world-gannets"
+  ]
+ },
+ {
+  "common_name_es": "Nacra",
+  "scientific_name": "Pinna nobilis",
+  "category": "Océanos",
+  "continent": "Europa / África / Asia (Mediterráneo)",
+  "countries": "España, Francia, Italia, Croacia, Grecia, Túnez, Turquía",
+  "region": "Endemismo mediterráneo; supervivientes en lagunas costeras y deltas (delta del Ebro, Mar Menor)",
+  "iucn_status": "Global: En peligro crítico (CR), 2019 (sin verificar en esta pasada)",
+  "population_estimate": "Varios miles en el delta del Ebro y solo cientos vivos en el Mar Menor (IEO, ficha LIFE PINNACARE 2025)",
+  "trend": "Colapso por la pandemia iniciada en 2016 (parásito Haplosporidium pinnae)",
+  "taxonomy_note": "Mayor bivalvo del Mediterráneo; hibrida con Pinna rudis.",
+  "foundations": [
+   {
+    "name": "Instituto Español de Oceanografía (IEO-CSIC) – LIFE PINNACARE",
+    "hq_country": "España",
+    "hq_city": "Madrid (sede); C.O. Baleares",
+    "website": "https://www.ieo.es (sin verificar)",
+    "project_page_url": "https://ba.ieo.es/es/investigacion/grupos-de-investigacion/impactsea/proyectos/3511-life24-nat-es-pinnacare101216239-conservacion-y-restauracion-de-pinna-nobilis-2025-2029?format=pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Maite Vázquez-Luis (investigadora principal del proyecto)",
+    "what_they_do": "Proyecto LIFE24-NAT-ES-PINNACARE (2025–2029) de conservación y restauración de la nacra.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "IMEDMAR – Universidad Católica de Valencia (LIFE PINNARCA)",
+    "hq_country": "España",
+    "hq_city": "Calpe, Alicante (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "https://web.ua.es/es/cimar/actividades/investigacion/life-pinnarca.html",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Coordina LIFE PINNARCA para evitar la extinción de la nacra; seguimiento del santuario del Mar Menor.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Ángel Fitor",
+    "nationality": "España (Alicante, 1973)",
+    "website": "no lo tengo",
+    "instagram": "@angelfitor",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo marino del Mediterráneo (Alicante); galería de nacra sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   },
+   {
+    "name": "Jordi Chias",
+    "nationality": "España (Barcelona, 1973)",
+    "website": "no lo tengo (dato sin verificar eliminado)",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo submarino de Barcelona; galería de nacra sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Gran concha en abanico clavada en la pradera de posidonia: símbolo del Mediterráneo que desaparece.",
+  "sources": [
+   "https://web.ua.es/es/cimar/actividades/investigacion/life-pinnarca.html",
+   "https://ba.ieo.es/es/investigacion/grupos-de-investigacion/impactsea/proyectos/3511-life24-nat-es-pinnacare101216239-conservacion-y-restauracion-de-pinna-nobilis-2025-2029?format=pdf"
+  ]
+ },
+ {
+  "common_name_es": "Gorgonia roja",
+  "scientific_name": "Paramuricea clavata",
+  "category": "Océanos",
+  "continent": "Europa / África (Mediterráneo y Atlántico adyacente)",
+  "countries": "España, Francia, Italia, Croacia, Mónaco, Túnez",
+  "region": "Fondos rocosos coralígenos del Mediterráneo noroccidental (islas Medes, Columbretes, Cabrera, Port-Cros)",
+  "iucn_status": "Mediterráneo: Vulnerable (VU) (sin verificar en esta pasada); Global: no lo tengo",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive: la ola de calor de 2022 afectó al 70 % de las colonias en las Medes; recuperación muy lenta",
+  "taxonomy_note": "Octocoral formador de hábitat ('bosques animales'); colonias rojas y amarillas.",
+  "foundations": [
+   {
+    "name": "Universitat de Barcelona – estudios de gorgonias en las Medes",
+    "hq_country": "España",
+    "hq_city": "Barcelona",
+    "website": "no lo tengo",
+    "project_page_url": "https://phys.org/news/2024-06-marine-devastate-red-gorgonians-medes.html",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Seguimiento a largo plazo de siete poblaciones en el AMP de las Medes (Journal of Animal Ecology, 2024).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Oceana Europa",
+    "hq_country": "España (oficina europea)",
+    "hq_city": "Madrid (sin verificar)",
+    "website": "https://europe.oceana.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Protección de fondos coralígenos mediterráneos (sin verificar proyecto específico).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Ángel Fitor",
+    "nationality": "España (Alicante, 1973)",
+    "website": "no lo tengo",
+    "instagram": "@angelfitor",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo submarino mediterráneo; galería de gorgonia sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   },
+   {
+    "name": "Jordi Chias",
+    "nationality": "España (Barcelona, 1973)",
+    "website": "no lo tengo (dato sin verificar eliminado)",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo submarino de Barcelona; galería de gorgonia sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Abanico rojo-púrpura intenso sobre azul: el 'bosque' más vistoso del Mediterráneo.",
+  "sources": [
+   "https://phys.org/news/2024-06-marine-devastate-red-gorgonians-medes.html",
+   "https://www.eurekalert.org/news-releases/1048191",
+   "https://fecyt.es/sites/default/files/educasinc/educasinc_10_s_noticia_gorgonias.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Mero mediterráneo",
+  "scientific_name": "Epinephelus marginatus",
+  "category": "Océanos",
+  "continent": "Europa / África / América del Sur",
+  "countries": "España, Francia, Italia, Croacia, Túnez, Brasil, Sudáfrica, entre otros",
+  "region": "Mediterráneo, Atlántico oriental y suroccidental; agregaciones de puesta en Medes, Lampedusa, Port-Cros",
+  "iucn_status": "Global: Vulnerable (VU) A2bd+4bd, evaluación 2016 publicada 2018; Mediterráneo: En peligro (EN), 2004 (sin verificar vigencia)",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive; captura −88 % en siete países entre 1990 y 2001; recuperación en reservas marinas",
+  "taxonomy_note": "Hermafrodita protógino longevo; vulnerable a la pesca submarina de grandes machos.",
+  "foundations": [
+   {
+    "name": "Groupe d'Étude du Mérou (GEM)",
+    "hq_country": "Francia",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Grupo de estudio del mero en el Mediterráneo francés (sin verificar en esta pasada).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Oceana Europa",
+    "hq_country": "España (oficina europea)",
+    "hq_city": "Madrid (sin verificar)",
+    "website": "https://europe.oceana.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Pesca sostenible y reservas marinas (sin verificar proyecto específico).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Ángel Fitor",
+    "nationality": "España (Alicante, 1973)",
+    "website": "no lo tengo",
+    "instagram": "@angelfitor",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo submarino mediterráneo; galería de mero sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   },
+   {
+    "name": "Jordi Chias",
+    "nationality": "España (Barcelona, 1973)",
+    "website": "no lo tengo (dato sin verificar eliminado)",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo submarino de Barcelona; galería de mero sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Pez enorme, de labios gruesos y mirada 'sabia' con manchas claras: carácter y ternura.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Epinephelus_marginatus",
+   "https://fishbase.mnhn.fr/summary/6470",
+   "https://dx.doi.org/10.5281/zenodo.4346749"
+  ]
+ },
+ {
+  "common_name_es": "Anguila europea",
+  "scientific_name": "Anguilla anguilla",
+  "category": "Océanos",
+  "continent": "Europa / África del Norte",
+  "countries": "España, Francia, Portugal, Reino Unido, Países Bajos, Alemania, Marruecos y demás países europeos",
+  "region": "Ríos y costas de Europa; reproducción en el mar de los Sargazos",
+  "iucn_status": "Global: En peligro crítico (CR) (año sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "Reclutamiento de angulas −90–99 % desde 1980; el declive parece haberse detenido en niveles muy bajos (SEG)",
+  "taxonomy_note": "Especie catádroma; regulada por el Reglamento (CE) 1100/2007 de la UE.",
+  "foundations": [
+   {
+    "name": "Sustainable Eel Group (SEG)",
+    "hq_country": "Bélgica",
+    "hq_city": "Bruselas (sin verificar)",
+    "website": "https://www.sustainableeelgroup.org",
+    "project_page_url": "https://www.sustainableeelgroup.org/?p=4213",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "ONG internacional para acelerar la recuperación de la anguila y sus hábitats.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Cuerpo serpenteante y migración épica hasta los Sargazos: diseño de línea continua muy original.",
+  "sources": [
+   "https://www.sustainableeelgroup.org/wp-content/uploads/2016/04/glass-eel-review.pdf",
+   "https://www.sustainableeelgroup.org/?p=4213",
+   "https://www.frontiersin.org/journals/fish-science/articles/10.3389/frish.2025.1580250/full"
+  ]
+ },
+ {
+  "common_name_es": "Esturión beluga",
+  "scientific_name": "Huso huso",
+  "category": "Océanos",
+  "continent": "Europa / Asia",
+  "countries": "Rumanía, Bulgaria, Serbia, Ucrania, Rusia, Kazajistán, Irán, Azerbaiyán, Turquía",
+  "region": "Mar Negro, mar Caspio y bajo Danubio",
+  "iucn_status": "Global: En peligro crítico (CR) A2bcd (año sin verificar; ya CR en 2009)",
+  "population_estimate": "no lo tengo (no hay datos de investigación sobre la población del Danubio)",
+  "trend": "En declive; furtivismo y tráfico de caviar",
+  "taxonomy_note": "Mayor pez de agua dulce/anádromo de Europa; algunos autores lo incluyen en Acipenser.",
+  "foundations": [
+   {
+    "name": "WWF Europa Central y del Este",
+    "hq_country": "Austria",
+    "hq_city": "Viena",
+    "website": "https://wwf.panda.org",
+    "project_page_url": "https://wwf.panda.org/knowledge_hub/where_we_work/black_sea_basin/danube_carpathian/our_solutions/sturgeons",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Lucha contra el furtivismo y tráfico de esturiones en el bajo Danubio; proyectos LIFE de esturiones.",
+    "accepts_corporate_partners": "sí (sin verificar)"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Pez prehistórico con placas óseas y bigotes: 'dinosaurio vivo' de gran fuerza visual.",
+  "sources": [
+   "https://www.downtoearth.org.in/wildlife-biodiversity/sturgeon-among-the-worlds-most-endangered-fish-are-being-heavily-poached-trafficked-in-the-lower-danube-their-last-stronghold-wwf",
+   "https://wwf.at/wp-content/cms_documents/wwf_factsheet_sturgeons_final.pdf",
+   "https://danube-sturgeons.org/sturgeon/beluga-sturgeon/",
+   "https://www.cms.int/en/node/857"
+  ]
+ },
+ {
+  "common_name_es": "Pingüino rey",
+  "scientific_name": "Aptenodytes patagonicus",
+  "category": "Océanos",
+  "continent": "Antártida / islas subantárticas",
+  "countries": "Francia (Crozet, Kerguelen), Reino Unido (Georgias del Sur, Malvinas), Australia (Macquarie), Sudáfrica (Marion), Chile, Argentina",
+  "region": "Océano Austral subantártico",
+  "iucn_status": "Global: Preocupación menor (LC) (sin verificar en esta pasada)",
+  "population_estimate": "1,5–1,7 millones de parejas reproductoras (estimación citada en 2018); la colonia de Île aux Cochons cayó ~88 % (de ~500.000 a ~60.000 parejas)",
+  "trend": "Mixta: colapso en Île aux Cochons, otras colonias estables",
+  "taxonomy_note": "Segundo pingüino más grande tras el emperador.",
+  "foundations": [
+   {
+    "name": "BirdLife International",
+    "hq_country": "Reino Unido",
+    "hq_city": "Cambridge (sin verificar)",
+    "website": "https://www.birdlife.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Conservación global de aves y evaluación UICN de aves (sin verificar proyecto específico).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Global Penguin Society",
+    "hq_country": "Argentina",
+    "hq_city": "no lo tengo",
+    "website": "https://www.globalpenguinsociety.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Conservación de pingüinos (sin verificar trabajo con pingüino rey).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Stefano Unterthiner",
+    "nationality": "Italia",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Pasó cinco meses en Crozet fotografiando pingüinos rey para National Geographic ('Every Bird a King', 2009).",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Manchas naranja brillante en cuello y pico sobre blanco y negro: un clásico infalible.",
+  "sources": [
+   "https://hal.archives-ouvertes.fr/hal-01852323",
+   "https://www.sciencenews.org/article/one-islands-losses-king-penguin-species-shrinks-third",
+   "https://www.worldpressphoto.org/stefano-unterthiner",
+   "https://www.npr.org/sections/pictureshow/2009/09/finefeathered_photography.html"
+  ]
+ },
+ {
+  "common_name_es": "Cangrejo herradura (tri-espina)",
+  "scientific_name": "Tachypleus tridentatus",
+  "category": "Océanos",
+  "continent": "Asia",
+  "countries": "China, Hong Kong, Taiwán, Japón, Vietnam, Filipinas, Malasia, Indonesia",
+  "region": "Costas del este y sudeste asiático",
+  "iucn_status": "Global: En peligro (EN), 2019",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive desde los años 50; juveniles −90 % en Hong Kong",
+  "taxonomy_note": "Quelicerado ('fósil viviente') más próximo a arañas que a cangrejos; su sangre se usa para el reactivo TAL.",
+  "foundations": [
+   {
+    "name": "Ocean Park Conservation Foundation Hong Kong (OPCFHK)",
+    "hq_country": "China (Hong Kong)",
+    "hq_city": "Hong Kong",
+    "website": "https://www.opcf.org.hk (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Conservación marina en Hong Kong (sin verificar programa de cangrejo herradura).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Forma de casco con cola en espina, 450 millones de años de historia: diseño gráfico rotundo.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tachypleus_tridentatus",
+   "https://www.biodiversity-science.net/EN/abstract/article/1005-0094/60500",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC7651794"
+  ]
+ },
+ {
+  "common_name_es": "Pez loro jorobado",
+  "scientific_name": "Bolbometopon muricatum",
+  "category": "Océanos",
+  "continent": "Asia / Oceanía / África",
+  "countries": "Palaos, Islas Salomón, Papúa Nueva Guinea, Australia, Micronesia, Nueva Caledonia, Fiyi, Egipto (mar Rojo)",
+  "region": "Arrecifes de coral del Indo-Pacífico y mar Rojo",
+  "iucn_status": "Global: Vulnerable (VU), 2012 (Chan, Sadovy y Donaldson)",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive por pesca nocturna con arpón",
+  "taxonomy_note": "Mayor pez loro; joroba frontal y dientes fusionados con los que rompe coral.",
+  "foundations": [
+   {
+    "name": "Wildlife Conservation Society (WCS) – Fiyi",
+    "hq_country": "EE. UU. (sede); Fiyi",
+    "hq_city": "Nueva York (sede) (sin verificar)",
+    "website": "https://www.wcs.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Conservación de arrecifes; WCS Fiji tiene una página sobre el pez loro jorobado (sin verificar contenido).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Cabeza abultada verde-azulada y aspecto de 'bulldozer del arrecife': humor y color.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Green_humphead_parrotfish",
+   "https://fishesofaustralia.net.au/home/species/387",
+   "https://webarchive.library.unt.edu/web/20120916081202/http://www.nmfs.noaa.gov/pr/pdfs/species/bumpheadparrotfish_detailed.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Pardela cenicienta",
+  "scientific_name": "Calonectris borealis",
+  "category": "Océanos",
+  "continent": "Europa / África (Macaronesia)",
+  "countries": "España (Canarias), Portugal (Azores, Madeira, Salvajes)",
+  "region": "Atlántico nororiental; principal población en Canarias",
+  "iucn_status": "Global: Preocupación menor (LC) (sin verificar en esta pasada)",
+  "population_estimate": "no lo tengo",
+  "trend": "no lo tengo (amenazada por contaminación lumínica, furtivismo y captura accesoria)",
+  "taxonomy_note": "Antes subespecie atlántica de Calonectris diomedea; hoy separada como C. borealis (MITECO aún usa C. diomedea).",
+  "foundations": [
+   {
+    "name": "SEO/BirdLife",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://seo.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Campaña anual de rescate de pollos deslumbrados por la luz en Canarias (hasta 15 de noviembre); denuncia de caza furtiva en Alegranza.",
+    "accepts_corporate_partners": "sí (sin verificar)"
+   },
+   {
+    "name": "SPEA – Sociedade Portuguesa para o Estudo das Aves (Azores)",
+    "hq_country": "Portugal",
+    "hq_city": "Lisboa (sin verificar)",
+    "website": "https://www.spea.pt (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Socio de la iniciativa macaronésica contra la contaminación lumínica en Azores.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Ave planeadora de pico amarillo sobre el oleaje atlántico: conexión directa con Canarias.",
+  "sources": [
+   "https://www.ecoticias.com/naturaleza/rescatando-pardelas-deslumbradas-por-la-contaminacion-luminica",
+   "https://www.ecoticias.com/naturaleza/188937_ong-espana-portugal-piden-colaboracion-ciudadana-lograr-crias-pardela",
+   "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/publicaciones/especies/pardela_cenicienta_tcm30-99959.pdf",
+   "https://www.ecoticias.com/naturaleza/32762_seo-birdlife-denuncia-la-caza-furtiva-de-pollos-de-pardela-cenicienta-en-el-islote-canario-de-alegranza"
+  ]
+ }
+]

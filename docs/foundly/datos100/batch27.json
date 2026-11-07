@@ -1,0 +1,693 @@
+[
+ {
+  "common_name_es": "Iguana azul de Gran Caimán",
+  "scientific_name": "Cyclura lewisi",
+  "category": "América",
+  "continent": "América del Norte (Caribe)",
+  "countries": "Islas Caimán (territorio británico)",
+  "region": "Este de Gran Caimán; Salina Reserve, Colliers Wilderness Reserve, Queen Elizabeth II Botanic Park",
+  "iucn_status": "Global: En Peligro (EN), 2012 (rebajada desde En Peligro Crítico tras la recuperación)",
+  "population_estimate": "~750 individuos silvestres (estimación BIRP, 2012); otras fuentes citan ~450 adultos o ~500 en libertad (fecha sin verificar); >1.000 liberados de cría en cautividad hasta 2018",
+  "trend": "En aumento gracias a liberaciones (en 2002 quedaban 10–25 en libertad)",
+  "taxonomy_note": "Antes tratada como subespecie de Cyclura nubila; hoy especie plena endémica de Gran Caimán.",
+  "foundations": [
+   {
+    "name": "Blue Iguana Recovery Programme (National Trust for the Cayman Islands)",
+    "hq_country": "Islas Caimán",
+    "hq_city": "George Town (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Cría en cautividad, 'head-starting' y liberación en reservas protegidas; control de gatos y perros asilvestrados.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "International Iguana Foundation",
+    "hq_country": "Estados Unidos",
+    "hq_city": "no lo tengo",
+    "website": "https://www.iguanafoundation.org",
+    "project_page_url": "https://www.iguanafoundation.org/what-we-support/rock-iguanas/grand-cayman-blue-iguana/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Financia proyectos de conservación de iguanas de roca, incluido el programa de la iguana azul.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Azul turquesa intenso sobre fondo oscuro: color único y una historia de 'casi extinción' que se vende sola.",
+  "sources": [
+   "https://www.iguanafoundation.org/what-we-support/rock-iguanas/grand-cayman-blue-iguana/",
+   "https://news.mongabay.com/2012/10/remarkable-comeback-blue-iguana-downgraded-to-endangered-after-determined-conservation-efforts",
+   "https://livescience.com/24159-blue-iguana-slithers-back-from-extinction.html"
+  ]
+ },
+ {
+  "common_name_es": "Solenodonte de La Española",
+  "scientific_name": "Solenodon paradoxus",
+  "category": "América",
+  "continent": "América del Norte (Caribe)",
+  "countries": "República Dominicana, Haití",
+  "region": "Isla La Española: P.N. Jaragua, Sierra de Bahoruco, P.N. del Este (RD); La Visite (Haití)",
+  "iucn_status": "Global: Preocupación Menor (LC), 2020 según Mammal Diversity DB (sin verificar; otras fuentes dan Casi Amenazado (NT) o En Peligro (EN) en evaluaciones previas — confirmar en Lista Roja, ID 20321)",
+  "population_estimate": "no lo tengo",
+  "trend": "Desconocida; amenazado por pérdida de hábitat y perros, gatos y mangostas introducidos",
+  "taxonomy_note": "Mamífero venenoso; uno de los dos solenodontes vivos (el otro, Atopogale cubana). Linaje muy antiguo (EDGE).",
+  "foundations": [
+   {
+    "name": "Grupo Jaragua",
+    "hq_country": "República Dominicana",
+    "hq_city": "Santo Domingo (sin verificar)",
+    "website": "https://www.grupojaragua.org.do",
+    "project_page_url": "https://www.grupojaragua.org.do/jutia_solenodon_english.html",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Yolanda León (presidenta, según Mongabay 2015)",
+    "what_they_do": "ONG dominicana que monitoriza e investiga solenodonte y jutía desde 2005 en el P.N. Jaragua; socio del proyecto 'Los Últimos Sobrevivientes'.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Durrell Wildlife Conservation Trust",
+    "hq_country": "Reino Unido (Jersey)",
+    "hq_city": "Trinity, Jersey (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Participó en el redescubrimiento y documentación del solenodonte en Haití y RD (2009).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Eladio Fernández",
+    "nationality": "Dominicano (residente en RD, sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo conservacionista que documenta la biodiversidad de La Española.",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Tamara Maria Blazquez Haik",
+    "nationality": "Mexicana",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://nautil.us/the-vanishing-animals-of-hispaniola-257495",
+    "note": "Fotógrafa de conservación; reportaje en Nautilus con guardaparques de Sierra de Bahoruco manipulando solenodontes.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Hocico larguísimo y aspecto de 'fósil viviente': rareza que despierta curiosidad.",
+  "sources": [
+   "https://www.grupojaragua.org.do/jutia_solenodon_english.html",
+   "https://news.mongabay.com/2015/04/govt-officials-permitted-deforestation-in-dominican-republic-national-park/",
+   "https://mammaldiversity.org/taxon/1003840",
+   "https://nautil.us/the-vanishing-animals-of-hispaniola-257495",
+   "https://news.mongabay.com/2009/01/rediscovery-of-the-solenodon-a-rare-venomous-mammal-in-haiti"
+  ]
+ },
+ {
+  "common_name_es": "Cotorra puertorriqueña",
+  "scientific_name": "Amazona vittata",
+  "category": "América",
+  "continent": "América del Norte (Caribe)",
+  "countries": "Puerto Rico (EE. UU.)",
+  "region": "Bosque Nacional El Yunque, Bosque Estatal de Río Abajo, Maricao",
+  "iucn_status": "Global: En Peligro Crítico (CR) (año sin verificar); EE. UU.: En peligro (ESA)",
+  "population_estimate": ">900 aves entre silvestres y cautivas (USFWS, documento 2024/2026); mínimo histórico de 13 en libertad en 1975",
+  "trend": "En recuperación pero dependiente de liberaciones; El Yunque alcanzó máximo histórico en 2025 tras perder toda la población silvestre con el huracán María (2017)",
+  "taxonomy_note": "Única cotorra nativa de Puerto Rico.",
+  "foundations": [
+   {
+    "name": "Programa Interagencial de la Cotorra Puertorriqueña (USFWS, DRNA Puerto Rico, Servicio Forestal)",
+    "hq_country": "Puerto Rico (EE. UU.)",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "https://www.fws.gov/sites/default/files/documents/2026-02/20240402_puerto-rican-parrot-inter-agency-program-english.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Cría en aviarios, liberaciones en tres sitios y monitoreo de nidos; acuerdos 'Safe Harbor' con propietarios.",
+    "accepts_corporate_partners": "no lo tengo (organismo público)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Tanya Martinez",
+    "nationality": "Puertorriqueña",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://dceff.org/filmmaker/tanya-martinez",
+    "note": "Bióloga de conservación que usa foto y vídeo para divulgar la vida de la cotorra (perfil de festival, sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Verde esmeralda con frente roja y alas azules en vuelo: icono boricua muy gráfico.",
+  "sources": [
+   "https://www.fws.gov/sites/default/files/documents/2026-02/20240402_puerto-rican-parrot-inter-agency-program-english.pdf",
+   "https://www.fws.gov/sites/default/files/documents/2026-02/202602_puerto-rican-parrot-info-doc-spanish.pdf",
+   "https://repeatingislands.com/2025/03/24/hope-for-the-puerto-rican-parrot-wild-population-in-el-yunque-reaches-historic-high/",
+   "https://www.lpzoo.org/science-project/protecting-the-puerto-rican-parrot/"
+  ]
+ },
+ {
+  "common_name_es": "Águila arpía",
+  "scientific_name": "Harpia harpyja",
+  "category": "América",
+  "continent": "América Central y del Sur",
+  "countries": "México (sur), Belice, Guatemala, Honduras, Nicaragua, Costa Rica, Panamá, Colombia, Venezuela, Ecuador, Perú, Bolivia, Brasil, Guayanas, Paraguay, Argentina (noreste)",
+  "region": "Selvas tropicales de tierras bajas; Darién (Panamá) con alta densidad",
+  "iucn_status": "Global: Casi Amenazada (NT) (año sin verificar); México: casi extinta, reaparecida en Selva Lacandona 2025",
+  "population_estimate": "no lo tengo (global); Panamá: 800 o más parejas reproductoras según algunas estimaciones (BBC Wildlife, sin verificar)",
+  "trend": "En declive por deforestación y caza",
+  "taxonomy_note": "Única especie del género Harpia.",
+  "foundations": [
+   {
+    "name": "Fundación ProAves",
+    "hq_country": "Colombia",
+    "hq_city": "Bogotá (sin verificar)",
+    "website": "https://proaves.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Gestiona la Reserva ProAves Águila Arpía y otras reservas de aves amenazadas en Colombia.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Fundación Naturaleza y Ciencia 507",
+    "hq_country": "Panamá",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Monitoreo y rescate de águilas arpías en Darién; investigación de rapaces (fundada en 2015).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Neil Rettig",
+    "nationality": "Estadounidense",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Cineasta/fotógrafo de historia larga con la arpía (fotos de nido de 1975, sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Mirada frontal y cresta eriazada: la imagen más poderosa de una rapaz.",
+  "sources": [
+   "https://proaves.org/en/blog/naturecollectible-as-a-conservation-mechanism-of-highly-threatened-species/",
+   "https://www.laestrella.com.pa/vida-y-cultura/planeta/aguila-harpia-cuidar-obligados-patrimonio-EJLE2622",
+   "https://es.mongabay.com/2025/05/aguila-harpia-reaparece-la-majestuosa-ave-rapaz-que-se-creia-extinta-en-mexico/",
+   "https://www.pressreader.com/uk/bbc-wildlife-magazine/20171220/284240940724050"
+  ]
+ },
+ {
+  "common_name_es": "Mono araña de Geoffroy",
+  "scientific_name": "Ateles geoffroyi",
+  "category": "América",
+  "continent": "América del Norte y Central",
+  "countries": "México, Belice, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, Panamá (posiblemente Colombia)",
+  "region": "Selvas de Mesoamérica",
+  "iucn_status": "Global: En Peligro (EN) (año sin verificar); A. g. geoffroyi En Peligro Crítico (CR), 2020; México: en peligro (NOM-059)",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive por pérdida de hábitat, caza y tráfico de crías",
+  "taxonomy_note": "Varias subespecies (geoffroyi, ornatus, vellerosus, yucatanensis…) con estatus distintos.",
+  "foundations": [
+   {
+    "name": "no lo tengo",
+    "hq_country": "no lo tengo",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "No se identificó fundación específica; candidatas a verificar: proyectos en El Salvador (Univ. de El Salvador) y centros de rehabilitación en Catemaco (Veracruz).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Iván Clemente Torres",
+    "nationality": "Mexicano (Yucatán)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.poresto.com/yucatan/2025/3/6/belleza-natural-graban-a-un-grupo-de-monos-arana-en-la-selva-yucateca.html",
+    "note": "Registró un grupo de monos araña en la selva yucateca (2025).",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Silueta de brazos y cola larguísimos colgando: composición vertical muy expresiva.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Geoffroy%27s_spider_monkey",
+   "https://www.unotv.com/estados/jalisco/rescatan-otro-mono-arana-suman-3-casos-en-jalisco/",
+   "https://primate.socgen.ucla.edu/index.php/multivitaminic/article/view/779"
+  ]
+ },
+ {
+  "common_name_es": "Rana dardo dorada",
+  "scientific_name": "Phyllobates terribilis",
+  "category": "América",
+  "continent": "América del Sur",
+  "countries": "Colombia",
+  "region": "Costa pacífica del Cauca (Timbiquí) y Chocó",
+  "iucn_status": "Global: En Peligro (EN) (año sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive (deforestación, cultivos ilícitos, minería ilegal de oro)",
+  "taxonomy_note": "Considerada el vertebrado más tóxico; endémica de Colombia.",
+  "foundations": [
+   {
+    "name": "Fundación ProAves",
+    "hq_country": "Colombia",
+    "hq_city": "Bogotá (sin verificar)",
+    "website": "https://proaves.org",
+    "project_page_url": "https://proaves.org/blog/proaves-and-world-land-trust-spearhead-a-new-campaign-to-protect-the-golden-dart-frog-the-most-poisonous-amphibian-on-the-planet/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Propietaria y gestora de la Reserva Ranita Terribilis (Timbiquí, 2012) con World Land Trust y Rainforest Trust; educación ambiental con comunidades (2023).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Robin Moore",
+    "nationality": "Británico (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo y conservacionista de anfibios (Re:wild, iLCP); sin foto concreta de esta especie verificada.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Amarillo dorado puro sobre hoja verde: impacto cromático inmediato.",
+  "sources": [
+   "https://proaves.org/blog/proaves-and-world-land-trust-spearhead-a-new-campaign-to-protect-the-golden-dart-frog-the-most-poisonous-amphibian-on-the-planet/",
+   "https://news.mongabay.com/2012/03/worlds-most-toxic-frog-gets-new-reserve/",
+   "https://rewild.org/news/a-qa-with-dr-robin-moore-author-of-in-search-of-lost-frogs"
+  ]
+ },
+ {
+  "common_name_es": "Guacamayo escarlata",
+  "scientific_name": "Ara macao",
+  "category": "América",
+  "continent": "América Central y del Sur",
+  "countries": "México, Guatemala, Belice, Honduras, Nicaragua, Costa Rica, Panamá, Colombia, Venezuela, Ecuador, Perú, Bolivia, Brasil, Guayanas",
+  "region": "Selvas tropicales; poblaciones relictas en Mesoamérica (Selva Lacandona, Copán, Pacífico Central de Costa Rica)",
+  "iucn_status": "Global: Preocupación Menor (LC) (año sin verificar); CITES Apéndice I; amenazado regionalmente en Mesoamérica",
+  "population_estimate": "Pacífico Central de Costa Rica: 2.121 individuos (conteo 2023); Valle de Copán (Honduras): ~2.000 en libertad (Pro-Alas, sin verificar)",
+  "trend": "Recuperación local en Costa Rica y Honduras; declive en gran parte de Mesoamérica",
+  "taxonomy_note": "Subespecie mesoamericana A. m. cyanopterus.",
+  "foundations": [
+   {
+    "name": "Pro-Alas / Macaw Mountain",
+    "hq_country": "Honduras",
+    "hq_city": "Copán Ruinas (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Reintroducción de guacamayas en el valle de Copán y Gracias.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Programa de Conservación de Lapas Rojas del Pacífico Central",
+    "hq_country": "Costa Rica",
+    "hq_city": "Tárcoles (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Manejo in situ, nidos artificiales y conteos anuales desde 1994.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Rojo, amarillo y azul en vuelo: la paleta más vibrante del trópico.",
+  "sources": [
+   "https://observador.cr/poblacion-de-lapa-roja-en-costa-rica-aumento-un-180-en-el-ultimo-ano/",
+   "https://observador.cr/la-lapa-roja-quiere-volver-a-repoblar-centroamerica/",
+   "https://biblat.unam.mx/en/revista/ciencias-ambientales/articulo/conservacion-de-la-lapa-roja-ara-macao-con-manejo-in-situ-en-el-pacifico-central-de-costa-rica"
+  ]
+ },
+ {
+  "common_name_es": "Tamarino cabeciblanco",
+  "scientific_name": "Saguinus oedipus",
+  "category": "América",
+  "continent": "América del Sur",
+  "countries": "Colombia",
+  "region": "Noroeste de Colombia (Caribe: Bolívar, Sucre, Córdoba, Atlántico, Antioquia)",
+  "iucn_status": "Global: En Peligro Crítico (CR) (año sin verificar); EE. UU.: en peligro (ESA)",
+  "population_estimate": "6.946 individuos (estimación 2012, Savage et al. 2016, PLoS ONE)",
+  "trend": "Relativamente estable 2005–2012 en la zona censada, pero amenazado por deforestación y tráfico",
+  "taxonomy_note": "Endémico de Colombia; conocido como 'tití cabeciblanco'.",
+  "foundations": [
+   {
+    "name": "Fundación Proyecto Tití",
+    "hq_country": "Colombia",
+    "hq_city": "Barranquilla (sin verificar)",
+    "website": "https://proyectotiti.com",
+    "project_page_url": "https://proyectotiti.com/Our-Work/Cotton-top-Tamarins/Our-Discoveries",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Programa multidisciplinar in situ: censos, protección de bosque, educación y alternativas económicas comunitarias.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Joel Sartore (National Geographic Photo Ark)",
+    "nationality": "Estadounidense",
+    "website": "https://www.joelsartore.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.joelsartore.com/ani040-00080/",
+    "note": "Retrato Photo Ark (Rolling Hills Wildlife Adventure, Kansas).",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Melena blanca 'punk' sobre cara negra: carisma y humor en una sola imagen.",
+  "sources": [
+   "https://news.st-andrews.ac.uk/archive/tiny-primate-punk-in-danger-of-extinction/",
+   "https://research-repository.st-andrews.ac.uk/handle/10023/10100",
+   "https://proyectotiti.com/Our-Work/Cotton-top-Tamarins/Our-Discoveries",
+   "https://www.joelsartore.com/ani040-00080/"
+  ]
+ },
+ {
+  "common_name_es": "Oso grizzly",
+  "scientific_name": "Ursus arctos horribilis",
+  "category": "América",
+  "continent": "América del Norte",
+  "countries": "Estados Unidos, Canadá",
+  "region": "EE. UU. contiguos: Idaho, Montana, Washington, Wyoming (Yellowstone, Northern Continental Divide); Alaska y oeste de Canadá",
+  "iucn_status": "Global (Ursus arctos): Preocupación Menor (LC) (año sin verificar); EE. UU. contiguos: amenazado (ESA, desde 1975)",
+  "population_estimate": "~2.200 osos en los 48 estados contiguos (IGBC, 2026); Gran Yellowstone: 1.030 (2023)",
+  "trend": "En aumento lento en los estados contiguos",
+  "taxonomy_note": "Subespecie norteamericana del oso pardo.",
+  "foundations": [
+   {
+    "name": "Vital Ground Foundation",
+    "hq_country": "Estados Unidos",
+    "hq_city": "Missoula, Montana (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Protección de tierras y corredores para el grizzly (sin verificar en esta pasada).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Thomas D. Mangelsen",
+    "nationality": "Estadounidense",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.ted.com/talks/thomas_d_mangelsen_the_gift_of_the_grizzly",
+    "note": "Famoso por documentar a la osa Grizzly 399 en Grand Teton; activista por mantener la protección de los grizzlies.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Mole y fuerza: el retrato frontal de un grizzly es puro carácter.",
+  "sources": [
+   "https://igbconline.org/wp-content/uploads/2026/07/260721-Grizzly-Bear-Conservation-Strategies.pdf",
+   "https://www.usgs.gov/publications/a-summary-grizzly-bear-distribution-lower-48-us-states-2024",
+   "https://en.wikipedia.org/wiki/Thomas_D._Mangelsen"
+  ]
+ },
+ {
+  "common_name_es": "Pantera de Florida",
+  "scientific_name": "Puma concolor coryi",
+  "category": "América",
+  "continent": "América del Norte",
+  "countries": "Estados Unidos",
+  "region": "Sur de Florida (Everglades, Big Cypress, Babcock Ranch)",
+  "iucn_status": "Global (Puma concolor): Preocupación Menor (LC) (año sin verificar); EE. UU.: en peligro (ESA)",
+  "population_estimate": "120–230 adultos y subadultos (estimación USFWS/FWC, 2017; aún citada en 2024)",
+  "trend": "Estable-frágil; récord de 36 muertes en 2024 (29 por atropello)",
+  "taxonomy_note": "Población aislada de puma; la validez de la subespecie se discute.",
+  "foundations": [
+   {
+    "name": "Florida Wildlife Federation",
+    "hq_country": "Estados Unidos",
+    "hq_city": "Tallahassee (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Defensa del corredor de fauna de Florida y de la pantera (sin verificar en esta pasada).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Carlton Ward Jr.",
+    "nationality": "Estadounidense (Florida)",
+    "website": "https://carltonward.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://carltonward.com/the-photographer",
+    "note": "Explorador de National Geographic; proyecto 'Path of the Panther' con cámaras trampa, libro (2023) y documental.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Mirada de felino en la noche de Florida: misterio y elegancia.",
+  "sources": [
+   "https://www.fws.gov/press-release/2017-02/florida-panther-population-estimate-updated",
+   "https://www.cbsnews.com/amp/news/florida-panthers-death-toll-2024-endangered-species",
+   "https://en.wikipedia.org/wiki/Path_of_the_Panther",
+   "https://carltonward.com/the-photographer"
+  ]
+ },
+ {
+  "common_name_es": "Águila calva",
+  "scientific_name": "Haliaeetus leucocephalus",
+  "category": "América",
+  "continent": "América del Norte",
+  "countries": "Estados Unidos, Canadá, México (norte)",
+  "region": "Costas, ríos y lagos de Norteamérica",
+  "iucn_status": "Global: Preocupación Menor (LC) (año sin verificar); EE. UU.: retirada de la ESA en 2007",
+  "population_estimate": "316.700 individuos en los 48 estados contiguos, incl. 71.467 nidos ocupados (USFWS, temporada 2019, informe 2020)",
+  "trend": "En fuerte aumento (4,4 veces más que en 2009)",
+  "taxonomy_note": "Caso de éxito tras la prohibición del DDT.",
+  "foundations": [
+   {
+    "name": "American Eagle Foundation",
+    "hq_country": "Estados Unidos",
+    "hq_city": "Pigeon Forge, Tennessee (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Rescate, cría y educación sobre el águila calva (sin verificar en esta pasada).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Matt O'Neal",
+    "nationality": "Estadounidense (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://hofbeans.podbean.com/e/protecting-eagles-matt-oneal-s-mission-to-preserve-bald-eagles-through-photography",
+    "note": "Fotógrafo de águilas calvas que dona ingresos a su conservación (podcast, sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Cabeza blanca y pico amarillo: icono reconocible en todo el mundo.",
+  "sources": [
+   "https://www.fws.gov/rivers/sites/default/files/documents/Bald%20Eagles%202020%20Population%20Report%20FAQs%20Final-508v.pdf",
+   "https://www.fws.gov/media/157107",
+   "https://allaboutbirds.org/news/new-bald-eagle-population-estimate-usfws"
+  ]
+ },
+ {
+  "common_name_es": "Lobo rojo",
+  "scientific_name": "Canis rufus",
+  "category": "América",
+  "continent": "América del Norte",
+  "countries": "Estados Unidos",
+  "region": "Este de Carolina del Norte (Alligator River y Pocosin Lakes NWR)",
+  "iucn_status": "Global: En Peligro Crítico (CR) (año sin verificar); EE. UU.: en peligro (ESA)",
+  "population_estimate": "28–31 en libertad, 18 conocidos y con collar (USFWS, agosto 2025); ~17–19 en sept. 2024",
+  "trend": "Ligero repunte: 4 camadas silvestres en 2025",
+  "taxonomy_note": "Origen taxonómico debatido (posible híbrido antiguo lobo-coyote).",
+  "foundations": [
+   {
+    "name": "Red Wolf Coalition",
+    "hq_country": "Estados Unidos",
+    "hq_city": "Columbia, Carolina del Norte (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Educación y apoyo a la recuperación del lobo rojo (sin verificar en esta pasada).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Programa de Recuperación del Lobo Rojo (USFWS)",
+    "hq_country": "Estados Unidos",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "https://www.fws.gov/carp/sites/default/files/documents/2025-12/20251121_enc_rwp_release-plan_2025_2026_final.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Liberaciones, fostering de cachorros y monitoreo.",
+    "accepts_corporate_partners": "no lo tengo (organismo público)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Joel Sartore (National Geographic Photo Ark)",
+    "nationality": "Estadounidense",
+    "website": "https://www.joelsartore.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.joelsartore.com/wol009-00079/",
+    "note": "Foto de juvenil para estudio y liberación; portada de National Geographic (marzo 1995).",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Pelaje canela-rojizo y mirada salvaje: el lobo más raro del mundo.",
+  "sources": [
+   "https://www.fws.gov/carp/sites/default/files/documents/2025-12/20251121_enc_rwp_release-plan_2025_2026_final.pdf",
+   "https://ncnewsline.com/briefs/endangered-red-wolves-rebound-in-nc-with-four-litters-of-pups-born-this-year/",
+   "https://www.joelsartore.com/wol009-00079/"
+  ]
+ },
+ {
+  "common_name_es": "Ocelote",
+  "scientific_name": "Leopardus pardalis",
+  "category": "América",
+  "continent": "América del Norte, Central y del Sur",
+  "countries": "Estados Unidos (Texas), México, Centroamérica, Sudamérica hasta norte de Argentina",
+  "region": "Sur de Texas; noreste de México (Tamaulipas), Sonora; selvas neotropicales",
+  "iucn_status": "Global: Preocupación Menor (LC) (año sin verificar); EE. UU. y México: en peligro",
+  "population_estimate": "EE. UU.: menos de 100 (The Nature Conservancy); ~15 en Laguna Atascosa NWR",
+  "trend": "Estable globalmente; crítico en EE. UU.",
+  "taxonomy_note": "Población de Texas: L. p. albescens.",
+  "foundations": [
+   {
+    "name": "The Nature Conservancy – Texas",
+    "hq_country": "Estados Unidos",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "https://nature.org/en-us/about-us/where-we-work/united-states/texas/stories-in-texas/mammals-ocelot",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Conservación de hábitat privado para ocelotes en el sur de Texas.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Ben Masters",
+    "nationality": "Estadounidense (Texas)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Cineasta y fotógrafo; película 'American Ocelot' con cámaras trampa en ranchos de Texas.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Patrón de rosetas único: textura gráfica perfecta para estampar.",
+  "sources": [
+   "https://nature.org/en-us/about-us/where-we-work/united-states/texas/stories-in-texas/mammals-ocelot",
+   "https://felidaefund.org/news/general/a-spotty-population-of-ocelots-call-texas-home",
+   "https://www.mutualofomaha.com/wild-kingdom/podcast/uncovering-the-elusive-ocelot"
+  ]
+ },
+ {
+  "common_name_es": "Berrendo",
+  "scientific_name": "Antilocapra americana",
+  "category": "América",
+  "continent": "América del Norte",
+  "countries": "Estados Unidos, Canadá, México",
+  "region": "Praderas y desiertos del oeste; berrendo peninsular en El Vizcaíno (Baja California Sur) y sonorense",
+  "iucn_status": "Global: Preocupación Menor (LC) (año sin verificar); subespecies peninsular y sonorense en peligro en México",
+  "population_estimate": "Berrendo peninsular: <250 en 2000; >500 hacia 2007 (México Desconocido, sin verificar); global: no lo tengo",
+  "trend": "Especie estable; subespecies mexicanas en recuperación",
+  "taxonomy_note": "Único superviviente de la familia Antilocapridae.",
+  "foundations": [
+   {
+    "name": "Pronatura Noroeste",
+    "hq_country": "México",
+    "hq_city": "Ensenada, Baja California (sin verificar)",
+    "website": "https://pronatura-noroeste.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "ONG del noroeste mexicano (desde 1991): conservación de tierras, marina y aves; aparece el berrendo peninsular en sus informes (rol exacto sin verificar).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Programa 'Salvemos al Berrendo' (Reserva de la Biosfera El Vizcaíno / CONANP)",
+    "hq_country": "México",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "https://www.mexicodesconocido.com.mx/salvemos-al-berrendo-del-desierto-el-vizcaino.html",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Cría en semilibertad desde 1998 (22 fundadores) y recuperación en El Vizcaíno.",
+    "accepts_corporate_partners": "no lo tengo (organismo público)"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Animal más rápido de América en pleno salto: dinamismo puro.",
+  "sources": [
+   "https://www.mexicodesconocido.com.mx/salvemos-al-berrendo-del-desierto-el-vizcaino.html",
+   "https://www.cpsg.org/node/597",
+   "https://pronatura-noroeste.org/wp-content/uploads/2022/03/reporteanual2013.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Perrito de las praderas de cola negra",
+  "scientific_name": "Cynomys ludovicianus",
+  "category": "América",
+  "continent": "América del Norte",
+  "countries": "Estados Unidos, Canadá, México",
+  "region": "Grandes Llanuras; Reserva de la Biosfera Janos (Chihuahua)",
+  "iucn_status": "Global: Preocupación Menor (LC) (año sin verificar); México: amenazada (NOM-059)",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive histórico; en Janos la colonia se redujo 73% respecto a 1989",
+  "taxonomy_note": "Especie clave e 'ingeniero del ecosistema' de los pastizales.",
+  "foundations": [
+   {
+    "name": "Reserva de la Biosfera Janos (CONANP) / Instituto de Ecología UNAM",
+    "hq_country": "México",
+    "hq_city": "Janos, Chihuahua",
+    "website": "no lo tengo",
+    "project_page_url": "https://www.gob.mx/cms/uploads/attachment/file/443951/PACE_Perrito_llanero_de_cola_negra.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Plan de Acción para la Conservación (PACE 2018) y protección de pastizales; impulsada por Gerardo Ceballos.",
+    "accepts_corporate_partners": "no lo tengo (organismo público)"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Pose erguida de centinela: simpático y muy reconocible.",
+  "sources": [
+   "https://www.gob.mx/cms/uploads/attachment/file/443951/PACE_Perrito_llanero_de_cola_negra.pdf",
+   "https://es.mongabay.com/2020/02/gerardo-ceballos-revertir-la-acelerada-extincion-de-especies/"
+  ]
+ }
+]

@@ -1,0 +1,1002 @@
+[
+ {
+  "common_name_es": "Cebra de montaña",
+  "scientific_name": "Equus zebra",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Sudáfrica",
+   "Namibia",
+   "Angola"
+  ],
+  "region": "África austral: montañas del Cabo (subesp. del Cabo) y escarpe de Namibia/sur de Angola (subesp. de Hartmann)",
+  "iucn_status": "Global: Vulnerable (VU), 2019 (evaluación de E. z. hartmannae publicada en 2019; año global sin verificar). La cebra del Cabo (E. z. zebra) figura como Preocupación menor según Wikipedia (sin verificar en la Lista Roja).",
+  "population_estimate": "Cebra del Cabo: >3.200 ejemplares (prensa sudafricana, 2025; 2.790 en 2013). Total especie ~26.500 (25.000 Hartmann + 1.500 Cabo; cifra antigua, sin verificar)",
+  "trend": "Cebra del Cabo en aumento; Hartmann estable/en aumento en Sudáfrica; tendencia global desconocida",
+  "taxonomy_note": "Dos subespecies: E. z. zebra (Cabo) y E. z. hartmannae (Hartmann). La hibridación entre ambas es una amenaza para la del Cabo.",
+  "foundations": [
+   {
+    "name": "SANParks – Mountain Zebra National Park",
+    "hq_country": "Sudáfrica",
+    "hq_city": "Pretoria (sin verificar)",
+    "website": "https://www.sanparks.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Agencia pública de parques; el Mountain Zebra NP es el origen de >90% de la población actual de cebra del Cabo (metapoblación).",
+    "accepts_corporate_partners": "no lo tengo (organismo público)"
+   },
+   {
+    "name": "CapeNature",
+    "hq_country": "Sudáfrica",
+    "hq_city": "Ciudad del Cabo (sin verificar)",
+    "website": "https://www.capenature.co.za",
+    "project_page_url": "https://www.capenature.co.za/news/2023/seeing-stripes-the-kammanassie-cape-mountain-zebra-aerial-survey",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Organismo de conservación del Cabo Occidental: censos aéreos y reintroducciones de cebra del Cabo (p. ej. De Hoop).",
+    "accepts_corporate_partners": "no lo tengo (organismo público)"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Rayas negras muy marcadas con papada y vientre blanco: gráfico, monocromo, perfecto para serigrafía a una tinta.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cape_mountain_zebra",
+   "https://en.wikipedia.org/wiki/Mountain_zebra",
+   "https://media.rufford.org/media/project_reports/26206-D%20IUCN%20Red%20List%20assessment%20of%20Hartmann%E2%80%99s%20mountain%20zebra.pdf",
+   "https://iol.co.za/news/environment/2025-02-03-conservation-success-for-cape-mountain-zebras-but-threats-persist/",
+   "https://www.capenature.co.za/news/2023/seeing-stripes-the-kammanassie-cape-mountain-zebra-aerial-survey"
+  ]
+ },
+ {
+  "common_name_es": "Gelada",
+  "scientific_name": "Theropithecus gelada",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Etiopía"
+  ],
+  "region": "Altiplano etíope; máxima densidad en el PN Montañas Simien",
+  "iucn_status": "Global: Preocupación menor (LC), 2018 (sin verificar el año). Subespecie norte (T. g. gelada) Vulnerable; población sur no evaluada.",
+  "population_estimate": "~200.000 (estimación IUCN 2008); síntesis 2009–2024 reportada por Mongabay (2026) da ~30.000 (cifras muy discrepantes)",
+  "trend": "Posiblemente en declive (sin datos de tendencia fiables)",
+  "taxonomy_note": "Único superviviente del género Theropithecus. Tres poblaciones/subespecies reconocidas (norte, central, sur).",
+  "foundations": [
+   {
+    "name": "Simien Mountains Gelada Research Project",
+    "hq_country": "Etiopía / EE. UU.",
+    "hq_city": "PN Montañas Simien (estación de campo)",
+    "website": "https://geladaresearch-website.pages.dev/",
+    "project_page_url": "https://geladaresearch-website.pages.dev/zelaki-project/community-engagement/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Investigación a largo plazo (U. Michigan, Stony Brook, Arizona State, EWCA) y proyecto comunitario Zelaki.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "African Wildlife Foundation (AWF)",
+    "hq_country": "Kenia",
+    "hq_city": "Nairobi",
+    "website": "https://www.awf.org",
+    "project_page_url": "https://www.awf.org/node/7199",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Desde 2018, iniciativa con la EWCA y el banco alemán KfW para reforzar la gestión del PN Simien y los medios de vida locales.",
+    "accepts_corporate_partners": "sí (sin verificar)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Simone Sbaraglia",
+    "nationality": "Italia",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Citado con imágenes de geladas en Simien en Wildlife Photographer of the Year (sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   },
+   {
+    "name": "Riccardo Marchegiani",
+    "nationality": "Italia",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotografió geladas en el PN Simien (fuente de 2019, sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Mancha roja en forma de corazón en el pecho y melena leonada: retrato icónico y emotivo.",
+  "sources": [
+   "https://geladaresearch-website.pages.dev/",
+   "https://www.awf.org/node/7199",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC6107150",
+   "https://news.mongabay.com/short-article/2026/06/gelada-monkeys-huddle-in-the-cold-photo-of-the-week/",
+   "https://ielc.libguides.com/sdzg/factsheets/gelada/summary-page"
+  ]
+ },
+ {
+  "common_name_es": "Colobo rojo de Zanzíbar",
+  "scientific_name": "Piliocolobus kirkii",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Tanzania"
+  ],
+  "region": "Isla de Unguja (Zanzíbar); núcleo en el PN Jozani-Chwaka Bay",
+  "iucn_status": "Global: En peligro (EN) (año sin verificar)",
+  "population_estimate": "5.826 individuos en 342 grupos (censo WCS, Oryx 2017)",
+  "trend": "Estable/desconocida; pérdida de hábitat fuera de áreas protegidas (4 bosques ya sin la especie)",
+  "taxonomy_note": "Endemismo de Zanzíbar; a veces tratado como subespecie de colobo rojo (sin verificar).",
+  "foundations": [
+   {
+    "name": "Zanzibar Red Colobus Project (Bangor University)",
+    "hq_country": "Reino Unido / Tanzania",
+    "hq_city": "Bangor (Gales) / Jozani",
+    "website": "https://www.zanzibarredcolobusproject.org",
+    "project_page_url": "https://www.zanzibarredcolobusproject.org/research",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Investigación y conservación en Jozani desde 2018, vinculado a la Universidad de Bangor.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Wildlife Conservation Society (WCS) – Tanzania",
+    "hq_country": "EE. UU.",
+    "hq_city": "Nueva York",
+    "website": "https://www.wcs.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Tim Davenport (director país Tanzania, según Mongabay 2017; sin verificar actual)",
+    "what_they_do": "Realizó el primer censo completo de la especie; propone nuevas áreas protegidas y turismo primatológico.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Pelaje rojo y negro con corona blanca despeinada: muy expresivo y colorido.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zanzibar_red_colobus",
+   "https://news.mongabay.com/2017/12/zanzibars-red-colobus-monkeys-much-more-numerous-than-thought/",
+   "https://www.zanzibarredcolobusproject.org/about-us",
+   "https://www.rufford.org/projects/jaffar-omar-kombo/assessment-of-population-status-of-zanzibar-red-colobus-monkeys-at-jozani-chwaka-bay-national-park-and-biosphere-reserve-zanzibar/"
+  ]
+ },
+ {
+  "common_name_es": "Gorila de Grauer",
+  "scientific_name": "Gorilla beringei graueri",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "República Democrática del Congo"
+  ],
+  "region": "Este de la RDC (Kahuzi-Biega, Maiko, Itombwe, Nkuba)",
+  "iucn_status": "Global: En peligro crítico (CR), 2016 (subespecie)",
+  "population_estimate": "~6.800 (estudio WCS, 2021); 3.800 en 2016; 16.900 antes de 1996",
+  "trend": "Declive (‑77% en una generación según 2016); la cifra de 2021 refleja más muestreo, no aumento real",
+  "taxonomy_note": "Subespecie oriental del gorila oriental (G. beringei); el primate más grande del mundo.",
+  "foundations": [
+   {
+    "name": "Berggorilla & Regenwald Direkthilfe e.V.",
+    "hq_country": "Alemania",
+    "hq_city": "Hövelhof",
+    "website": "https://www.berggorilla.org",
+    "project_page_url": "https://berggorilla.org/en/home/news-archive/article-view/new-grauers-gorilla-population-estimate",
+    "contact_email": "broecker@berggorilla.org / info(at)berggorilla.org (según flyer y web; sin verificar vigencia)",
+    "phone": "no lo tengo",
+    "director_or_president": "Junta 2018: Laura Hagemann, Burkhard Bröcker, Angela Meder (presidencia sin verificar)",
+    "what_they_do": "ONG alemana que apoya a guardas y ONG locales en RDC (p. ej. AFECOGO, UGADEC) para gorilas orientales; edita Gorilla Journal.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Dian Fossey Gorilla Fund",
+    "hq_country": "EE. UU.",
+    "hq_city": "Atlanta (sin verificar)",
+    "website": "https://gorillafund.org",
+    "project_page_url": "https://gorillafund.org/grauers-gorillas/new-study-suggests-there-may-be-more-grauers-gorillas-than-previously-estimated/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Tara Stoinski (CEO)",
+    "what_they_do": "Protección y gestión forestal comunitaria (acuerdo de 25 años en Nkuba, ~200 gorilas de Grauer).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Lomo plateado y mirada intensa: retrato potente en blanco y negro.",
+  "sources": [
+   "https://gorillafund.org/grauers-gorillas/new-study-suggests-there-may-be-more-grauers-gorillas-than-previously-estimated/",
+   "https://newsroom.wcs.org/News-Releases/articleType/ArticleView/articleId/16252/New-Study-Offers-Hope-for-Critically-Endangered-Gorillas-in-Eastern-Democratic-Republic-of-Congo.aspx",
+   "https://phys.org/news/2016-10-population-analysis-grauer-gorilla-critically.html",
+   "https://www.berggorilla.org/fileadmin/user_upload/pdf/flyer-d.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Serpentario / secretario",
+  "scientific_name": "Sagittarius serpentarius",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "África subsahariana (Senegal a Sudáfrica)"
+  ],
+  "region": "Sabanas y praderas abiertas de África subsahariana",
+  "iucn_status": "Global: En peligro (EN), 2020 (subida desde Vulnerable)",
+  "population_estimate": "6.700–67.000 individuos maduros (BirdLife)",
+  "trend": "Declive severo",
+  "taxonomy_note": "Única especie de la familia Sagittariidae.",
+  "foundations": [
+   {
+    "name": "Endangered Wildlife Trust – Birds of Prey Programme",
+    "hq_country": "Sudáfrica",
+    "hq_city": "Johannesburgo (sin verificar)",
+    "website": "https://www.ewt.org.za (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Programa de rapaces del EWT: seguimiento GPS y mitigación de amenazas para grandes rapaces de sabana (sin verificar proyecto específico de serpentario).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Hawk Conservancy Trust",
+    "hq_country": "Reino Unido",
+    "hq_city": "Andover (sin verificar)",
+    "website": "https://www.hawk-conservancy.org",
+    "project_page_url": "https://www.hawk-conservancy.org/2020/12/16/2020-iucn-red-list/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Charity británica de rapaces; vinculada a un estudio de seguimiento de pollos de serpentario en Sudáfrica (relación sin verificar).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Silueta de patas largas, cresta de plumas y 'pestañas': elegante y reconocible a distancia.",
+  "sources": [
+   "https://www.birdlife.org/news/2020/12/21/red-list-2020-why-are-iconic-african-savannah-raptors-declining/",
+   "https://datazone.birdlife.org/species/factsheet/secretarybird-sagittarius-serpentarius",
+   "https://www.hawk-conservancy.org/2020/12/16/2020-iucn-red-list/",
+   "https://en.wikipedia.org/wiki/Secretarybird"
+  ]
+ },
+ {
+  "common_name_es": "Buitre encapuchado",
+  "scientific_name": "Necrosyrtes monachus",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "África subsahariana (Gambia, Guinea-Bisáu, Senegal, Ghana, Camerún, Ruanda…)"
+  ],
+  "region": "Sabanas y entornos urbanos/mataderos; bastión en África occidental",
+  "iucn_status": "Global: En peligro crítico (CR) (año sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "Declive rápido; casi extirpado en Benín (estudio 2024); envenenamientos masivos en Gambia (~100 aves, 2025)",
+  "taxonomy_note": "Única especie del género Necrosyrtes.",
+  "foundations": [
+   {
+    "name": "Vulture Conservation Foundation (VCF)",
+    "hq_country": "Suiza / Países Bajos (sin verificar)",
+    "hq_city": "no lo tengo",
+    "website": "https://4vultures.org (sin verificar)",
+    "project_page_url": "https://raptors.cms.int/es/node/47097",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Fundación europea de buitres; en 2025 co-lideró con CMS Raptors MOU y BirdLife la misión en Gambia (marcaje GPS, capacitación).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "BirdLife International",
+    "hq_country": "Reino Unido",
+    "hq_city": "Cambridge",
+    "website": "https://www.birdlife.org",
+    "project_page_url": "https://iucnsos.org/projects/preventing-the-killing-of-critically-endangered-vultures-in-west-african-countries/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Proyecto 2021–22 (IUCN SOS, cofinanciado UE) contra la matanza de buitres para usos de creencias en Guinea-Bisáu, Senegal y Gambia.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Cara rosada desnuda y capucha de plumón: carácter fuerte, mensaje de conservación claro.",
+  "sources": [
+   "https://iucnsos.org/projects/preventing-the-killing-of-critically-endangered-vultures-in-west-african-countries/",
+   "https://raptors.cms.int/es/node/47097",
+   "https://pesquisa.bvsalud.org/brasil/resource/pt/mdl-38571803"
+  ]
+ },
+ {
+  "common_name_es": "Águila marcial",
+  "scientific_name": "Polemaetus bellicosus",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "África subsahariana"
+  ],
+  "region": "Sabanas y zonas semiáridas; estudios en Karoo (Sudáfrica) y sur de Kenia",
+  "iucn_status": "Global: En peligro (EN), 2020",
+  "population_estimate": "no lo tengo",
+  "trend": "Declive",
+  "taxonomy_note": "Única especie del género Polemaetus; la mayor águila de África.",
+  "foundations": [
+   {
+    "name": "Endangered Wildlife Trust – Birds of Prey Programme",
+    "hq_country": "Sudáfrica",
+    "hq_city": "Johannesburgo (sin verificar)",
+    "website": "https://www.ewt.org.za (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Estudio de ecología reproductora y movimientos de águilas marciales en tendidos eléctricos del Karoo (GPS y anillas).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Wageningen University – proyecto de águilas en África",
+    "hq_country": "Países Bajos",
+    "hq_city": "Wageningen",
+    "website": "https://www.wur.nl",
+    "project_page_url": "https://www.wur.nl/en/project/Eagle-habitat-interactions-foraging-and-breeding-ecology-of-eagles-in-Africa.htm",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Investigación: 25 águilas marciales marcadas en el sur de Kenia (no es fundación; posible socio científico).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Pecho moteado y mirada feroz: poder y nobleza en un retrato frontal.",
+  "sources": [
+   "https://www.hawk-conservancy.org/2020/12/16/2020-iucn-red-list/",
+   "https://www.pressreader.com/south-africa/the-herald-south-africa/20200310/281569472787464",
+   "https://www.wur.nl/en/project/Eagle-habitat-interactions-foraging-and-breeding-ecology-of-eagles-in-Africa.htm"
+  ]
+ },
+ {
+  "common_name_es": "Tortuga de espolones africana",
+  "scientific_name": "Centrochelys sulcata",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Senegal",
+   "Mauritania",
+   "Malí",
+   "Níger",
+   "Chad",
+   "Sudán",
+   "Etiopía",
+   "Eritrea"
+  ],
+  "region": "Franja del Sahel",
+  "iucn_status": "Global: En peligro (EN) (año sin verificar; evaluación anterior Vulnerable 1996)",
+  "population_estimate": "En Senegal, como máximo ~150 en libertad (Tomas Diagne, 2022)",
+  "trend": "Declive (comercio de mascotas, sobrepastoreo, desertificación)",
+  "taxonomy_note": "Tercera tortuga terrestre más grande del mundo; única especie del género Centrochelys.",
+  "foundations": [
+   {
+    "name": "SOPTOM – Station d'Observation et de Protection des Tortues et de leurs Milieux",
+    "hq_country": "Francia",
+    "hq_city": "Carnoules (Var)",
+    "website": "https://www.soptom.fr (sin verificar)",
+    "project_page_url": "https://www.helloasso.com/associations/station-d-observation-et-de-protection-des-tortues-et-de-leurs-milieux",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Asociación francesa; fundó y financia el Village des Tortues de Noflaye (Senegal, 2001): cría y suelta de sulcata en reservas.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Village des Tortues de Noflaye / African Chelonian Institute",
+    "hq_country": "Senegal",
+    "hq_city": "Noflaye (cerca de Dakar)",
+    "website": "no lo tengo",
+    "project_page_url": "https://au-senegal.com/le-village-des-tortues-de-sangalkam,016.html",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Dirección no clara: Lamine Diagne / Farah Vercouter (2018); subdirector Pape Samba Gaye (2025) (sin verificar)",
+    "what_they_do": "Centro de cría, cuarentena y reintroducción; recibió 46 juveniles del Museo Oceanográfico de Mónaco (2022).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Caparazón geométrico y espolones: textura muy fotogénica, simpática y 'slow'.",
+  "sources": [
+   "https://www.africanews.com/amp/2022/12/15/endangered-sahel-tortoises-sent-to-senegal-in-bid-to-save-them/",
+   "https://www.mnhn.fr/en/african-spurred-tortoise",
+   "https://au-senegal.com/le-village-des-tortues-de-sangalkam,016.html",
+   "https://www.fondationensemble.org/en/projet/programme-de-preservation-de-la-tortue-sillonnee-et-de-son-habitat-dans-le-ferlo/"
+  ]
+ },
+ {
+  "common_name_es": "Celacanto",
+  "scientific_name": "Latimeria chalumnae",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Comoras",
+   "Sudáfrica",
+   "Mozambique",
+   "Tanzania",
+   "Madagascar",
+   "Kenia"
+  ],
+  "region": "Océano Índico occidental, cuevas submarinas a 100–250 m",
+  "iucn_status": "Global: En peligro crítico (CR) (año sin verificar). CITES Apéndice I (1989).",
+  "population_estimate": "no lo tengo",
+  "trend": "Desconocida; pequeña población reproductora en Gran Comora y Anjouan; captura accidental",
+  "taxonomy_note": "'Fósil viviente' (sarcopterigio); existe una segunda especie, L. menadoensis (Indonesia). Nombre local: gombessa.",
+  "foundations": [
+   {
+    "name": "Frankfurt Zoological Society (FZS)",
+    "hq_country": "Alemania",
+    "hq_city": "Fráncfort",
+    "website": "https://fzs.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Apoyó desde 1987 los trabajos de conservación del celacanto en Comoras liderados por Hans Fricke (sin verificar relación actual).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Laurent Ballesta",
+    "nationality": "Francia",
+    "website": "https://gombessa-expeditions.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.nhm.ac.uk/wpy/gallery/2021-portrait-of-a-legend",
+    "note": "Primer buceador en fotografiar celacantos vivos (Sodwana, Sudáfrica, 2013); 'Portrait of a legend', WPY 2021.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Escamas azul metálico con motas blancas y aletas lobuladas: misterio prehistórico de las profundidades.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/West_Indian_Ocean_coelacanth",
+   "https://cites.org/sites/default/files/eng/cop/11/prop/50.pdf",
+   "https://gombessa-expeditions.com/en/meet-the-coelacanth-in-south-africa/",
+   "https://www.nhm.ac.uk/wpy/gallery/2021-portrait-of-a-legend"
+  ]
+ },
+ {
+  "common_name_es": "Lémur rufo",
+  "scientific_name": "Varecia rubra",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Madagascar"
+  ],
+  "region": "Península de Masoala (noreste); PN Masoala y PN Makira",
+  "iucn_status": "Global: En peligro crítico (CR) (año sin verificar)",
+  "population_estimate": "29.000–52.000 (estimación de 1997, desactualizada)",
+  "trend": "Declive (‑80% en 30 años según IUCN, citado por Safari West)",
+  "taxonomy_note": "Una de las dos especies de lémur de collar (Varecia).",
+  "foundations": [
+   {
+    "name": "EDGE of Existence (ZSL)",
+    "hq_country": "Reino Unido",
+    "hq_city": "Londres",
+    "website": "https://www.edgeofexistence.org",
+    "project_page_url": "https://www.edgeofexistence.org/wp-content/uploads/2017/06/Survival_Blueprint_2018_Varecia_rubra_Madagascar.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Programa de ZSL con 'Survival Blueprint' (2018) para Varecia rubra en Madagascar.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Wildlife Conservation Society (WCS) – Makira",
+    "hq_country": "EE. UU.",
+    "hq_city": "Nueva York",
+    "website": "https://www.wcs.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Gestión del PN Makira, uno de los dos espacios protegidos con la especie (sin verificar).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Pete Oxford",
+    "nationality": "Reino Unido (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de conservación con amplio trabajo en Madagascar (sin verificar galería de V. rubra).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Pelaje rojo intenso con manos negras: color brillante muy llamativo en camiseta.",
+  "sources": [
+   "https://www.edgeofexistence.org/wp-content/uploads/2017/06/Survival_Blueprint_2018_Varecia_rubra_Madagascar.pdf",
+   "https://primate.wisc.edu/primate-info-net/pin-factsheets/pin-factsheet-ruffed-lemur/",
+   "https://safariwest.org/?p=4608"
+  ]
+ },
+ {
+  "common_name_es": "Sifaka de Verreaux",
+  "scientific_name": "Propithecus verreauxi",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Madagascar"
+  ],
+  "region": "Bosques secos y espinosos del sur y oeste (Berenty, Kirindy)",
+  "iucn_status": "Global: En peligro crítico (CR), 2020 (según Wikipedia; sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "Declive (pérdida de hábitat, caza, sequía; mortandad de 31 ejemplares en Berenty, 2018)",
+  "taxonomy_note": "Sifaka blanco que 'baila' de lado sobre el suelo.",
+  "foundations": [
+   {
+    "name": "Chances for Nature (Chances for Nature Madagascar)",
+    "hq_country": "Alemania / Madagascar",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "https://iucnsos.org/?p=10826",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "ONG alemana; ejecuta el proyecto IUCN SOS 2026–2028 de protección del bosque seco de Kirindy-Menabe (7 lémures amenazados).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Deutsches Primatenzentrum (DPZ) – estación de Kirindy",
+    "hq_country": "Alemania",
+    "hq_city": "Gotinga (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Investigación de largo plazo sobre sifakas en Kirindy (sin verificar vinculación institucional).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Lémur blanco 'bailando' en el aire: movimiento y humor, imagen única.",
+  "sources": [
+   "https://iucnsos.org/?p=10826",
+   "https://news.mongabay.com/2018/05/sifaka-lemurs-listed-as-critically-endangered-amid-mysterious-die-off/",
+   "https://en.wikipedia.com/wiki/Verreaux%27s_sifaka",
+   "https://en.wikipedia.org/wiki/Kirindy_Forest"
+  ]
+ },
+ {
+  "common_name_es": "Drill",
+  "scientific_name": "Mandrillus leucophaeus",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Nigeria",
+   "Camerún",
+   "Guinea Ecuatorial (Bioko)"
+  ],
+  "region": "Bosques del Cross River-Sanaga y Bioko",
+  "iucn_status": "Global: En peligro (EN) (año sin verificar)",
+  "population_estimate": "3.000–8.000 (estimación citada por Pandrillus, sin año)",
+  "trend": "Declive (caza comercial, pérdida de hábitat)",
+  "taxonomy_note": "Subespecies: M. l. leucophaeus (continental) y M. l. poensis (Bioko).",
+  "foundations": [
+   {
+    "name": "Pandrillus – Drill Ranch",
+    "hq_country": "Nigeria",
+    "hq_city": "Calabar (sin verificar)",
+    "website": "https://www.pandrillus.org",
+    "project_page_url": "https://www.pandrillus.org/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Fundadores: Liza Gadsby y Peter Jenkins",
+    "what_they_do": "Rehabilitación y cría de drills en el santuario de Afi Mountain (creado en 2000).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Rettet den Drill e.V.",
+    "hq_country": "Alemania",
+    "hq_city": "no lo tengo",
+    "website": "https://www.rettet-den-drill.de",
+    "project_page_url": "https://www.rettet-den-drill.de/fileadmin/dokumente/pandrillus_info_d.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Asociación alemana de apoyo a Pandrillus y la conservación del drill.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Cara negra con barbilla roja y trasero colorido: rostro tribal muy gráfico.",
+  "sources": [
+   "https://www.pandrillus.org/",
+   "https://bluedotliving.com/saving-drill-monkeys-in-nigeria/",
+   "https://www.rettet-den-drill.de/fileadmin/dokumente/pandrillus_info_d.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Bongo de montaña",
+  "scientific_name": "Tragelaphus eurycerus isaaci",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Kenia"
+  ],
+  "region": "Aberdare, Mau Eburu, Maasai Mau y Monte Kenia",
+  "iucn_status": "Global: En peligro crítico (CR) (subespecie; año sin verificar). La especie T. eurycerus es Casi amenazada (sin verificar).",
+  "population_estimate": "<80 en libertad (Frontiers 2024); <100 (Cambridge 2023); ~150 según Bongo Surveillance Project",
+  "trend": "Declive; poblaciones aisladas",
+  "taxonomy_note": "Subespecie oriental del bongo, endémica de Kenia.",
+  "foundations": [
+   {
+    "name": "Bongo Surveillance Project",
+    "hq_country": "Kenia",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "https://www.rufford.org/projects/michael-prettejohn/bongo-surveillance-project/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Mike Prettejohn (fundador)",
+    "what_they_do": "Fototrampeo y rastreadores comunitarios desde 2004.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Dublin Zoo",
+    "hq_country": "Irlanda",
+    "hq_city": "Dublín",
+    "website": "https://www.dublinzoo.ie",
+    "project_page_url": "https://www.dublinzoo.ie/conservation-project/eastern-bongo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Financia la conservación del bongo oriental y la reintroducción en reservas forestales de Kenia.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Pelaje castaño con rayas blancas y cuernos en espiral: elegancia de bosque.",
+  "sources": [
+   "https://www.cambridge.org/core/product/C2C82FA1B978052663518CDF2C9D9A54/core-reader",
+   "https://frontiersin.org/journals/conservation-science/articles/10.3389/fcosc.2024.1383611/pdf",
+   "https://www.dublinzoo.ie/conservation-project/eastern-bongo"
+  ]
+ },
+ {
+  "common_name_es": "Addax",
+  "scientific_name": "Addax nasomaculatus",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Chad",
+   "Níger"
+  ],
+  "region": "Sáhara: Termit/Aïr (Níger), Manga y Ouadi Rimé-Ouadi Achim y Ennedi (Chad)",
+  "iucn_status": "Global: En peligro crítico (CR) (año sin verificar)",
+  "population_estimate": ">150 libres en Ouadi Rimé-Ouadi Achim (Sahara Conservation, 2023)",
+  "trend": "Recuperación local por reintroducción; en el resto, declive",
+  "taxonomy_note": "Única especie del género Addax.",
+  "foundations": [
+   {
+    "name": "Sahara Conservation",
+    "hq_country": "no lo tengo (sin verificar)",
+    "hq_city": "no lo tengo",
+    "website": "https://saharaconservation.org",
+    "project_page_url": "https://saharaconservation.org/species-recovery/restoring-the-addax/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Reintroducción de addax y órix en Chad con la Environment Agency Abu Dhabi; apoyo a African Parks en Ennedi.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "African Parks",
+    "hq_country": "Sudáfrica (sin verificar)",
+    "hq_city": "no lo tengo",
+    "website": "https://www.africanparks.org",
+    "project_page_url": "https://www.africanparks.org/node/2275",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Gestiona Ennedi, donde se soltaron 10 addax.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Cuernos en espiral y pelaje blanco de desierto: minimalismo sahariano.",
+  "sources": [
+   "https://saharaconservation.org/species-recovery/restoring-the-addax/",
+   "https://saharaconservation.org/news/our-highlights-2023-and-looking-ahead/",
+   "https://www.africanparks.org/node/2275"
+  ]
+ },
+ {
+  "common_name_es": "Órix de cimitarra",
+  "scientific_name": "Oryx dammah",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Chad"
+  ],
+  "region": "Reserva de Ouadi Rimé-Ouadi Achim (Chad), reintroducido",
+  "iucn_status": "Global: En peligro (EN), 2023 (rebajado desde Extinto en estado silvestre)",
+  "population_estimate": ">600 en libertad (Sahara Conservation, 2023)",
+  "trend": "En aumento",
+  "taxonomy_note": "Antes Extinto en estado silvestre; primera rebaja gracias a una reintroducción.",
+  "foundations": [
+   {
+    "name": "Sahara Conservation",
+    "hq_country": "no lo tengo (sin verificar)",
+    "hq_city": "no lo tengo",
+    "website": "https://saharaconservation.org",
+    "project_page_url": "https://saharaconservation.org/news/our-highlights-2023-and-looking-ahead/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Lidera sobre el terreno la reintroducción del órix en Chad.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Environment Agency – Abu Dhabi (EAD)",
+    "hq_country": "Emiratos Árabes Unidos",
+    "hq_city": "Abu Dabi",
+    "website": "no lo tengo",
+    "project_page_url": "https://www.wam.ae/en/article/b36k537-ead-starts-first-reintroduction-phase-dama",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Financia y aporta animales para las reintroducciones de órix, addax y gacela dama.",
+    "accepts_corporate_partners": "no lo tengo (organismo público)"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Cuernos curvos como cimitarras: silueta épica, historia de esperanza.",
+  "sources": [
+   "https://saharaconservation.org/news/our-highlights-2023-and-looking-ahead/",
+   "https://gulfnews.com/amp/story/uae%2Fabu-dhabi-successfully-translocates-oryxes-antelopes-to-wildlife-reserve-in-chad-1.88006890"
+  ]
+ },
+ {
+  "common_name_es": "Hiena parda",
+  "scientific_name": "Parahyaena brunnea",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Namibia",
+   "Botsuana",
+   "Sudáfrica",
+   "Zimbabue",
+   "Angola"
+  ],
+  "region": "Desiertos y semidesiertos de África austral; costa del Namib",
+  "iucn_status": "Global: Casi amenazada (NT) (año sin verificar)",
+  "population_estimate": "Namibia: 1.662–2.870 (Red Data Book; <3.000 maduros)",
+  "trend": "Estable a nivel global",
+  "taxonomy_note": "Único miembro del género Parahyaena; en la costa del Namib depende de focas peleteras.",
+  "foundations": [
+   {
+    "name": "Strandwolf Network / Brown Hyena Research Project",
+    "hq_country": "Namibia",
+    "hq_city": "Lüderitz (sin verificar)",
+    "website": "https://www.strandwolf.org",
+    "project_page_url": "https://www.strandwolf.org/namib-hyenas/brown-hyena.html",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Ingrid Wiesel (fundadora, alemana)",
+    "what_they_do": "Investigación de hienas pardas costeras desde 1995; ONG namibia desde 2002.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Wim van den Heever",
+    "nationality": "Sudáfrica (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Ganó el gran premio Wildlife Photographer of the Year 2025 con una hiena parda en Kolmanskop (Namibia).",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Melena hirsuta en un pueblo fantasma del desierto: imagen cinematográfica premiada.",
+  "sources": [
+   "https://www.strandwolf.org/namib-hyenas/brown-hyena.html",
+   "https://n-c-e.org/wp-content/uploads/Carnivore-Red-Data-Book-species-account-brown-hyaena.pdf",
+   "https://www.livescience.com/animals/haunting-image-of-a-rare-hyena-lurking-in-a-mining-ghost-town-wins-2025-wildlife-photographer-of-the-year-award"
+  ]
+ },
+ {
+  "common_name_es": "Fosa",
+  "scientific_name": "Cryptoprocta ferox",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Madagascar"
+  ],
+  "region": "Bosques de todo Madagascar; estudio en Makira-Masoala",
+  "iucn_status": "Global: Vulnerable (VU) (año sin verificar)",
+  "population_estimate": "1.061 adultos en Makira-Masoala (Murphy et al. 2018); global 2.600–8.600 (San Diego Zoo)",
+  "trend": "Declive",
+  "taxonomy_note": "Mayor carnívoro de Madagascar (familia Eupleridae).",
+  "foundations": [
+   {
+    "name": "Fossa Fund (Zoo Duisburg)",
+    "hq_country": "Alemania",
+    "hq_city": "Duisburgo",
+    "website": "no lo tengo",
+    "project_page_url": "https://zooparc.nl/en/news/birth-fossas",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Creado en 1994 por Zoo Duisburg; financia a Chances for Nature en el oeste de Madagascar y educación para reducir conflictos.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Chances for Nature",
+    "hq_country": "Alemania / Madagascar",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "https://iucnsos.org/?p=10826",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Socio de campo del Fossa Fund desde 2014.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Felino-mangosta de cuerpo esbelto y ojos ámbar: depredador misterioso.",
+  "sources": [
+   "https://zendy.io/title/10.1111/acv.12420",
+   "https://zooparc.nl/en/news/birth-fossas",
+   "https://ielc.libguides.com/sdzg/factsheets/fossa/summary"
+  ]
+ },
+ {
+  "common_name_es": "Pangolín gigante",
+  "scientific_name": "Smutsia gigantea",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Uganda",
+   "Gabón",
+   "RDC",
+   "Camerún",
+   "otros de África central y occidental"
+  ],
+  "region": "Bosques y sabanas de África ecuatorial",
+  "iucn_status": "Global: En peligro (EN) (año sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "Declive (caza, tráfico, pérdida de hábitat)",
+  "taxonomy_note": "El mayor pangolín de África.",
+  "foundations": [
+   {
+    "name": "Chester Zoo – Giant Pangolin Project",
+    "hq_country": "Reino Unido",
+    "hq_city": "Chester",
+    "website": "https://www.chesterzoo.org",
+    "project_page_url": "https://www.chesterzoo.org/conservation-science-education/global-conservation-programmes/africa/protecting-giant-pangolins",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Desde 2018 con la Uganda Wildlife Authority: primer proyecto centrado en pangolín gigante; fototrampeo y monitoreo con IA.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "IUCN SSC Pangolin Specialist Group",
+    "hq_country": "no lo tengo",
+    "hq_city": "no lo tengo",
+    "website": "https://pangolinsg.org",
+    "project_page_url": "https://pangolinsg.org/giant-pangolin/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Grupo de especialistas de UICN.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Escamas como piñas superpuestas: textura única, mensaje anti-tráfico.",
+  "sources": [
+   "https://www.chesterzoo.org/conservation-science-education/global-conservation-programmes/africa/protecting-giant-pangolins",
+   "https://pangolinsg.org/giant-pangolin/"
+  ]
+ },
+ {
+  "common_name_es": "Rana Goliat",
+  "scientific_name": "Conraua goliath",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Camerún",
+   "Guinea Ecuatorial"
+  ],
+  "region": "Ríos de selva del litoral camerunés y Río Muni",
+  "iucn_status": "Global: En peligro (EN) (año sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "Declive (‑50% en 15 años, estimación de prensa)",
+  "taxonomy_note": "La rana más grande del mundo.",
+  "foundations": [
+   {
+    "name": "OIPA Cameroon (OIPA International)",
+    "hq_country": "Italia (sede OIPA, sin verificar)",
+    "hq_city": "Milán (sin verificar)",
+    "website": "https://www.oipa.org",
+    "project_page_url": "https://www.oipa.org/international/goliath-frog-conservation-cameroon/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Programa con comunidades y autoridades para proteger la rana y sus ríos.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Proyecto Rufford – Tasse Taboue Geraud Canis",
+    "hq_country": "Camerún",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "https://rufford.org/projects/tasse-taboue-geraud-canis/upgrading-conservation-efforts-cameroon-toward-largest-living-frog-goliath-frog",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Vigilancia de nidos en reproducción y conservación comunitaria.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Rana gigante en primer plano: sorpresa y humor por su tamaño.",
+  "sources": [
+   "https://www.oipa.org/international/goliath-frog-conservation-cameroon/",
+   "https://www.downtoearth.org.in/africa/world-rainforest-day-goliath-frogs-need-urgent-conservation-measures-71892"
+  ]
+ },
+ {
+  "common_name_es": "Cocodrilo del Nilo",
+  "scientific_name": "Crocodylus niloticus",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "África subsahariana oriental y austral",
+   "Madagascar",
+   "Egipto"
+  ],
+  "region": "Ríos, lagos y humedales",
+  "iucn_status": "Global: Preocupación menor (LC), 2017",
+  "population_estimate": "50.000–70.000 maduros (Isberg et al. 2019)",
+  "trend": "Estable (sin verificar)",
+  "taxonomy_note": "Las poblaciones de África occidental son ahora C. suchus (especie distinta).",
+  "foundations": [
+   {
+    "name": "IUCN SSC Crocodile Specialist Group",
+    "hq_country": "no lo tengo",
+    "hq_city": "no lo tengo",
+    "website": "https://www.iucncsg.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Red científica de UICN para cocodrilos.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Crocodiles of the World",
+    "hq_country": "Reino Unido",
+    "hq_city": "Brize Norton (sin verificar)",
+    "website": "https://www.crocodilesoftheworld.co.uk",
+    "project_page_url": "https://www.crocodilesoftheworld.co.uk/conservation/conservation-status/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Centro británico de cocodrilos con conservación (proyectos de campo sin verificar).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Ojo y escamas en primer plano o mandíbula abierta: poder primitivo.",
+  "sources": [
+   "https://ielc.libguides.com/sdzg/factsheets/nile_crocodile",
+   "https://sealifebase.ca/summary/173814",
+   "https://www.crocodilesoftheworld.co.uk/conservation/conservation-status/"
+  ]
+ }
+]

@@ -1,0 +1,980 @@
+[
+ {
+  "common_name_es": "Orangután de Sumatra",
+  "scientific_name": "Pongo abelii",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Indonesia"
+  ],
+  "region": "Norte de Sumatra y Aceh (ecosistema Leuser), en ocho metapoblaciones",
+  "iucn_status": "Global: En peligro crítico (CR), 2017 (enmendado en 2024)",
+  "population_estimate": "11.694 individuos (IC 95%: 10.949–12.518), evaluación 2021–2023 (publicada en 2026)",
+  "trend": "En declive: un 19,5% menos desde 2011 (~1,8% al año), según el estudio de 2026",
+  "taxonomy_note": "Familia Hominidae. El orangután de Tapanuli (Pongo tapanuliensis, unos 716 individuos) se separó como especie aparte en 2017.",
+  "foundations": [
+   {
+    "name": "Sumatran Orangutan Conservation Programme (SOCP) – PanEco / YEL",
+    "hq_country": "Suiza / Indonesia",
+    "hq_city": "Medan (Indonesia); PanEco tiene sede en Suiza (ciudad no lo tengo)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Ian Singleton (sin verificar)",
+    "what_they_do": "Rescate, rehabilitación y reintroducción de orangutanes; censos y protección de hábitat en Sumatra (sin verificar)",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Alain Schroeder",
+    "nationality": "Belga",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.worldpressphoto.org/collection/photo-contest/2020/alain-schroeder-nas/7",
+    "note": "Serie 'Saving Orangutans', fotografiada en centros de rescate del norte de Sumatra; ganó el 1.er premio de Naturaleza en World Press Photo 2020",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "El pelo rojizo y la mirada tan humana hacen de él un retrato frontal potente, que funciona muy bien en una camiseta clara.",
+  "sources": [
+   "https://news.mongabay.com/2026/07/major-orangutan-study-finds-sumatran-population-fell-nearly-20-despite-slower-forest-loss/",
+   "https://researchonline.ljmu.ac.uk/id/eprint/28898/",
+   "https://en.antaranews.com/news/423369/forestry-ministry-reports-11694-sumatran-orangutans-in-survey",
+   "https://wiki.iucnapesportal.org/index.php/Sumatran_Orangutan",
+   "https://www.worldpressphoto.org/collection/photo-contest/2020/alain-schroeder-nas/7"
+  ]
+ },
+ {
+  "common_name_es": "Rinoceronte de Sumatra",
+  "scientific_name": "Dicerorhinus sumatrensis",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Indonesia"
+  ],
+  "region": "Sumatra (Way Kambas, Leuser) y Kalimantan (Borneo indonesio); extinto en Malasia",
+  "iucn_status": "Global: En peligro crítico (CR), año no lo tengo",
+  "population_estimate": "34–47 individuos en estado silvestre (TRAFFIC y el Grupo de Especialistas en Rinocerontes Asiáticos de la UICN, 2024); la cifra oficial de Indonesia sigue siendo 'menos de 80'",
+  "trend": "En declive",
+  "taxonomy_note": "Familia Rhinocerotidae. Es el rinoceronte más pequeño y el único asiático con dos cuernos; es peludo y el pariente vivo más cercano del rinoceronte lanudo.",
+  "foundations": [
+   {
+    "name": "International Rhino Foundation (IRF)",
+    "hq_country": "EE. UU.",
+    "hq_city": "no lo tengo",
+    "website": "https://rhinos.org/",
+    "project_page_url": "https://rhinos.org/our-work/where-we-work/sumatra/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Financia la cría en el Santuario de Rinocerontes de Sumatra y las Unidades de Protección de Rinocerontes junto a socios indonesios; publica el informe 'State of the Rhino'",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Yayasan Badak Indonesia (YABI, Rhino Foundation of Indonesia)",
+    "hq_country": "Indonesia",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Socio local de la IRF: gestiona el Santuario de Rinocerontes de Sumatra (Way Kambas) y las patrullas antifurtivos (sin verificar)",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "La silueta peluda con dos cuernos es poco conocida y llama la atención; transmite muy bien el mensaje de 'quedan menos de 50'.",
+  "sources": [
+   "https://www.eco-business.com/news/less-than-50-sumatran-rhinos-left-in-the-wild-new-survey-concludes",
+   "https://rhinos.org/our-work/where-we-work/sumatra/",
+   "https://rhinos.org/about-rhinos/rhino-species/sumatran-rhino/",
+   "https://iasenvironmentecology.blogspot.com/2024/10/state-of-rhino-2024.html"
+  ]
+ },
+ {
+  "common_name_es": "Águila monera filipina",
+  "scientific_name": "Pithecophaga jefferyi",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Filipinas"
+  ],
+  "region": "Mindanao, Luzón, Sámar y Leyte",
+  "iucn_status": "Global: En peligro crítico (CR), año no lo tengo",
+  "population_estimate": "Unas 392 parejas (rango 318–447), estimadas a partir del hábitat adecuado disponible y no de un conteo directo; la PEF la seguía citando en 2026 (antes se hablaba de unas 400 parejas)",
+  "trend": "En declive por la pérdida de bosque y la caza",
+  "taxonomy_note": "Familia Accipitridae; es la única especie del género Pithecophaga y el ave nacional de Filipinas.",
+  "foundations": [
+   {
+    "name": "Philippine Eagle Foundation (PEF)",
+    "hq_country": "Filipinas",
+    "hq_city": "Davao City",
+    "website": "https://philippineeaglefoundation.org/",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo (Dr. Jayson Ibañez aparece como conservacionista de la PEF; cargo sin verificar)",
+    "what_they_do": "Cría en cautividad en el National Bird Breeding Sanctuary (Davao), reintroducción en Leyte desde 2024, investigación por telemetría y trabajo con comunidades",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Klaus Nigge",
+    "nationality": "Alemana",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://artsandculture.google.com/asset/philippine-eagle-klaus-nigge/0QFjJhALvLX1RQ",
+    "note": "Fotógrafo de National Geographic y GEO. Las imágenes del águila filipina que se le atribuyen son de un ave en cautividad (sin verificar)",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   },
+   {
+    "name": "Joel Sartore",
+    "nationality": "Estadounidense",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://philippineeaglefoundation.org/post/the-philippine-eagle-at-the-cop26-climate-summit",
+    "note": "Retrató el águila para el proyecto Photo Ark de National Geographic, según la PEF",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "La cresta de plumas desordenada y los ojos azules feroces dan un retrato de rapaz muy icónico.",
+  "sources": [
+   "https://www.sunstar.com.ph/article/1953886/davao/feature/latest-scientific-info-may-help-save-critically-endangered-philippine-eagle",
+   "https://mb.com.ph/2026/02/19/forest-loss-threatens-the-philippine-eagles-future",
+   "https://mb.com.ph/2024/6/28/philippine-eagles-reintroduced-in-forests-of-leyte",
+   "https://philstar.com/nation/2024/11/14/2400101/new-chapter-first-philippine-eagle-chick-hatches-new-davao-sanctuary",
+   "https://datazone.birdlife.org/species/factsheet/philippine-eagle-pithecophaga-jefferyi/text",
+   "https://thephotosociety.org/member/klaus-nigge/"
+  ]
+ },
+ {
+  "common_name_es": "Tarsero filipino",
+  "scientific_name": "Carlito syrichta",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Filipinas"
+  ],
+  "region": "Bohol, Sámar, Leyte y Mindanao",
+  "iucn_status": "Global: Casi amenazado (NT), año no lo tengo",
+  "population_estimate": "no lo tengo (una fuente turística sin fecha habla de unos 10.000 en Bohol; sin verificar)",
+  "trend": "En declive; muchas poblaciones locales ya han desaparecido (informe de primates de la UICN 2014–2016)",
+  "taxonomy_note": "Familia Tarsiidae; antes se clasificaba como Tarsius syrichta y hoy es la única especie del género Carlito.",
+  "foundations": [
+   {
+    "name": "Philippine Tarsier Foundation",
+    "hq_country": "Filipinas",
+    "hq_city": "Corella (Bohol)",
+    "website": "no lo tengo",
+    "project_page_url": "https://en.wikipedia.org/wiki/Philippine_Tarsier_Foundation",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo (Carlito Pizarras, el 'Tarsier Man', es el supervisor de campo del santuario)",
+    "what_they_do": "Gestiona el santuario de tarseros de Corella y su hábitat protegido; educación ambiental",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Sus ojos enormes y las manos pegadas a la rama hacen una imagen tierna y viral, perfecta para un primer plano.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Philippine_Tarsier_Foundation",
+   "https://www.sunstar.com.ph/more-articles/philippine-tarsiers-now-among-most-endangered-primates",
+   "https://en.wikipedia.org/wiki/List_of_tarsiiformes",
+   "https://thenationalnews.com/arts/bohol-wild-waters-and-chocolate-hills-1.648151"
+  ]
+ },
+ {
+  "common_name_es": "Cacatúa sulfúrea",
+  "scientific_name": "Cacatua sulphurea",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Indonesia",
+   "Timor Oriental"
+  ],
+  "region": "Islas Menores de la Sonda, Sulawesi e islas del mar de Java (la subespecie abbotti vive en Masakambing)",
+  "iucn_status": "Global: En peligro crítico (CR), año no lo tengo",
+  "population_estimate": "no lo tengo como cifra global; solo unas pocas localidades superan los 100 ejemplares (p. ej. Komodo); C. s. abbotti: 22 individuos en 2018 (Indonesian Parrot Project)",
+  "trend": "Fuerte declive desde los años 70 por la captura para el comercio de aves; en Masakambing se recupera ligeramente (densidad de 2 a 3 aves/km² entre 2008 y 2018)",
+  "taxonomy_note": "Familia Cacatuidae, con varias subespecies (abbotti, citrinocristata, parvula...). La de cresta naranja (citrinocristata) es de Sumba.",
+  "foundations": [
+   {
+    "name": "Indonesian Parrot Project / Konservasi Kakatua Indonesia",
+    "hq_country": "EE. UU. / Indonesia",
+    "hq_city": "no lo tengo",
+    "website": "https://indonesian-parrot-project.org/",
+    "project_page_url": "https://indonesian-parrot-project.org/the-work/project-abbotti/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Censos y protección de la cacatúa de Masakambing (abbotti) con la comunidad local, que mantiene una política de captura cero",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Loro Parque Fundación",
+    "hq_country": "España",
+    "hq_city": "Puerto de la Cruz (Tenerife)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Fundación española que financia la conservación de loros amenazados en todo el mundo. No encontré en las búsquedas su papel concreto con esta especie (sin verificar)",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "La cresta amarilla desplegada sobre el plumaje blanco da un contraste gráfico muy limpio; queda genial en una camiseta oscura.",
+  "sources": [
+   "https://indonesian-parrot-project.org/the-work/project-abbotti/",
+   "https://journal.biotrop.org/index.php/biotropia/article/view/1229",
+   "https://orientalbirdclub.org/s/Yellow-crested-Cockatoo-Komodo.pdf",
+   "https://blogs.scientificamerican.com/extinction-countdown/illegal-pet-trade-yellow-crested-cockatoos/?print=true",
+   "https://parrots.org/wpt3/parrots-ycc.html"
+  ]
+ },
+ {
+  "common_name_es": "Ibis nipón",
+  "scientific_name": "Nipponia nippon",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "China",
+   "Japón",
+   "Corea del Sur"
+  ],
+  "region": "Shaanxi (Hanzhong, Yangxian) en China; reintroducido en la isla de Sado (Niigata, Japón) y en Corea del Sur",
+  "iucn_status": "Global: En peligro (EN), B1ab(iii), año no lo tengo. Japón: pasó en 2024 de 'extinto en estado silvestre' a 'en peligro crítico 1A' en su lista roja nacional",
+  "population_estimate": "Más de 10.000 en total, contando probablemente los de cautividad (Reserva de Hanzhong, noviembre de 2024); más de 500 en libertad según BirdLife (año no lo tengo) y más de 400 en libertad en Sado (año no lo tengo)",
+  "trend": "En aumento",
+  "taxonomy_note": "Familia Threskiornithidae; es la única especie del género Nipponia. Todos los ejemplares actuales descienden de los 7 encontrados en Shaanxi en 1981.",
+  "foundations": [
+   {
+    "name": "Reserva Natural Nacional del Ibis Nipón de Hanzhong (Shaanxi)",
+    "hq_country": "China",
+    "hq_city": "Hanzhong",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Entidad pública que protege la población silvestre original, cría en cautividad y suelta ejemplares",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Centro de Conservación del Ibis Nipón de Sado (Ministerio de Medio Ambiente de Japón)",
+    "hq_country": "Japón",
+    "hq_city": "Sado (Niigata)",
+    "website": "no lo tengo",
+    "project_page_url": "https://datazone.birdlife.org/sowb/casestudy/captive-breeding-and-release-of-asian-crested-ibis:-linking-japan-and-china",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Cría en cautividad y suelta en Sado desde 2008, en cooperación con China (sin verificar el año de inicio)",
+    "accepts_corporate_partners": "no lo tengo (es un programa público)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Tokumitsu Iwago",
+    "nationality": "Japonesa",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://museumcollection.tokyo/en/works/96484/",
+    "note": "Su foto 'Japanese crested ibis, Sado, Niigata Prefecture' está en la colección del Museo de Fotografía de Tokio",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Jian Hu",
+    "nationality": "China (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://naturephotographeroftheyear.com/peoples-choice-award/2024-results/peoples-choice-2024-jian-hu-image-of-an-ibis/",
+    "note": "Ganó el Premio del Público de Nature Photographer of the Year 2024 con un ibis nipón fotografiado en China",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "El plumaje blanco con tonos rosa salmón y la cara roja dan una estética de grabado japonés muy elegante.",
+  "sources": [
+   "https://www.chinadaily.com.cn/a/202411/01/WS672440cfa310f1265a1cadb2.html",
+   "https://datazone.birdlife.org/species/factsheet/asian-crested-ibis-nipponia-nippon",
+   "https://datazone.birdlife.org/sowb/casestudy/captive-breeding-and-release-of-asian-crested-ibis:-linking-japan-and-china",
+   "https://stofficetokyo.ch/news/environment/japan-may-lower-red-list-status-of-crested-ibis-as-more-live-in-wild",
+   "https://kanto.env.go.jp/content/000203761.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Leopardo de Sri Lanka",
+  "scientific_name": "Panthera pardus kotiya",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Sri Lanka"
+  ],
+  "region": "Endémico de Sri Lanka (Yala, Wilpattu, Kumana, montañas del té)",
+  "iucn_status": "Global: Vulnerable (VU), 2020 (sin verificar el año; reevaluación de Kittle y Watson; antes estaba En peligro)",
+  "population_estimate": "776 individuos maduros (rango 529–1.132) según la reevaluación UICN (periodo 2008–2018); WWCT habla de unos 1.000 ejemplares (Mongabay, 2025)",
+  "trend": "Estable en conjunto, con un ligero descenso entre 2008 y 2018; aumentan las muertes causadas por humanos en algunas zonas",
+  "taxonomy_note": "Subespecie de leopardo (Felidae) endémica de la isla; es el depredador superior de Sri Lanka.",
+  "foundations": [
+   {
+    "name": "Wilderness & Wildlife Conservation Trust (WWCT) – The Leopard Project",
+    "hq_country": "Sri Lanka",
+    "hq_city": "no lo tengo",
+    "website": "https://www.wwct.org/",
+    "project_page_url": "https://www.wwct.org/about",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Anjali Watson y Dr. Andrew Kittle (cofundadores)",
+    "what_they_do": "Investigan al leopardo con cámaras trampa y censos (cuyos datos usa la UICN) y trabajan en la convivencia entre personas y leopardos; fundado en 2004",
+    "accepts_corporate_partners": "Sí, tiene acuerdos con empresas como Alliance Finance (sin verificar que sigan vigentes)"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Un leopardo tumbado sobre una roca de Yala es una imagen de gran felino clásica y muy vendible.",
+  "sources": [
+   "https://dailymirror.lk/news-features/Endangered-no-more-Vulnerable-leopards-treading-with-caution/131-200520",
+   "https://news.mongabay.com/2025/05/kumana-a-historic-national-park-in-eastern-sri-lanka-emerges-as-leopard-stronghold/",
+   "https://www.wwct.org/about",
+   "https://www.alumni.cam.ac.uk/travel/dr-andrew-kittle-and-anjali-watson",
+   "https://archives1.sundayobserver.lk/node/16791"
+  ]
+ },
+ {
+  "common_name_es": "Oso bezudo",
+  "scientific_name": "Melursus ursinus",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "India",
+   "Sri Lanka",
+   "Nepal",
+   "Bután (sin verificar)"
+  ],
+  "region": "Subcontinente indio; la mayor parte de la población vive en India, muchas veces fuera de áreas protegidas",
+  "iucn_status": "Global: Vulnerable (VU), 2020",
+  "population_estimate": "Entre 6.000 y 11.000 en India (estimación de Wildlife SOS, año no lo tengo); en 2018 Wildlife SOS hablaba de 8.000–10.000",
+  "trend": "En declive",
+  "taxonomy_note": "Familia Ursidae; tiene una subespecie en Sri Lanka (M. u. inornatus). Es un oso especializado en comer termitas y hormigas.",
+  "foundations": [
+   {
+    "name": "Wildlife SOS",
+    "hq_country": "India",
+    "hq_city": "no lo tengo (gestionan el santuario de osos de Agra)",
+    "website": "https://wildlifesos.org/",
+    "project_page_url": "https://news.wildlifesos.org/wildlife-sos-revolutionary-study-to-track-sloth-bears-in-karnataka/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Acabaron con los 'osos danzantes', gestionan el mayor santuario de osos bezudos del mundo (Agra) y estudian la especie con radiocollares en Karnataka",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "International Animal Rescue",
+    "hq_country": "Reino Unido",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "https://internationalanimalrescue.org/news/dancing-bears-conservation-crusade-why-world-sloth-bear-day-crucial-conservation",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Fue socio en la campaña contra los osos danzantes en India (sin verificar)",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "El pelaje desgreñado y la 'V' blanca del pecho le dan una silueta reconocible, simpática y con mucha personalidad.",
+  "sources": [
+   "https://wildlifesos.org/?p=41816",
+   "https://deccanherald.com/india/report-calls-for-scientific-assessment-of-sloth-bear-population-in-india-4104481",
+   "https://resourcelibrary.clemetzoo.com/Link/83",
+   "https://internationalanimalrescue.org/news/dancing-bears-conservation-crusade-why-world-sloth-bear-day-crucial-conservation"
+  ]
+ },
+ {
+  "common_name_es": "Gibón de manos blancas",
+  "scientific_name": "Hylobates lar",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Tailandia",
+   "Malasia",
+   "Indonesia (Sumatra)",
+   "Laos",
+   "Myanmar"
+  ],
+  "region": "Sudeste asiático continental y norte de Sumatra; reintroducido en Phuket (Khao Phra Thaew)",
+  "iucn_status": "Global: En peligro (EN), año no lo tengo: ha perdido más del 50% de su población en tres generaciones (unos 45 años)",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive por la pérdida de bosque y la caza",
+  "taxonomy_note": "Familia Hylobatidae, con varias subespecies (p. ej. el gibón lar malayo). Puede ser de color claro o oscuro, pero siempre tiene manos y pies blancos.",
+  "foundations": [
+   {
+    "name": "Gibbon Rehabilitation Project (GRP)",
+    "hq_country": "Tailandia",
+    "hq_city": "Phuket",
+    "website": "https://www.gibbonproject.org/",
+    "project_page_url": "https://www.gibbonproject.org/?p=13344",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Thanaphat (apellido no lo tengo; dirige el GRP según Mongabay 2024)",
+    "what_they_do": "Desde 1992 rescata gibones decomisados (unos 400) y, desde 2002, reintroduce familias en el bosque de Khao Phra Thaew",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Colgado de un brazo, con la cara enmarcada en blanco, forma una silueta dinámica que recuerda a un logotipo.",
+  "sources": [
+   "https://www.esabii.biodic.go.jp/database/mammal/primates/hylobates_lar.html",
+   "https://news.mongabay.com/2024/08/from-selfies-to-treetops-thai-ngos-rescue-and-release-captive-gibbons/",
+   "https://www.gibbonproject.org/?p=13344",
+   "https://repository.li.mahidol.ac.th/handle/123456789/35167"
+  ]
+ },
+ {
+  "common_name_es": "Anoa",
+  "scientific_name": "Bubalus depressicornis",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Indonesia"
+  ],
+  "region": "Endémica de Sulawesi y Butón (zonas bajas)",
+  "iucn_status": "Global: En peligro (EN), año no lo tengo",
+  "population_estimate": "no lo tengo de forma fiable: nunca se ha hecho un censo de toda la isla. Se cita la cifra de menos de 2.500 maduros (2.499), pero podría mezclar las dos especies de anoa (sin verificar)",
+  "trend": "En declive; las poblaciones de reservas pequeñas y fragmentos de bosque corren riesgo de extinción local",
+  "taxonomy_note": "Bóvido enano de la familia Bovidae; hay otra especie, el anoa de montaña (Bubalus quarlesi).",
+  "foundations": [
+   {
+    "name": "Tasikoki Wildlife Rescue Centre – recuperación de anoa y babirusa",
+    "hq_country": "Indonesia",
+    "hq_city": "Norte de Sulawesi (ciudad no lo tengo)",
+    "website": "https://www.tasikoki.org/",
+    "project_page_url": "https://www.tasikoki.org/wildlife-rescue-centre/anoa-and-babirusa-endangered-species-recovery/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Asesora al Centro de Cría de Anoa de Manado (11 ejemplares en 2023) en la cría y el manejo de la especie",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Programa Europeo de Especies Amenazadas (EEP) de anoa de EAZA",
+    "hq_country": "Alemania (el libro genealógico lo lleva el Zoo de Leipzig) / Países Bajos (EAZA)",
+    "hq_city": "Leipzig",
+    "website": "https://eaza.net/",
+    "project_page_url": "https://eaza.net/conservation/programmes/eep-pages/anoa-eep",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Marcel Alaze (coordinador del EEP)",
+    "what_they_do": "Cría coordinada en zoos europeos; acuerdo firmado en 2014 con Indonesia y apoyo de fondos LIFE de la UE",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Un 'búfalo de bolsillo' de cuernos rectos que casi nadie conoce: despierta curiosidad y da pie a contar su historia.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lowland_anoa",
+   "https://www.esabii.biodic.go.jp/database/mammal/cetartiodactyla/bubalus_depressicornis.html",
+   "https://www.thejakartapost.com/news/2018/08/11/conservation-hopes-high-after-third-anoa-born-breeding-center.html",
+   "https://www.tasikoki.org/wildlife-rescue-centre/anoa-and-babirusa-endangered-species-recovery/",
+   "https://eaza.net/conservation/programmes/eep-pages/anoa-eep",
+   "https://en.republika.co.id/berita/nevk8f/indonesia-and-europe-work-to-protect-anoa-from-extinction"
+  ]
+ },
+ {
+  "common_name_es": "Pino de Wollemi",
+  "scientific_name": "Wollemia nobilis",
+  "category": "Árboles y plantas",
+  "continent": "Oceanía",
+  "countries": [
+   "Australia"
+  ],
+  "region": "Parque Nacional Wollemi (Nueva Gales del Sur), en barrancos de ubicación secreta",
+  "iucn_status": "Global: En peligro crítico (CR), año no lo tengo (sin verificar)",
+  "population_estimate": "Una sola población silvestre de 4 rodales: 45 adultos y 46 juveniles (junio de 2024, plan nacional de recuperación); otra fuente de 2024 da 46 adultos y 43 juveniles. Además, más de 835 plantones en poblaciones trasladadas",
+  "trend": "Población silvestre estable pero amenazada por incendios y el hongo Phytophthora; las poblaciones trasladadas están creciendo",
+  "taxonomy_note": "Familia Araucariaceae; es el único representante de su género. Se conocía por fósiles y se descubrió vivo en 1994.",
+  "foundations": [
+   {
+    "name": "Botanic Gardens of Sydney (Royal Botanic Garden Sydney) y NSW National Parks and Wildlife Service",
+    "hq_country": "Australia",
+    "hq_city": "Sídney",
+    "website": "https://www.botanicgardens.org.au/",
+    "project_page_url": "https://www.nationalparks.nsw.gov.au/conservation-programs/wollemi-pine-conservation-project",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Organismos públicos que protegen la población silvestre, crean poblaciones trasladadas en lugares secretos y conservan la especie fuera de su hábitat",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Jaime Plaza",
+    "nationality": "no lo tengo",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://wollemipine.com/photo_gal.php",
+    "note": "Fotógrafo principal del Botanic Gardens Trust; lleva unos 10 años fotografiando el pino de Wollemi en su hábitat. Los derechos de las imágenes son del Royal Botanic Gardens Sydney",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Es un 'fósil viviente' de la época de los dinosaurios: sus hojas en bandas y su corteza burbujeante dan una historia muy potente.",
+  "sources": [
+   "https://www.legislation.gov.au/F2025L00429/asmade/2025-03-26/text/original/word",
+   "https://www.botanicgardens.org.au/discover-and-learn/watch-listen-read/30-years-historic-discovery-ancient-dinosaur-trees",
+   "https://www.nationalparks.nsw.gov.au/conservation-programs/wollemi-pine-conservation-project",
+   "https://www.environment.nsw.gov.au/sites/default/files/conservation-action-plan-wollemi-pine-220107.pdf",
+   "https://wollemipine.com/aboutus.php"
+  ]
+ },
+ {
+  "common_name_es": "Kauri",
+  "scientific_name": "Agathis australis",
+  "category": "Árboles y plantas",
+  "continent": "Oceanía",
+  "countries": [
+   "Nueva Zelanda"
+  ],
+  "region": "Norte de la Isla Norte, al norte de los 38°S (Northland, Auckland, Coromandel); el ejemplar más famoso es Tāne Mahuta, en el bosque de Waipoua",
+  "iucn_status": "Global: según Kew/POWO, no evaluado (NE) por la UICN (sin verificar; la ficha podría estar desactualizada). Nueva Zelanda: 'Nationally Vulnerable' desde 2018",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive por la enfermedad 'kauri dieback' (Phytophthora agathidicida), que mata árboles de todas las edades",
+  "taxonomy_note": "Familia Araucariaceae; es una conífera gigante y un taonga (tesoro) para los maoríes.",
+  "foundations": [
+   {
+    "name": "Tiakina Kauri – Kauri Protection Agency",
+    "hq_country": "Nueva Zelanda",
+    "hq_city": "no lo tengo",
+    "website": "https://www.kauriprotection.co.nz/",
+    "project_page_url": "https://kauriprotection.co.nz/tiakina-kauri/about-us",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Agencia pública creada por Biosecurity New Zealand para aplicar el Plan Nacional de Control de Plagas contra el kauri dieback; inversión de 32 millones de NZD entre 2021 y 2026",
+    "accepts_corporate_partners": "no lo tengo (es un organismo público)"
+   },
+   {
+    "name": "Programa de gestión del kauri dieback del Ayuntamiento de Auckland",
+    "hq_country": "Nueva Zelanda",
+    "hq_city": "Auckland",
+    "website": "no lo tengo",
+    "project_page_url": "https://www.kauridieback.co.nz/programme-partners/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Protege los bosques de kauri de la región de Auckland y frena la propagación de la enfermedad",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Rob Suisted",
+    "nationality": "Neozelandesa (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://naturespic.com/NewZealand/image.asp?id=52645",
+    "note": "Firma imágenes de kauri y Tāne Mahuta en el banco de imágenes Nature's Pic (sin verificar)",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "El tronco colosal de Tāne Mahuta, en vertical, transmite la escala de un árbol milenario.",
+  "sources": [
+   "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:261668-1/general-information",
+   "https://nzpcn.org.nz/nzpcn/news/kauri-are-officially-threatened",
+   "https://forestphytophthoras.org/species/agathidicida/disease",
+   "https://kauriprotection.co.nz/tiakina-kauri/about-us",
+   "https://www.kauriprotection.co.nz/tiakina-kauri/kauri-protection-investments"
+  ]
+ },
+ {
+  "common_name_es": "Mangle rojo",
+  "scientific_name": "Rhizophora mangle",
+  "category": "Árboles y plantas",
+  "continent": "América / África",
+  "countries": [
+   "Costas tropicales de América (de Florida a Brasil, Caribe y Pacífico)",
+   "África occidental"
+  ],
+  "region": "Costas e intermareales tropicales del Atlántico y el Pacífico americano y de África occidental; es invasor en Hawái",
+  "iucn_status": "Global: Preocupación menor (LC), año no lo tengo",
+  "population_estimate": "no lo tengo (especie muy extendida; la población no se cuenta en individuos)",
+  "trend": "En declive (según un agregador de datos de la UICN, sin verificar)",
+  "taxonomy_note": "Familia Rhizophoraceae; es vivíparo (sus propágulos germinan en el árbol) y tiene raíces zancudas.",
+  "foundations": [
+   {
+    "name": "Mangrove Action Project (MAP)",
+    "hq_country": "no lo tengo",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "ONG de restauración comunitaria de manglares; organiza los Mangrove Photography Awards (sin verificar, las búsquedas no devolvieron información directa)",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Las raíces zancudas en arco, reflejadas en el agua, forman un dibujo hipnótico y gráfico que queda muy bien a una tinta.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rhizophora_mangle",
+   "https://www.sealifebase.org/summary/140791",
+   "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:719838-1/general-information",
+   "https://www.diyphotography.net/?p=322390"
+  ]
+ },
+ {
+  "common_name_es": "Ébano de Madagascar",
+  "scientific_name": "Diospyros spp.",
+  "category": "Árboles y plantas",
+  "continent": "África",
+  "countries": [
+   "Madagascar"
+  ],
+  "region": "Bosques húmedos del este y noreste de Madagascar (Masoala, Marojejy)",
+  "iucn_status": "Global: varía según la especie; en 2016 la UICN aún no había evaluado el género de forma sistemática (año de evaluación no lo tengo). CITES: Apéndice II para todas las poblaciones de Madagascar desde la CoP16 (2013)",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive por la tala ilegal: más de 60.000 de los 100.000 árboles de palo de rosa y ébano talados procedían de áreas protegidas (informe CITES SC67)",
+  "taxonomy_note": "Familia Ebenaceae. Hay decenas de especies endémicas de Madagascar que son difíciles de distinguir por la madera.",
+  "foundations": [
+   {
+    "name": "Missouri Botanical Garden – Programa de Madagascar",
+    "hq_country": "EE. UU. / Madagascar",
+    "hq_city": "St. Louis (EE. UU.) / Antananarivo (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "https://fondationfranklinia.org/en/conservation-madagascar-precious-woods/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Dirige la parte taxonómica del consorcio G3D (Dalbergia y Diospyros), evalúa el estado de conservación y crea bancos genéticos de campo",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Fondation Franklinia",
+    "hq_country": "Suiza",
+    "hq_city": "no lo tengo",
+    "website": "https://fondationfranklinia.org/",
+    "project_page_url": "https://fondationfranklinia.org/en/conservation-madagascar-precious-woods/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Fundación que financia la conservación de árboles amenazados; apoya el proyecto de maderas preciosas malgaches con el MBG",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "La madera negra y pulida junto al tronco vivo cuenta la historia del árbol frente al tráfico ilegal de madera.",
+  "sources": [
+   "https://cites.org/sites/default/files/eng/com/sc/67/E-SC67-19-02-R1.pdf",
+   "https://cites.org/sites/default/files/eng/cop/17/InfDocs/E-CoP17-Inf-88.pdf",
+   "https://fondationfranklinia.org/en/conservation-madagascar-precious-woods/",
+   "https://sites.nationalacademies.org/cs/groups/pgasite/documents/webpage/pga_369429.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Palo de rosa de Madagascar",
+  "scientific_name": "Dalbergia spp.",
+  "category": "Árboles y plantas",
+  "continent": "África",
+  "countries": [
+   "Madagascar"
+  ],
+  "region": "Bosques húmedos del noreste (Masoala, Marojejy, región SAVA – Antalaha)",
+  "iucn_status": "Global: varía según la especie; en 2016 aún no había evaluación sistemática de la UICN (año no lo tengo). CITES: Apéndice II para las poblaciones de Madagascar desde 2013",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive: la tala ilegal ha continuado a pesar de la inclusión en CITES",
+  "taxonomy_note": "Familia Fabaceae; hay decenas de especies endémicas. Su madera roja es muy cotizada en el mercado de muebles 'hongmu' de China.",
+  "foundations": [
+   {
+    "name": "Missouri Botanical Garden – Programa de Madagascar (consorcio G3D)",
+    "hq_country": "EE. UU. / Madagascar",
+    "hq_city": "St. Louis (EE. UU.)",
+    "website": "no lo tengo",
+    "project_page_url": "https://fondationfranklinia.org/en/conservation-madagascar-precious-woods/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "En 2013, por encargo de la CITES, inventarió las especies de Dalbergia y Diospyros; hoy trabaja en su taxonomía, la evaluación de su estado de conservación y bancos genéticos",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Toby Smith",
+    "nationality": "Británica (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.photographyblog.com/news/toby_smith_-_madagascar_bois_de_rose",
+    "note": "Reportaje 'Madagascar – Bois de Rose' (2007–2008) sobre la tala ilegal, distribuido por Getty Images Reportage",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Rhett A. Butler",
+    "nationality": "Estadounidense (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://news.mongabay.com/2011/06/government-cracks-down-on-illegal-logging-in-madagascar",
+    "note": "Fundador de Mongabay; fotografió la tala de palo de rosa en Masoala (sin verificar su cargo)",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "El corte de tronco con el duramen rojo intenso es una imagen impactante y con un mensaje claro contra el tráfico de madera.",
+  "sources": [
+   "https://cites.org/sites/default/files/eng/com/sc/67/E-SC67-19-02-R1.pdf",
+   "https://fondationfranklinia.org/en/conservation-madagascar-precious-woods/",
+   "https://forestlegality.org/sites/default/files/2021-12/Malagasy%20precious%20hardwoods_8%20.pdf",
+   "https://www.photographyblog.com/news/toby_smith_-_madagascar_bois_de_rose"
+  ]
+ },
+ {
+  "common_name_es": "Orquídea fantasma",
+  "scientific_name": "Dendrophylax lindenii",
+  "category": "Árboles y plantas",
+  "continent": "América",
+  "countries": [
+   "EE. UU. (Florida)",
+   "Cuba"
+  ],
+  "region": "Sur de Florida (Fakahatchee Strand, Corkscrew Swamp, Florida Panther NWR, condado de Collier) y Cuba",
+  "iucn_status": "Global: no lo tengo. Florida: especie en peligro según la lista estatal; el USFWS hizo una evaluación del estado de la especie en 2025 y se ha pedido su protección federal",
+  "population_estimate": "Menos de 2.000 en Florida (estudio de 2021); tras el huracán Irma, las estimaciones en 6 hábitats bajaron de más de 2.000 a 875 plantas vivas; en las parcelas monitorizadas quedaban 44 al final de 2022",
+  "trend": "En declive",
+  "taxonomy_note": "Familia Orchidaceae; es una orquídea epífita sin hojas que hace la fotosíntesis con las raíces y la poliniza la esfinge gigante.",
+  "foundations": [
+   {
+    "name": "Audubon Florida – Corkscrew Swamp Sanctuary",
+    "hq_country": "EE. UU.",
+    "hq_city": "Naples (Florida)",
+    "website": "https://corkscrew.audubon.org/",
+    "project_page_url": "https://www.audubon.org/florida/news/protecting-ghost-orchids-collier-county",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Protege y vigila las orquídeas fantasma de su santuario y del condado de Collier",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Naples Botanical Garden (con UF/IFAS)",
+    "hq_country": "EE. UU.",
+    "hq_city": "Naples (Florida)",
+    "website": "no lo tengo",
+    "project_page_url": "https://blogs.ifas.ufl.edu/news/2016/01/26/ufifas-scientists-preserve-the-endangered-ghost-orchid",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Propaga la orquídea a partir de semillas en condiciones estériles y la reintroduce: unas 70 de las 80 plantadas en Florida Panther NWR sobreviven",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Mac Stone",
+    "nationality": "Estadounidense",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.audubon.org/magazine/these-photos-reveal-pollination-secrets-floridas-most-elusive-flower",
+    "note": "Con fotos de cámara trampa en Corkscrew captó la primera esfinge gigante visitando la flor (2018)",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Carlton Ward Jr.",
+    "nationality": "Estadounidense",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://flamingomag.com/2020/03/03/florida-wild-ghost-busters/",
+    "note": "Hizo la primera foto que documenta la polinización de una orquídea fantasma (5 de julio de 2018)",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Una flor blanca que parece flotar en la oscuridad del pantano: un diseño minimalista, misterioso y muy elegante.",
+  "sources": [
+   "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8401884/",
+   "https://corkscrew.audubon.org/news/protecting-ghost-orchids-collier-county",
+   "https://iris.fws.gov/APPS/ServCat/DownloadFile/273989",
+   "https://blogs.ifas.ufl.edu/news/2016/01/26/ufifas-scientists-preserve-the-endangered-ghost-orchid",
+   "https://www.audubon.org/magazine/these-photos-reveal-pollination-secrets-floridas-most-elusive-flower"
+  ]
+ },
+ {
+  "common_name_es": "Nepentes de Attenborough",
+  "scientific_name": "Nepenthes attenboroughii",
+  "category": "Árboles y plantas",
+  "continent": "Asia",
+  "countries": [
+   "Filipinas"
+  ],
+  "region": "Cumbre del monte Victoria (Palawan), sobre suelos ultramáficos; algunas fuentes la citan también en el monte Sagpaw (sin verificar)",
+  "iucn_status": "Global: En peligro crítico (CR), 2012 (sin verificar el año)",
+  "population_estimate": "Unos pocos cientos de ejemplares maduros (300–500 según fuentes secundarias, sin verificar; año no lo tengo)",
+  "trend": "no lo tengo; está amenazada por la recolección ilegal, la minería y su escaso número",
+  "taxonomy_note": "Planta carnívora de la familia Nepenthaceae, descrita en 2009 y dedicada a David Attenborough; sus jarras están entre las más grandes del género.",
+  "foundations": [],
+  "photographers": [],
+  "design_notes": "La jarra gigante es una forma escultórica y casi alienígena, con el gancho de llevar el nombre de Attenborough.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nepenthes_attenboroughii",
+   "https://sosbiodiversity.blogspot.com/2012/11/critically-endangered-species-of-week.html",
+   "https://palawanwildfrontier.blogspot.com/2026/03/palawan-endemic-fauna-nepenthes-attenboroughii.html"
+  ]
+ },
+ {
+  "common_name_es": "Saguaro",
+  "scientific_name": "Carnegiea gigantea",
+  "category": "Árboles y plantas",
+  "continent": "América",
+  "countries": [
+   "EE. UU.",
+   "México"
+  ],
+  "region": "Desierto de Sonora (Arizona, Sonora y una pequeña zona de California)",
+  "iucn_status": "Global: Preocupación menor (LC), año no lo tengo",
+  "population_estimate": "no lo tengo (es abundante a escala local)",
+  "trend": "En declive (según PlantNet, sin verificar); la mayor amenaza es la expansión urbana de Phoenix y Tucson",
+  "taxonomy_note": "Familia Cactaceae; es la única especie del género Carnegiea y puede vivir más de 150 años.",
+  "foundations": [
+   {
+    "name": "Saguaro National Park (National Park Service) y su asociación de apoyo",
+    "hq_country": "EE. UU.",
+    "hq_city": "Tucson (Arizona)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Protege los bosques de saguaros (sin verificar el nombre de la asociación de apoyo; las búsquedas no devolvieron información directa)",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Jack Dykinga",
+    "nationality": "Estadounidense",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.pictureline.com/blogs/archive/how-i-got-that-shot-jack-dykinga-in-the-sonoran-desert",
+    "note": "Premio Pulitzer en 1970 y fotógrafo de referencia del desierto de Sonora; autor de 'Saguaro in Bloom' (Saguaro NP)",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "La silueta de candelabro al atardecer es inconfundible y queda perfecta en una sola tinta.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Saguaro",
+   "https://identify.plantnet.org/ab/k-world-flora/species/Carnegiea gigantea (Engelm.) Britton & Rose/data",
+   "https://en.wikipedia.org/wiki/Jack_Dykinga",
+   "https://www.nhm.ac.uk/wpy/gallery/2017-saguaro-twist"
+  ]
+ },
+ {
+  "common_name_es": "Flor cadáver",
+  "scientific_name": "Amorphophallus titanum",
+  "category": "Árboles y plantas",
+  "continent": "Asia",
+  "countries": [
+   "Indonesia"
+  ],
+  "region": "Endémica de Sumatra; la mayor población registrada son 83 ejemplares en Muara Hemat (PN Kerinci Seblat, Jambi)",
+  "iucn_status": "Global: En peligro (EN), 2018",
+  "population_estimate": "Entre 71 y 999 individuos, con una mejor estimación de unos 303 (cifra de la UICN 2024 citada en una revista indonesia); otras fuentes dicen que quedan menos de 1.000",
+  "trend": "En declive: un 50% menos en 150 años",
+  "taxonomy_note": "Familia Araceae; tiene la mayor inflorescencia no ramificada del mundo y huele a carne podrida.",
+  "foundations": [
+   {
+    "name": "Royal Botanic Garden Edinburgh (RBGE)",
+    "hq_country": "Reino Unido",
+    "hq_city": "Edimburgo",
+    "website": "no lo tengo",
+    "project_page_url": "https://www.rbge.org.uk/media/6222/amorphophallus-titanum-faq-2019.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Cultiva y estudia la especie y divulga sobre ella (sin verificar que tenga un proyecto en Sumatra)",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Mohamed bin Zayed Species Conservation Fund (pequeña ayuda a un proyecto)",
+    "hq_country": "Emiratos Árabes Unidos",
+    "hq_city": "Abu Dabi",
+    "website": "no lo tengo",
+    "project_page_url": "https://www.speciesconservation.org/small-grant/titan-arum/23743",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Financió un proyecto de conservación en Sumatra centrado en frenar la sobreexplotación del tubérculo",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "La espata morada gigante es una forma dramática y casi surrealista que siempre causa conversación.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Amorphophallus_titanum",
+   "https://magzter.com/stories/Home/Garden-News/Titanic-Struggle",
+   "https://journal.ipb.ac.id/jmht/article/download/60256/31483/365078",
+   "https://www.speciesconservation.org/small-grant/titan-arum/23743",
+   "https://www.rbge.org.uk/media/6222/amorphophallus-titanum-faq-2019.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Abeto de Nebrodi",
+  "scientific_name": "Abies nebrodensis",
+  "category": "Árboles y plantas",
+  "continent": "Europa",
+  "countries": [
+   "Italia"
+  ],
+  "region": "Sicilia: Parque Regional de las Madonie (Vallone Madonna degli Angeli, cerca de Polizzi Generosa), en un área de 84 ha",
+  "iucn_status": "Global: En peligro crítico (CR, criterio D), año no lo tengo (la evaluación de 2000 ya la daba como CR-D). Italia: En peligro crítico en la lista roja nacional",
+  "population_estimate": "Unos 30 árboles adultos silvestres (ISPRA, 2024)",
+  "trend": "Población relicta estable pero con mucha endogamia; se refuerza con plantaciones (está previsto plantar 4.000 plantones en 10 zonas)",
+  "taxonomy_note": "Familia Pinaceae; es una relicta glaciar redescubierta en 1957 y el abeto más raro del mundo.",
+  "foundations": [
+   {
+    "name": "Proyecto LIFE4FIR (LIFE18/NAT/IT/000164) – CNR y socios",
+    "hq_country": "Italia",
+    "hq_city": "no lo tengo",
+    "website": "https://www.cnr.it/en/research-projects/project/35448",
+    "project_page_url": "https://www.cnr.it/en/research-projects/project/35448",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Entre 2019 y 2023: polinización cruzada controlada, banco de semillas y criobanco, vallado y videovigilancia, y repoblación con plantones no consanguíneos",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Ente Parco delle Madonie",
+    "hq_country": "Italia",
+    "hq_city": "Petralia Sottana (sin verificar)",
+    "website": "https://www.parks.it/parco.madonie/",
+    "project_page_url": "https://www.parks.it/parco.madonie/Epun_dettaglio.php?id_pun=174",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Gestiona el parque donde vive la especie y protege los árboles (hay un museo dedicado al abeto en las Madonie)",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Francesco Speciale",
+    "nationality": "Italiana (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Aparece en los créditos de una foto del abeto de las Madonie en un artículo de Balarm (sin verificar)",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "'Treinta árboles para salvar una especie': un abeto solitario en la montaña siciliana es un mensaje sencillo y potente, y cercano para el público europeo.",
+  "sources": [
+   "https://www.isprambiente.gov.it/it/news/abies-nebrodensis-30-alberi-per-salvare-una-specie",
+   "https://www.cnr.it/en/research-projects/project/35448",
+   "https://agris.fao.org/search/en/providers/122436/records/6474803d425ec3c088f8beb7",
+   "https://threatenedconifers.rbge.org.uk/conifers/abies-nebrodensis",
+   "https://www.balarm.it/news/abete-superstar-sulle-madonie-apre-i-battenti-un-nuovo-museo-dedicato-all-albero-85512"
+  ]
+ }
+]

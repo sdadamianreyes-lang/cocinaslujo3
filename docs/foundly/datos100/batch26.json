@@ -1,0 +1,855 @@
+[
+ {
+  "common_name_es": "Oso pardo marsicano",
+  "scientific_name": "Ursus arctos marsicanus",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": [
+   "Italia"
+  ],
+  "region": "Apeninos centrales (Parque Nacional de Abruzzo, Lazio y Molise y alrededores)",
+  "iucn_status": "Global: Preocupación menor (LC) para Ursus arctos (especie); la subespecie marsicana se considera En peligro crítico en la Lista Roja italiana (sin verificar)",
+  "population_estimate": "~50-60 individuos según fuentes divulgativas (TENT 2024; Rewilding Europe 2017); un titular de 9colonne.it cita 81 osos en un censo (fecha sin verificar)",
+  "trend": "Estable/muy vulnerable: población pequeña, baja variabilidad genética, fragmentación y mortalidad humana (ISPRA 2025)",
+  "taxonomy_note": "Subespecie endémica aislada del oso pardo, considerada por muchos autores una unidad de conservación diferenciada.",
+  "foundations": [
+   {
+    "name": "Salviamo l'Orso",
+    "hq_country": "Italia",
+    "hq_city": "no lo tengo",
+    "website": "https://www.salviamolorso.it (sin verificar)",
+    "project_page_url": "https://rewildingeurope.com/news/salviamo-lorso-wins-grant-for-bear-conservation-in-the-central-apennines/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Asociación fundada en 2012; crea corredores de fauna entre áreas protegidas, planta frutales, programas de vacunación de perros para evitar transmisión de enfermedades; socio de Rewilding Apennines.",
+    "accepts_corporate_partners": "Sí, recibe financiación de fundaciones (TENT, Fondation Segré) (sin verificar empresas)"
+   },
+   {
+    "name": "Rewilding Apennines / Rewilding Europe",
+    "hq_country": "Países Bajos (Rewilding Europe)",
+    "hq_city": "Nimega (sin verificar)",
+    "website": "https://rewildingeurope.com",
+    "project_page_url": "https://rewildingeurope.com/news/salviamo-lorso-wins-grant-for-bear-conservation-in-the-central-apennines/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Programa 'Bear Smart Communities' y coexistencia en los Apeninos centrales.",
+    "accepts_corporate_partners": "Sí (sin verificar)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Bruno D'Amicis",
+    "nationality": "Italiana",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.canon.es/pro/ambassadors/bruno-damicis",
+    "note": "Fotoperiodista de fauna nacido en Roma (1979), biólogo, embajador Canon, premiado en Wildlife Photographer of the Year 2014; ha trabajado el oso marsicano en el PN de Abruzzo junto a Umberto Esposito.",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Umberto Esposito",
+    "nationality": "Italiana",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Coautor con D'Amicis del proyecto de un año filmando un haya en el PN de Abruzzo con osos marsicanos (National Geographic).",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Oso pardo robusto en hayedo apenínico: silueta icónica y fácil de leer en una camiseta, con historia de 'último oso de Italia central'.",
+  "sources": [
+   "https://rewildingeurope.com/news/salviamo-lorso-wins-grant-for-bear-conservation-in-the-central-apennines/",
+   "https://www.isprambiente.gov.it/en/news/ispra-analyses-the-three-events-of-2025-that-led-to-the-death-of-three-marsican-brown-bears-and-the-captivity-of-a-cub-for-reintroduction",
+   "https://www.fondationsegre.org/marsican-bear-smart-communities/",
+   "https://www.9colonne.it/622446/wildlife-census-counts-81-endangered-marsican-brown-bears",
+   "https://www.nationalgeographic.com/animals/article/tree-video-yearlong-abruzzo-lazio-italy-marsican-bears-spd",
+   "https://www.canon.es/pro/ambassadors/bruno-damicis"
+  ]
+ },
+ {
+  "common_name_es": "Lince balcánico",
+  "scientific_name": "Lynx lynx balcanicus",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": [
+   "Albania",
+   "Macedonia del Norte",
+   "Kosovo",
+   "Montenegro"
+  ],
+  "region": "Balcanes occidentales (PN Mavrovo, montes Munella, Jasen)",
+  "iucn_status": "Global: Preocupación menor (LC) para Lynx lynx; subespecie balcánica: En peligro crítico (CR), 2015",
+  "population_estimate": "~30 individuos maduros (2015); EuroNatur: menos de 50 individuos (sin año exacto)",
+  "trend": "Incierta; muestreo de fototrampeo de 2021 con resultados muy negativos (solo 5 individuos en Mavrovo)",
+  "taxonomy_note": "Subespecie no reconocida de forma universal; usada por el Balkan Lynx Recovery Programme y la UICN.",
+  "foundations": [
+   {
+    "name": "EuroNatur",
+    "hq_country": "Alemania",
+    "hq_city": "Radolfzell (sin verificar)",
+    "website": "https://www.euronatur.org",
+    "project_page_url": "https://www.euronatur.org/en/what-we-do/bear-wolf-lynx/lynx-in-europe/lynx-projects",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Coordina con KORA el Balkan Lynx Recovery Programme (desde 2006) con socios locales MES (Macedonia del Norte), PPNEA (Albania) y ERA (Kosovo).",
+    "accepts_corporate_partners": "Sí, acepta donaciones y socios (sin verificar)"
+   },
+   {
+    "name": "PPNEA – Protection and Preservation of Natural Environment in Albania",
+    "hq_country": "Albania",
+    "hq_city": "Tirana (sin verificar)",
+    "website": "https://ppnea.org",
+    "project_page_url": "https://ppnea.org/balkan-lynx-recovery-program",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Socio albanés del BLRP: fototrampeo, educación y lucha contra la caza ilegal.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Aleksandar Stojanov",
+    "nationality": "Macedonia del Norte",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Investigador (Macedonian Ecological Society) con fototrampeo de lince; no consta como fotógrafo profesional (sin verificar). Las fotos de fototrampeo suelen acreditarse a MES/BLRP.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   },
+   {
+    "name": "Silvio Rusmigo",
+    "nationality": "Chipriota (según fuente divulgativa)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de naturaleza que documentó la instalación de cámaras y trampas en Macedonia (sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Felino de mirada intensa y pinceles en las orejas; pocas imágenes existen, lo que da exclusividad al diseño.",
+  "sources": [
+   "https://www.kora.ch/en/projects/lynx/balkan-lynx-recovery-programme",
+   "https://www.euronatur.org/en/what-we-do/news/protecting-the-balkan-lynx-a-european-responsibility",
+   "https://www.spnl.org/?p=4615",
+   "https://npmavrovo.org.mk/?p=3775",
+   "https://ppnea.org/balkan-lynx-recovery-program"
+  ]
+ },
+ {
+  "common_name_es": "Foca anillada de Saimaa",
+  "scientific_name": "Pusa saimensis (antes Pusa hispida saimensis)",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": [
+   "Finlandia"
+  ],
+  "region": "Lago Saimaa (este de Finlandia)",
+  "iucn_status": "Global: En peligro (EN), 2019 (evaluada como subespecie; bajo el nuevo nombre de especie figura como No evaluada)",
+  "population_estimate": "530 individuos (Metsähallitus, oct. 2025); 495 en 2024; 111 crías en 2025 (récord)",
+  "trend": "Creciente, aunque amenazada por inviernos sin nieve y captura accidental en redes",
+  "taxonomy_note": "Reconocida como especie propia (Pusa saimensis) en 2025 por la Society for Marine Mammalogy.",
+  "foundations": [
+   {
+    "name": "WWF Finlandia",
+    "hq_country": "Finlandia",
+    "hq_city": "Helsinki (sin verificar)",
+    "website": "https://wwf.fi",
+    "project_page_url": "https://wwf.fi/en/saimaaringedseal/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Voluntarios construyen montículos de nieve para las madrigueras, campañas contra redes de enmalle.",
+    "accepts_corporate_partners": "Sí (sin verificar)"
+   },
+   {
+    "name": "Metsähallitus Parks & Wildlife Finland",
+    "hq_country": "Finlandia",
+    "hq_city": "no lo tengo",
+    "website": "https://www.metsa.fi",
+    "project_page_url": "https://www.metsa.fi/en/saimaa-ringed-seal/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Organismo público: censo anual, proyecto LIFE 'Our Saimaa Seal'.",
+    "accepts_corporate_partners": "No es fundación; organismo estatal"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Juha Taskinen",
+    "nationality": "Finlandesa",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de naturaleza y guía que lleva más de 40 años fotografiando las focas de Saimaa (sin verificar contacto).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Foca de ojos grandes sobre hielo o roca de lago: tierna, rara y con historia de récord de crías.",
+  "sources": [
+   "https://www.luontoon.fi/en/news/saimaa-ringed-seal-population-continues-to-grow-mild-winters-and-gill-nets-remain-a-threat",
+   "https://www.metsa.fi/en/saimaa-ringed-seal/",
+   "https://wwf.fi/en/saimaaringedseal/",
+   "https://oembed.uef.fi/en/article/species-status-of-the-saimaa-ringed-seal-is-now-officially-recognised",
+   "https://www.mammaldiversity.org/taxon/1006964",
+   "https://www.booksfromfinland.fi/?p=15361"
+  ]
+ },
+ {
+  "common_name_es": "Ibis eremita",
+  "scientific_name": "Geronticus eremita",
+  "category": "Europa",
+  "continent": "Europa / África",
+  "countries": [
+   "España",
+   "Marruecos",
+   "Austria",
+   "Alemania",
+   "Italia",
+   "Turquía"
+  ],
+  "region": "Proyecto Eremita: La Janda y litoral de Cádiz (Vejer, Barbate)",
+  "iucn_status": "Global: En peligro (EN), 2018 (antes En peligro crítico desde 1994)",
+  "population_estimate": "Cádiz: ~300 ejemplares en libertad y 39 parejas reproductoras (2024-2025); Marruecos ~600-1.000 silvestres (fuentes diversas)",
+  "trend": "Creciente en Andalucía gracias a sueltas anuales",
+  "taxonomy_note": "Especie monotípica; población andaluza sedentaria fundada con aves de zoológicos.",
+  "foundations": [
+   {
+    "name": "Centro de Conservación Zoobotánico Jerez (Proyecto Eremita)",
+    "hq_country": "España",
+    "hq_city": "Jerez de la Frontera",
+    "website": "https://www.zoobotanicojerez.com (sin verificar)",
+    "project_page_url": "https://www.jerez.es/fileadmin/Documentos/Prensa/ANO_2024/03_MARZO_2024/28-03-2024-JS/NP_ibis_eremita.docx",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Proyecto conjunto con la Junta de Andalucía desde 2004: cría en cautividad, sueltas y anillamiento en La Janda.",
+    "accepts_corporate_partners": "Es centro municipal; convenios con empresas (sin verificar)"
+   },
+   {
+    "name": "Waldrappteam Conservation & Research",
+    "hq_country": "Austria",
+    "hq_city": "no lo tengo",
+    "website": "https://www.waldrapp.eu",
+    "project_page_url": "https://www.waldrapp.eu/?p=2989",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Johannes Fritz (sin verificar cargo)",
+    "what_they_do": "Reintroducción de la población migratoria centroeuropea con migración guiada por ultraligero (Johannes Fritz); ha colaborado con aves de Cádiz.",
+    "accepts_corporate_partners": "Sí, financiado en parte por LIFE y patrocinadores (sin verificar)"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Ibis negro iridiscente con cabeza calva roja y cresta despeinada: un 'punk' alado muy gráfico.",
+  "sources": [
+   "https://www.jerez.es/fileadmin/Documentos/Prensa/ANO_2024/03_MARZO_2024/28-03-2024-JS/NP_ibis_eremita.docx",
+   "https://www.ecoticias.com/naturaleza/ibis-eremita-andalucia",
+   "https://e360.yale.edu/features/after-a-400-year-absence-waldrapp-rare-ibis-returns-to-european-skies",
+   "https://www.waldrapp.eu/?p=2989",
+   "https://www.iasgyan.in/daily-current-affairs/waldrapp"
+  ]
+ },
+ {
+  "common_name_es": "Pelícano ceñudo",
+  "scientific_name": "Pelecanus crispus",
+  "category": "Europa",
+  "continent": "Europa / Asia",
+  "countries": [
+   "Grecia",
+   "Albania",
+   "Macedonia del Norte",
+   "Bulgaria",
+   "Rumanía",
+   "Turquía",
+   "Rusia",
+   "Kazajistán",
+   "Mongolia"
+  ],
+  "region": "Lago Prespa Menor y lago Kerkini (Grecia)",
+  "iucn_status": "Global: Casi amenazado (NT) según BirdLife (año sin verificar; AEWA aún cita Vulnerable)",
+  "population_estimate": "5.693-6.694 parejas a nivel mundial (Catsadorakis y Portolou 2017); Prespa ~1.200-1.400 parejas, la mayor colonia del mundo",
+  "trend": "Creciente en Grecia (de ~100-120 parejas a finales de los 60 a >2.100 a finales de los 2010)",
+  "taxonomy_note": "Mayor de los pelícanos; plumaje rizado en la nuca ('crispus').",
+  "foundations": [
+   {
+    "name": "Society for the Protection of Prespa (SPP)",
+    "hq_country": "Grecia",
+    "hq_city": "Agios Germanos, Prespa (sin verificar)",
+    "website": "https://www.spp.gr (sin verificar)",
+    "project_page_url": "https://riviste.unimi.it/index.php/avocetta/article/view/28502",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Giorgos Catsadorakis aparece como investigador de SPP (cargo sin verificar)",
+    "what_they_do": "ONG que lleva décadas protegiendo la colonia de Prespa y realiza censos con la Sociedad Ornitológica Helénica.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Sociedad Ornitológica Helénica (BirdLife Grecia)",
+    "hq_country": "Grecia",
+    "hq_city": "Atenas (sin verificar)",
+    "website": "https://ornithologiki.gr",
+    "project_page_url": "https://ornithologiki.gr/en/public-awareness-education/information/our-news/1258-second-nationwide-pelican-census",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Censos nacionales de pelícanos y conservación de humedales.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Jari Peltomäki",
+    "nationality": "Finlandesa",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.birdinginspain.com/blog/photos-and-places/dalmatian-pelicans-display-for-wild-wonders/",
+    "note": "Fotografió pelícanos ceñudos en Kerkini durante 10 días; su trabajo se publicó en el blog español Birding in Spain.",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Bence Máté",
+    "nationality": "Húngara",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotografía los pelícanos de Kerkini desde hace años; premiado en Wildlife Photographer of the Year (sin verificar categoría).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Pelícano enorme con cresta rizada y bolsa naranja en celo: silueta potente y divertida.",
+  "sources": [
+   "https://riviste.unimi.it/index.php/avocetta/article/view/28502",
+   "https://ornithologiki.gr/en/public-awareness-education/information/our-news/1258-second-nationwide-pelican-census",
+   "https://datazone.birdlife.org/species/factsheet/dalmatian-pelican-pelecanus-crispus/text",
+   "https://www.unep-aewa.org/en/node/3677",
+   "https://www.birdinginspain.com/blog/photos-and-places/dalmatian-pelicans-display-for-wild-wonders/"
+  ]
+ },
+ {
+  "common_name_es": "Proteo (olm, 'pez humano')",
+  "scientific_name": "Proteus anguinus",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": [
+   "Eslovenia",
+   "Croacia",
+   "Bosnia y Herzegovina",
+   "Italia",
+   "Montenegro"
+  ],
+  "region": "Ríos subterráneos kársticos dinárico (Postojna, Planina, Bela krajina)",
+  "iucn_status": "Global: Vulnerable (VU), 2009 (año sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "Decreciente; hábitat contaminable y fragmentado",
+  "taxonomy_note": "Único anfibio cavernícola de Europa; existe la forma negra P. a. parkelj endémica de Bela krajina (Eslovenia).",
+  "foundations": [
+   {
+    "name": "Postojnska jama (Parque de la Cueva de Postojna)",
+    "hq_country": "Eslovenia",
+    "hq_city": "Postojna",
+    "website": "https://www.postojnska-jama.eu (sin verificar)",
+    "project_page_url": "https://www.nationalgeographic.com/travel/article/this-slovenian-cave-is-the-real-house-of-baby-dragons",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Complejo de investigación con cría de proteos (30 crías nacidas) y divulgación.",
+    "accepts_corporate_partners": "Empresa gestora; patrocinios posibles (sin verificar)"
+   },
+   {
+    "name": "Proyecto PROTEctUS (EuroSpeleo Protection Label 2026)",
+    "hq_country": "Eslovenia",
+    "hq_city": "no lo tengo",
+    "website": "https://www.eurospeleo.eu",
+    "project_page_url": "https://www.eurospeleo.eu/ECPC/wp-content/uploads/2026/06/ESPL2026_Winner-Summary.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Limpieza y protección de cuevas del proteo negro en Bela krajina.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Arne Hodalič",
+    "nationality": "Eslovena (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Varias fotos de proteo acreditadas a él en showcaves.com y A-Z Animals.",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Luka Dakskobler",
+    "nationality": "Eslovena (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://photocontest.smithsonianmag.com/photocontest/detail/the-olm-and-its-prey/",
+    "note": "Foto 'The olm and its prey' (Planina, 2019) en el concurso Smithsonian.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "'Dragón bebé' rosado y ciego con branquias rojas: extraño, misterioso y muy viral.",
+  "sources": [
+   "https://www.nationalgeographic.com/travel/article/this-slovenian-cave-is-the-real-house-of-baby-dragons",
+   "https://www.edgeofexistence.org/wp-content/uploads/2017/06/Survival_Blueprint_Olm_2013.pdf",
+   "https://www.eurospeleo.eu/ECPC/wp-content/uploads/2026/06/ESPL2026_Winner-Summary.pdf",
+   "https://photocontest.smithsonianmag.com/photocontest/detail/the-olm-and-its-prey/",
+   "https://showcaves.com/english/explain/Biology/ProteusAnguinus.html"
+  ]
+ },
+ {
+  "common_name_es": "Hámster europeo",
+  "scientific_name": "Cricetus cricetus",
+  "category": "Europa",
+  "continent": "Europa / Asia",
+  "countries": [
+   "Francia",
+   "Países Bajos",
+   "Bélgica",
+   "Alemania",
+   "Polonia",
+   "Ucrania",
+   "Rusia"
+  ],
+  "region": "Llanuras agrícolas; núcleos occidentales en Alsacia (Grand-Est) y Limburgo (NL)",
+  "iucn_status": "Global: En peligro crítico (CR), 2020",
+  "population_estimate": "Alsacia/Grand-Est: menos de 800 individuos (tesis 2017)",
+  "trend": "Decreciente en toda su área",
+  "taxonomy_note": "Única especie del género Cricetus.",
+  "foundations": [
+   {
+    "name": "Stichting Das&Boom (Badger to Bear Foundation)",
+    "hq_country": "Países Bajos",
+    "hq_city": "no lo tengo",
+    "website": "https://www.dasenboom.nl (sin verificar)",
+    "project_page_url": "https://coe.int/en/web/bern-convention/-/cricetus-cricetus-in-the-netherlands",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Presentó en 1999 la queja al Convenio de Berna que impulsó la protección del hámster en Países Bajos; cría y reintroducción (sin verificar).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Plan Nacional de Acción Hámster (DREAL Grand-Est) / LIFE ALISTER",
+    "hq_country": "Francia",
+    "hq_city": "Estrasburgo (sin verificar)",
+    "website": "https://www.grand-est.developpement-durable.gouv.fr",
+    "project_page_url": "https://www.grand-est.developpement-durable.gouv.fr/IMG/pdf/pna-hamster-final-pap-web.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Plan público 2019-2028 con contratos agrícolas (asociación AFSAL) para hábitat.",
+    "accepts_corporate_partners": "No es fundación"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Pequeño roedor de pecho negro y mejillas llenas: tierno, sorprendente y en peligro crítico.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_hamster",
+   "https://www.nationalgeographic.com/animals/2020/07/common-hamster-named-critically-endangered-europe",
+   "https://www.grand-est.developpement-durable.gouv.fr/IMG/pdf/pna-hamster-final-pap-web.pdf",
+   "https://coe.int/en/web/bern-convention/-/cricetus-cricetus-in-the-netherlands",
+   "https://webgate.ec.europa.eu/life/publicWebsite/project/LIFE12-BIO-FR-000979/alsace-life-hamster-demonstration-project-to-preserve-european-biodiversity-in-alsace"
+  ]
+ },
+ {
+  "common_name_es": "Muflón de Chipre",
+  "scientific_name": "Ovis gmelini ophion",
+  "category": "Europa",
+  "continent": "Europa (Mediterráneo oriental)",
+  "countries": [
+   "Chipre"
+  ],
+  "region": "Bosque estatal de Pafos y zona de amortiguamiento (Variseia)",
+  "iucn_status": "Global: Casi amenazado (NT) para Ovis gmelini (sin verificar año); endémico protegido por ley en Chipre",
+  "population_estimate": "~3.000 ejemplares (censo 2016); 200-300 en la zona de amortiguamiento de la ONU",
+  "trend": "Estable/creciente (de unas decenas en los años 30 a >3.000)",
+  "taxonomy_note": "Taxonomía discutida: la UICN lo incluye en Ovis orientalis/gmelini; algunos autores lo tratan como forma asilvestrada antigua.",
+  "foundations": [
+   {
+    "name": "Terra Cypria – The Cyprus Conservation Foundation",
+    "hq_country": "Chipre",
+    "hq_city": "no lo tengo",
+    "website": "https://www.terracypria.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Fundación creada en 1992 para conservar el medio ambiente y la biodiversidad chipriota; ha intervenido en debates sobre permisos de control del muflón.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Game and Fauna Service (Chipre)",
+    "hq_country": "Chipre",
+    "hq_city": "Nicosia (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Organismo público de fauna: gestión, sueltas y lucha contra caza ilegal (análisis genético).",
+    "accepts_corporate_partners": "No es fundación"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Carnero salvaje de cuernos en espiral: emblema nacional de Chipre, silueta heráldica.",
+  "sources": [
+   "https://en.politis.com.cy/social-lens/social-lens-nature/973029/eighteen-moufflons-released-in-the-wild",
+   "https://arpi.unipi.it/retrieve/e0d6c92f-0216-fcf8-e053-d805fe0aa794/Abstract%2044.pdf",
+   "https://phys.org/news/2019-05-cyprus-emblematic-wild-sheep-horns.html",
+   "https://phys.org/news/2022-02-wildlife-rebounds-cyprus-dead-zone.html",
+   "https://en.wikipedia.org/wiki/Wildlife_of_Cyprus"
+  ]
+ },
+ {
+  "common_name_es": "Buitre leonado",
+  "scientific_name": "Gyps fulvus",
+  "category": "Europa",
+  "continent": "Europa / África / Asia",
+  "countries": [
+   "España",
+   "Francia",
+   "Portugal",
+   "Italia",
+   "Grecia",
+   "Balcanes",
+   "Turquía",
+   "Norte de África"
+  ],
+  "region": "España alberga ~90 % de la población europea (Castilla y León, Aragón, Navarra, Andalucía, Extremadura)",
+  "iucn_status": "Global: Preocupación menor (LC) (año sin verificar)",
+  "population_estimate": "España: 30.946-37.134 parejas (censo SEO/BirdLife 2018); Europa 33.832-40.867 parejas",
+  "trend": "Creciente en España (+17,5-26 % en 2008-2018)",
+  "taxonomy_note": "Especie politípica; la población ibérica es la nominal.",
+  "foundations": [
+   {
+    "name": "SEO/BirdLife",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://seo.org",
+    "project_page_url": "https://seo.org/boletin/seguimiento/censos/50%20buitre%20leonado/pdf/SEO%2050%20Buitre%20leonado.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Coordina el censo nacional de buitre leonado y programas de seguimiento de rapaces.",
+    "accepts_corporate_partners": "Sí, tiene programa de empresas (sin verificar)"
+   },
+   {
+    "name": "GREFA",
+    "hq_country": "España",
+    "hq_city": "Majadahonda, Madrid (sin verificar)",
+    "website": "https://www.grefa.org (sin verificar)",
+    "project_page_url": "https://www.moncloa.com/2022/01/08/buitres-leonados-madrilenos-italia-recuperar-especie-1184106/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Recuperación de rapaces; envió buitres leonados a Italia para reforzar la especie.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Óscar Díez Martínez",
+    "nationality": "Española",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.biosphoto.com/en/photographer/oscar-diez-martinez-1314",
+    "note": "Su retrato de buitre leonado en Ordesa y Monte Perdido fue premiado en Wildlife Photographer of the Year 2010.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Gran buitre de collar plumoso y envergadura de 2,5 m sobre cortado ibérico: muy épico y muy 'nuestro'.",
+  "sources": [
+   "https://seo.org/boletin/seguimiento/censos/50%20buitre%20leonado/pdf/SEO%2050%20Buitre%20leonado.pdf",
+   "https://www.que.es/ultimas-noticias/espana-cuenta-con-el-90-de-la-poblacion-europea-de-buitre-leonado.html",
+   "https://www.moncloa.com/2022/01/08/buitres-leonados-madrilenos-italia-recuperar-especie-1184106/",
+   "https://www.biosphoto.com/en/photographer/oscar-diez-martinez-1314"
+  ]
+ },
+ {
+  "common_name_es": "Cigüeña blanca",
+  "scientific_name": "Ciconia ciconia",
+  "category": "Europa",
+  "continent": "Europa / África / Asia",
+  "countries": [
+   "España",
+   "Portugal",
+   "Polonia",
+   "Alemania",
+   "y gran parte de Europa"
+  ],
+  "region": "España: Castilla y León (~1/3 del total), Extremadura, Madrid",
+  "iucn_status": "Global: Preocupación menor (LC) (año sin verificar)",
+  "population_estimate": "España: 33.643 parejas reproductoras (VIII Censo Internacional, primavera 2025); 36.217-37.556 invernantes (2020)",
+  "trend": "Descenso respecto al máximo de 2014 (~42.000 parejas); pérdidas de nidos y hábitat",
+  "taxonomy_note": "Especie politípica; subespecie nominal en Europa.",
+  "foundations": [
+   {
+    "name": "SEO/BirdLife",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://seo.org",
+    "project_page_url": "https://www.ecoticias.com/naturaleza/censo-de-ciguena-blanca-en-espana-alerta-sobre-declive-poblacional",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Coordina los censos nacionales de cigüeña blanca reproductora e invernante con ~2.000 voluntarios.",
+    "accepts_corporate_partners": "Sí (sin verificar)"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Cigüeña en su nido sobre campanario: símbolo castizo y querido, gran silueta blanca y negra.",
+  "sources": [
+   "https://www.ecoticias.com/naturaleza/207584_iii-censo-nacional-ciguena-invernante-espana",
+   "https://www.diariodeleon.es/ocio/destinos/260827/2095369/ciguena-cambia-rumbo.html",
+   "https://www.ecoticias.com/naturaleza/censo-de-ciguena-blanca-en-espana-alerta-sobre-declive-poblacional",
+   "https://nuevecuatrouno.com/2026/02/03/seo-birdlife-detecta-preocupante-descenso-poblacion-ciguenas-rioja/"
+  ]
+ },
+ {
+  "common_name_es": "Reno de bosque finlandés",
+  "scientific_name": "Rangifer tarandus fennicus",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": [
+   "Finlandia",
+   "Rusia"
+  ],
+  "region": "Kainuu y Suomenselkä (Finlandia); Carelia rusa",
+  "iucn_status": "Global: Vulnerable (VU) para Rangifer tarandus, 2016 (sin verificar); subespecie: Casi amenazada en la Lista Roja finlandesa (sin verificar)",
+  "population_estimate": "~3.000 en Finlandia y ~5.000 en total con Rusia (UE/CINEA, enero 2024)",
+  "trend": "Creciente en Finlandia tras reintroducciones",
+  "taxonomy_note": "Subespecie silvestre; estudios genómicos de 2024 analizan hibridación con reno doméstico.",
+  "foundations": [
+   {
+    "name": "Metsähallitus Parks & Wildlife Finland (LIFEline4Fennicus)",
+    "hq_country": "Finlandia",
+    "hq_city": "no lo tengo",
+    "website": "https://www.metsa.fi",
+    "project_page_url": "https://www.metsa.fi/en/project/lifeline4fennicus/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Coordinó WildForestReindeerLIFE (2016-2023) y coordina LIFEline4Fennicus (2026-2032): reintroducción y refuerzo poblacional.",
+    "accepts_corporate_partners": "Organismo estatal"
+   },
+   {
+    "name": "Ranua Wildlife Park",
+    "hq_country": "Finlandia",
+    "hq_city": "Ranua",
+    "website": "no lo tengo",
+    "project_page_url": "https://ranuaresort.com/en/news/news/five-wild-forest-reindeer-released-into-the-wild/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Socio del proyecto: cría en cautividad y sueltas.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Cérvido de grandes astas en bosque boreal nevado: ambiente nórdico muy atractivo en invierno.",
+  "sources": [
+   "https://cinea.ec.europa.eu/news-events/news/bringing-new-life-finlands-threatened-wild-reindeer-population-2024-01-17_en",
+   "https://www.metsa.fi/en/project/lifeline4fennicus/",
+   "https://www.metsa.fi/wp-content/uploads/2024/04/wildforestreindeerlife_laymans_report_eng_www.pdf",
+   "https://ranuaresort.com/en/news/news/five-wild-forest-reindeer-released-into-the-wild/"
+  ]
+ },
+ {
+  "common_name_es": "Águila real",
+  "scientific_name": "Aquila chrysaetos",
+  "category": "Europa",
+  "continent": "Holártico",
+  "countries": [
+   "España",
+   "y gran parte de Europa, Asia, Norteamérica y norte de África"
+  ],
+  "region": "España: sierras y montañas de toda la península",
+  "iucn_status": "Global: Preocupación menor (LC) (año sin verificar)",
+  "population_estimate": "España: 1.277-1.294 parejas (estimación SEO/BirdLife 2002 recogida por MITECO); censo de 2008 publicado (Del Moral 2009), cifra no obtenida",
+  "trend": "Estable/creciente en algunas regiones (p. ej. Murcia desde 2003)",
+  "taxonomy_note": "Subespecie ibérica A. c. homeyeri.",
+  "foundations": [
+   {
+    "name": "SEO/BirdLife",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://seo.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Censos nacionales de águila real (2008) y seguimiento de rapaces.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "GREFA",
+    "hq_country": "España",
+    "hq_city": "Majadahonda, Madrid (sin verificar)",
+    "website": "https://www.grefa.org (sin verificar)",
+    "project_page_url": "https://www.ecoticias.com/naturaleza/91722_noticia-medio-ambiente-grefa-favorece-recuperacion-cinco-especies-grandes-rapaces",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Recuperación de grandes rapaces.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Rapaz majestuosa de nuca dorada: clásico atemporal y muy reconocible.",
+  "sources": [
+   "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/inventarios-nacionales/aguila_real_tcm30-99938.pdf",
+   "https://digicarm.carm.es/jspui/bitstream/20.500.11914/3820/1/Censo_rupicolas_2018.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Tortuga mora",
+  "scientific_name": "Testudo graeca",
+  "category": "Europa",
+  "continent": "Europa / África / Asia",
+  "countries": [
+   "España",
+   "Marruecos",
+   "Argelia",
+   "Túnez",
+   "Turquía"
+  ],
+  "region": "Sureste ibérico: Murcia y Almería (sierras de Almenara, Torrecilla, Almagrera)",
+  "iucn_status": "Global: Vulnerable (VU), 1996 (evaluación antigua, sin verificar); España: Vulnerable en el Catálogo estatal y en el murciano",
+  "population_estimate": "no lo tengo",
+  "trend": "Decreciente por recolección ilegal, incendios, enfermedades y cambio climático",
+  "taxonomy_note": "Especie con múltiples subespecies; la ibérica suele asignarse a T. g. graeca.",
+  "foundations": [
+   {
+    "name": "ANSE (Asociación de Naturalistas del Sureste)",
+    "hq_country": "España",
+    "hq_city": "Murcia (sin verificar)",
+    "website": "https://www.asociacionanse.org (sin verificar)",
+    "project_page_url": "https://murciatoday.com/wild-tortoise-ownership-in-murcia-and-spain-illegal-but-surprisingly-common_433064-a.html",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Creó la primera reserva ibérica para la tortuga mora; atiende avisos de tortugas encontradas.",
+    "accepts_corporate_partners": "Sí, colaboraciones con empresas (BBVA) (sin verificar)"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Tortuga de caparazón abombado con mosaico amarillo-negro en matorral árido: cercana y 'local'.",
+  "sources": [
+   "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/conservacion-de-especies-amenazadas/CATEGORIA_E_tcm30-195339.pdf",
+   "https://transparencia.carm.es/wres/transparencia/doc/IniciativasNormativas/2025_INI_MEDIO_AMBIENTE_Decreto_tortuga_Mora/MAIN.pdf",
+   "https://murciatoday.com/wild-tortoise-ownership-in-murcia-and-spain-illegal-but-surprisingly-common_433064-a.html",
+   "https://www.bbva.com/es/juntos-creando-oportunidades/medio-siglo-defendiendo-la-naturaleza-da-para-mucho-esta-es-la-historia-de-anse/"
+  ]
+ },
+ {
+  "common_name_es": "Aguilucho cenizo",
+  "scientific_name": "Circus pygargus",
+  "category": "Europa",
+  "continent": "Europa / África / Asia",
+  "countries": [
+   "España",
+   "Francia",
+   "Polonia",
+   "Portugal",
+   "y otros"
+  ],
+  "region": "Campiñas cerealistas de la península ibérica",
+  "iucn_status": "Global: Preocupación menor (LC) (año sin verificar); España: Vulnerable en el Catálogo Español de Especies Amenazadas",
+  "population_estimate": "España: 4.269-5.360 parejas (censo SEO/BirdLife 2017)",
+  "trend": "Decreciente (-23 a -27 % entre 2006 y 2017)",
+  "taxonomy_note": "Especie monotípica; Ave del Año 2023 de SEO/BirdLife.",
+  "foundations": [
+   {
+    "name": "SEO/BirdLife",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://seo.org",
+    "project_page_url": "https://www.corresponsables.com/actualidad/seo-birdlife-aguilucho-cenizo-ave-ano-2023/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Salvamento de nidos en cosechas, censos y campaña Ave del Año 2023.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "LIFE SOS Pygargus",
+    "hq_country": "España / Portugal",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Proyecto LIFE transfronterizo de seis años en 49 ZEPA trabajando con agricultores.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Rapaz gris pálida de vuelo elegante sobre trigo dorado: estética campestre muy limpia.",
+  "sources": [
+   "https://www.corresponsables.com/actualidad/seo-birdlife-aguilucho-cenizo-ave-ano-2023/",
+   "https://www.ecoticias.com/naturaleza/seo-birdlife-salva-a-centenares-de-pollos-de-aguilucho-cenizo",
+   "https://redeuroparc.org/wp-content/uploads/2022/03/exp._conservacion_aguilucho_cenizo_endesa-1.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Salmón atlántico",
+  "scientific_name": "Salmo salar",
+  "category": "Europa",
+  "continent": "Europa / Norteamérica",
+  "countries": [
+   "España",
+   "Francia",
+   "Irlanda",
+   "Reino Unido",
+   "Noruega",
+   "Islandia",
+   "Canadá",
+   "EE. UU."
+  ],
+  "region": "España: ríos cantábricos (Galicia, Asturias, Cantabria, País Vasco, Navarra)",
+  "iucn_status": "Global: Casi amenazado (NT), 2023",
+  "population_estimate": "Asturias: 108 capturas en la última campaña; descenso estimado del 80-82 % en España (2015-2024)",
+  "trend": "Fuertemente decreciente",
+  "taxonomy_note": "Especie anádroma; poblaciones ibéricas en el límite sur de su distribución.",
+  "foundations": [
+   {
+    "name": "AEMS-Ríos con Vida",
+    "hq_country": "España",
+    "hq_city": "no lo tengo",
+    "website": "https://www.riosconvida.es (sin verificar)",
+    "project_page_url": "https://www.iagua.es/blogs/rios-con-vida/peces-migradores-y-restauracion-fluvial",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Asociación que pide catalogar el salmón como en peligro y vedar temporalmente la pesca; restauración fluvial.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "WWF España",
+    "hq_country": "España",
+    "hq_city": "Madrid (sin verificar)",
+    "website": "https://www.wwf.es (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Pide restaurar 25.000 km de ríos en la UE y catalogar el salmón en peligro.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Salmón saltando una cascada: imagen dinámica e icónica de los ríos del norte.",
+  "sources": [
+   "https://www.salmonbusiness.com/atlantic-salmon-listed-as-near-threatened-wwf-demands-eu-meet-target-to-restore-25000km-of-rivers/?amp=1",
+   "https://www.eldebate.com/sociedad/sociedad-medio-ambiente/20260506/gobiernopide-informe-sobre-estado-salmon-estudiar-esta-peligro-extincion_414855.html",
+   "https://www.ecoticias.com/naturaleza/el-salmon-atlantico-se-acerca-a-la-extincion-en-espana",
+   "https://www.ecoticias.com/naturaleza/el-salmon-podria-entrar-en-las-especies-en-peligro-de-extincion-en-espana-peticion-sin-precedentes-al-gobierno"
+  ]
+ }
+]
