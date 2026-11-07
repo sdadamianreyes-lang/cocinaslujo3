@@ -1,0 +1,767 @@
+[
+ {
+  "common_name_es": "Tigre de Bengala",
+  "scientific_name": "Panthera tigris tigris",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": "India, Bangladés, Nepal, Bután",
+  "region": "Subcontinente indio (Sundarbans, Terai, Ghats occidentales, India central)",
+  "iucn_status": "Global (especie Panthera tigris): En Peligro (EN), 2022; la subespecie no tiene evaluación separada vigente (sin verificar)",
+  "population_estimate": "India: 3.167 mínimo / 3.682 media estimada (censo 2022, publicado 2023; cifras de prensa, sin verificar); total mundial de tigres ~5.574 (Global Tiger Forum, 2023) o 3.726–5.578 (UICN 2022)",
+  "trend": "Creciente en India y Nepal desde 2010; amenazas: pérdida de hábitat, furtivismo, conflicto con humanos",
+  "taxonomy_note": "La taxonomía de 2017 (Cat Specialist Group) agrupa a los tigres continentales en P. t. tigris (incluye Amur, Indochina, Malayo); 'tigre de Bengala' se usa para la población del subcontinente.",
+  "foundations": [
+   {
+    "name": "David Shepherd Wildlife Foundation (DSWF)",
+    "hq_country": "Reino Unido",
+    "hq_city": "Londres (sin verificar)",
+    "website": "https://davidshepherd.org",
+    "project_page_url": "https://davidshepherd.org/category/wildlife/tigers/",
+    "contact_email": "no lo tengo",
+    "phone": "020 7227 7000 (registro de beneficencia vía opencharities, sin verificar)",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "ONG británica (charity 1106893) que financia proyectos de campo contra la caza furtiva y el tráfico de tigres, elefantes y rinocerontes en Asia y África.",
+    "accepts_corporate_partners": "sí (sin verificar)"
+   },
+   {
+    "name": "WWF España",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://www.wwf.es",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Sección española de WWF; ha denunciado a España como país de alto riesgo para el tráfico de tigres (2020); canaliza la campaña global TX2 de WWF.",
+    "accepts_corporate_partners": "sí (sin verificar)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Andoni Canela",
+    "nationality": "Española (nacido en Tudela, Navarra, 1969)",
+    "website": "no lo tengo (dato sin verificar eliminado)",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotoperiodista de naturaleza; El Español publicó sus fotos de tigres de Bengala en Ranthambore; proyecto de 4 años sobre grandes felinos con su hijo Unai.",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Steve Winter",
+    "nationality": "Estadounidense",
+    "website": "no lo tengo (dato sin verificar eliminado)",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de National Geographic especializado en grandes felinos (tigres, leopardos de las nieves); exdirector de medios de Panthera.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Retrato frontal del tigre o tigre en el agua en Ranthambore: el icono felino más reconocible del mundo, contraste naranja-negro muy gráfico.",
+  "sources": [
+   "https://www.globalindian.com/worldinnumbers/the-2023-tiger-census-released-in-april-established-the-presence-of-3167-tigers-in-india-accounting-for-more-than-75-of-the-global-numbers-in-a-remarkable-achievement-for-conservation-efforts",
+   "https://panthera.org/newsroom/global-tiger-population-stable-and-potentially-increasing-despite-extreme-threats",
+   "https://opencharities.uk/ew/1106893",
+   "https://theolivepress.es/spain-news/2020/10/01/spain-considered-high-risk-country-for-trafficking-of-tigers",
+   "https://www.elespanol.com/corazon/bluper/20211103/adolescente-cambio-videojuegos-buscar-grandes-felinos-padre/624187993_0.html",
+   "https://en.wikipedia.org/wiki/Andoni_Canela"
+  ]
+ },
+ {
+  "common_name_es": "Tigre de Sumatra",
+  "scientific_name": "Panthera tigris sondaica",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": "Indonesia",
+  "region": "Isla de Sumatra (Kerinci Seblat, Gunung Leuser, Bukit Barisan Selatan, etc.)",
+  "iucn_status": "Global: En Peligro Crítico (CR), 2008 (evaluación de P. t. sumatrae; año sin verificar)",
+  "population_estimate": "173–883 individuos (Goodrich et al., 2022, rango muy amplio); >150 en el PN Kerinci Seblat (estimación oficial indonesia, 2024); ZSL cita ~300 en libertad",
+  "trend": "En declive por deforestación (palma aceitera) y furtivismo; señales de estabilización local en Gunung Leuser (27 individuos identificados 2023–2024)",
+  "taxonomy_note": "Desde 2017 se incluye en P. t. sondaica junto a los extintos tigres de Java y Bali; muchas fuentes siguen usando P. t. sumatrae.",
+  "foundations": [
+   {
+    "name": "WildCats Conservation Alliance (ZSL + Dreamworld Wildlife Foundation; antes 21st Century Tiger y ALTA)",
+    "hq_country": "Reino Unido",
+    "hq_city": "Londres (ZSL)",
+    "website": "https://conservewildcats.org",
+    "project_page_url": "https://conservewildcats.org/projects-archive-russia/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Coalición británica creada en 2018 al fusionarse 21st Century Tiger y ALTA; capta fondos en Europa para proyectos de tigre (Sumatra, Amur) y leopardo del Amur (patrullas, SMART, educación).",
+    "accepts_corporate_partners": "sí (sin verificar)"
+   },
+   {
+    "name": "ZSL (Zoological Society of London)",
+    "hq_country": "Reino Unido",
+    "hq_city": "Londres",
+    "website": "https://www.zsl.org",
+    "project_page_url": "https://www.zsl.org/what-we-do/conservation/creating-change/informing-policy/reconnecting-and-rehabilitating-tiger-territories",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Trabaja en Sumatra en monitoreo, patrullas antifurtivos y una unidad de investigación de delitos contra la fauna; coordina el programa europeo de cría (EEP) del tigre de Sumatra.",
+    "accepts_corporate_partners": "sí (sin verificar)"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Tigre de rayas más densas y finas, con melena facial, entre helechos de selva: transmite urgencia (CR) y selva tropical.",
+  "sources": [
+   "https://www.frontiersin.org/journals/conservation-science/articles/10.3389/fcosc.2025.1691233/full",
+   "https://en.antaranews.com/news/317904/sumatran-tiger-population-in-tnks-estimated-above-150-tigers",
+   "https://goodnewsnetwork.org/new-camera-trap-survey-sees-nearly-3x-more-images-of-endangered-sumatran-tigers-than-years-prior",
+   "https://en.wikipedia.org/wiki/21st_Century_Tiger",
+   "https://conservewildcats.org/ngg_tag/sumatran-tiger/nggallery/page/3"
+  ]
+ },
+ {
+  "common_name_es": "Tigre de Amur",
+  "scientific_name": "Panthera tigris altaica",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": "Rusia, China (y presencia ocasional en Corea del Norte, sin verificar)",
+  "region": "Extremo Oriente ruso (Primorie, Jabárovsk, óblast Judío, Amur) y noreste de China",
+  "iucn_status": "Global (especie Panthera tigris): En Peligro (EN), 2022; subespecie sin evaluación separada vigente (sin verificar)",
+  "population_estimate": "Rusia: al menos 750 incluidos cachorros (censo 2021–2022, anunciado en sept. 2022); el Centro Tigre del Amur da 780 por regiones",
+  "trend": "Creciente: de 523–540 (censo 2014–2015) a ~750 (2022)",
+  "taxonomy_note": "Desde 2017 se considera parte de P. t. tigris (tigres continentales); 'altaica' se mantiene en uso popular.",
+  "foundations": [
+   {
+    "name": "WildCats Conservation Alliance (ZSL + Dreamworld Wildlife Foundation; antes 21st Century Tiger y ALTA)",
+    "hq_country": "Reino Unido",
+    "hq_city": "Londres (ZSL)",
+    "website": "https://conservewildcats.org",
+    "project_page_url": "https://conservewildcats.org/projects-archive-russia/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Coalición británica creada en 2018 al fusionarse 21st Century Tiger y ALTA; capta fondos en Europa para proyectos de tigre (Sumatra, Amur) y leopardo del Amur (patrullas, SMART, educación).",
+    "accepts_corporate_partners": "sí (sin verificar)"
+   },
+   {
+    "name": "Phoenix Fund",
+    "hq_country": "Rusia",
+    "hq_city": "Vladivostok",
+    "website": "no lo tengo",
+    "project_page_url": "https://conservewildcats.org/securing-a-future-for-amur-leopards-and-tigers-in-russia-phoenix-fund/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Sergei Bereznuk (fundador, 1998; según material de DSWF)",
+    "what_they_do": "ONG rusa del Extremo Oriente (Primorie, Jabárovsk): apoyo a guardas, patrullas antifurtivos SMART, educación ambiental para tigre y leopardo del Amur; socio implementador de WildCats.",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Sergey Gorshkov",
+    "nationality": "Rusa",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.themoscowtimes.com/2020/10/14/russian-photographer-wins-top-wildlife-photo-award-with-amur-tiger-snapshot-a71750",
+    "note": "Ganó el Wildlife Photographer of the Year 2020 con 'The Embrace' (tigresa del Amur abrazando un abeto en la Tierra del Leopardo); miembro fundador de la Unión Rusa de Fotógrafos de Naturaleza.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Tigre en la nieve de la taiga: paleta blanca-naranja muy limpia y diferenciada del resto de tigres.",
+  "sources": [
+   "https://tass.com/society/1398425",
+   "https://neaspec.org/sites/default/files/2026-07/1.2%20Andrey%20Shorshin-ANO.pdf",
+   "https://conservewildcats.org/?p=10721",
+   "https://conservewildcats.org/securing-a-future-for-amur-leopards-and-tigers-in-russia-phoenix-fund/",
+   "https://www.themoscowtimes.com/2020/10/14/russian-photographer-wins-top-wildlife-photo-award-with-amur-tiger-snapshot-a71750"
+  ]
+ },
+ {
+  "common_name_es": "Leopardo de las nieves",
+  "scientific_name": "Panthera uncia",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": "Afganistán, Bután, China, India, Kazajistán, Kirguistán, Mongolia, Nepal, Pakistán, Rusia, Tayikistán, Uzbekistán",
+  "region": "Himalaya, Karakórum, Pamir, Tian Shan, Altái",
+  "iucn_status": "Global: Vulnerable (VU), 2017 (año sin verificar; rebajado desde En Peligro)",
+  "population_estimate": "3.920–6.390 individuos (Snow Leopard Trust, estimación global, sin verificar año); Kirguistán: 285 adultos (estudio enero 2025 apoyado por NABU)",
+  "trend": "Probablemente en declive (sin verificar); amenazas: furtivismo, represalias por ganado, minería, cambio climático",
+  "taxonomy_note": "Antes Uncia uncia; hoy incluido en Panthera por evidencia genética.",
+  "foundations": [
+   {
+    "name": "NABU (Naturschutzbund Deutschland) – programa leopardo de las nieves",
+    "hq_country": "Alemania",
+    "hq_city": "Berlín",
+    "website": "https://en.nabu.de",
+    "project_page_url": "https://en.nabu.de/topics/species/snow-leopard/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Tolkunbek Asykulov (director de NABU Kirguistán)",
+    "what_they_do": "Desde 1999 en Kirguistán: unidad antifurtivos 'Gruppa Bars', centro de rehabilitación y educación ambiental; los zoos de Berlín apoyan una segunda unidad.",
+    "accepts_corporate_partners": "sí (sin verificar)"
+   },
+   {
+    "name": "Snow Leopard Trust",
+    "hq_country": "Estados Unidos",
+    "hq_city": "Seattle",
+    "website": "https://snowleopard.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "ONG dedicada en exclusiva al leopardo de las nieves: investigación y programas comunitarios en los países del área de distribución.",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Steve Winter",
+    "nationality": "Estadounidense",
+    "website": "no lo tengo (dato sin verificar eliminado)",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.worldpressphoto.org/collection/photo-contest/2009/steve-winter/1",
+    "note": "Fotografió leopardos de las nieves con cámaras trampa en Hemis (Ladakh, India) para National Geographic; 1er premio Naturaleza World Press Photo 2009.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Felino gris humo con rosetas y cola enorme sobre roca nevada: elegante, monocromo y muy 'premium' en camiseta clara u oscura.",
+  "sources": [
+   "https://www.sciencealert.com/the-snow-leopard-is-no-longer-officially-endangered",
+   "https://en.nabu.de/focus-regions/asia/kyrgyzstan.html",
+   "https://en.nabu.de/news/2025/35792.html",
+   "https://mongolia.wcs.org/Priority-Species/Snow-Leopard.aspx",
+   "https://snowleopardnetwork.org/tag/national-geographic/"
+  ]
+ },
+ {
+  "common_name_es": "Leopardo del Amur",
+  "scientific_name": "Panthera pardus orientalis",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": "Rusia, China",
+  "region": "Suroeste de Primorie (PN Tierra del Leopardo) y provincias de Jilin y Heilongjiang (China)",
+  "iucn_status": "Global: En Peligro Crítico (CR), evaluación de la subespecie (año sin verificar: 2007/2008 según fuentes); especie P. pardus: Vulnerable (VU)",
+  "population_estimate": "121 leopardos en el PN Tierra del Leopardo (diciembre 2023); estudio WCS: ~84 en China y Rusia (sin verificar año)",
+  "trend": "Creciente desde ~30 a principios de los 2000 (sin verificar) gracias al parque nacional; sigue siendo el felino grande más raro",
+  "taxonomy_note": "Subespecie de leopardo adaptada al frío, con pelaje largo y rosetas grandes y espaciadas.",
+  "foundations": [
+   {
+    "name": "WildCats Conservation Alliance (ZSL + Dreamworld Wildlife Foundation; antes 21st Century Tiger y ALTA)",
+    "hq_country": "Reino Unido",
+    "hq_city": "Londres (ZSL)",
+    "website": "https://conservewildcats.org",
+    "project_page_url": "https://conservewildcats.org/projects-archive-russia/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Coalición británica creada en 2018 al fusionarse 21st Century Tiger y ALTA; capta fondos en Europa para proyectos de tigre (Sumatra, Amur) y leopardo del Amur (patrullas, SMART, educación).",
+    "accepts_corporate_partners": "sí (sin verificar)"
+   },
+   {
+    "name": "Phoenix Fund",
+    "hq_country": "Rusia",
+    "hq_city": "Vladivostok",
+    "website": "no lo tengo",
+    "project_page_url": "https://conservewildcats.org/securing-a-future-for-amur-leopards-and-tigers-in-russia-phoenix-fund/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Sergei Bereznuk (fundador, 1998; según material de DSWF)",
+    "what_they_do": "ONG rusa del Extremo Oriente (Primorie, Jabárovsk): apoyo a guardas, patrullas antifurtivos SMART, educación ambiental para tigre y leopardo del Amur; socio implementador de WildCats.",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Sergey Gorshkov",
+    "nationality": "Rusa",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://naturephotographeroftheyear.com/previous-editions/npoty-2023-results-2/sergey-gorshkov-amur-leopard-highly-commended-category-mammals/",
+    "note": "Fotografió leopardos del Amur en la Tierra del Leopardo; Highly Commended en Nature Photographer of the Year 2023 (mamíferos).",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Vladimir Medvedev",
+    "nationality": "Rusa",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.nhm.ac.uk/wpy/gallery/2013-last-look",
+    "note": "Lleva años siguiendo leopardos del Amur en la reserva Kedrovaya Pad; imagen 'Last look' en Wildlife Photographer of the Year 2013.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Leopardo de pelaje largo en la nieve: muy raro y fotogénico, historia de recuperación esperanzadora.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Amur_leopard",
+   "https://newsroom.wcs.org/News-Releases/articleType/ArticleView/articleId/11440/New-Study-An-Estimated-84-Highly-Endangered-Amur-Leopards-Remain-in-the-Wild-in-China-and-Russia.aspx",
+   "https://conservewildcats.org/tag/land-of-the-leopard/",
+   "https://www.nhm.ac.uk/wpy/gallery/2013-last-look"
+  ]
+ },
+ {
+  "common_name_es": "Panda gigante",
+  "scientific_name": "Ailuropoda melanoleuca",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": "China",
+  "region": "Montañas de Sichuan, Shaanxi y Gansu (Minshan, Qinling, Qionglai...)",
+  "iucn_status": "Global: Vulnerable (VU), 2016 (rebajado desde En Peligro)",
+  "population_estimate": "1.864 adultos (IV Censo nacional, citado por la UICN en 2016); ~2.060 contando crías",
+  "trend": "Creciente/estable gracias a reservas; amenaza: fragmentación del hábitat y cambio climático (bambú)",
+  "taxonomy_note": "Único representante vivo del género Ailuropoda; oso (Ursidae), no emparentado con el panda rojo.",
+  "foundations": [
+   {
+    "name": "WWF (World Wide Fund for Nature) – programa panda gigante",
+    "hq_country": "Suiza (WWF Internacional)",
+    "hq_city": "Gland",
+    "website": "https://wwf.panda.org",
+    "project_page_url": "https://wwf.panda.org/discover/knowledge_hub/endangered_species/giant_panda/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Trabaja con el Gobierno chino desde 1980 en el Programa Nacional de Conservación del panda: reservas, corredores, censos y políticas.",
+    "accepts_corporate_partners": "sí (sin verificar)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Ami Vitale",
+    "nationality": "Estadounidense",
+    "website": "no lo tengo (dato sin verificar eliminado)",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.nationalgeographic.com/animals/article/giant-baby-panda-cubs-china-conservation",
+    "note": "Fotógrafa de National Geographic; tres años documentando la reintroducción de pandas (disfrazada de panda); libro 'Panda Love'.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Blanco y negro puro: logotipo natural de la conservación, funciona en cualquier color de camiseta.",
+  "sources": [
+   "https://www.aljazeera.com/news/2016/9/4/survey-giant-pandas-no-longer-endangered-in-china",
+   "https://wwf.panda.org/discover/knowledge_hub/endangered_species/giant_panda/",
+   "https://www.worldwildlife.org/news/press-releases/wwf-statement-on-chinas-announcement-that-giant-pandas-are-no-longer-endangered/",
+   "https://mymodernmet.com/ami-vitale-photographs-in-panda-suit"
+  ]
+ },
+ {
+  "common_name_es": "Panda rojo",
+  "scientific_name": "Ailurus fulgens",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": "Nepal, India, Bután, China, Myanmar",
+  "region": "Bosques templados del Himalaya oriental y suroeste de China",
+  "iucn_status": "Global: En Peligro (EN), 2015 (una fuente menciona revisión en abril de 2025, sin verificar)",
+  "population_estimate": "Menos de 10.000 (estimación habitual; algunas fuentes hasta 2.500 adultos), sin año claro",
+  "trend": "En declive por pérdida de bosque, pastoreo y tráfico de mascotas",
+  "taxonomy_note": "Única especie viva de la familia Ailuridae; algunos autores separan el panda rojo chino (A. styani).",
+  "foundations": [
+   {
+    "name": "Red Panda Network",
+    "hq_country": "Estados Unidos (equipo Asia en Nepal)",
+    "hq_city": "Kathmandu (equipo Asia); sede internacional en EE. UU.",
+    "website": "https://redpandanetwork.org",
+    "project_page_url": "https://redpandanetwork.org/Our-Team",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Ang Phuri Sherpa (Executive Director)",
+    "what_they_do": "ONG 501(c)(3) creada en 2010 que gestiona el programa 'Forest Guardians': vigilancia comunitaria, restauración de bosque y ecoturismo en Nepal; gasto 2023: 960.586 USD.",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Prateek Shroff",
+    "nationality": "India (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.refocus-awards.com/entry/family-time",
+    "note": "Abogado y fotógrafo aficionado; foto de familia de pandas rojos en Singalila nominada en un concurso de 2025.",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Sourav Mondal",
+    "nationality": "India (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.natureinfocus.in/festival/awards/2017/a-streak-of-burnished-red",
+    "note": "Naturalista; imagen de panda rojo premiada en Nature inFocus 2017 (Wildscape & Animals in Their Habitat).",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Pelaje rojizo y cola anillada sobre musgo verde: color cálido, carita 'kawaii' muy vendible.",
+  "sources": [
+   "https://ielc.libguides.com/sdzg/factsheets/redpanda",
+   "https://www.belfastcity.gov.uk/Zoo/Our-animals/Mammals/Red-panda",
+   "https://redpandanetwork.org/Our-Team",
+   "https://causeiq.com/organizations/red-panda-network,261103671",
+   "https://news.mongabay.com/2025/07/the-forest-guardians-along-nepal-india-border-leading-red-panda-conservation/"
+  ]
+ },
+ {
+  "common_name_es": "Orangután de Borneo",
+  "scientific_name": "Pongo pygmaeus",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": "Indonesia, Malasia",
+  "region": "Isla de Borneo (Kalimantan, Sabah, Sarawak)",
+  "iucn_status": "Global: En Peligro Crítico (CR), 2016",
+  "population_estimate": "~104.700 (evaluación UICN 2016, basada en datos hasta 2012); otras fuentes 55.000–104.000",
+  "trend": "En fuerte declive; proyección de caída >55 % entre 1950 y 2025 (sin verificar fechas exactas)",
+  "taxonomy_note": "Tres subespecies: P. p. pygmaeus, P. p. wurmbii y P. p. morio.",
+  "foundations": [
+   {
+    "name": "Borneo Orangutan Survival UK",
+    "hq_country": "Reino Unido",
+    "hq_city": "Londres",
+    "website": "https://borneoorangutansurvival.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Charity 1144267 que apoya a la BOS Foundation de Indonesia (mayor ONG de orangutanes): rescate, rehabilitación, liberación y protección de hábitat con comunidades.",
+    "accepts_corporate_partners": "sí (sin verificar)"
+   },
+   {
+    "name": "Orangutan Foundation",
+    "hq_country": "Reino Unido",
+    "hq_city": "Londres",
+    "website": "https://www.orangutan.org.uk (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Charity 1095660 fundada en 1990; protege orangutanes y su bosque en Borneo (Kalimantan Central) con patrullas y restauración.",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Tim Laman",
+    "nationality": "Estadounidense",
+    "website": "https://www.timlaman.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.timlaman.com/projects/orangutans/",
+    "note": "Ganador absoluto Wildlife Photographer of the Year 2016 ('Entwined Lives', orangután de Borneo en Gunung Palung); trabaja con la primatóloga Cheryl Knott.",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Daniel Beltrá",
+    "nationality": "Española (Madrid; reside en Seattle)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.nhm.ac.uk/wpy/gallery/2010-the-last-cut",
+    "note": "Fotógrafo de conservación; documenta la deforestación por palma aceitera en Borneo (no consta obra de orangutanes): útil para piezas de hábitat.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Madre con cría colgada de lianas: mirada humana y color naranja intenso, muy emotivo.",
+  "sources": [
+   "https://www.orangutanssp.org/conservation.html",
+   "https://ielc.libguides.com/sdzg/factsheets/orangutans/population",
+   "https://opencharities.uk/ew/1144267",
+   "https://opencharities.uk/ew/1095660",
+   "https://www.timlaman.com/projects/orangutans/",
+   "https://www.worldpressphoto.org/people/daniel-beltr%C3%A1"
+  ]
+ },
+ {
+  "common_name_es": "Orangután de Tapanuli",
+  "scientific_name": "Pongo tapanuliensis",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": "Indonesia",
+  "region": "Ecosistema de Batang Toru, Tapanuli (Sumatra Septentrional)",
+  "iucn_status": "Global: En Peligro Crítico (CR), 2017",
+  "population_estimate": "Menos de 800 individuos (2017)",
+  "trend": "En declive; área de ~1.000 km² amenazada por una presa hidroeléctrica, minería y carreteras",
+  "taxonomy_note": "Descrita en 2017 como especie nueva (Nater et al.); el gran simio más amenazado del mundo.",
+  "foundations": [
+   {
+    "name": "PanEco Foundation / Sumatran Orangutan Conservation Programme (SOCP)",
+    "hq_country": "Suiza (PanEco); SOCP con sede en Medan, Indonesia",
+    "hq_city": "Berg am Irchel (sin verificar) / Medan",
+    "website": "https://paneco.ch",
+    "project_page_url": "https://paneco.ch/en/pongo/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Ian Singleton (fundador del SOCP en 2001; cargo actual sin verificar)",
+    "what_they_do": "Programa suizo-indonés (con YEL y la Sociedad Zoológica de Fráncfort) de rescate, reintroducción e investigación; Singleton coautor de la descripción del orangután de Tapanuli.",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Maxime Aliaga",
+    "nationality": "Francesa",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.canon.co.uk/pro/stories/maxime-aliaga-orangutan-project/",
+    "note": "Embajador Canon Europa; trabaja con el SOCP desde 2015 y fotografió al orangután de Tapanuli cuando se describió en 2017; libro 'Pongo' (2020); WPY 2021 (según perfil francés).",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Orangután de pelo más rizado y canela con barba: 'la especie más nueva y más rara', gran historia para la etiqueta.",
+  "sources": [
+   "https://ielc.libguides.com/sdzg/factsheets/orangutans/population",
+   "https://science.thewire.in/environment/new-endangered-species-orangutan-found-indonesia/",
+   "https://en.wikipedia.org/wiki/Sumatran_Orangutan_Conservation_Programme",
+   "https://www.canon.co.uk/pro/stories/maxime-aliaga-orangutan-project/",
+   "https://www.futura-sciences.com/planete/personnalites/planete-maxime-aliaga-1617/"
+  ]
+ },
+ {
+  "common_name_es": "Elefante asiático",
+  "scientific_name": "Elephas maximus",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": "India, Sri Lanka, Nepal, Bután, Bangladés, Myanmar, Tailandia, Laos, Camboya, Vietnam, Malasia, Indonesia, China",
+  "region": "Sur y Sudeste asiático",
+  "iucn_status": "Global: En Peligro (EN), 2020 (año sin verificar)",
+  "population_estimate": "40.000–50.000 en libertad (Elephant Family citando a la UICN; sin año)",
+  "trend": "En declive por fragmentación del hábitat, conflicto humano-elefante y furtivismo",
+  "taxonomy_note": "Subespecies reconocidas habitualmente: indio, de Sri Lanka, de Sumatra y de Borneo (este último en debate).",
+  "foundations": [
+   {
+    "name": "Elephant Family",
+    "hq_country": "Reino Unido",
+    "hq_city": "Londres",
+    "website": "https://elephant-family.org",
+    "project_page_url": "https://elephant-family.org/about-us/faqs/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "ONG británica nacida para el elefante asiático; crea corredores entre bosques en India y reduce el conflicto humano-fauna en Asia. (No se confirma que haya cambiado de nombre.)",
+    "accepts_corporate_partners": "sí (sin verificar)"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Manada cruzando un río o elefante con trompa alzada: silueta poderosa y reconocible, buena en monotinta.",
+  "sources": [
+   "https://elephant-family.org/about-us/faqs/",
+   "https://en.wikipedia.org/wiki/Elephant_Family"
+  ]
+ },
+ {
+  "common_name_es": "Rinoceronte indio",
+  "scientific_name": "Rhinoceros unicornis",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": "India, Nepal",
+  "region": "Llanuras aluviales del Brahmaputra y del Terai (Kaziranga, Chitwan, Manas, Jaldapara...)",
+  "iucn_status": "Global: Vulnerable (VU), 2018 (año sin verificar)",
+  "population_estimate": "~4.075 individuos (cifra de material divulgativo sobre el informe UICN/TRAFFIC 2025, sin verificar); objetivo de 4.500 para 2025 'en camino' según el Grupo de Especialistas en Rinocerontes Asiáticos",
+  "trend": "Creciente gracias a la protección en India y Nepal y a la reducción del furtivismo",
+  "taxonomy_note": "Rinoceronte de un cuerno, también llamado rinoceronte indio o de la India; piel con pliegues en forma de 'armadura'.",
+  "foundations": [
+   {
+    "name": "Save the Rhino International",
+    "hq_country": "Reino Unido",
+    "hq_city": "Londres (Long Lane, SE1)",
+    "website": "https://www.savetherhino.org",
+    "project_page_url": "https://www.savetherhino.org/asia/page/2",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "ONG británica que financia a socios en Asia y África para las cinco especies de rinoceronte; en India ha apoyado proyectos de hábitat en el PN Manas.",
+    "accepts_corporate_partners": "sí (sin verificar)"
+   },
+   {
+    "name": "David Shepherd Wildlife Foundation (DSWF)",
+    "hq_country": "Reino Unido",
+    "hq_city": "Londres (sin verificar)",
+    "website": "https://davidshepherd.org",
+    "project_page_url": "https://davidshepherd.org/category/wildlife/tigers/",
+    "contact_email": "no lo tengo",
+    "phone": "020 7227 7000 (registro de beneficencia vía opencharities, sin verificar)",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "ONG británica (charity 1106893) que financia proyectos de campo contra la caza furtiva y el tráfico de tigres, elefantes y rinocerontes en Asia y África.",
+    "accepts_corporate_partners": "sí (sin verificar)"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Rinoceronte 'acorazado' entre hierba alta y garcillas: textura única, historia de éxito de conservación.",
+  "sources": [
+   "https://pwonlyias.com/?p=175097",
+   "https://rhinoresourcecenter.com/wp-content/uploads/2025/11/2025-SSC-Species-065-350-AsRSG.pdf",
+   "https://www.savetherhino.org/asia/page/2"
+  ]
+ },
+ {
+  "common_name_es": "Rinoceronte de Java",
+  "scientific_name": "Rhinoceros sondaicus",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": "Indonesia",
+  "region": "Parque Nacional Ujung Kulon (extremo occidental de Java); única población",
+  "iucn_status": "Global: En Peligro Crítico (CR), 2020 (año sin verificar)",
+  "population_estimate": "~76 (estimación de 2024) pero posiblemente ~50 tras la ola de caza furtiva: hasta 26 muertos desde 2019 según la policía (2024)",
+  "trend": "Crítico: hubo nacimientos (4 en 2024), pero el furtivismo reciente amenaza la única población",
+  "taxonomy_note": "Extinto en Vietnam en 2010; una sola población en el mundo.",
+  "foundations": [
+   {
+    "name": "Save the Rhino International",
+    "hq_country": "Reino Unido",
+    "hq_city": "Londres (Long Lane, SE1)",
+    "website": "https://www.savetherhino.org",
+    "project_page_url": "https://www.savetherhino.org/rhino-species/javan-rhino",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Apoya patrullas de guardas y restauración de hábitat en el PN Ujung Kulon (Java).",
+    "accepts_corporate_partners": "sí (sin verificar)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Stephen Belcher",
+    "nationality": "no lo tengo",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://pachydermjournal.org/index.php/pachyderm/article/view/411",
+    "note": "Autor de una foto de portada de rinoceronte de Java en Ujung Kulon para la revista Pachyderm (usa canoa hinchable); premios sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Imagen rara de un rinoceronte en el barro de la selva: 'quedan menos de 80', mensaje muy potente.",
+  "sources": [
+   "https://www.thestar.com.my/aseanplus/aseanplus-news/2024/07/16/javan-rhino-clings-on-to-survival",
+   "https://a-z-animals.com/articles/from-76-to-50-what-the-latest-javan-rhino-numbers-tell-us-about-poaching-pressure/",
+   "https://www.savetherhino.org/rhino-species/javan-rhino",
+   "https://pachydermjournal.org/index.php/pachyderm/article/view/411"
+  ]
+ },
+ {
+  "common_name_es": "Gibón hoolock",
+  "scientific_name": "Hoolock spp. (H. hoolock, H. leuconedys, H. tianxing)",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": "India, Bangladés, Myanmar, China",
+  "region": "Noreste de India (Assam, Arunachal), este de Bangladés, Myanmar y Yunnan",
+  "iucn_status": "Global: H. hoolock (occidental) En Peligro (EN); H. leuconedys (oriental) Vulnerable (VU); años de evaluación sin verificar; en Bangladés se considera En Peligro Crítico a escala nacional",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive (gibón occidental) por fragmentación del bosque, caza e invasión de hábitat",
+  "taxonomy_note": "Género con 3 especies; H. tianxing (gibón de Skywalker) descrito en 2017; algunos evaluadores la incluyen aún en H. leuconedys.",
+  "foundations": [
+   {
+    "name": "Aaranyak",
+    "hq_country": "India",
+    "hq_city": "Guwahati, Assam",
+    "website": "https://aaranyak.org",
+    "project_page_url": "https://aaranyak.org/wp-content/uploads/2025/11/Press-Release-6.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "ONG india con un Centro de Conservación del Gibón (desde 2004) en el santuario Hollongapar; investigación y formación de guardas forestales de Assam y Arunachal.",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Gibón colgado de un brazo, macho negro con cejas blancas: silueta dinámica y original.",
+  "sources": [
+   "https://sentinelassam.com/north-east-india-news/assam-news/aaranyak-organized-a-training-programme-for-foresters-on-hoolock-gibbon-conservation",
+   "https://drishtiias.com/pdf/1690064019.pdf",
+   "https://www.dhakatribune.com/amp/science-technology-environment/environment/16941/bangladesh-s-hoolock-gibbons-are-critically",
+   "https://en.wikipedia.org/wiki/List_of_hominoids"
+  ]
+ },
+ {
+  "common_name_es": "Oso malayo",
+  "scientific_name": "Helarctos malayanus",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": "Malasia, Indonesia, Brunéi, Tailandia, Myanmar, Laos, Camboya, Vietnam, India, Bangladés, China",
+  "region": "Bosques tropicales del Sudeste asiático, Borneo y Sumatra",
+  "iucn_status": "Global: Vulnerable (VU), 2016 (año sin verificar)",
+  "population_estimate": "no lo tengo (no hay cifras fiables; un dato antiguo de ~10.000 está desfasado)",
+  "trend": "En declive por deforestación, caza para bilis/partes y comercio de mascotas",
+  "taxonomy_note": "El oso más pequeño del mundo; subespecie de Borneo H. m. euryspilus.",
+  "foundations": [
+   {
+    "name": "Bornean Sun Bear Conservation Centre (BSBCC)",
+    "hq_country": "Malasia",
+    "hq_city": "Sepilok, Sandakan (Sabah)",
+    "website": "https://www.bsbcc.org.my (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Dr. Wong Siew Te (fundador y CEO)",
+    "what_they_do": "Fundado en 2008 con el Departamento de Fauna de Sabah; rescata y rehabilita osos malayos y hace educación; abierto al público desde 2014.",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Jocelyn Stokes",
+    "nationality": "no lo tengo",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://college.lclark.edu/live/profiles/12660-jocelyn-stokes",
+    "note": "Bióloga de conservación, fotógrafa y cineasta cuyo trabajo reciente se centra en el oso malayo.",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Cede Prudente",
+    "nationality": "Malasia (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de fauna asentado en Sabah (fuente local, sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Oso negro con mancha dorada en el pecho en forma de sol: icono gráfico perfecto para estampar.",
+  "sources": [
+   "https://thestar.com.my/metro/metro-news/2024/08/10/threatened-and-near-extinction",
+   "https://en.wikipedia.org/wiki/Wong_Siew_Te",
+   "https://www.jacadatravel.com/one-man-saving-rare-bornean-sun-bear",
+   "https://etawau.com/understanding-tawau/wildlife/sun-bear_BM.html"
+  ]
+ },
+ {
+  "common_name_es": "Pangolín malayo",
+  "scientific_name": "Manis javanica",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": "Indonesia, Malasia, Tailandia, Vietnam, Camboya, Laos, Myanmar, Singapur, Brunéi, Filipinas (sin verificar)",
+  "region": "Sudeste asiático continental e insular (Sonda)",
+  "iucn_status": "Global: En Peligro Crítico (CR), 2019",
+  "population_estimate": "no lo tengo (no existen estimaciones regionales ni globales)",
+  "trend": "Declive >80 % en dos décadas por caza y tráfico (uno de los mamíferos más traficados)",
+  "taxonomy_note": "Pangolín de la Sonda; el de Palawan (M. culionensis) se separa como especie aparte.",
+  "foundations": [
+   {
+    "name": "Save Vietnam's Wildlife (SVW)",
+    "hq_country": "Vietnam",
+    "hq_city": "PN Cuc Phuong, Ninh Binh (sin verificar)",
+    "website": "https://www.svw.vn (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Nguyen Van Thai (fundador y director ejecutivo; Premio Goldman 2021)",
+    "what_they_do": "Fundada en 2014; rescata, rehabilita y libera pangolines (cerca de 1.600 rescatados) y lucha contra el tráfico.",
+    "accepts_corporate_partners": "unknown"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Paul Hilton",
+    "nationality": "Británico-australiano (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://nhm.ac.uk/wpy/gallery/2016-the-pangolin-pit",
+    "note": "'The Pangolin Pit' (4.000 pangolines decomisados en Indonesia) ganó Wildlife Photographer of the Year 2016 (fotoperiodismo); miembro de iLCP.",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Brent Stirton",
+    "nationality": "Sudafricana",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.worldpressphoto.org/collection/photo/2020/39645/10/Brent-Stirton",
+    "note": "'Pangolins in Crisis', 2º premio Naturaleza World Press Photo 2020.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Pangolín enrollado mostrando sus escamas: forma geométrica tipo alcachofa, muy gráfica y 'cool'.",
+  "sources": [
+   "https://globalconservation.org/endangered-species/sunda-pangolin",
+   "https://www.worldlandtrust.org/species/sunda-pangolin/",
+   "https://www.malaymail.com/news/life/2021/06/16/vietnams-pangolin-defender-wins-top-environmental-prize/1982545",
+   "https://vietnamnet.vn/en/43-sunda-pangolins-rescue-in-hoa-binh-E130433.html",
+   "https://nhm.ac.uk/wpy/gallery/2016-the-pangolin-pit"
+  ]
+ }
+]

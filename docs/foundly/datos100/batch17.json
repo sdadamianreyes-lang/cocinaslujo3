@@ -1,0 +1,858 @@
+[
+ {
+  "common_name_es": "Saola",
+  "scientific_name": "Pseudoryx nghetinhensis",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Vietnam",
+   "Laos"
+  ],
+  "region": "Cordillera Annamita (frontera Vietnam–Laos)",
+  "iucn_status": "Global: En peligro crítico (CR), 2016",
+  "population_estimate": "Evaluación UICN 2016: menos de 750 individuos, posiblemente menos de 100; en 2023 el Saola Working Group habla de unos 15–20 individuos (según Mekong Eye, sin verificar)",
+  "trend": "En declive",
+  "taxonomy_note": "Único miembro del género Pseudoryx (Bovidae); descrito en 1992/1993. Ningún ejemplar en cautividad confirmado.",
+  "foundations": [
+   {
+    "name": "Saola Working Group (IUCN SSC Asian Wild Cattle Specialist Group)",
+    "hq_country": "Internacional (Laos/Vietnam)",
+    "hq_city": "no lo tengo",
+    "website": "https://www.savethesaola.org",
+    "project_page_url": "https://www.savethesaola.org/swg/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "William Robichaud (coordinador según informe 2017; cargo actual sin verificar)",
+    "what_they_do": "Grupo de la UICN que coordina la búsqueda, protección del hábitat (retirada de trampas) y un plan 'One Plan' con cría en cautividad (centro en Bach Ma, Vietnam). Entre sus donantes figura el Zoo de Leipzig (Alemania).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Re:wild (antes Global Wildlife Conservation)",
+    "hq_country": "Estados Unidos",
+    "hq_city": "no lo tengo",
+    "website": "https://rewild.org",
+    "project_page_url": "https://rewild.org/press/world-saola-day-conservationists-aim-to-establish-first-breeding-program-for-asian-unicorn",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Socio del SWG; impulsa el primer programa de cría del saola y la conservación de la Annamita.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "El 'unicornio asiático': cuernos paralelos y máscara facial blanca, historia de misterio muy narrativa; mejor como ilustración.",
+  "sources": [
+   "https://www.savethesaola.org/swg/",
+   "https://www.iucn.org/content/saola-still-a-mystery-20-years-after-its-spectacular-debut",
+   "https://www.mekongeye.com/2023/09/25/the-search-for-worlds-last-asian-unicorns/",
+   "https://rewild.org/press/world-saola-day-conservationists-aim-to-establish-first-breeding-program-for-asian-unicorn",
+   "https://www.savethesaola.org/wp-content/uploads/2019/04/Saola-annual-report-2018.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Grulla de Manchuria",
+  "scientific_name": "Grus japonensis",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Japón",
+   "China",
+   "Corea del Sur",
+   "Corea del Norte",
+   "Rusia",
+   "Mongolia"
+  ],
+  "region": "Hokkaido (población residente); cuencas del Amur y Ussuri, invernada en Corea y costa de China",
+  "iucn_status": "Global: Vulnerable (VU), 2021",
+  "population_estimate": "Unos 3.822 individuos contados en zonas de invernada (Japón 1.900 en 2020, Corea 1.669, China 353), según BirdLife",
+  "trend": "En declive global; la población de Hokkaido en aumento (213 en 1973 a 1.900 en 2020–21)",
+  "taxonomy_note": "Segunda grulla más rara del mundo; la población de Hokkaido es sedentaria.",
+  "foundations": [
+   {
+    "name": "International Crane Foundation",
+    "hq_country": "Estados Unidos",
+    "hq_city": "Baraboo, Wisconsin",
+    "website": "https://savingcranes.org",
+    "project_page_url": "https://savingcranes.org/species/red-crowned-crane/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Rich Beilfuss (Presidente y CEO)",
+    "what_they_do": "Organización dedicada en exclusiva a las 15 especies de grulla; coordina esfuerzos globales para la grulla de Manchuria (censos, humedales en China, Corea y Rusia).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Vincent Munier",
+    "nationality": "Francesa",
+    "website": "https://www.photoby.fr/en/10-vincent-munier",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Autor del libro 'Tancho' (2004, con Zéno Bianu); pasó tres meses en Hokkaido fotografiando grullas de Manchuria en la nieve. Fotografía europea de altísimo nivel.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Grulla blanca y negra con corona roja bailando sobre la nieve: gráfica, minimalista, perfecta para camiseta.",
+  "sources": [
+   "https://datazone.birdlife.org/species/factsheet/red-crowned-crane-grus-japonensis/text",
+   "https://savingcranes.org/species/red-crowned-crane/",
+   "https://ielc.libguides.com/sdzg/factsheets/redcrownedcrane/population",
+   "https://en.wikipedia.org/wiki/Vincent_Munier",
+   "https://savingcranes.org/?p=2958"
+  ]
+ },
+ {
+  "common_name_es": "Cálao bicorne",
+  "scientific_name": "Buceros bicornis",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "India",
+   "Nepal",
+   "Bután",
+   "Myanmar",
+   "Tailandia",
+   "Laos",
+   "Camboya",
+   "Vietnam",
+   "Malasia",
+   "Indonesia (Sumatra)",
+   "China"
+  ],
+  "region": "Bosques tropicales del sur y sureste de Asia (Ghats Occidentales, Himalaya oriental, Indochina)",
+  "iucn_status": "Global: Vulnerable (VU), 2018 (sin verificar el año); en Nepal figura como Casi amenazado (sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive (sin verificar)",
+  "taxonomy_note": "Especie ancla del EEP de EAZA; 44 ejemplares en 15 instituciones europeas (nov. 2020).",
+  "foundations": [
+   {
+    "name": "Nature Conservation Foundation (NCF) – Hornbill Nest Adoption Programme",
+    "hq_country": "India",
+    "hq_city": "Mysore (sin verificar)",
+    "website": "https://www.ncf-india.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Programa de adopción de nidos en Pakke (Arunachal Pradesh): guardas locales vigilan nidos; apoyado por EAZA y el Zoo de Berlín.",
+    "accepts_corporate_partners": "Sí: acepta patrocinios de nidos (sin verificar)"
+   },
+   {
+    "name": "Hornbill Research Foundation",
+    "hq_country": "Tailandia",
+    "hq_city": "Bangkok (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "https://www.speciesonthebrink.org/partners/hornbill-research-foundation",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Sostiene el Thailand Hornbill Project: investigación, adopción de nidos y formación de guardas; socio del EEP de EAZA.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Dhanu Paran",
+    "nationality": "India",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://nhm.ac.uk/wpy/gallery/2017-hornbill-losing-patience",
+    "note": "Premiado en Wildlife Photographer of the Year 2017 ('Hornbill losing patience', Anaimalai, Tamil Nadu).",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Lisiqi Ye",
+    "nationality": "no lo tengo",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/ive-spent-days-in-a-hide-17-year-old-photographer-globally-recognized-for-amazing-image-of-great-hornbill-in-flight",
+    "note": "Youth Photographer of the Year en Nature's Best 2025 con 'Great Hornbill in Flight'.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Casco amarillo enorme y alas blancas y negras en vuelo: silueta icónica y colorida.",
+  "sources": [
+   "https://eaza.net/conservation/programmes/eep-pages/great-hornbill-eep",
+   "https://www.zoo-berlin.de/en/species-conservation/worldwide/hornbill",
+   "https://www.speciesonthebrink.org/partners/hornbill-research-foundation",
+   "https://datazone.birdlife.org/species/factsheet/great-hornbill-buceros-bicornis/refs",
+   "https://nhm.ac.uk/wpy/gallery/2017-hornbill-losing-patience"
+  ]
+ },
+ {
+  "common_name_es": "Dragón de Komodo",
+  "scientific_name": "Varanus komodoensis",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Indonesia"
+  ],
+  "region": "Islas de Komodo, Rinca, Gili Motang, Nusa Kode y oeste/norte de Flores (Nusa Tenggara Oriental)",
+  "iucn_status": "Global: En peligro (EN), 2021",
+  "population_estimate": "Unos 3.500 individuos, ~1.400 maduros, en 8 subpoblaciones (Jessop et al. 2021)",
+  "trend": "Estable en el P.N. de Komodo; en riesgo en Flores",
+  "taxonomy_note": "Mayor lagarto del mundo; la UICN prevé reducción del hábitat del 30 % en 45 años por subida del mar.",
+  "foundations": [
+   {
+    "name": "Komodo Survival Program (KSP)",
+    "hq_country": "Indonesia",
+    "hq_city": "Denpasar, Bali (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "https://www.chesterzoo.org/conservation-science-education/global-conservation-programmes/south-east-asian-islands/conserving-komodo-dragons",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "ONG indonesia única dedicada solo al dragón: estación de investigación en Flores, fototrampeo, talleres comunitarios y salarios de guardas; financiada vía EAZA.",
+    "accepts_corporate_partners": "Sí (financiación de zoos europeos)"
+   },
+   {
+    "name": "Fundació Zoo de Barcelona (colaboración con KSP desde 2005)",
+    "hq_country": "España",
+    "hq_city": "Barcelona",
+    "website": "https://zoobarcelona.cat",
+    "project_page_url": "https://zoobarcelona.cat/en/node/1136",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Socio español del KSP desde 2005; organizó el Simposio Internacional del Dragón de Komodo 2020. Chester Zoo (Reino Unido) gestiona el EEP.",
+    "accepts_corporate_partners": "Sí (sin verificar)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Andrey Gudkov",
+    "nationality": "Rusa",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://amateurphotographer.com/latest/photo-news/russian-who-nailed-dream-shot-of-duelling-dragons-battles-for-wildlife-photographer-of-the-year-glory",
+    "note": "Finalista Wildlife Photographer of the Year 2015 con 'Komodo Judo' (dos machos luchando).",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Tom Way",
+    "nationality": "Británica (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.horniman.ac.uk/story/about-the-art-tom-way/",
+    "note": "Aparece asociado a fotos de dragón de Komodo (sin verificar la especie exacta).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Un dragón real: textura de escamas, lengua bífida y pose prehistórica de gran fuerza visual.",
+  "sources": [
+   "https://ielc.libguides.com/sdzg/factsheets/komododragon/population",
+   "https://www.chesterzoo.org/conservation-science-education/global-conservation-programmes/south-east-asian-islands/conserving-komodo-dragons",
+   "https://zoobarcelona.cat/en/node/1136",
+   "https://aquatis.ch/en/conservation/komodo-dragon",
+   "https://www.thejakartapost.com/news/2021/09/17/endangered-status-should-spur-komodo-dragon-protection-activists"
+  ]
+ },
+ {
+  "common_name_es": "Loris perezoso",
+  "scientific_name": "Nycticebus spp.",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Indonesia",
+   "Malasia",
+   "Tailandia",
+   "Vietnam",
+   "Laos",
+   "Camboya",
+   "Myanmar",
+   "India",
+   "Bangladesh",
+   "China",
+   "Filipinas"
+  ],
+  "region": "Sur y sureste de Asia; ej. Java (N. javanicus)",
+  "iucn_status": "Global: varía por especie; N. javanicus En peligro crítico (CR) (año sin verificar); el resto entre Vulnerable y En peligro (sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive (comercio ilegal de mascotas y medicina tradicional)",
+  "taxonomy_note": "Género con ~9 especies; único primate venenoso. Usar una especie concreta (p. ej. loris de Java) en la ficha final.",
+  "foundations": [
+   {
+    "name": "Little Fireface Project",
+    "hq_country": "Indonesia / Reino Unido (Oxford Brookes University)",
+    "hq_city": "Cipaganti, Java Occidental / Oxford",
+    "website": "https://www.nocturama.org",
+    "project_page_url": "https://brookes.ac.uk/research/units/hss/projects/slow-loris-conservation",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Prof. Anna Nekaris (Oxford Brookes)",
+    "what_they_do": "Investigación ecológica a largo plazo (desde 2011), educación comunitaria, restauración de hábitat y campaña S.L.O.W. contra el comercio ilegal.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "International Animal Rescue (IAR)",
+    "hq_country": "Reino Unido",
+    "hq_city": "no lo tengo (sede central en Reino Unido)",
+    "website": "https://www.internationalanimalrescue.org",
+    "project_page_url": "https://www.internationalanimalrescue.org/projects/slow-loris",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Alan Knight (CEO según nota antigua, sin verificar actual)",
+    "what_they_do": "Centro de rescate y rehabilitación de primates en Ciapus (Bogor, Java), el principal para loris en Indonesia; rescata, rehabilita y libera.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Andrew Walmsley",
+    "nationality": "Británica (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.inkl.com/news/bridge-over-troubled-forests-how-java-s-slow-lorises-are-creeping-back",
+    "note": "Fotógrafo de primates que documenta el trabajo del Little Fireface Project (loris de Java).",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Ojos enormes y máscara facial: ternura inmediata, ideal para mensaje contra el tráfico de mascotas.",
+  "sources": [
+   "https://brookes.ac.uk/research/units/hss/projects/slow-loris-conservation",
+   "https://speciesonthebrink.org/partners/little-fireface-project",
+   "https://www.internationalanimalrescue.org/projects/slow-loris",
+   "https://internationalanimalrescue.org/news/twenty-four-rescued-slow-lorises-arrive-safely-iars-centre-ciapus"
+  ]
+ },
+ {
+  "common_name_es": "Gaur",
+  "scientific_name": "Bos gaurus",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "India",
+   "Nepal",
+   "Bután",
+   "Myanmar",
+   "Tailandia",
+   "Camboya",
+   "Laos",
+   "Vietnam",
+   "Malasia",
+   "China"
+  ],
+  "region": "Bosques del sur y sureste de Asia; bastión en India",
+  "iucn_status": "Global: Vulnerable (VU), 2016",
+  "population_estimate": "Máximo de unos 21.000 individuos maduros (2016), mayoría en India",
+  "trend": "Estable o en aumento en India; en declive en el sudeste asiático continental",
+  "taxonomy_note": "Mayor bóvido salvaje del mundo; extinto en Sri Lanka y probablemente en Bangladesh.",
+  "foundations": [
+   {
+    "name": "WWF – Species Conservation Project (Annamitas y Bosques Secos)",
+    "hq_country": "Suiza (WWF Internacional)",
+    "hq_city": "Gland",
+    "website": "https://wwf.panda.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Protege poblaciones viables de gaur y grandes mamíferos en Camboya y la Annamita mediante gestión forestal y seguimiento de fauna.",
+    "accepts_corporate_partners": "Sí"
+   },
+   {
+    "name": "Rising Phoenix (Siem Pang Wildlife Sanctuary)",
+    "hq_country": "Camboya",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Proyecto 2024–2025 en Siem Pang sobre banteng, gaur y sambar: vacunación del ganado para evitar contagios a ungulados salvajes (sin verificar).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Toro salvaje masivo con 'calcetines' blancos y testuz musculosa: imagen de fuerza.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gaur",
+   "https://d2ouvy59p0dg6k.cloudfront.net/downloads/10gafactsheete.pdf",
+   "https://iucnsos.org/?p=8094"
+  ]
+ },
+ {
+  "common_name_es": "Camello bactriano salvaje",
+  "scientific_name": "Camelus ferus",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "China",
+   "Mongolia"
+  ],
+  "region": "Desierto de Gobi: Lop Nur y Taklamakán (Xinjiang, China) y Gran Gobi A (suroeste de Mongolia)",
+  "iucn_status": "Global: En peligro crítico (CR), 2008 (año sin verificar)",
+  "population_estimate": "Unos 950 individuos (Oryx, 2022)",
+  "trend": "En declive",
+  "taxonomy_note": "Especie distinta del camello bactriano doméstico (Camelus bactrianus), no subespecie; el nombre común genera confusión.",
+  "foundations": [
+   {
+    "name": "Wild Camel Protection Foundation (WCPF)",
+    "hq_country": "Reino Unido",
+    "hq_city": "no lo tengo",
+    "website": "https://www.wildcamels.com",
+    "project_page_url": "https://www.wildcamels.com/about-us/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Organización benéfica británica (1997) dedicada solo al camello salvaje: Reserva Nacional de Lop Nur y único centro de cría de camello salvaje (Mongolia). Fundada por John Hare (†2022) y Kathryn Rae.",
+    "accepts_corporate_partners": "Sí (sin verificar)"
+   },
+   {
+    "name": "Wild Camel Protection Foundation Mongolia",
+    "hq_country": "Mongolia",
+    "hq_city": "Ulán Bator (sin verificar)",
+    "website": "https://www.wildcamels.com",
+    "project_page_url": "https://www.wildcamels.com/urgent-crowdfunding-for-the-worlds-only-wild-camel-breeding-centre-launched/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Dra. Adiya Yadamsuren (fundadora y directora)",
+    "what_they_do": "Gestiona el centro de cría de Zakhyn Us y trabajo de campo en Gran Gobi.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Adiya Yadamsuren",
+    "nationality": "Mongola",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.cms.int/sites/default/files/publication/WildCamel_GreatGobi_MNG.pdf",
+    "note": "Autora de la mayoría de fotos de la WCPF; es científica-conservacionista, no fotógrafa profesional.",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Eric Dragesco",
+    "nationality": "Francesa (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.nationalgeographic.com/animals/article/160215-wild-camels-mongolia-conservation-gobi-desert-lop-nur",
+    "note": "Foto de camello salvaje en Gobi publicada en National Geographic.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Dos jorobas en silueta sobre dunas del Gobi: composición limpia y épica.",
+  "sources": [
+   "https://www.wildcamels.com/about-us/",
+   "https://phaidra.vetmeduni.ac.at/o:2694",
+   "https://en.wikipedia.org/wiki/John_Hare_(conservationist)",
+   "https://www.cms.int/sites/default/files/publication/WildCamel_GreatGobi_MNG.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Antílope saiga",
+  "scientific_name": "Saiga tatarica",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Kazajistán",
+   "Rusia (Kalmukia)",
+   "Mongolia",
+   "Uzbekistán"
+  ],
+  "region": "Estepas de Asia Central y Caspio",
+  "iucn_status": "Global: Casi amenazado (NT), 2023 (antes En peligro crítico)",
+  "population_estimate": "Kazajistán: 2.833.600 antes de partos (censo abril 2024); unos 4 millones según el ministro kazajo (2024); global ~1,9 millones (UICN, dic. 2023)",
+  "trend": "En aumento fuerte en Kazajistán; frágil en Rusia, Mongolia y Uzbekistán",
+  "taxonomy_note": "La subespecie de Mongolia (S. t. mongolica) a veces tratada aparte; Kazajistán alberga ~99 % de la población.",
+  "foundations": [
+   {
+    "name": "Saiga Conservation Alliance (SCA)",
+    "hq_country": "Reino Unido",
+    "hq_city": "Oxford (sin verificar)",
+    "website": "https://saiga-conservation.org",
+    "project_page_url": "https://saiga-conservation.org/projects/projects-in-russia/page/9/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Prof. E.J. Milner-Gulland (fundadora y presidenta, Univ. Oxford)",
+    "what_they_do": "Red de investigadores y conservacionistas de todos los países del rango: pequeñas becas, educación, premios a guardas.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Altyn Dala Conservation Initiative (ACBK / Frankfurt Zoological Society / RSPB)",
+    "hq_country": "Kazajistán / Alemania / Reino Unido",
+    "hq_city": "Astaná (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Iniciativa que impulsó la recuperación de la saiga en Kazajistán; con socios europeos (sin verificar detalle).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Igor Shpilenok",
+    "nationality": "Rusa",
+    "website": "https://shpilenok.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://shpilenok.com/t/37-",
+    "note": "Fotografió saigas y crías en la reserva Cherniye Zemli (Kalmukia); ganador en Wildlife Photographer of the Year (según fuente secundaria).",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Nariz de trompa inconfundible y manadas sobre la estepa: rareza que despierta curiosidad.",
+  "sources": [
+   "https://newsroom.wcs.org/News-Releases/articleType/ArticleView/articleId/21627/Unprecedented-Conservation-Triumph-Saiga-Antelope-Reclassified-From-Critically-Endangered-to-Near-Threatened-in-the-IUCN-Red-List-of-Threatened-Species.aspx",
+   "https://timesca.com/kazakhstan-reports-another-big-jump-in-saiga-antelope-numbers/",
+   "https://timesca.com/kazakhstan-now-home-to-99-of-the-worlds-saiga-population/",
+   "https://iccs.org.uk/?p=1045",
+   "https://www.russianlife.com/magazine/may-june-2014/field-of-dreams/"
+  ]
+ },
+ {
+  "common_name_es": "Gavial",
+  "scientific_name": "Gavialis gangeticus",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "India",
+   "Nepal"
+  ],
+  "region": "Ríos del norte de India (Chambal, Girwa, Son) y Nepal (Narayani, Rapti)",
+  "iucn_status": "Global: En peligro crítico (CR), 2007 (fecha de la lista, sin verificar reevaluación)",
+  "population_estimate": "Menos de 200 adultos reproductores (CSG, 2006–2010); fuentes no oficiales citan ~650–900 adultos en 2024 (sin verificar)",
+  "trend": "Posible ligera recuperación en Chambal (sin verificar); declive >80 % desde los años 40",
+  "taxonomy_note": "Único miembro vivo de Gavialidae; el macho tiene un 'ghara' (protuberancia) en el hocico.",
+  "foundations": [
+   {
+    "name": "Madras Crocodile Bank Trust (Centre for Herpetology)",
+    "hq_country": "India",
+    "hq_city": "Mamallapuram, Tamil Nadu",
+    "website": "https://madrascrocodilebank.org",
+    "project_page_url": "https://madrascrocodilebank.org/history",
+    "contact_email": "no lo tengo",
+    "phone": "+91-44-27472447 (fuente secundaria, sin verificar)",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Cría en cautividad y suelta, investigación y educación; impulsó la Gharial Conservation Alliance, hoy Gharial Ecology Project.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Gharial Ecology Project (antes Gharial Conservation Alliance)",
+    "hq_country": "India",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Jeffrey W. Lang (científico principal, sin verificar cargo)",
+    "what_they_do": "Colectivo de expertos en cocodrilos: censos, seguimiento por telemetría en el Chambal, educación.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Dhritiman Mukherjee",
+    "nationality": "India",
+    "website": "https://dhritiman.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.popsci.com/story/science/gharial-photo-megapixels/",
+    "note": "Foto 'Highly Commended' en WPY 2020: macho de gavial con más de 100 crías en el Chambal.",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Udayan Rao Pawar",
+    "nationality": "India",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://nhm.ac.uk/wpy/gallery/2013-mothers-little-headful",
+    "note": "Young Wildlife Photographer of the Year 2013 con 'Mother's little headful' (Chambal).",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Hocico larguísimo y fino con dientes: forma gráfica única; la foto del padre con crías es pura narrativa.",
+  "sources": [
+   "https://www.iucncsg.org/365_docs/attachments/protarea/23_G-6764939a.pdf",
+   "https://en.wikipedia.org/wiki/Madras_Crocodile_Bank_Trust",
+   "https://www.speciesconservation.org/small-grant/gharial/4253",
+   "https://nhm.ac.uk/wpy/gallery/2013-mothers-little-headful",
+   "https://www.theweek.in/theweek/leisure/2020/12/24/crocs-and-conservation.html"
+  ]
+ },
+ {
+  "common_name_es": "Mono narigudo",
+  "scientific_name": "Nasalis larvatus",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Malasia (Sabah, Sarawak)",
+   "Indonesia (Kalimantan)",
+   "Brunéi"
+  ],
+  "region": "Borneo: manglares y bosques ribereños (p. ej. bajo Kinabatangan, Sabah)",
+  "iucn_status": "Global: En peligro (EN), año sin verificar",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive (sin verificar)",
+  "taxonomy_note": "Endémico de Borneo; única especie del género Nasalis.",
+  "foundations": [
+   {
+    "name": "Danau Girang Field Centre (Sabah Wildlife Department y Universidad de Cardiff)",
+    "hq_country": "Malasia / Reino Unido",
+    "hq_city": "Kinabatangan, Sabah",
+    "website": "no lo tengo",
+    "project_page_url": "https://news.mongabay.com/2011/07/pictures-researchers-to-track-proboscis-monkey-in-borneo-by-satellite/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Dr. Benoit Goossens (director)",
+    "what_they_do": "Programa de conservación del narigudo: seguimiento satelital, demografía, genética y salud; base para el Plan de Acción de Sabah.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Antonio Liébana Navarro",
+    "nationality": "Española (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://naturephotographeroftheyear.com/previous-editions/npoty-2024-results/antonio-liebana-navarro-taking-care-of-the-male-highly-commended-category-animal-portraits/",
+    "note": "Mención en Nature Photographer of the Year 2024 con foto en Danum Valley (Borneo); no confirmado que sea narigudo.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Nariz colgante cómica y barriga: expresión carismática con humor, muy vendible.",
+  "sources": [
+   "https://wildsingaporenews.blogspot.com/2017/02/malaysia-protecting-proboscis-monkeys.html",
+   "https://yayasansimedarby.com/media/yayasan-sime-darby-contributes-rm15-million-to-the-proboscis-monkey-conservation-programme-in-sabah",
+   "https://news.mongabay.com/2011/07/pictures-researchers-to-track-proboscis-monkey-in-borneo-by-satellite/"
+  ]
+ },
+ {
+  "common_name_es": "Langur dorado",
+  "scientific_name": "Trachypithecus geei",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "India (Assam)",
+   "Bután"
+  ],
+  "region": "Región entre los ríos Manas, Sankosh y Brahmaputra (Assam y centro-sur de Bután)",
+  "iucn_status": "Global: En peligro (EN), año sin verificar",
+  "population_estimate": "7.396 individuos en India según el último censo (fuente secundaria, año sin verificar)",
+  "trend": "En declive / fragmentado (sin verificar)",
+  "taxonomy_note": "Protegido en la Lista I de la Ley de Protección de Fauna de India (1972).",
+  "foundations": [
+   {
+    "name": "Wildlife Trust of India (WTI) – con IFAW",
+    "hq_country": "India",
+    "hq_city": "Noida (sin verificar)",
+    "website": "https://www.wti.org.in",
+    "project_page_url": "https://www.wti.org.in/news/seven-golden-langurs-seized/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Rescate y suelta de langures decomisados; proyecto de hábitat en Chirang con la ONG local New Horizon. IFAW tiene oficinas en Europa.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Dhritiman Mukherjee",
+    "nationality": "India",
+    "website": "https://dhritiman.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo indio de referencia en el noreste; no confirmado que tenga galería del langur dorado.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Pelaje dorado-crema brillante entre el verde: color muy llamativo para estampado.",
+  "sources": [
+   "https://www.wti.org.in/news/seven-golden-langurs-seized/",
+   "https://worldanimalnews.com/2026/08/07/seven-endangered-golden-langurs-returned-to-the-wild-after-wildlife-trafficking-rescue-in-india/",
+   "https://bioone.org/journals/primate-conservation/volume-2013/issue-27/052.027.0104/Conservation-and-the-Current-Status-of-the-Golden-Langur/10.1896/052.027.0104.short",
+   "https://greenminute.in/2025/04/07/saving-golden-langurs-in-assam-experts-devise-a-roadmap/"
+  ]
+ },
+ {
+  "common_name_es": "Yak salvaje",
+  "scientific_name": "Bos mutus",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "China (Tíbet, Qinghai, Xinjiang)",
+   "India (Ladakh, ocasional)"
+  ],
+  "region": "Meseta tibetana (Chang Tang, Arjin Shan, Kekexili)",
+  "iucn_status": "Global: Vulnerable (VU), 2008",
+  "population_estimate": "Máximo de unos 10.000 individuos maduros (UICN 2008)",
+  "trend": "En declive (sin verificar); hibridación con yak doméstico",
+  "taxonomy_note": "Antepasado del yak doméstico; existe una forma 'yak dorado' reconocida en China (~170 ejemplares).",
+  "foundations": [
+   {
+    "name": "Wildlife Conservation Society (WCS) – Programa China",
+    "hq_country": "Estados Unidos / China",
+    "hq_city": "Nueva York / Pekín",
+    "website": "https://china.wcs.org",
+    "project_page_url": "https://china.wcs.org/News/Latest-News/articleType/ArticleView/articleId/1139/New_hope_for_the_Tibetan_wild_yak.aspx",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Investigación y conservación en Changtang: reducir conflictos con pastores, separar yaks domésticos y salvajes y zonas tampón de 10 km (proyecto apoyado por IUCN SOS).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Vincent Munier",
+    "nationality": "Francesa",
+    "website": "https://www.photoby.fr/en/10-vincent-munier",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.2e-bureau.com/wp-content/uploads/2021/07/MUNIER_Vincent_Visa2021.pdf",
+    "note": "Fotografía de yak salvaje cargando en Qinghai (expo Visa pour l'Image 2021); libros 'Tibet: Minéral animal' (2018).",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Silueta negra y peluda sobre el blanco de la meseta: dramática y gráfica.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wild_yak",
+   "https://china.wcs.org/News/Latest-News/articleType/ArticleView/articleId/1139/New_hope_for_the_Tibetan_wild_yak.aspx",
+   "https://iucnsos.org/projects/community-based-program-to-conserve-the-wild-yak-in-tibet/",
+   "https://www.2e-bureau.com/wp-content/uploads/2021/07/MUNIER_Vincent_Visa2021.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Rafflesia",
+  "scientific_name": "Rafflesia arnoldii",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Indonesia (Sumatra)",
+   "Malasia (sin verificar)"
+  ],
+  "region": "Selvas de Sumatra (Bengkulu, Sumatra Occidental)",
+  "iucn_status": "Global: No evaluada en la Lista Roja (solo R. magnifica figura); estudio 2023 con criterios UICN: de 42 especies de Rafflesia, 25 CR, 15 EN, 2 VU",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive (sin verificar); 67 % del hábitat del género sin protección",
+  "taxonomy_note": "Planta parásita de lianas Tetrastigma; mayor flor individual del mundo.",
+  "foundations": [
+   {
+    "name": "Oxford Botanic Garden & Arboretum (Universidad de Oxford)",
+    "hq_country": "Reino Unido",
+    "hq_city": "Oxford",
+    "website": "https://www.obga.ox.ac.uk",
+    "project_page_url": "https://www.ox.ac.uk/news/2023-09-21-researchers-issue-urgent-call-save-world-s-largest-flower-rafflesia-extinction",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Dr. Chris Thorogood (subdirector)",
+    "what_they_do": "Lidera con socios del sudeste asiático la llamada urgente a conservar Rafflesia; investigación y propagación.",
+    "accepts_corporate_partners": "no lo tengo (institución universitaria)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Andika Putra",
+    "nationality": "Indonesia",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://photocompetition24.cifor-icraf.org/photos/rafflesia-arnoldii-1/",
+    "note": "Foto de R. arnoldii en Batang Palupuah (Sumatra Occidental), concurso CIFOR-ICRAF 2024.",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Maizal Maizal",
+    "nationality": "Indonesia (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://photocontest.smithsonianmag.com/photocontest/detail/rafflesia-flower/",
+    "note": "Entrada en el concurso de Smithsonian Magazine (Agam, julio 2024).",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Flor gigante roja con motas blancas: patrón casi abstracto, muy original y fuera de lo típico animal.",
+  "sources": [
+   "https://www.ox.ac.uk/news/2023-09-21-researchers-issue-urgent-call-save-world-s-largest-flower-rafflesia-extinction",
+   "https://www.sciencedaily.com/releases/2023/09/230920013557.htm",
+   "https://photocompetition24.cifor-icraf.org/photos/rafflesia-arnoldii-1/"
+  ]
+ },
+ {
+  "common_name_es": "Takin",
+  "scientific_name": "Budorcas taxicolor",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Bután",
+   "India",
+   "China",
+   "Myanmar"
+  ],
+  "region": "Himalaya oriental y montañas de Sichuan, Shaanxi y Gansu",
+  "iucn_status": "Global: Vulnerable (VU), 2008",
+  "population_estimate": "Entre 7.000 y 12.000 individuos (estimación, San Diego Zoo; sin censos fiables)",
+  "trend": "En declive (sin verificar)",
+  "taxonomy_note": "Varias subespecies (dorado, de Sichuan, de Bután, de Mishmi); animal nacional de Bután. Algunos autores separan especies.",
+  "foundations": [
+   {
+    "name": "no lo tengo",
+    "hq_country": "no lo tengo",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Sin fundación específica identificada en esta pasada; candidatas a verificar: WWF Bután, Royal Society for Protection of Nature (Bután) o programa EEP de EAZA.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Cara de 'alce-cabra' dorada y robusta, curiosa y simpática; poco vista en moda.",
+  "sources": [
+   "https://ielc.libguides.com/sdzg/factsheets/takin/population",
+   "https://en.wikipedia.org/wiki/Bhutan_takin"
+  ]
+ },
+ {
+  "common_name_es": "Pavo real verde",
+  "scientific_name": "Pavo muticus",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Myanmar",
+   "Tailandia",
+   "Laos",
+   "Camboya",
+   "Vietnam",
+   "China (Yunnan)",
+   "Indonesia (Java)"
+  ],
+  "region": "Bosques secos y ribereños del sudeste asiático y Java",
+  "iucn_status": "Global: En peligro (EN), 2018",
+  "population_estimate": "10.000–19.999 individuos maduros (15.000–30.000 en total), estimación de baja calidad (BirdLife)",
+  "trend": "En declive",
+  "taxonomy_note": "Tres subespecies (muticus, imperator, spicifer); extinto en gran parte de su antiguo rango.",
+  "foundations": [
+   {
+    "name": "World Pheasant Association (WPA)",
+    "hq_country": "Reino Unido",
+    "hq_city": "no lo tengo",
+    "website": "https://www.pheasant.org.uk",
+    "project_page_url": "https://www.pheasant.org.uk/conservation.aspx",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "ONG europea de galliformes: proyectos de campo en Vietnam (CEPF), apoyo al Grupo de Especialistas en Galliformes de la UICN y cría en cautividad para repatriación.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Joel Sartore (Photo Ark)",
+    "nationality": "Estadounidense",
+    "website": "https://www.joelsartore.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.joelsartore.com/keyword/peafowl/",
+    "note": "Retrato de estudio de pavo real verde en Photo Ark; alternativa no europea.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Plumaje verde-bronce metálico y cola en abanico: lujo visual y colorido.",
+  "sources": [
+   "https://datazone.birdlife.org/species/factsheet/green-peafowl-pavo-muticus/text",
+   "https://www.pheasant.org.uk/conservation.aspx",
+   "https://www.iucn.org/sites/default/files/2023-11/2018-galliformes-sg-report-publication.pdf",
+   "https://cepf.net/resources/final-project-report/final-project-report-2083"
+  ]
+ }
+]

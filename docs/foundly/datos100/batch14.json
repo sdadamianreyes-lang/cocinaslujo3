@@ -1,0 +1,909 @@
+[
+ {
+  "common_name_es": "Yaguareté (jaguar)",
+  "scientific_name": "Panthera onca",
+  "continent": "América",
+  "countries": "Argentina (foco); distribución desde México hasta el norte de Argentina",
+  "region": "Selva Paranaense (Misiones), Esteros del Iberá (Corrientes, reintroducido), Yungas y Gran Chaco",
+  "iucn_status": "Global: Casi amenazado (NT), 2017 (año sin verificar). Argentina: En Peligro Crítico (CR) a nivel nacional (sin verificar en esta pasada); Monumento Natural Nacional",
+  "population_estimate": "Misiones/Corredor Verde: media de 84 individuos (rango 64–110), censo 2024 publicado en junio 2025 (Proyecto Yaguareté CeIBA-CONICET + Onças do Iguaçu). Iberá: unos 50 en libertad según Rewilding Argentina (mayo 2026). Total país: notas antiguas citan 200–250 (sin verificar)",
+  "trend": "Mixta: en descenso en Misiones (105 en 2018 → 84 en 2024); en aumento en Iberá por reintroducción",
+  "taxonomy_note": "Mayor felino de América; extinto en Iberá durante ~70 años hasta la reintroducción.",
+  "foundations": [
+   {
+    "name": "Fundación Rewilding Argentina",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires",
+    "website": "https://www.rewildingargentina.org",
+    "project_page_url": "https://rewildingargentina.org/wp-content/uploads/2021/08/Proyecto-de-liberación-de-yaguareté-en-Iberá.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "+54 11 4807 3976 (general, según web oficial); prensa +54 9 11 3038 2684",
+    "director_or_president": "Sofía Heinonen (citada como líder en el informe anual 2019; cargo actual sin verificar)",
+    "what_they_do": "Reintroducción del yaguareté en el Parque Iberá desde 2021; nacimientos silvestres y monitoreo con cámaras trampa.",
+    "accepts_corporate_partners": "Sí, probable: trabaja con aliados como Entidad Binacional Yacyretá (sin verificar política formal)"
+   },
+   {
+    "name": "Red Yaguareté",
+    "hq_country": "Argentina",
+    "hq_city": "no lo tengo",
+    "website": "https://www.redyaguarete.org.ar (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Nicolás Lodeiro Ocampo (director ejecutivo, según Misiones Online)",
+    "what_they_do": "ONG argentina dedicada a la conservación del yaguareté y sus hábitats; denuncia de caza y concientización.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Sebastián Navajas",
+    "nationality": "Argentina (Corrientes)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://es.mongabay.com/2025/10/sebastian-navajas-jaguar-finalista-wildlife-photographer-of-the-year-entrevista/",
+    "note": "Finalista Wildlife Photographer of the Year 2025 con serie de 10 fotos sobre la reintroducción del yaguareté en Iberá; trabajó 3 años con Rewilding Argentina. Biólogo (UBA).",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Matías Rebak",
+    "nationality": "Argentina (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Crédito de fotos de yaguaretés silvestres en el Parque Iberá en web de Rewilding Argentina (2021); trayectoria sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "La roseta del yaguareté sobre fondo verde selva es icónica y reconocible; símbolo del rewilding argentino.",
+  "sources": [
+   "https://misionesonline.net/2025/06/24/nuevo-relevamiento-yaguaretes/",
+   "https://economiasustentable.com/noticias/yaguaretes-en-peligro-alertan-por-una-nueva-caida-en-su-poblacion-en-misiones/amp/",
+   "https://www.unep.org/en/news-and-stories/story/rewilding-sees-jaguars-return-argentinas-wetlands",
+   "https://es.mongabay.com/2025/10/sebastian-navajas-jaguar-finalista-wildlife-photographer-of-the-year-entrevista/",
+   "https://rewildingargentina.org/?p=366"
+  ],
+  "category": "América"
+ },
+ {
+  "common_name_es": "Puma",
+  "scientific_name": "Puma concolor",
+  "continent": "América",
+  "countries": "Desde Canadá hasta el sur de Argentina y Chile",
+  "region": "Patagonia argentina (estepa), Andes, Misiones y gran parte del país",
+  "iucn_status": "Global: Preocupación menor (LC), 2013 según fuente indirecta (verificar evaluación vigente)",
+  "population_estimate": "no lo tengo",
+  "trend": "Recolonizando la Patagonia en las últimas décadas tras su erradicación a mediados del s. XX; persecución por conflicto con ganadería ovina",
+  "taxonomy_note": "Segundo felino más grande de América; caza legal en algunas provincias patagónicas genera controversia (2024).",
+  "foundations": [
+   {
+    "name": "WCS Argentina (Wildlife Conservation Society)",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires (sin verificar)",
+    "website": "https://argentina.wcs.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Andrés Novaro (citado como director en la fuente; cargo sin verificar)",
+    "what_they_do": "Promueve métodos no letales de protección del ganado (perros protectores) y coexistencia puma-productores en Patagonia.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Fundación Rewilding Argentina",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires",
+    "website": "https://www.rewildingargentina.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "+54 11 4807 3976 (general, según web oficial); prensa +54 9 11 3038 2684",
+    "director_or_president": "Sofía Heinonen (citada como líder en el informe anual 2019; cargo actual sin verificar)",
+    "what_they_do": "Considera al puma especie clave en Parque Patagonia y otros proyectos de restauración.",
+    "accepts_corporate_partners": "Sí, probable: trabaja con aliados como Entidad Binacional Yacyretá (sin verificar política formal)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Emilio White",
+    "nationality": "Argentina (Misiones)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://revista-airelibre.com/2024/06/18/pumas-en-la-provincia-de-misiones",
+    "note": "Fotógrafo de naturaleza y autor en Iguazú; fotografió un puma en la Ruta 101 (2024).",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Gon Granja",
+    "nationality": "Argentina (Alta Gracia, Córdoba)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Recorrió Argentina fotografiando naturaleza; entre sus imágenes, un puma y un huemul.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Silueta felina limpia y mirada intensa; funciona muy bien en monocromo sobre paisaje patagónico.",
+  "sources": [
+   "https://core.ac.uk/download/322795331.pdf",
+   "https://argentina.wcs.org/es-es/Quienes-somos/Noticias/articleType/ArticleView/articleId/25133.aspx",
+   "https://economiasustentable.com/noticias/organizaciones-ambientalistas-piden-detener-la-caza-de-guanacos-pumas-y-zorros-en-la-patagonia/",
+   "https://revista-airelibre.com/2024/06/18/pumas-en-la-provincia-de-misiones"
+  ],
+  "category": "América"
+ },
+ {
+  "common_name_es": "Aguará guazú",
+  "scientific_name": "Chrysocyon brachyurus",
+  "continent": "América",
+  "countries": "Argentina, Brasil, Paraguay, Bolivia, Perú (marginal), Uruguay",
+  "region": "Norte argentino: Iberá, Chaco, Santa Fe, Entre Ríos, Santiago del Estero",
+  "iucn_status": "Global: Casi amenazado (NT) (año sin verificar). Argentina: Vulnerable (VU, A4cd), Categorización SAyDS–SAREM 2019",
+  "population_estimate": "Argentina: ~900 individuos (estimación 2005); nota periodística sin fecha clara cita algo más de 600 (sin verificar)",
+  "trend": "En descenso por destrucción de hábitat (gobierno nacional); reintroducción en Iberá desde 2019",
+  "taxonomy_note": "Único representante del género Chrysocyon; no es un zorro ni un lobo verdadero pese a su nombre común 'lobo de crin'.",
+  "foundations": [
+   {
+    "name": "Fundación Rewilding Argentina",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires",
+    "website": "https://www.rewildingargentina.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "+54 11 4807 3976 (general, según web oficial); prensa +54 9 11 3038 2684",
+    "director_or_president": "Sofía Heinonen (citada como líder en el informe anual 2019; cargo actual sin verificar)",
+    "what_they_do": "Trabaja desde 2019 en la reintroducción del aguará guazú en el Parque Iberá para crear una población autosustentable.",
+    "accepts_corporate_partners": "Sí, probable: trabaja con aliados como Entidad Binacional Yacyretá (sin verificar política formal)"
+   },
+   {
+    "name": "Fundación Temaikèn",
+    "hq_country": "Argentina",
+    "hq_city": "Escobar (Buenos Aires)",
+    "website": "https://www.temaiken.org.ar (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Rehabilitó en su Centro de Recuperación de Especies (CRET) dos cachorros huérfanos y los liberó con GPS en Iberá.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Sebastián Navajas",
+    "nationality": "Argentina (Corrientes)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://es.mongabay.com/2025/10/sebastian-navajas-jaguar-finalista-wildlife-photographer-of-the-year-entrevista/",
+    "note": "Trabajó con Rewilding Argentina en Iberá y el Impenetrable; galería específica de aguará guazú sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   },
+   {
+    "name": "Matías Rebak",
+    "nationality": "Argentina (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo acreditado por Rewilding Argentina en Iberá; trabajo con aguará sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Patas largas negras y pelaje rojo-anaranjado: silueta única y colorida que destaca en una camiseta.",
+  "sources": [
+   "https://cma.sarem.org.ar/sites/default/files/pdf_fichas/Chrysocyon%20brachyurus.pdf",
+   "https://www.greenpeace.org/argentina/blog/problemas/climayenergia/el-aguara-guazu-la-especie-de-zorro-sudamericano-protagonista-de-animales-en-peligro-la-nueva-serie-documental-de-greenpeace/",
+   "https://www.perfil.com/noticias/nea/como-fue-la-cria-y-liberacion-con-gps-de-dos-aguara-guazu-huerfanos-en-el-ibera.phtml",
+   "https://www.argentina.gob.ar/interior/ambiente/accion/aguara-guazu"
+  ],
+  "category": "América"
+ },
+ {
+  "common_name_es": "Oso hormiguero gigante",
+  "scientific_name": "Myrmecophaga tridactyla",
+  "continent": "América",
+  "countries": "Desde Centroamérica hasta el norte de Argentina",
+  "region": "Esteros del Iberá (Corrientes, reintroducido desde 2007), Chaco (El Impenetrable)",
+  "iucn_status": "Global: Vulnerable (VU) (año sin verificar)",
+  "population_estimate": "Iberá: ~150 en cuatro poblaciones (Rewilding Argentina, citado en 2020); otra fuente sin fecha cita 300 en San Alonso (sin verificar)",
+  "trend": "En aumento en Iberá por reintroducción",
+  "taxonomy_note": "Primera especie reintroducida por el programa Iberá (2007); extinta localmente en Corrientes antes de esa fecha.",
+  "foundations": [
+   {
+    "name": "Fundación Rewilding Argentina",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires",
+    "website": "https://www.rewildingargentina.org",
+    "project_page_url": "https://es.mongabay.com/2022/07/tres-claves-sobre-la-reintroduccion-del-oso-hormiguero-gigante-en-el-gran-parque-ibera/",
+    "contact_email": "no lo tengo",
+    "phone": "+54 11 4807 3976 (general, según web oficial); prensa +54 9 11 3038 2684",
+    "director_or_president": "Sofía Heinonen (citada como líder en el informe anual 2019; cargo actual sin verificar)",
+    "what_they_do": "Programa pionero de reintroducción del oso hormiguero en Iberá desde 2007; nuevo convenio con EBY (2026) incluye esta especie.",
+    "accepts_corporate_partners": "Sí, probable: trabaja con aliados como Entidad Binacional Yacyretá (sin verificar política formal)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Sebastián Navajas",
+    "nationality": "Argentina (Corrientes)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://es.mongabay.com/2025/10/sebastian-navajas-jaguar-finalista-wildlife-photographer-of-the-year-entrevista/",
+    "note": "Fotógrafo de Rewilding Argentina en Iberá e Impenetrable; galería específica sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   },
+   {
+    "name": "Matías Rebak",
+    "nationality": "Argentina (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Crédito en web de Rewilding Argentina; sin verificar fotos de la especie.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Hocico alargado y cola de penacho forman una silueta inconfundible y simpática.",
+  "sources": [
+   "https://revista-airelibre.com/2020/08/10/los-animales-en-el-ibera",
+   "https://es.mongabay.com/2022/07/tres-claves-sobre-la-reintroduccion-del-oso-hormiguero-gigante-en-el-gran-parque-ibera/",
+   "https://misionesonline.net/2026/08/11/yacyreta-se-suma-a-la-recuperacion-de-fauna-amenazada-en-los-esteros-del-ibera/"
+  ],
+  "category": "América"
+ },
+ {
+  "common_name_es": "Tapir sudamericano (anta)",
+  "scientific_name": "Tapirus terrestris",
+  "continent": "América",
+  "countries": "Sudamérica al este de los Andes; en Argentina: Salta, Jujuy, Formosa, Chaco, Misiones",
+  "region": "Yungas, Selva Paranaense y Gran Chaco",
+  "iucn_status": "Global: Vulnerable (VU) (año sin verificar). Argentina: Vulnerable (VU), Lista Roja SAyDS–SAREM 2019",
+  "population_estimate": "no lo tengo",
+  "trend": "Decreciente, sobre todo en la región chaqueña; Yungas relativamente estable (informe nov. 2025). Perdió >60 % de su distribución histórica en Argentina; extinto en Corrientes y Tucumán",
+  "taxonomy_note": "Mayor mamífero terrestre de Sudamérica; una cría cada 2–3 años. Proyecto de ley para declararlo Monumento Natural Nacional (estado sin verificar).",
+  "foundations": [
+   {
+    "name": "Fundación Rewilding Argentina",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires",
+    "website": "https://www.rewildingargentina.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "+54 11 4807 3976 (general, según web oficial); prensa +54 9 11 3038 2684",
+    "director_or_president": "Sofía Heinonen (citada como líder en el informe anual 2019; cargo actual sin verificar)",
+    "what_they_do": "Programa de conservación con el Ecoparque de Buenos Aires para recuperar la especie (detalles sin verificar).",
+    "accepts_corporate_partners": "Sí, probable: trabaja con aliados como Entidad Binacional Yacyretá (sin verificar política formal)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Emilio White",
+    "nationality": "Argentina (Misiones)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de naturaleza de Iguazú; menciona avistamientos de tapires en la zona. Galería específica sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Trompa corta y cuerpo robusto: animal poco conocido y entrañable, original para una camiseta.",
+  "sources": [
+   "https://cma.sarem.org.ar/sites/default/files/pdf_fichas/Tapirus%20terrestris.pdf",
+   "https://rest.hcdn.gob.ar/web/proyectos/292336/adjuntos/106052",
+   "https://www.todojujuy.com/jujuy/encontraron-un-tapir-calilegua-las-imagenes-sorprendieron-y-alertan-su-conservacion-n282415",
+   "https://buenosaires.gob.ar/gcaba_historico/contenidos-educativos/tapir-americano"
+  ],
+  "category": "América"
+ },
+ {
+  "common_name_es": "Huemul",
+  "scientific_name": "Hippocamelus bisulcus",
+  "continent": "América",
+  "countries": "Argentina y Chile",
+  "region": "Bosques andino-patagónicos y estepa (Santa Cruz, Chubut, Neuquén; Parque Patagonia, Los Glaciares, Lanín)",
+  "iucn_status": "Global: En Peligro (EN) (año sin verificar). Monumento Natural en Argentina y Chile (sin verificar en esta pasada)",
+  "population_estimate": "~1.500 individuos maduros: ~1.000 en Chile y 400–500 en Argentina (estimación citada en prensa, año sin verificar)",
+  "trend": "En descenso / crítico; señales de recolonización (regreso al PN Lanín tras ~30 años, nacimientos en Chubut)",
+  "taxonomy_note": "Ciervo endémico de la Patagonia, figura en el escudo de Chile.",
+  "foundations": [
+   {
+    "name": "Fundación Rewilding Argentina",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires",
+    "website": "https://www.rewildingargentina.org",
+    "project_page_url": "https://www.rewildingargentina.org/exitohuemul",
+    "contact_email": "no lo tengo",
+    "phone": "+54 11 4807 3976 (general, según web oficial); prensa +54 9 11 3038 2684",
+    "director_or_president": "Sofía Heinonen (citada como líder en el informe anual 2019; cargo actual sin verificar)",
+    "what_they_do": "Recuperación del huemul en Parque Patagonia (Santa Cruz).",
+    "accepts_corporate_partners": "Sí, probable: trabaja con aliados como Entidad Binacional Yacyretá (sin verificar política formal)"
+   },
+   {
+    "name": "Fundación Temaikèn",
+    "hq_country": "Argentina",
+    "hq_city": "Escobar (Buenos Aires)",
+    "website": "https://www.temaiken.org.ar (sin verificar)",
+    "project_page_url": "https://www.every.org/fundacion-temaiken/f/saving-the-huemul-from",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Campaña 'Saving the huemul' de conservación del huemul (detalles sin verificar).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Francisco Woloch",
+    "nationality": "Argentina (El Chaltén)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.elmostrador.cl/cultura/2023/05/06/imagen-de-huemul-gana-concurso-de-fotografia-de-la-patagonia-2023/",
+    "note": "Fotógrafo del Año del Concurso de Fotografía de la Patagonia 2023 (Patagon Journal) con un huemul cerca del Cerro Torre.",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Mariel Vega",
+    "nationality": "Argentina (Perito Moreno)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://rewildingargentina.org/blog-camaracamp/",
+    "note": "Ganadora del Cámara-Camp 2024 de Rewilding Argentina en Parque Patagonia (fauna del parque; especie de la foto sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Ciervo de orejas grandes y mirada serena con fondo de montañas: muy elegante y patagónico.",
+  "sources": [
+   "https://www.canal26.com/turismo/2025/12/27/lagos-glaciares-rios-hondos-y-cascadas-en-plena-selva-patagonica-el-bosque-que-une-a-chile-y-argentina-en-su-mision-de-rescatar-al-huemul/",
+   "https://www.argentina.gob.ar/noticias/el-parque-nacional-lanin-trabaja-para-la-recolonizacion-natural-del-huemul-en-el-area",
+   "https://www.rewildingargentina.org/exitohuemul",
+   "https://www.elmostrador.cl/cultura/2023/05/06/imagen-de-huemul-gana-concurso-de-fotografia-de-la-patagonia-2023/"
+  ],
+  "category": "América"
+ },
+ {
+  "common_name_es": "Cóndor andino",
+  "scientific_name": "Vultur gryphus",
+  "continent": "América",
+  "countries": "Venezuela, Colombia, Ecuador, Perú, Bolivia, Chile, Argentina",
+  "region": "Cordillera de los Andes y costa atlántica patagónica (Sierra Pailemán, Río Negro)",
+  "iucn_status": "Global: Vulnerable (VU), 2020 (año sin verificar)",
+  "population_estimate": "Sin censo actual; el programa argentino ha liberado >70 cóndores en Patagonia desde 2003 (64 en costa atlántica a 2021)",
+  "trend": "En descenso global (sin verificar); recuperación local en la costa atlántica por liberaciones",
+  "taxonomy_note": "Una de las aves voladoras más grandes del mundo; símbolo nacional de varios países andinos.",
+  "foundations": [
+   {
+    "name": "Programa de Conservación del Cóndor Andino (PCCA) / Fundación Bioandina Argentina",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires (sin verificar)",
+    "website": "https://www.bioandina.org.ar (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Luis Jácome (lidera el programa desde 1991)",
+    "what_they_do": "Desde 1991 cría, rehabilita y libera cóndores; programa binacional Argentina-Chile; base de liberación en Sierra Pailemán desde 2003.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Fundación Temaikèn",
+    "hq_country": "Argentina",
+    "hq_city": "Escobar (Buenos Aires)",
+    "website": "https://www.temaiken.org.ar (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Su CRET realiza exámenes de cóndores criados en cautiverio y atiende ejemplares heridos dentro del programa nacional.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Ricardo Brondo",
+    "nationality": "Argentina (El Chaltén)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://rewildingargentina.org/blog-camaracamp/",
+    "note": "Segunda mención en el Cámara-Camp 2024 de Rewilding Argentina en Parque Patagonia con una foto de cóndor andino. Aficionado.",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Gon Granja",
+    "nationality": "Argentina (Alta Gracia, Córdoba)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Registró cóndores con pichones en las sierras cordobesas.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Alas abiertas de 3 m sobre los Andes: imagen épica y heráldica, perfecta para estampar en grande.",
+  "sources": [
+   "https://www.forbesargentina.com/movimiento-inspirador/el-eficaz-programa-evitar-extincion-condor-n21529/amp",
+   "https://www.noticiasradioreflejos.com.ar/2021/liberaron-con-exito-a-siete-crias-de-condores-la-suelta-mas-grande-realizada-en-argentina",
+   "https://www.lanacion.com.ar/sociedad/dia-mundial-de-la-vida-silvestre-la-historia-de-cuatro-guardianes-que-trabajan-recuperando-especies-nid03032022/",
+   "https://rewildingargentina.org/blog-camaracamp/"
+  ],
+  "category": "América"
+ },
+ {
+  "common_name_es": "Ciervo de los pantanos",
+  "scientific_name": "Blastocerus dichotomus",
+  "continent": "América",
+  "countries": "Argentina, Brasil, Paraguay, Bolivia, Perú",
+  "region": "Esteros del Iberá (Corrientes) y Delta del Paraná (Buenos Aires, Entre Ríos); reintroducción propuesta en Bermejo-Bermejito (Chaco)",
+  "iucn_status": "Global: Vulnerable (VU) (año sin verificar). Argentina: población del Delta En Peligro (EN) en Categorización SAREM 2019 y 2026",
+  "population_estimate": "~1.400 en Corrientes y ~80 en el Delta (documento provincia de Buenos Aires, sin fecha; sin verificar)",
+  "trend": "Recuperándose en el Delta y en Iberá según Mongabay (2019); amenazado por caza furtiva, perros y enfermedades del ganado",
+  "taxonomy_note": "El ciervo más grande de Sudamérica; existe el Parque Nacional Ciervo de los Pantanos (creado 2019).",
+  "foundations": [
+   {
+    "name": "Fundación Rewilding Argentina",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires",
+    "website": "https://www.rewildingargentina.org",
+    "project_page_url": "https://www.rewildingargentina.org/wp-content/uploads/2023/01/Reintroduccion-del-ciervo-de-los-pantanos-en-el-interfluvio-Bermejo-Bermejito-Chaco.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "+54 11 4807 3976 (general, según web oficial); prensa +54 9 11 3038 2684",
+    "director_or_president": "Sofía Heinonen (citada como líder en el informe anual 2019; cargo actual sin verificar)",
+    "what_they_do": "Proyecto de reintroducción de una población autosustentable en el interfluvio Bermejo-Bermejito (Chaco) con ejemplares de Iberá.",
+    "accepts_corporate_partners": "Sí, probable: trabaja con aliados como Entidad Binacional Yacyretá (sin verificar política formal)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Sebastián Navajas",
+    "nationality": "Argentina (Corrientes)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://es.mongabay.com/2025/10/sebastian-navajas-jaguar-finalista-wildlife-photographer-of-the-year-entrevista/",
+    "note": "Fotógrafo de Rewilding Argentina en Iberá; galería de ciervo de los pantanos sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Cornamenta ramificada reflejada en el agua del estero: imagen serena y muy gráfica.",
+  "sources": [
+   "https://es.mongabay.com/2019/10/argentina-ciervo-de-los-pantanos-biodiversidad/",
+   "https://www.argentina.gob.ar/sites/default/files/ficha-ciervo-de-los-pantanos.pdf",
+   "https://normas.gba.gob.ar/documentos/0X8r4uQ0.html",
+   "https://www.conicet.gov.ar/una-iniciativa-que-preserva-al-ciervo-de-los-pantanos-una-especie-amenazada-del-delta-del-parana/?lan=en"
+  ],
+  "category": "América"
+ },
+ {
+  "common_name_es": "Tatú carreta (armadillo gigante)",
+  "scientific_name": "Priodontes maximus",
+  "continent": "América",
+  "countries": "Sudamérica tropical; en Argentina: Chaco, Formosa, Salta, Santiago del Estero",
+  "region": "Gran Chaco (PN El Impenetrable), Pantanal y Cerrado (Brasil)",
+  "iucn_status": "Global: Vulnerable (VU) (año sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "En descenso por pérdida de hábitat por expansión agrícola y captura (sin verificar tendencia oficial)",
+  "taxonomy_note": "El armadillo más grande del mundo; en 2026 APN colocó el segundo collar GPS a un ejemplar en El Impenetrable.",
+  "foundations": [
+   {
+    "name": "CeIBA – Proyecto Tatú Carreta (Centro de Investigaciones del Bosque Atlántico)",
+    "hq_country": "Argentina",
+    "hq_city": "Puerto Iguazú, Misiones (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Iniciativa científica y de conservación del tatú carreta, con seguimiento satelital en El Impenetrable junto a APN.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "ICAS – Programa de Conservação do Tatu-canastra",
+    "hq_country": "Brasil",
+    "hq_city": "Campo Grande, Mato Grosso do Sul (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Arnaud Desbiez (coordinador, sin verificar cargo)",
+    "what_they_do": "Programa de más de 15 años de seguimiento del armadillo gigante en Pantanal y Cerrado.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Sebastián Navajas",
+    "nationality": "Argentina (Corrientes)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://es.mongabay.com/2025/10/sebastian-navajas-jaguar-finalista-wildlife-photographer-of-the-year-entrevista/",
+    "note": "Trabajó en El Impenetrable con Rewilding Argentina; fotos de tatú carreta sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Coraza segmentada y garras enormes: un animal 'prehistórico' que sorprende y genera conversación.",
+  "sources": [
+   "https://www.canal26.com/planeta/2026/07/15/chaco-monitorea-con-gps-al-tatu-carreta-el-armadillo-mas-grande-del-mundo-esta-en-peligro-de-extincion-y-buscan-protegerlo/",
+   "https://www.lanacion.com.ar/sociedad/es-una-especie-amenazada-de-extincion-asi-fue-la-captura-del-tatu-carreta-para-hacerle-seguimiento-nid05082026/",
+   "https://ipe.org.br/2022/05/page/2",
+   "https://wwfar.awsassets.panda.org/downloads/20250708_folleto-desplegable-chaco_baja.pdf"
+  ],
+  "category": "América"
+ },
+ {
+  "common_name_es": "Pecarí quimilero (taguá)",
+  "scientific_name": "Catagonus wagneri",
+  "continent": "América",
+  "countries": "Argentina, Paraguay, Bolivia",
+  "region": "Chaco Seco; registros recientes en norte de Santiago del Estero y Córdoba",
+  "iucn_status": "Global: En Peligro (EN) (año sin verificar). Argentina: En Peligro (EN, A3cd), Categorización 2019 (SAREM)",
+  "population_estimate": "no lo tengo",
+  "trend": "En descenso: se proyecta reducción >50 % en 3 generaciones (12 años) por pérdida de hábitat y sobrecaza",
+  "taxonomy_note": "Descrito como fósil en 1930 y descubierto vivo en 1975 ('fósil viviente'); algunas fuentes lo ubican en el género Parachoerus.",
+  "foundations": [
+   {
+    "name": "Centro Chaqueño para la Conservación e Investigación (CCCI) – Proyecto Taguá",
+    "hq_country": "Paraguay",
+    "hq_city": "Fortín Toledo, Boquerón",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Cría y conservación del taguá; coautor de estudios de conservación de la especie.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "'Fósil viviente' con historia increíble: narrativa potente para una camiseta de nicho.",
+  "sources": [
+   "https://cma.sarem.org.ar/sites/default/files/pdf_fichas/Parachoerus%20wagneri.pdf",
+   "https://www.edgeofexistence.org/wp-content/uploads/2017/06/Survival_Blueprint_Chacoan-peccary.pdf",
+   "https://blog.hmns.org/2016/04/return-to-paraguay-conserving-the-tagua-a-living-fossil/"
+  ],
+  "category": "América"
+ },
+ {
+  "common_name_es": "Guacamayo jacinto",
+  "scientific_name": "Anodorhynchus hyacinthinus",
+  "continent": "América",
+  "countries": "Brasil, Bolivia, Paraguay",
+  "region": "Pantanal (Mato Grosso do Sul), Cerrado y Amazonía oriental",
+  "iucn_status": "Global: Vulnerable (VU) (reclasificado de En Peligro a Vulnerable; año sin verificar)",
+  "population_estimate": "Pantanal: ~6.000 ejemplares (Revista FAPESP, fecha sin verificar); 1.500 en 1990 → 5.500 en 2006 (IPS)",
+  "trend": "En aumento en el Pantanal gracias a nidos artificiales",
+  "taxonomy_note": "El loro volador más grande del mundo.",
+  "foundations": [
+   {
+    "name": "Instituto Arara Azul",
+    "hq_country": "Brasil",
+    "hq_city": "Campo Grande, Mato Grosso do Sul (sin verificar)",
+    "website": "https://www.institutoararaazul.org.br",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Neiva Maria Robaldo Guedes (fundadora y presidenta)",
+    "what_they_do": "Monitorea ~3.000 guacamayos en 450.000 ha del Pantanal; nidos artificiales y educación desde 1990.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Luciano Candisani",
+    "nationality": "Brasil (São Paulo)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.worldpressphoto.org/luciano-candisani",
+    "note": "Fotógrafo de naturaleza (The Photo Society / National Geographic); World Press Photo 2021 con 'Pantanal em Chamas'. Fotos de guacamayo jacinto sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Azul cobalto intenso con anillo amarillo: color puro que hace saltar cualquier camiseta.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Neiva_Maria_Robaldo_Guedes",
+   "https://parrotsinternational.org/?p=175",
+   "https://revistapesquisa.fapesp.br/wp-content/uploads/2022/10/047-049_arara-azul_321.pdf",
+   "https://www.ipsnews.net/?p=18252"
+  ],
+  "category": "América"
+ },
+ {
+  "common_name_es": "Tucán toco (tucán grande)",
+  "scientific_name": "Ramphastos toco",
+  "continent": "América",
+  "countries": "Brasil, Paraguay, Bolivia, Argentina, Guayanas, Perú",
+  "region": "Norte argentino: Misiones, Formosa, Chaco, Corrientes, Salta, Jujuy, Tucumán",
+  "iucn_status": "Global: Preocupación menor (LC) (BirdLife; año sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "no lo tengo",
+  "taxonomy_note": "El tucán más grande; su pico naranja regula la temperatura corporal.",
+  "foundations": [
+   {
+    "name": "Aves Argentinas (Asociación Ornitológica del Plata)",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires",
+    "website": "https://www.avesargentinas.org.ar (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Principal ONG ornitológica argentina, socia de BirdLife; proyecto específico para el tucán no encontrado (sin verificar).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Emilio White",
+    "nationality": "Argentina (Misiones)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de naturaleza y autor de libro sobre Iguazú; menciona tucanes entre sus registros (sin verificar galería).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Pico naranja gigante sobre plumaje negro: el pájaro más 'pop' de Sudamérica, ideal para diseño gráfico.",
+  "sources": [
+   "https://www.ecoregistros.org/site_en/imagen.php?id=219811",
+   "https://revista-airelibre.com/2024/06/18/pumas-en-la-provincia-de-misiones"
+  ],
+  "category": "América"
+ },
+ {
+  "common_name_es": "Rana dorada de Panamá",
+  "scientific_name": "Atelopus zeteki",
+  "continent": "América",
+  "countries": "Panamá",
+  "region": "Bosques montanos del centro-oeste de Panamá (El Valle de Antón y alrededores)",
+  "iucn_status": "Global: En Peligro Crítico (CR) (año sin verificar); posiblemente extinta en estado silvestre desde ~2007",
+  "population_estimate": "Sin subpoblaciones silvestres detectadas en sitios conocidos (Project Atelopus); sobrevive en cautiverio",
+  "trend": "Colapso por hongo quitridio (Batrachochytrium dendrobatidis)",
+  "taxonomy_note": "En rigor es un sapo arlequín (Bufonidae); símbolo nacional de Panamá.",
+  "foundations": [
+   {
+    "name": "Panama Amphibian Rescue and Conservation Project (PARC)",
+    "hq_country": "Panamá",
+    "hq_city": "no lo tengo",
+    "website": "https://amphibianrescue.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Desde 2005 mantiene poblaciones de rescate en Panamá y busca soluciones al quitridio para futuras liberaciones.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Brian Gratwicke",
+    "nationality": "Estados Unidos (no latinoamericano)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.fws.gov/media/panamanian-golden-frog",
+    "note": "Biólogo de conservación del Smithsonian; sus fotos de la rana dorada se usan con licencia CC BY 2.0 (USFWS, Wikimedia).",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Amarillo dorado con manchas negras: color vibrante y simbólico de la crisis de los anfibios.",
+  "sources": [
+   "https://progress.amphibianark.org/orgs/49/programs/show/44",
+   "https://cpsg.org/node/375",
+   "https://animals.sandiegozoo.org/node/134",
+   "https://www.fws.gov/media/panamanian-golden-frog"
+  ],
+  "category": "América"
+ },
+ {
+  "common_name_es": "Ajolote",
+  "scientific_name": "Ambystoma mexicanum",
+  "continent": "América",
+  "countries": "México",
+  "region": "Canales de Xochimilco (y Chalco), Ciudad de México",
+  "iucn_status": "Global: En Peligro Crítico (CR) (año sin verificar en esta pasada)",
+  "population_estimate": "Densidad: ~6.000/km² (1998) → ~36/km² (censo 2014). Censo UNAM 2024 con ADN ambiental en curso; censo actualizado previsto 2026",
+  "trend": "En fuerte descenso por contaminación, urbanización y peces invasores (tilapia, carpa)",
+  "taxonomy_note": "Salamandra neoténica (conserva branquias de adulto); muy común en cautiverio pero casi extinta en libertad.",
+  "foundations": [
+   {
+    "name": "Laboratorio de Restauración Ecológica, Instituto de Biología UNAM",
+    "hq_country": "México",
+    "hq_city": "Ciudad de México",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Luis Zambrano (investigador responsable)",
+    "what_they_do": "Censos y restauración del hábitat (refugios con filtros, chinampas tradicionales) dirigidos por Luis Zambrano.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Ajolotario Apantli",
+    "hq_country": "México",
+    "hq_city": "Xochimilco, Ciudad de México",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Jesús Correa Rangel",
+    "what_they_do": "Centro familiar de cría, estudio y conservación; hasta 1.000 ajolotes al año y liberaciones en canales limpios.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Cara sonriente y branquias rosas: personaje 'kawaii' viral, perfecto para un público joven.",
+  "sources": [
+   "https://expansion.mx/ciencia-y-salud/2024/11/21/la-unam-realiza-nuevo-censo-del-ajolote-en-xochimilco",
+   "https://www.cronica.com.mx/academia/2024/11/17/cientificos-de-las-unam-realizan-nuevo-censo-de-ajolotes-silvestres/",
+   "https://mexiconewsdaily.com/culture/rescuing-axolotls-in-mexico-meet-jesus-correa-rangel",
+   "https://www.adn40.mx/ciudad/2026-05-14/unam-revela-que-los-ajolotes-disminuyen-de-forma-dramatica-en-xochimilco/"
+  ],
+  "category": "América"
+ },
+ {
+  "common_name_es": "Oso andino (oso de anteojos)",
+  "scientific_name": "Tremarctos ornatus",
+  "continent": "América",
+  "countries": "Venezuela, Colombia, Ecuador, Perú, Bolivia (y registros en Panamá y norte de Argentina)",
+  "region": "Bosques nublados y páramos andinos",
+  "iucn_status": "Global: Vulnerable (VU) (año sin verificar)",
+  "population_estimate": "~18.250 (Andina) a ~20.000 (Actualidad Ambiental) en toda su área; Perú ~5.000–5.750; Ecuador 4.000–6.000; Colombia 4.100–10.700 (fechas sin verificar)",
+  "trend": "En descenso por pérdida, degradación y fragmentación de hábitat y caza",
+  "taxonomy_note": "Único oso de Sudamérica y último representante de los osos de cara corta (Tremarctinae).",
+  "foundations": [
+   {
+    "name": "WCS Perú (con ProCarnívoros)",
+    "hq_country": "Perú",
+    "hq_city": "Lima (sin verificar)",
+    "website": "https://peru.wcs.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Monitoreo del oso andino y su hábitat en Puno y otros sitios.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Santiago J. Monroy",
+    "nationality": "Colombia",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.elespectador.com/el-magazin-cultural/el-fotografo-colombiano-premiado-en-el-wildlife-photographer-of-the-year-2025-noticias-hoy/",
+    "note": "Biólogo y fotógrafo; premiado en Wildlife Photographer of the Year 2025 con 'Out of the Darkness', oso andino en la Reserva Ecopalacio cerca de Chingaza.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Las 'gafas' claras alrededor de los ojos dan un rostro único y expresivo, muy reconocible.",
+  "sources": [
+   "https://andina.pe/agencia/noticia-por-que-oso-andino-es-clave-para-ecosistema-bosque-y-como-aporta-a-su-conservacion-1063429.aspx",
+   "https://www.actualidadambiental.pe/conoce-al-oso-andino-el-arquitecto-de-los-bosques/",
+   "https://peru.wcs.org/es-es/WCS-Peru/Noticias/articleType/ArticleView/articleId/16936/Puno-Especialistas-monitorean-al-oso-andino-para-conocer-el-estado-de-conservacion-de-su-habitat.aspx",
+   "https://www.ntn24.com/noticias-actualidad/el-colombiano-santiago-j-monroy-gana-reconocimiento-internacional-con-foto-del-oso-andino-587867"
+  ],
+  "category": "América"
+ },
+ {
+  "common_name_es": "Tití león dorado (mico-leão-dourado)",
+  "scientific_name": "Leontopithecus rosalia",
+  "continent": "América",
+  "countries": "Brasil",
+  "region": "Mata Atlántica del estado de Río de Janeiro (cuenca del río São João)",
+  "iucn_status": "Global: En Peligro (EN) (año sin verificar)",
+  "population_estimate": "~4.800 individuos en libertad (censo AMLD 2023, récord histórico)",
+  "trend": "En aumento tras caída de ~32 % por fiebre amarilla en 2017",
+  "taxonomy_note": "Primate calitrícido; caso emblemático de recuperación por reintroducción y corredores.",
+  "foundations": [
+   {
+    "name": "Associação Mico-Leão-Dourado (AMLD)",
+    "hq_country": "Brasil",
+    "hq_city": "Silva Jardim, Río de Janeiro (BR-101 km 214, Aldeia Velha)",
+    "website": "https://micoleao.org.br",
+    "project_page_url": "https://micoleao.org.br/wp-content/uploads/2023/08/Texto-tecnico-censo-2023-MLD.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "+55 22 2778-2025 (guía de viaje, sin verificar)",
+    "director_or_president": "Carlos Ruiz Miranda (presidente según Informe Anual 2024)",
+    "what_they_do": "Censos, reforestación, corredores ecológicos y educación ambiental para el tití león dorado.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Luciano Candisani",
+    "nationality": "Brasil (São Paulo)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.worldpressphoto.org/luciano-candisani",
+    "note": "Fotógrafo de naturaleza de National Geographic, especialista en Mata Atlántica; fotos del tití sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Melena naranja-dorada brillante: un 'mini león' que funciona como icono cálido y llamativo.",
+  "sources": [
+   "https://micoleao.org.br/wp-content/uploads/2023/08/Texto-tecnico-censo-2023-MLD.pdf",
+   "https://micoleao.org.br/wp-content/uploads/2025/05/Relatorio-Anual-2024_AMLD_PT_VF.pdf",
+   "https://catracalivre.com.br/viagem-livre/o-mico-leao-dourado-convida-para-um-passeio-na-mata-atlantica/"
+  ],
+  "category": "América"
+ },
+ {
+  "common_name_es": "Perezoso pigmeo de tres dedos",
+  "scientific_name": "Bradypus pygmaeus",
+  "continent": "América",
+  "countries": "Panamá",
+  "region": "Isla Escudo de Veraguas (Bocas del Toro), endémico",
+  "iucn_status": "Global: En Peligro Crítico (CR) (año sin verificar)",
+  "population_estimate": "79 individuos contados en manglares (2011, PLOS ONE); estimación revisada 500–1.500 probable, máximo ~3.200 (estudio vinculado al Smithsonian, 2015)",
+  "trend": "Desconocida / probablemente en descenso por tala de manglar (sin verificar)",
+  "taxonomy_note": "El perezoso más pequeño; endémico de una sola isla de ~430 ha.",
+  "foundations": [
+   {
+    "name": "ZSL (Zoological Society of London) – proyecto perezoso pigmeo",
+    "hq_country": "Reino Unido",
+    "hq_city": "Londres",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Censo, estudio ecológico y trabajo con comunidades pesqueras cercanas para proteger al perezoso pigmeo.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Proyecto financiado por Fondation Ensemble (con MiAmbiente Panamá y Conservation International)",
+    "hq_country": "Panamá / Francia",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "https://www.fondationensemble.org/en/projet/empowering-communities-to-protect-declining-ecosystems-shielding-from-extinction-the-pigmy-three-toed-sloth-bradypus-pygmaeus-phase-ii",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Empoderamiento comunitario para proteger ecosistemas del perezoso pigmeo; organización ejecutora sin verificar.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Suzi Eszterhas",
+    "nationality": "Estados Unidos (no latinoamericana)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://slothconservation.org/behind-the-scenes-with-sloth-photographer-suzi-eszterhas/",
+    "note": "Fotógrafa de perezosos; fotografió un perezoso pigmeo nadando cerca de Isla Escudo de Veraguas.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Carita sonriente y tamaño mini: ternura inmediata, muy vendible.",
+  "sources": [
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC3504081",
+   "https://www.eurekalert.org/news-releases/700084",
+   "https://ptes.org/protection-pygmy-sloths",
+   "https://www.fondationensemble.org/en/projet/empowering-communities-to-protect-declining-ecosystems-shielding-from-extinction-the-pigmy-three-toed-sloth-bradypus-pygmaeus-phase-ii"
+  ],
+  "category": "América"
+ },
+ {
+  "common_name_es": "Delfín rosado (boto, tonina)",
+  "scientific_name": "Inia geoffrensis",
+  "continent": "América",
+  "countries": "Brasil, Colombia, Perú, Ecuador, Venezuela, Bolivia",
+  "region": "Cuencas del Amazonas y del Orinoco",
+  "iucn_status": "Global: En Peligro (EN), 2018 (publicado fines 2018/enero 2019; antes Datos Insuficientes según Mongabay)",
+  "population_estimate": "Sin total global; conteos por cuenca (Omacha 2019): ~2.164 en ríos amazónicos de Colombia, 184 en ríos de Ecuador, 2.612 y 2.673 en el Orinoco (Colombia y Venezuela)",
+  "trend": "En descenso por captura accidental, uso como carnada (pesca de mota/piracatinga), represas y contaminación",
+  "taxonomy_note": "Debate taxonómico: posibles especies separadas Inia boliviensis e Inia araguaiaensis.",
+  "foundations": [
+   {
+    "name": "Fundación Omacha",
+    "hq_country": "Colombia",
+    "hq_city": "Bogotá (sin verificar)",
+    "website": "https://www.omacha.org",
+    "project_page_url": "https://www.omacha.org/descargas/2019/reporte-delfines-rio-fundacion-omacha-2019-web.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Fernando Trujillo (fundador y director científico, sin verificar cargo)",
+    "what_they_do": "Investigación y conservación de delfines de río en Amazonía y Orinoquía; marcaje satelital; impulsó la recategorización UICN.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Rosa natural en aguas oscuras amazónicas: color sorprendente y especie mítica, gran storytelling.",
+  "sources": [
+   "https://www.actualidadambiental.pe/el-delfin-rosado-ingreso-a-la-lista-de-especies-en-peligro-de-extincion-de-la-uicn/",
+   "https://es.mongabay.com/2019/01/delfines-amazonas-amenazados/",
+   "https://www.omacha.org/descargas/2019/reporte-delfines-rio-fundacion-omacha-2019-web.pdf"
+  ],
+  "category": "América"
+ }
+]

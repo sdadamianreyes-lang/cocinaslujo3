@@ -1,0 +1,826 @@
+[
+ {
+  "common_name_es": "Nutria gigante",
+  "scientific_name": "Pteronura brasiliensis",
+  "category": "América",
+  "continent": "América del Sur",
+  "countries": [
+   "Brasil",
+   "Perú",
+   "Bolivia",
+   "Colombia",
+   "Venezuela",
+   "Ecuador",
+   "Guyana",
+   "Surinam",
+   "Guayana Francesa",
+   "Paraguay",
+   "Argentina (reintroducida)"
+  ],
+  "region": "Cuencas del Amazonas, Orinoco y Pantanal; reintroducida en los Esteros del Iberá (Corrientes, Argentina) y registrada en El Impenetrable (Chaco)",
+  "iucn_status": "Global: En Peligro (EN), año no lo tengo. Argentina: extinta localmente desde 1986, reintroducción en curso (liberación de una familia de 4 en Iberá el 30/06/2025)",
+  "population_estimate": "no lo tengo",
+  "trend": "Decreciente a nivel global (sin verificar); en Argentina, en recuperación incipiente por reintroducción",
+  "taxonomy_note": "Única especie del género Pteronura; la mayor nutria del mundo y mayor depredador acuático de Sudamérica.",
+  "foundations": [
+   {
+    "name": "Fundación Rewilding Argentina",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires (sin verificar); opera en Iberá (Corrientes), El Impenetrable (Chaco) y Patagonia",
+    "website": "https://rewildingargentina.org",
+    "project_page_url": "https://rewildingargentina.org/nutria-gigante-reintroduccion-argentina-ibera/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Sofía Heinonen (directora ejecutiva)",
+    "what_they_do": "Reintroducción de la nutria gigante en el Gran Parque Iberá (ejemplares de zoos europeos como Madrid y Dinamarca, programa EAZA) y en El Impenetrable; entrenamiento de caza, cuarentenas, monitoreo y ADN ambiental.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Matías Rebak",
+    "nationality": "Argentino",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://rewildingargentina.org/?p=6489",
+    "note": "Firma fotos de nutria gigante (p. ej. el macho Nanay) para Rewilding Argentina en Iberá.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Cara expresiva con mancha blanca única en la garganta y conexión directa con el Zoo de Madrid (Nima): historia perfecta para una marca madrileña.",
+  "sources": [
+   "https://rewildingargentina.org/nutria-gigante-reintroduccion-argentina-ibera/",
+   "https://www.rewildingargentina.org/library/documentos/ibera/nutria_gigante/proyecto_de_reintroduccion_de_la_nutria_gigante_ibera.pdf",
+   "https://www.cronista.com/informacion-gral/tras-40-anos-reaparecio-en-argentina-el-mayor-depredador-acuatico-de-sudamerica",
+   "https://rewildingargentina.org/reintroduccion-de-la-nutria-gigante-en-el-impenetrable/"
+  ]
+ },
+ {
+  "common_name_es": "Manatí amazónico",
+  "scientific_name": "Trichechus inunguis",
+  "category": "América",
+  "continent": "América del Sur",
+  "countries": [
+   "Brasil",
+   "Perú",
+   "Colombia",
+   "Ecuador",
+   "(posiblemente Venezuela y Guyana, sin verificar)"
+  ],
+  "region": "Cuenca del Amazonas, exclusivamente agua dulce",
+  "iucn_status": "Global: Vulnerable (VU), año no lo tengo. CITES Apéndice I; ESA (EE. UU.): En Peligro",
+  "population_estimate": "no lo tengo",
+  "trend": "Decreciente (caza, mortalidad de crías, pérdida de hábitat y cambio climático)",
+  "taxonomy_note": "El único sirenio exclusivamente de agua dulce; carece de uñas en las aletas (de ahí 'inunguis').",
+  "foundations": [
+   {
+    "name": "Fundación Omacha",
+    "hq_country": "Colombia",
+    "hq_city": "Bogotá (sin verificar); estación biológica en Puerto Nariño (Amazonas) desde 1993",
+    "website": "https://www.omacha.org",
+    "project_page_url": "https://www.omacha.org/descargas/documentos/Informe-gestion-anual-2025-Fundacion-Omacha.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Fernando Trujillo (director científico)",
+    "what_they_do": "Investigación desde 1987 en Puerto Nariño; rescate y rehabilitación de manatíes amazónicos con Corpoamazonia, educación ambiental y delfines de río.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Joel Sartore (National Geographic Photo Ark)",
+    "nationality": "Estadounidense",
+    "website": "https://www.joelsartore.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.joelsartore.com/ani022-00042/",
+    "note": "Fotografió manatíes amazónicos en el INPA (Manaos) para Photo Ark; foto de estudio, no en libertad.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Silueta redonda y amable, casi de dibujo animado; funciona muy bien en estilo minimalista sobre fondo verde-agua.",
+  "sources": [
+   "https://www.omacha.org/descargas/documentos/informe-gestion-anual-2023.pdf",
+   "https://www.semana.com/nacion/articulo/guardianes-de-la-selva-fernando-trujillo-director-de-la-fundacion-omacha/507371",
+   "https://www.joelsartore.com/ani022-00042/",
+   "https://www.jungledragon.com/specie/2625/amazonian-manatee.html"
+  ]
+ },
+ {
+  "common_name_es": "Bisonte americano",
+  "scientific_name": "Bison bison",
+  "category": "América",
+  "continent": "América del Norte",
+  "countries": [
+   "Estados Unidos",
+   "Canadá",
+   "México (pequeñas manadas, sin verificar)"
+  ],
+  "region": "Grandes Llanuras y bosques boreales (bisonte de los bosques); Yellowstone, Montana, Alberta",
+  "iucn_status": "Global: Casi Amenazada (NT), 2017 (Aune, Jørgensen & Gates)",
+  "population_estimate": "Unos 31.000 en manadas de conservación (11.000–13.000 maduros; ~20.000 de llanura y ~11.000 de bosque), evaluación UICN 2017; ~500.000 contando manadas comerciales",
+  "trend": "Estable pero dependiente de manejo de conservación",
+  "taxonomy_note": "Dos subespecies reconocidas habitualmente: bisonte de llanura (B. b. bison) y de los bosques (B. b. athabascae).",
+  "foundations": [
+   {
+    "name": "American Prairie",
+    "hq_country": "Estados Unidos",
+    "hq_city": "Montana (sin verificar)",
+    "website": "https://www.americanprairie.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Compra, arrienda y gestiona tierras en el noreste de Montana para recuperar manadas de bisonte en libertad (cifra de ~130.000 acres, sin verificar).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Joel Sartore (National Geographic Photo Ark)",
+    "nationality": "Estadounidense",
+    "website": "https://www.joelsartore.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Candidato: Photo Ark cubre muchas especies norteamericanas (sin verificar que tenga bisonte).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Perfil masivo e icónico, reconocible en una sola silueta; gran impacto en camisetas oscuras.",
+  "sources": [
+   "https://www.buffalofieldcampaign.org/images/what-we-do/species-of-conservation-concern/bfc-objections/Aune-J%C3%B8rgensen--Gates-Bison-bison-American-bison-The-IUCN-Red-List-of-Threatened-Species-2017-2018.pdf",
+   "https://en.wikipedia.org/wiki/American_bison",
+   "https://iucn.org/sites/default/files/2023-09/2020-bison-sg-report_publication.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Lobo gris mexicano",
+  "scientific_name": "Canis lupus baileyi",
+  "category": "América",
+  "continent": "América del Norte",
+  "countries": [
+   "Estados Unidos",
+   "México"
+  ],
+  "region": "Arizona y Nuevo México (EE. UU.); Sierra Madre Occidental (Chihuahua, Sonora, Durango)",
+  "iucn_status": "Global: la especie Canis lupus es Preocupación Menor (LC); la subespecie no tiene evaluación UICN propia (sin verificar). EE. UU.: En Peligro (ESA)",
+  "population_estimate": "Mínimo 286 lobos silvestres en EE. UU. (censo 2024: 162 en Nuevo México, 124 en Arizona); ~45 silvestres en México (2022); 107 bajo cuidado en México según Conanp",
+  "trend": "Creciente (noveno año consecutivo de aumento en EE. UU.), con problemas de diversidad genética",
+  "taxonomy_note": "La subespecie de lobo gris más pequeña y más amenazada de Norteamérica; descendiente de solo 7 fundadores.",
+  "foundations": [
+   {
+    "name": "International Wolf Center",
+    "hq_country": "Estados Unidos",
+    "hq_city": "Ely, Minnesota (sin verificar)",
+    "website": "https://wolf.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Divulgación y seguimiento de la recuperación del lobo, incluido el lobo mexicano (sin verificar que financie proyectos de campo).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Naturalia A.C.",
+    "hq_country": "México",
+    "hq_city": "Ciudad de México (sin verificar)",
+    "website": "no lo tengo (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "ONG mexicana citada históricamente en la recuperación del lobo mexicano (sin verificar: no apareció en la búsqueda).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Mirada intensa y pelaje rojizo-gris; historia de regreso desde 7 ejemplares muy potente para el mensaje solidario.",
+  "sources": [
+   "https://content.govdelivery.com/accounts/AZGFD/bulletins/3d4b03c",
+   "https://mexiconewsdaily.com/culture/mexican-wolf-conservation/",
+   "https://www.tiempo.com.mx/local/lobo-mexicano-nacieron-dos-camadas-vida-silvestre-2024-2026-septiembre/",
+   "https://wolf.org/?p=68027"
+  ]
+ },
+ {
+  "common_name_es": "Cóndor de California",
+  "scientific_name": "Gymnogyps californianus",
+  "category": "América",
+  "continent": "América del Norte",
+  "countries": [
+   "Estados Unidos",
+   "México"
+  ],
+  "region": "California, Arizona/Utah (Gran Cañón, Zion) y Baja California (Sierra de San Pedro Mártir)",
+  "iucn_status": "Global: En Peligro Crítico (CR), año no lo tengo (sin verificar en la UICN)",
+  "population_estimate": "566 individuos a 31/12/2024 (369 en libertad y 197 en cautividad, USFWS); ~607 a diciembre 2025 según resumen del USFWS (sin verificar)",
+  "trend": "Creciente lentamente gracias a cría en cautividad y liberaciones; amenaza principal el plomo",
+  "taxonomy_note": "Única especie viva del género Gymnogyps; llegó a 27 ejemplares en 1987.",
+  "foundations": [
+   {
+    "name": "Ventana Wildlife Society",
+    "hq_country": "Estados Unidos",
+    "hq_city": "Costa central de California (sin verificar)",
+    "website": "https://www.ventanaws.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Gestiona la población de cóndores de la costa central de California (~100 aves en 2024).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Joel Sartore (National Geographic Photo Ark)",
+    "nationality": "Estadounidense",
+    "website": "https://www.joelsartore.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Candidato (sin verificar que tenga cóndor de California).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Envergadura de casi 3 m y cabeza desnuda anaranjada: silueta en vuelo muy gráfica para una camiseta.",
+  "sources": [
+   "https://www.fws.gov/sites/default/files/documents/2025-03/2024-california-condor-population-status508-compliant.pdf",
+   "https://www.fws.gov/sites/default/files/documents/2026-02/2025-california-condor-population-status_508-compliant.pdf",
+   "https://benitolink.com/condor-update-2024-central-coast-population-stands-at-100/",
+   "https://datazone.birdlife.org/species/factsheet/california-condor-gymnogyps-californianus/text"
+  ]
+ },
+ {
+  "common_name_es": "Hurón de patas negras",
+  "scientific_name": "Mustela nigripes",
+  "category": "América",
+  "continent": "América del Norte",
+  "countries": [
+   "Estados Unidos",
+   "Canadá",
+   "México"
+  ],
+  "region": "Praderas de las Grandes Llanuras asociadas a colonias de perritos de las praderas",
+  "iucn_status": "Global: En Peligro (EN), año no lo tengo; 'Extinto en estado silvestre' en 1996, reclasificado EN en 2008",
+  "population_estimate": "Aprox. 500 en libertad (206 maduros en poblaciones autosuficientes), año no lo tengo (sin verificar)",
+  "trend": "Fluctuante; descensos locales por peste silvática y sequía (Conata Basin, Dakota del Sur)",
+  "taxonomy_note": "Primer clon de la especie (Elizabeth Ann) presentado en 2021; un clon (Antonia) ya ha criado (sin verificar).",
+  "foundations": [
+   {
+    "name": "U.S. Fish & Wildlife Service – Black-footed Ferret Recovery Program (organismo público)",
+    "hq_country": "Estados Unidos",
+    "hq_city": "no lo tengo",
+    "website": "https://www.fws.gov",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Programa oficial de cría y reintroducción; meta de 3.000 hurones en libertad para rebajar a 'Amenazado'.",
+    "accepts_corporate_partners": "no lo tengo (organismo público)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Joel Sartore (National Geographic Photo Ark)",
+    "nationality": "Estadounidense",
+    "website": "https://www.joelsartore.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Candidato (sin verificar que tenga esta especie).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Antifaz negro tipo 'bandido' y patas oscuras: carácter muy simpático y reconocible.",
+  "sources": [
+   "https://www.fws.gov/sites/default/files/documents/2024-04/260.pdf",
+   "https://www.endangered.org/?p=43522",
+   "https://www.gktoday.in/black-footed-ferret-population-falls-in-badlands/",
+   "https://Www.Wikipedia.org/wiki/Mustela_nigripes"
+  ]
+ },
+ {
+  "common_name_es": "Tortuga gigante de Galápagos",
+  "scientific_name": "Chelonoidis spp. (complejo C. niger)",
+  "category": "América",
+  "continent": "América del Sur",
+  "countries": [
+   "Ecuador"
+  ],
+  "region": "Islas Galápagos (Isabela, Santa Cruz, Española, San Cristóbal, Santa Fe, Pinzón…)",
+  "iucn_status": "Global: varía por especie (de Vulnerable a En Peligro Crítico; varias extintas); año no lo tengo",
+  "population_estimate": "Unos 5.275 ejemplares solo en el volcán Cerro Azul (Isabela), censo enero 2024; total archipiélago no lo tengo. Más de 10.000 liberadas desde 1965",
+  "trend": "En recuperación en varias islas gracias a cría en cautividad y erradicación de cabras",
+  "taxonomy_note": "Unas 13–15 especies/linajes reconocidos, uno por isla o volcán; el famoso 'Solitario George' fue el último de Pinta.",
+  "foundations": [
+   {
+    "name": "Galápagos Conservancy",
+    "hq_country": "Estados Unidos",
+    "hq_city": "no lo tengo",
+    "website": "https://www.galapagos.org",
+    "project_page_url": "https://www.galapagos.org/wp-content/uploads/2026/05/impact-report-gc-2025.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Financia restauración de tortugas gigantes: censos, repatriaciones (563 juveniles 2023–24) y reapertura del centro de cría de Española.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Fundación Charles Darwin (Charles Darwin Foundation)",
+    "hq_country": "Ecuador",
+    "hq_city": "Puerto Ayora, isla Santa Cruz, Galápagos",
+    "website": "https://www.darwinfoundation.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Rakan (Zak) A. Zahawi, director ejecutivo desde 2021 (sin verificar si sigue en 2026)",
+    "what_they_do": "Investigación científica en Galápagos, incluido seguimiento de tortugas gigantes con el Parque Nacional Galápagos.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Tui De Roy",
+    "nationality": "Belga de nacimiento, criada en Galápagos; reside en Nueva Zelanda",
+    "website": "https://www.tuideroy.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Cincuenta años fotografiando Galápagos; libros 'Galápagos: Islands Born of Fire' y 'A Lifetime in Galápagos'.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Caparazón y cuello largo con aire prehistórico; símbolo de longevidad que conecta con Darwin.",
+  "sources": [
+   "https://www.galapagos.org/wp-content/uploads/2026/05/impact-report-gc-2025.pdf",
+   "https://www.elcomercio.com/tendencias/ambiente/expedicion-isabela-tortugas-gigantes-saludables/",
+   "https://es.mongabay.com/2024/02/ecuador-tortugas-gigantes-reintroducidas-habitat-natural-galapagos/"
+  ]
+ },
+ {
+  "common_name_es": "Iguana marina",
+  "scientific_name": "Amblyrhynchus cristatus",
+  "category": "América",
+  "continent": "América del Sur",
+  "countries": [
+   "Ecuador"
+  ],
+  "region": "Costas rocosas de todas las islas Galápagos",
+  "iucn_status": "Global: Vulnerable (VU), año no lo tengo (según prensa AFP 2023 citando a la UICN)",
+  "population_estimate": "Unas 450.000 iguanas según el director del Parque Nacional Galápagos (2023, sin verificar)",
+  "trend": "Fluctuaciones extremas: puede caer hasta 90% tras un El Niño fuerte",
+  "taxonomy_note": "El único lagarto marino del mundo; varias subespecies por isla.",
+  "foundations": [
+   {
+    "name": "Fundación Charles Darwin (Charles Darwin Foundation)",
+    "hq_country": "Ecuador",
+    "hq_city": "Puerto Ayora, isla Santa Cruz, Galápagos",
+    "website": "https://www.darwinfoundation.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Rakan (Zak) A. Zahawi, director ejecutivo desde 2021 (sin verificar si sigue en 2026)",
+    "what_they_do": "Investigación sobre fauna endémica y efectos de El Niño (sin verificar programa específico de iguanas).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Galápagos Conservancy",
+    "hq_country": "Estados Unidos",
+    "hq_city": "no lo tengo",
+    "website": "https://www.galapagos.org",
+    "project_page_url": "https://www.galapagos.org/wp-content/uploads/2026/05/impact-report-gc-2025.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Apoyo a conservación de fauna endémica de Galápagos (sin verificar programa específico de iguana marina).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Tui De Roy",
+    "nationality": "Belga de nacimiento, criada en Galápagos; reside en Nueva Zelanda",
+    "website": "https://www.tuideroy.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://prints.aap.com.au/nature-picture-library/tui-roy/lifetime-galapagos/galapagos-penguin-spheniscus-mendiculus-20033656.html",
+    "note": "Tiene fotos de iguana marina macho en Isla Tortuga (Isabela) en Nature Picture Library.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Textura negra volcánica y 'estornudo' de sal: imagen dramática, casi de dragón, muy potente en gran formato.",
+  "sources": [
+   "https://phys.org/news/2023-07-el-nino-vulnerable-galapagos-iguana.pdf",
+   "https://www.thestandard.com.hk/insights/article/54319/El-Nino-brings-night-for-Galapagos-iguana"
+  ]
+ },
+ {
+  "common_name_es": "Pingüino de Galápagos",
+  "scientific_name": "Spheniscus mendiculus",
+  "category": "América",
+  "continent": "América del Sur",
+  "countries": [
+   "Ecuador"
+  ],
+  "region": "Isabela y Fernandina principalmente (Galápagos)",
+  "iucn_status": "Global: En Peligro (EN), 2020",
+  "population_estimate": "1.200 individuos maduros (BirdLife); censo de 413 individuos tras El Niño 2023–24 (Fundación Charles Darwin / PNG); otros censos hasta 2.094 (sin verificar)",
+  "trend": "Decreciente; muy sensible a El Niño",
+  "taxonomy_note": "El pingüino que vive más al norte y el único que llega al hemisferio norte.",
+  "foundations": [
+   {
+    "name": "Fundación Charles Darwin (Charles Darwin Foundation)",
+    "hq_country": "Ecuador",
+    "hq_city": "Puerto Ayora, isla Santa Cruz, Galápagos",
+    "website": "https://www.darwinfoundation.org",
+    "project_page_url": "https://darwinfoundation.org/en/news/blog/science-behind-conservation-penguins-and-cormorants",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Rakan (Zak) A. Zahawi, director ejecutivo desde 2021 (sin verificar si sigue en 2026)",
+    "what_they_do": "Censos anuales de pingüinos y cormoranes no voladores con el Parque Nacional Galápagos.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Galápagos Conservancy",
+    "hq_country": "Estados Unidos",
+    "hq_city": "no lo tengo",
+    "website": "https://www.galapagos.org",
+    "project_page_url": "https://www.galapagos.org/wp-content/uploads/2026/05/impact-report-gc-2025.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Apoyo a censos y conservación de pingüinos (sin verificar).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Tui De Roy",
+    "nationality": "Belga de nacimiento, criada en Galápagos; reside en Nueva Zelanda",
+    "website": "https://www.tuideroy.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://prints.aap.com.au/nature-picture-library/tui-roy/lifetime-galapagos/galapagos-penguin-spheniscus-mendiculus-20033656.html",
+    "note": "Foto de pingüino de Galápagos disponible en Nature Picture Library.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Pingüino tropical diminuto sobre lava negra: contraste inesperado que llama la atención.",
+  "sources": [
+   "https://datazone.birdlife.org/species/factsheet/galapagos-penguin-spheniscus-mendiculus",
+   "https://darwinfoundation.org/en/news/blog/science-behind-conservation-penguins-and-cormorants",
+   "https://kchcomunicacion.com/?p=134293"
+  ]
+ },
+ {
+  "common_name_es": "Quetzal",
+  "scientific_name": "Pharomachrus mocinno",
+  "category": "América",
+  "continent": "América del Norte / Centroamérica",
+  "countries": [
+   "México",
+   "Guatemala",
+   "Honduras",
+   "El Salvador",
+   "Nicaragua",
+   "Costa Rica",
+   "Panamá"
+  ],
+  "region": "Bosques nubosos desde el sur de México hasta el oeste de Panamá",
+  "iucn_status": "Global: Casi Amenazada (NT), año no lo tengo. Ave nacional de Guatemala",
+  "population_estimate": "Menos de 50.000 en libertad (año no lo tengo, sin verificar)",
+  "trend": "Decreciente (deforestación y caza local)",
+  "taxonomy_note": "Dos subespecies: P. m. mocinno (norte) y P. m. costaricensis (Costa Rica y Panamá).",
+  "foundations": [
+   {
+    "name": "Fundación Defensores de la Naturaleza",
+    "hq_country": "Guatemala",
+    "hq_city": "Ciudad de Guatemala (sin verificar)",
+    "website": "https://defensores.org.gt",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Javier Márquez (director ejecutivo, memoria 2025)",
+    "what_they_do": "Coadministra con CONAP la Reserva de Biosfera Sierra de las Minas (>240.000 ha), bastión del quetzal.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Verde iridiscente, pecho rojo y cola de hasta 1 m: una de las aves más bellas del mundo, ideal a color.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Resplendent_quetzal",
+   "https://defensores.org.gt/wp-content/uploads/Memoria-de-Labores-2025.pdf",
+   "https://conap.gob.gt/wp-content/uploads/2020/10/Estrategia-de-Conservacion-del-Quetzal.pdf",
+   "https://iucn.org/es/node/43849"
+  ]
+ },
+ {
+  "common_name_es": "Araucaria / pehuén",
+  "scientific_name": "Araucaria araucana",
+  "category": "América",
+  "continent": "América del Sur",
+  "countries": [
+   "Argentina",
+   "Chile"
+  ],
+  "region": "Andes de Neuquén (Argentina) y Cordillera de Nahuelbuta y Andes del sur de Chile",
+  "iucn_status": "Global: En Peligro (EN), 2013; reevaluada EN B2ab(ii,iii,v) en 2021. Árbol nacional de Chile y provincial de Neuquén",
+  "population_estimate": "no lo tengo",
+  "trend": "Decreciente (incendios, pastoreo, plantaciones exóticas)",
+  "taxonomy_note": "Conífera relicta de linaje jurásico; sus piñones (ngülliw) son alimento sagrado para el pueblo pewenche.",
+  "foundations": [
+   {
+    "name": "Fundación Mar Adentro",
+    "hq_country": "Chile",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "https://iucn.org/node/16152",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Creó en 2006 la reserva privada Bosque Pehuén (bosque de araucarias) y promueve investigación, educación y arte.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Proyecto Pewen (consorcio PN Lanín, Consejo Zonal Pewenche, Propatagonia, Pulmarí; financiado por Fundación Franklinia, Suiza)",
+    "hq_country": "Argentina",
+    "hq_city": "Neuquén",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Restauración de bosques de pehuén incendiados en el Parque Nacional Lanín (p. ej., +5.000 araucarias plantadas con Amigos de la Patagonia).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Silueta de paraguas y ramas en candelabro inconfundibles; queda espectacular en línea negra sobre cielo nevado.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Araucaria_araucana",
+   "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:261681-1/general-information",
+   "https://iucn.org/node/16152",
+   "https://www.rionegro.com.ar/?p=3559773",
+   "https://www.noticiasnqn.com.ar/noticias/2025/05/23/313967-plantan-mas-de-5000-araucarias-para-restaurar-un-bosque-incendiado-en-el-parque-nacional-lanin"
+  ]
+ },
+ {
+  "common_name_es": "Alerce patagónico",
+  "scientific_name": "Fitzroya cupressoides",
+  "category": "América",
+  "continent": "América del Sur",
+  "countries": [
+   "Argentina",
+   "Chile"
+  ],
+  "region": "Bosques templados de Chubut y Río Negro (Argentina) y Los Lagos/Los Ríos (Chile)",
+  "iucn_status": "Global: En Peligro (EN), año no lo tengo",
+  "population_estimate": "no lo tengo",
+  "trend": "Decreciente",
+  "taxonomy_note": "Única especie del género Fitzroya; crece 1–2 mm de diámetro al año y vive miles de años (alerce de ~2.600 años en PN Los Alerces).",
+  "foundations": [
+   {
+    "name": "Administración de Parques Nacionales – Parque Nacional Los Alerces (organismo público, Patrimonio Mundial UNESCO)",
+    "hq_country": "Argentina",
+    "hq_city": "Esquel, Chubut (sin verificar)",
+    "website": "https://www.argentina.gob.ar/parquesnacionales (sin verificar)",
+    "project_page_url": "https://argentina.gob.ar/sites/default/files/ficha_-_pn_los_alerces.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Protege desde 1937 los alerzales milenarios (~260.000 ha). Fundación privada específica: no lo tengo.",
+    "accepts_corporate_partners": "no lo tengo (organismo público)"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Tronco rojizo milenario: mensaje de tiempo y paciencia, muy fuerte en un diseño vertical.",
+  "sources": [
+   "https://whc.unesco.org/document/155649",
+   "https://www.conifers.org/cu/fi/",
+   "https://argentina.gob.ar/sites/default/files/ficha_-_pn_los_alerces.pdf",
+   "https://temperate.theferns.info/plant/Fitzroya+cupressoides"
+  ]
+ },
+ {
+  "common_name_es": "Secuoya gigante",
+  "scientific_name": "Sequoiadendron giganteum",
+  "category": "América",
+  "continent": "América del Norte",
+  "countries": [
+   "Estados Unidos"
+  ],
+  "region": "Ladera occidental de Sierra Nevada, California",
+  "iucn_status": "Global: En Peligro (EN), año no lo tengo (sin verificar en la UICN)",
+  "population_estimate": "El incendio Castle (2020) mató 7.500–10.600 secuoyas maduras, un 10–14% de las grandes secuoyas del mundo (estimación NPS)",
+  "trend": "Decreciente por megaincendios y sequía",
+  "taxonomy_note": "Único miembro vivo del género Sequoiadendron; incluye los árboles más voluminosos del planeta (General Sherman).",
+  "foundations": [
+   {
+    "name": "Save the Redwoods League",
+    "hq_country": "Estados Unidos",
+    "hq_city": "San Francisco (sin verificar)",
+    "website": "https://www.savetheredwoods.org",
+    "project_page_url": "https://www.savetheredwoods.org/blog/loss-of-giant-sequoia-highlights-need-for-action-on-wildfires/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Sam Hodder (sin verificar si sigue en el cargo)",
+    "what_they_do": "Compra y restaura bosques de secuoyas (p. ej., Alder Creek); miembro de la Giant Sequoia Lands Coalition.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Escala colosal frente a una figura humana diminuta: composición vertical perfecta para la espalda de una camiseta.",
+  "sources": [
+   "https://www.savetheredwoods.org/press-releases/treasured-giant-sequoia-face-an-existential-threat",
+   "https://www.savetheredwoods.org/wp-content/uploads/files/PR-20211119_GS-Mortality-Estimates-press-statement.pdf",
+   "https://www.nps.gov/seki/learn/news/giant-sequoia-lands-coalition-formed-to-protect-iconic-trees-from-threats-of-climate-change-and-catastrophic-wildfire.htm"
+  ]
+ },
+ {
+  "common_name_es": "Picaflor de Juan Fernández",
+  "scientific_name": "Sephanoides fernandensis",
+  "category": "América",
+  "continent": "América del Sur",
+  "countries": [
+   "Chile"
+  ],
+  "region": "Isla Robinson Crusoe, archipiélago Juan Fernández (~11 km² de hábitat)",
+  "iucn_status": "Global: En Peligro Crítico (CR) B1ab(ii,iii), año no lo tengo. Chile: En Peligro Crítico",
+  "population_estimate": "1.500–3.500 maduros (BirdLife); 490–2.000 maduros según datos UICN 2025 recogidos por Aves de Chile; Oikonos: 1.000–3.000",
+  "trend": "Decreciente",
+  "taxonomy_note": "Fuerte dimorfismo sexual (macho canela-rojizo, hembra verde y blanca); la subespecie leyboldi de Alejandro Selkirk se considera extinta.",
+  "foundations": [
+   {
+    "name": "Oikonos – Ecosystem Knowledge",
+    "hq_country": "Chile / Estados Unidos (sin verificar)",
+    "hq_city": "no lo tengo",
+    "website": "https://oikonos.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Guardián de la especie para BirdLife: control de especies invasoras, restauración de flora nativa y seguimiento poblacional en Robinson Crusoe.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Macho de color fuego con corona iridiscente: joya diminuta con historia de isla de Robinson Crusoe.",
+  "sources": [
+   "https://datazone.birdlife.org/species/factsheet/juan-fernandez-firecrown-sephanoides-fernandensis",
+   "https://eldesconcierto.cl/medio-ambiente/picaflor-juan-fernandez-peligro-critico-extincion-donde-vive-que-come-y-cuales-son-sus-principales-amenazas-n5463061",
+   "https://www.edgeofexistence.org/species/juan-fernandez-firecrown"
+  ]
+ },
+ {
+  "common_name_es": "Gato andino",
+  "scientific_name": "Leopardus jacobita",
+  "category": "América",
+  "continent": "América del Sur",
+  "countries": [
+   "Argentina",
+   "Chile",
+   "Bolivia",
+   "Perú"
+  ],
+  "region": "Altos Andes y Patagonia norte (Mendoza, Neuquén); triángulo del litio",
+  "iucn_status": "Global: En Peligro (EN) C2a(i), evaluación 2024 (Reppucci et al.)",
+  "population_estimate": "~1.378 individuos maduros (estimación citada en 2022); otras fuentes: 2.177 maduros / 4.354 totales",
+  "trend": "Decreciente",
+  "taxonomy_note": "Uno de los felinos más amenazados de América; llamado 'fantasma de los Andes'.",
+  "foundations": [
+   {
+    "name": "Alianza Gato Andino (AGA)",
+    "hq_country": "Argentina / Chile / Bolivia / Perú (red)",
+    "hq_city": "no lo tengo",
+    "website": "https://gatoandino.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Red de investigadores de los cuatro países que estudia y protege al gato andino (citada en la evaluación UICN 2024).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "WCS Argentina",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires (sin verificar)",
+    "website": "https://argentina.wcs.org",
+    "project_page_url": "https://argentina.wcs.org/Wildlife/Andean-Cat.aspx",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Trampas cámara en Malargüe (Mendoza): primer vídeo de hembra con cría.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Hernán Rojo",
+    "nationality": "Argentino (Córdoba)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.losandes.com.ar/sociedad/volvio-a-aparecer-el-fantasma-de-los-andes-un-fotografo-logro-captar-postales-unicas-de-un-gato-andino",
+    "note": "Fotografió un gato andino en Uspallata (Mendoza) en una salida de observación de aves (ene. 2023).",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Cola gruesa anillada y pelaje gris plateado: felino misterioso y poco conocido, ideal para despertar curiosidad.",
+  "sources": [
+   "https://catsg.org/living-species-andeanmountaincat",
+   "https://bicyt.conicet.gov.ar/fichas/produccion/12993814",
+   "https://dx.doi.org/10.3390/ani12050639",
+   "https://argentina.wcs.org/Wildlife/Andean-Cat.aspx",
+   "https://es.mongabay.com/2025/03/gato-andino-cachorro-grabados-por-primera-vez-mendoza-felino-mas-amenazado-america/"
+  ]
+ },
+ {
+  "common_name_es": "Mara patagónica",
+  "scientific_name": "Dolichotis patagonum",
+  "category": "América",
+  "continent": "América del Sur",
+  "countries": [
+   "Argentina"
+  ],
+  "region": "Endémica de Argentina: desde Bahía Blanca al oeste de Mendoza y Patagonia",
+  "iucn_status": "Global: Casi Amenazada (NT), año no lo tengo. Argentina: Vulnerable (categorizaciones 1997, 2000, 2012 y 2019)",
+  "population_estimate": "no lo tengo",
+  "trend": "Decreciente (~30% en 10 años según Handbook of the Mammals of the World)",
+  "taxonomy_note": "Roedor caviomorfo (pariente del cuy) con aspecto de liebre; forma parejas monógamas de por vida.",
+  "foundations": [
+   {
+    "name": "World Land Trust",
+    "hq_country": "Reino Unido",
+    "hq_city": "no lo tengo",
+    "website": "https://www.worldlandtrust.org",
+    "project_page_url": "https://www.worldlandtrust.org/projects/patagonia",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Proyecto de protección de estepa patagónica con la mara como especie emblema (socio local no lo tengo).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Fundación Rewilding Argentina",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires (sin verificar); opera en Iberá (Corrientes), El Impenetrable (Chaco) y Patagonia",
+    "website": "https://rewildingargentina.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Sofía Heinonen (directora ejecutiva)",
+    "what_they_do": "Restauración de la estepa patagónica (sin verificar programa específico de mara).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Orejas largas y patas de ciervo: animal sorprendente y simpático que pocos europeos conocen.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Patagonian_mara",
+   "https://www.worldlandtrust.org/projects/patagonia",
+   "https://www.mendoza.conicet.gov.ar/wp-content/uploads/2022/08/plantilla_mara_especialistas1.pdf",
+   "https://tb.plazi.org/GgServer/html/03FF87C7FFB753462041F30E555ABACE"
+  ]
+ },
+ {
+  "common_name_es": "Zorro de Darwin",
+  "scientific_name": "Lycalopex fulvipes",
+  "category": "América",
+  "continent": "América del Sur",
+  "countries": [
+   "Chile"
+  ],
+  "region": "Isla Grande de Chiloé (~90%), Cordillera de Nahuelbuta y Reserva Costera Valdiviana",
+  "iucn_status": "Global: En Peligro (EN), año no lo tengo. Chile: Plan RECOGE del Ministerio del Medio Ambiente (consulta 2023)",
+  "population_estimate": "No más de 700 individuos (Mongabay 2019, sin verificar); Wikipedia: ~200 en Chiloé y ~50 en Nahuelbuta",
+  "trend": "Decreciente (perros, enfermedades, incendios, pérdida de bosque)",
+  "taxonomy_note": "Descrito por Darwin en Chiloé en 1834; uno de los cánidos más amenazados del mundo.",
+  "foundations": [
+   {
+    "name": "The Nature Conservancy Chile",
+    "hq_country": "Chile",
+    "hq_city": "no lo tengo",
+    "website": "https://www.nature.org",
+    "project_page_url": "https://www.nature.org/es-us/sobre-tnc/donde-trabajamos/tnc-en-latinoamerica/chile/historias-en-chile/zorro-de-darwin-lycalopex-fulvipes/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Reserva Costera Valdiviana: registró la especie con trampas cámara en 2014.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "ONG Chiloé Silvestre",
+    "hq_country": "Chile",
+    "hq_city": "Chiloé (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Citada en el Plan RECOGE como actor de conservación del zorro (sin verificar detalle).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Zorro pequeño y oscuro con historia darwiniana: narrativa científica atractiva para el público europeo.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Darwin%27s_fox",
+   "https://es.mongabay.com/2019/02/las-amenazas-que-podrian-hacer-desaparecer-al-zorro-de-darwin/",
+   "https://consultasciudadanas.mma.gob.cl/storage/act/154/Marco%20T%C3%A9cnico%20Plan.pdf",
+   "https://www.nature.org/es-us/sobre-tnc/donde-trabajamos/tnc-en-latinoamerica/chile/historias-en-chile/zorro-de-darwin-lycalopex-fulvipes/"
+  ]
+ }
+]

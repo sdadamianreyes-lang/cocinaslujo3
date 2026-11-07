@@ -1,0 +1,844 @@
+[
+ {
+  "common_name_es": "Albatros viajero",
+  "scientific_name": "Diomedea exulans",
+  "category": "Océanos",
+  "continent": "Océano Austral / Antártida e islas subantárticas",
+  "countries": "Georgias del Sur, Islas Príncipe Eduardo (Sudáfrica), Crozet y Kerguelen (Francia), Macquarie (Australia); forrajea sobre plataforma argentina, uruguaya y brasileña",
+  "region": "Océano Austral circumpolar; Atlántico Sudoccidental (Mar Argentino)",
+  "iucn_status": "Global: Vulnerable (VU), año de evaluación no lo tengo (BirdLife). Argentina: Vulnerable (cartilla MAGyP). CMS Apéndice II desde 1997",
+  "population_estimate": "~8.050 parejas reproductoras/año (ACAP 2009); estimaciones más recientes por colonia suman ~6.000 parejas/año (BirdLife). Georgias del Sur: 1.278 parejas en 2014/15",
+  "trend": "En declive en Georgias del Sur (−18% 2003/04–2014/15; Bird Island −3,01%/año 1999–2018); signos de recuperación en Príncipe Eduardo y Crozet",
+  "taxonomy_note": "Familia Diomedeidae. Algunas fuentes (BirdLife) usan 'snowy albatross' para D. exulans tras la división del complejo exulans (sin verificar)",
+  "foundations": [
+   {
+    "name": "Aves Argentinas (socio BirdLife) – Programa Marino / Albatross Task Force",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires (Matheu 1248)",
+    "website": "https://www.avesargentinas.org.ar",
+    "project_page_url": "no lo tengo",
+    "contact_email": "info@avesargentinas.org.ar; educacionavesmarinas@avesargentinas.org.ar",
+    "phone": "no lo tengo",
+    "director_or_president": "Leandro Tamini (coordinador del Programa Marino, según La Nación)",
+    "what_they_do": "Albatross Task Force: trabaja con pescadores para reducir la captura incidental; impulsó la obligatoriedad de líneas espantapájaros en buques (CFP 2018).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "La envergadura récord (más de 3 m) con alas abiertas sobre el mar da una silueta horizontal limpia, ideal para estampado de pecho.",
+  "sources": [
+   "https://datazone.birdlife.org/species/factsheet/snowy-albatross-diomedea-exulans/text",
+   "https://acap.aq/latest-news/decreasing-numbers-of-albatrosses-on-south-georgia-islas-georgias-del-sur-considered-due-to-fisheries-bycatch",
+   "https://www.cms.int/en/species/Diomedea-exulans",
+   "https://www.lanacion.com.ar/lifestyle/los-albatros-viajeros-incansables-oceanos-nid2382295",
+   "https://es.mongabay.com/2021/09/cuatro-claves-espantapajaros-salvan-albatros-de-ceja-negra/",
+   "https://conservationleadershipprogramme.org/?p=7280"
+  ]
+ },
+ {
+  "common_name_es": "Coral cuerno de alce",
+  "scientific_name": "Acropora palmata",
+  "category": "Océanos",
+  "continent": "América",
+  "countries": "EE. UU. (Florida), Bahamas, Caribe (Curazao, Rep. Dominicana, Belice, México, etc.)",
+  "region": "Caribe y golfo de México occidental",
+  "iucn_status": "Global: En Peligro Crítico (CR), 2021 (evaluado inicialmente CR en 2008). EE. UU.: Threatened (ESA, 2006)",
+  "population_estimate": "no lo tengo",
+  "trend": "Declive >95% desde la enfermedad de los años 70; tras la ola de calor marina de 2023 se considera funcionalmente extinto en el arrecife de Florida (Wikipedia, sin verificar)",
+  "taxonomy_note": "Coral pétreo constructor de arrecife, familia Acroporidae",
+  "foundations": [
+   {
+    "name": "SECORE International",
+    "hq_country": "no lo tengo (sin verificar)",
+    "hq_city": "no lo tengo",
+    "website": "https://www.secore.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Restauración de corales por reproducción sexual y siembra temprana de reclutas de A. palmata (programa en Curazao, coautor de estudios con UvA).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Coral Restoration Foundation",
+    "hq_country": "EE. UU. (sin verificar)",
+    "hq_city": "Key Largo, Florida (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Viveros y replantación de corales en Florida (sin verificar en esta pasada).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Las ramas aplanadas tipo cornamenta forman una silueta gráfica y reconocible, muy potente en un solo color.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Elkhorn_coral",
+   "https://www.sealifebase.ca/Summary/SpeciesSummary.php?id=46813",
+   "https://pure.uva.nl/ws/files/2565656/166582_Restoration_of_critically_endangered_elkhorn_coral.pdf",
+   "https://doaj.org/article/ce74da500edd42ed94f5d421256849ae"
+  ]
+ },
+ {
+  "common_name_es": "Pez napoleón",
+  "scientific_name": "Cheilinus undulatus",
+  "category": "Océanos",
+  "continent": "Asia / Oceanía / África",
+  "countries": "Indo-Pacífico: desde el mar Rojo y África oriental (Kenia) hasta el Pacífico central; comercio centrado en Hong Kong",
+  "region": "Arrecifes de coral del Indo-Pacífico",
+  "iucn_status": "Global: En Peligro (EN), 2004 (año sin verificar). CITES Apéndice II",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive por el comercio de peces vivos de arrecife (sin verificar en evaluación reciente)",
+  "taxonomy_note": "Familia Labridae; el mayor lábrido del mundo",
+  "foundations": [
+   {
+    "name": "IUCN SSC Grouper & Wrasse Specialist Group",
+    "hq_country": "no lo tengo",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "https://iucn.org/sites/default/files/2023-11/2019-groupers-and-wrasses-sg-report_publication.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Grupo de ~40 especialistas: estudios de campo, apoyo a CITES (dictámenes de extracción no perjudicial), estudio de comercio en Hong Kong con TRAFFIC y proyecto de reconocimiento facial para detectar blanqueo de ejemplares.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "ADM Capital Foundation",
+    "hq_country": "Hong Kong (sin verificar)",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Financiador citado en el informe 2016–2017 del grupo especialista.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "La frente abultada y los dibujos laberínticos azul-verde de la cara dan un retrato carismático y lleno de textura.",
+  "sources": [
+   "https://iucn.org/sites/default/files/2023-11/2016-2017-grouper-and-wrasse-sg-report.pdf",
+   "https://iucn.org/sites/default/files/2023-11/2019-groupers-and-wrasses-sg-report_publication.pdf",
+   "https://cites.org/sites/default/files/eng/com/sc/69/E-SC69-48.pdf",
+   "https://www.rufford.org/projects/william-kanyange/status-and-assessment-of-humphead-wrasse-stock-in-kenya/"
+  ]
+ },
+ {
+  "common_name_es": "Mero goliat",
+  "scientific_name": "Epinephelus itajara",
+  "category": "Océanos",
+  "continent": "América / África",
+  "countries": "EE. UU. (Florida), golfo de México, Caribe, Brasil; también costa atlántica de África (sin verificar)",
+  "region": "Atlántico occidental tropical y subtropical, desde Carolina del Norte hasta el sur de Brasil",
+  "iucn_status": "Global: Vulnerable (VU), 2018 (Bertoncini et al.). Previamente CR (2011). Golfo de México: En Peligro (según Wikipedia, sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "En aumento en EE. UU. tras moratoria de pesca de más de 27 años, aunque no recuperado; en el sur de Brasil las agregaciones han caído de 60 a una docena de peces",
+  "taxonomy_note": "Familia Epinephelidae/Serranidae",
+  "foundations": [
+   {
+    "name": "Projeto Meros do Brasil",
+    "hq_country": "Brasil",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "https://proceedings.gcfi.org/proceedings/meros-do-brasil-project-a-strategy-for-the-conservation-of-marine-and-coastal-ecosystems-in-brazil/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Desde 2002; red de más de 50 instituciones; investigación, fotoidentificación (Fernando de Noronha) y educación; financiado por el programa socioambiental de Petrobras.",
+    "accepts_corporate_partners": "Sí (patrocinio Petrobras)"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Un gigante de boca enorme frente al buzo: escala y expresión que funcionan muy bien en camiseta.",
+  "sources": [
+   "https://www.scrfa.org/species/epinephelus-itajara-goliath-grouper/",
+   "https://en.wikipedia.org/wiki/Atlantic_goliath_grouper",
+   "https://proceedings.gcfi.org/proceedings/meros-do-brasil-project-a-strategy-for-the-conservation-of-marine-and-coastal-ecosystems-in-brazil/",
+   "https://issuu.com/merosdobrasil/docs/3wsfc_eposter_bertoncinietal_trabal"
+  ]
+ },
+ {
+  "common_name_es": "Atún rojo del Atlántico",
+  "scientific_name": "Thunnus thynnus",
+  "category": "Océanos",
+  "continent": "Europa / América / África",
+  "countries": "España, Italia, Francia, Malta, Marruecos, Túnez, Turquía, Japón (mercado), EE. UU., Canadá",
+  "region": "Atlántico Norte y Mediterráneo (stocks oriental y occidental)",
+  "iucn_status": "Global: Preocupación Menor (LC), 2021 (sin verificar: no confirmado en los resultados; evaluación anterior Casi Amenazado/NT según Público)",
+  "population_estimate": "no lo tengo",
+  "trend": "Stock oriental/Mediterráneo en recuperación tras el plan de ICCAT (recortes de capturas de hasta 75%); la recuperación del stock occidental no está confirmada",
+  "taxonomy_note": "Familia Scombridae",
+  "foundations": [
+   {
+    "name": "WWF España",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://www.wwf.es",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Raúl García (responsable de pesquerías de WWF España, citado en prensa)",
+    "what_they_do": "Seguimiento de ICCAT, lucha contra la pesca ilegal y críticas a las cuotas; considera el atún rojo oriental un ejemplo de recuperación.",
+    "accepts_corporate_partners": "Sí (sin verificar)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Ángel Fitor",
+    "nationality": "Española",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotoperiodista submarino desde finales de los 80; publicado en National Geographic y GEO; premiado en World Press Photo, Wildlife Photographer of the Year y Sony World Photography Awards. Especialista en Mediterráneo. Web/Instagram sin localizar.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Cuerpo torpedo plateado-azul y bancos en espiral: dinamismo y velocidad, ideal para estampado en movimiento.",
+  "sources": [
+   "https://www.ecoticias.com/naturaleza/72393_objetivo-recuperacion-atun-rojo",
+   "https://www.publico.es/ciencias/cinco-especies-atun-amenazadas.html",
+   "https://www.ecoticias.com/sostenibilidad/177463_wwf-denuncia-un-aumento-drastico-de-las-capturas-de-atun-rojo-en-iccat",
+   "https://wwfes.awsassets.panda.org/downloads/atun_rojo_cast_1.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Pez sierra",
+  "scientific_name": "Pristis pristis",
+  "category": "Océanos",
+  "continent": "Oceanía / América / África / Asia",
+  "countries": "Australia (norte; bastión), Costa Rica, Brasil, Guinea-Bisáu, entre otros; extinto localmente en 27 países",
+  "region": "Aguas costeras, estuarios y ríos tropicales",
+  "iucn_status": "Global: En Peligro Crítico (CR), año no lo tengo",
+  "population_estimate": "Desconocida (Sawfish Conservation Society). Río Archer (Queensland): 47 ejemplares registrados en censo CSIRO (2022)",
+  "trend": "En declive: −65% en 100 años; reducción ≥80% del área de presencia en tres generaciones",
+  "taxonomy_note": "Familia Pristidae; también llamado pez sierra de dientes grandes o de agua dulce",
+  "foundations": [
+   {
+    "name": "Sawfish Conservation Society",
+    "hq_country": "no lo tengo",
+    "hq_city": "no lo tengo",
+    "website": "https://www.sawfishconservationsociety.org",
+    "project_page_url": "https://www.sawfishconservationsociety.org/largetooth-sawfish",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Red internacional de investigadores y divulgación sobre peces sierra.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Save Our Seas Foundation",
+    "hq_country": "Suiza (sin verificar)",
+    "hq_city": "Ginebra (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Financia proyectos de tiburones y rayas (no confirmado proyecto de pez sierra en esta pasada).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "El rostro dentado en forma de sierra es una silueta única e inconfundible, perfecta para un diseño minimalista.",
+  "sources": [
+   "https://www.sawfishconservationsociety.org/largetooth-sawfish",
+   "https://www.csiro.au/en/news/all/articles/2022/may/largetooth-sawfish",
+   "https://fish.gov.au/docs/SharkReport/2023_FRDC_Pristis_pristis_Final.pdf",
+   "https://media.rufford.org/media/project_reports/Endangered%20Species%20Research%2C%20Vol.%2040.%20231-242%2C%202019.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Elefante marino del sur",
+  "scientific_name": "Mirounga leonina",
+  "category": "Océanos",
+  "continent": "América / Antártida",
+  "countries": "Argentina (Península Valdés, única colonia continental en crecimiento), Georgias del Sur, Kerguelen, Macquarie",
+  "region": "Península Valdés (Chubut, Argentina) y océano Austral",
+  "iucn_status": "Global: Vulnerable (VU), 2026 (reclasificado desde LC en abril de 2026 por gripe aviar; sin verificar en la Lista Roja). Antes LC (2015). WCS: la población de Valdés podría considerarse En Peligro",
+  "population_estimate": "Global ~650.000 (AMP Argentina). Península Valdés: ~60.000 (censo WCS 2022); 53.200 según ficha UICN Patrimonio Mundial (año no claro)",
+  "trend": "En fuerte declive en Valdés: mortalidad de crías del 56–74% en 2023 (H5N1); en 2024 los reproductores cayeron >50–60% en zonas de alta densidad",
+  "taxonomy_note": "Familia Phocidae; el pinnípedo más grande",
+  "foundations": [
+   {
+    "name": "WCS Argentina (Wildlife Conservation Society)",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires (sin verificar)",
+    "website": "https://argentina.wcs.org",
+    "project_page_url": "https://argentina.wcs.org/es-es/Quienes-somos/Noticias/articleType/ArticleView/articleId/26389.aspx",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Trabaja en Península Valdés desde los años 60; realiza censos de elefante marino (último completo 2022, recuento 2024) y monitoreo de gripe aviar H5N1.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Fundación Patagonia Natural",
+    "hq_country": "Argentina",
+    "hq_city": "Puerto Madryn (Chubut)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "ONG de Puerto Madryn que, con WCS y la provincia del Chubut, preparó la documentación técnica de la reserva de biosfera Península Valdés.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Tomás Thibaud",
+    "nationality": "Argentina",
+    "website": "no lo tengo",
+    "instagram": "@tomasthibaud",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de naturaleza en Península Valdés; imágenes con dron de ballena franca publicadas por National Geographic Latinoamérica. No se confirmó que tenga fotos de esta especie concreta.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   },
+   {
+    "name": "Maxi Jonas",
+    "nationality": "Argentina",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de orcas en Punta Norte (Península Valdés), colabora con Península Valdés Orcas Research. Fotos de pinnípedos sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "La trompa del macho y la mirada de las crías dan un retrato expresivo; gran contraste sobre la playa patagónica.",
+  "sources": [
+   "https://argentina.wcs.org/es-es/Quienes-somos/Noticias/articleType/ArticleView/articleId/26389.aspx",
+   "https://www.diariojornada.com.ar/382778/sapiens/drastica_disminucion_de_elefantes_marinos_por_la_gripe_aviar_de_2023",
+   "https://ampargentina.org/en/southern-elephant-seal/",
+   "https://worldheritageoutlook.iucn.org/node/1088",
+   "https://www.lmneuquen.com/patagonia/peninsula-valdes-podria-perder-sus-elefantes-marinos-advierten-que-la-poblacion-cayo-61-un-ano-n1211289",
+   "https://www.newswise.com/articles/spectacular-marine-and-terrestrial-wildlife-haven-becomes-four-million-acre-biosphere-reserve"
+  ]
+ },
+ {
+  "common_name_es": "Lobo marino sudamericano",
+  "scientific_name": "Otaria flavescens",
+  "category": "Océanos",
+  "continent": "América",
+  "countries": "Argentina, Uruguay, Brasil (sur), Chile, Perú, Islas Malvinas",
+  "region": "Costas del Atlántico y Pacífico sudamericano",
+  "iucn_status": "Global: Preocupación Menor (LC), 2016 (evaluada como Otaria byronia). Argentina: LC (2019)",
+  "population_estimate": "~445.000 individuos (AMP Argentina, año no lo tengo); otra cifra de ~225.000 de fuente débil",
+  "trend": "En recuperación en el norte de Patagonia tras la caza comercial, aún muy por debajo de niveles históricos",
+  "taxonomy_note": "Familia Otariidae; la UICN usa el sinónimo Otaria byronia",
+  "foundations": [
+   {
+    "name": "WCS Argentina (Wildlife Conservation Society)",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires (sin verificar)",
+    "website": "https://argentina.wcs.org",
+    "project_page_url": "https://argentina.wcs.org/es-es/Quienes-somos/Noticias/articleType/ArticleView/articleId/26389.aspx",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Trabaja en Península Valdés desde los años 60; realiza censos de elefante marino (último completo 2022, recuento 2024) y monitoreo de gripe aviar H5N1.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Fundación Mundo Marino",
+    "hq_country": "Argentina",
+    "hq_city": "San Clemente del Tuyú (sin verificar)",
+    "website": "https://mundomarino.com.ar (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Rescate y rehabilitación de fauna marina (sin verificar en esta pasada para lobo marino).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Tomás Thibaud",
+    "nationality": "Argentina",
+    "website": "no lo tengo",
+    "instagram": "@tomasthibaud",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de naturaleza en Península Valdés; imágenes con dron de ballena franca publicadas por National Geographic Latinoamérica. No se confirmó que tenga fotos de esta especie concreta.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   },
+   {
+    "name": "Maxi Jonas",
+    "nationality": "Argentina",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de orcas en Punta Norte (Península Valdés), colabora con Península Valdés Orcas Research. Fotos de pinnípedos sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "La melena del macho le da aire de león: retrato frontal poderoso y muy reconocible.",
+  "sources": [
+   "https://ampargentina.org/en/south-american-sea-lion/",
+   "https://library.wcs.org/en-us/doi/ctl/view/mid/33065/pubid/PUB25135.aspx",
+   "https://www.sealifebase.ca/summary/69418"
+  ]
+ },
+ {
+  "common_name_es": "Krill antártico",
+  "scientific_name": "Euphausia superba",
+  "category": "Océanos",
+  "continent": "Antártida",
+  "countries": "Aguas antárticas (pesca de Noruega, China, Corea, Chile, entre otros; sin verificar)",
+  "region": "Océano Austral; Área 48 (Atlántico antártico) y Divisiones 58.4.1/58.4.2",
+  "iucn_status": "Global: Preocupación Menor (LC), 2015 (sin verificar)",
+  "population_estimate": "Global: no lo tengo. CCAMLR usa estimaciones acústicas por áreas (prospección multinacional Área 48 en 2019; Japón 58.4.1 en 2019; Australia 58.4.2 Este en 2021)",
+  "trend": "Presión pesquera creciente desde ~2010 por el aceite de krill, con capturas a niveles de los años 80",
+  "taxonomy_note": "Crustáceo eufáusido; especie clave de la red trófica antártica",
+  "foundations": [
+   {
+    "name": "ASOC – Antarctic and Southern Ocean Coalition",
+    "hq_country": "no lo tengo",
+    "hq_city": "no lo tengo",
+    "website": "https://www.asoc.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Coalición de ONG que participa en CCAMLR por la gestión precautoria del krill (sin verificar en esta pasada).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Enjambres rojo-anaranjados translúcidos o un ejemplar en macro: pequeño animal, gran mensaje sobre la base del océano.",
+  "sources": [
+   "https://meetings.ccamlr.org/es/sg-asam-18/07",
+   "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1448250/full"
+  ]
+ },
+ {
+  "common_name_es": "Tonina overa",
+  "scientific_name": "Cephalorhynchus commersonii",
+  "category": "Océanos",
+  "continent": "América",
+  "countries": "Argentina, Chile (estrecho de Magallanes), Islas Malvinas; subespecie separada en Kerguelen",
+  "region": "Costas de Patagonia y Tierra del Fuego (Puerto Deseado, estrecho de Magallanes)",
+  "iucn_status": "Global: Preocupación Menor (LC), 2017 (errata 2018). Argentina: no lo tengo",
+  "population_estimate": "Global desconocida (localmente común)",
+  "trend": "Desconocida; captura incidental en redes agalleras artesanales en norte de Tierra del Fuego y sur de Patagonia",
+  "taxonomy_note": "Familia Delphinidae; subespecie C. c. commersonii en Sudamérica",
+  "foundations": [
+   {
+    "name": "Fundación Vida Silvestre Argentina (socio de WWF)",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires",
+    "website": "https://www.vidasilvestre.org.ar",
+    "project_page_url": "no lo tengo",
+    "contact_email": "info@vidasilvestre.org.ar (sin verificar: tomado de directorio EULAC)",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Programa Marino; desde 2004 trabaja con WWF, Fundación Aquamarina y Wildlife Trust Alliance para reducir la captura incidental de franciscana; agencia ejecutora de un proyecto CMS de censo aéreo.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Museo Acatushún de Aves y Mamíferos Marinos Australes",
+    "hq_country": "Argentina",
+    "hq_city": "Tierra del Fuego (Estancia Harberton, sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Institución de investigación con colecciones y estudios genéticos de la especie; no es fundación, sin programa de conservación confirmado.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Tomás Thibaud",
+    "nationality": "Argentina",
+    "website": "no lo tengo",
+    "instagram": "@tomasthibaud",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de naturaleza en Península Valdés; imágenes con dron de ballena franca publicadas por National Geographic Latinoamérica. No se confirmó que tenga fotos de esta especie concreta.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Su patrón blanco y negro tipo 'panda' es gráfico y simpático: funciona incluso en dos tintas.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Commerson%27s_dolphin",
+   "https://ri.conicet.gov.ar/handle/11336/16562",
+   "https://www.rufford.org/projects/lida-pimper/assessment-of-the-population-structure-and-conservation-management-of-commersons-dolphins-on-the-coasts-of-southern-south-america/",
+   "https://www.marinemammalhabitat.org/factsheets/commersons-dolphin-habitat-network-imma"
+  ]
+ },
+ {
+  "common_name_es": "Franciscana / delfín del Plata",
+  "scientific_name": "Pontoporia blainvillei",
+  "category": "Océanos",
+  "continent": "América",
+  "countries": "Argentina, Uruguay, Brasil",
+  "region": "Aguas costeras del Atlántico Sudoccidental (hasta la isobata de 30 m)",
+  "iucn_status": "Global: Vulnerable (VU A3cd), año no lo tengo. Argentina: Vulnerable (2019). CMS Acción Concertada (Argentina, Brasil, Uruguay)",
+  "population_estimate": "Argentina: ~26.169 individuos (censos aéreos 2019–2022, costa a 30 m, incluye extrapolación de Bahía Samborombón; Crespo et al.). 2003–2004: 8.279 (norte) y 5.896 (sur)",
+  "trend": "En declive por captura incidental en redes de pesca",
+  "taxonomy_note": "Familia Pontoporiidae; uno de los delfines más pequeños; llamado también tonina o delfín del Plata",
+  "foundations": [
+   {
+    "name": "Fundación Vida Silvestre Argentina (socio de WWF)",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires",
+    "website": "https://www.vidasilvestre.org.ar",
+    "project_page_url": "no lo tengo",
+    "contact_email": "info@vidasilvestre.org.ar (sin verificar: tomado de directorio EULAC)",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Programa Marino; desde 2004 trabaja con WWF, Fundación Aquamarina y Wildlife Trust Alliance para reducir la captura incidental de franciscana; agencia ejecutora de un proyecto CMS de censo aéreo.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Fundación Aquamarina",
+    "hq_country": "Argentina",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Socia de FVSA y WWF desde 2004 en la reducción de mortalidad incidental de franciscana.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Su largo pico fino es una silueta delicada y poco vista: especie 'nuestra' del Río de la Plata con fuerte relato.",
+  "sources": [
+   "https://cma.sarem.org.ar/sites/default/files/pdf_fichas/Pontoporia%20blainvillei.pdf",
+   "https://argentina.gob.ar/sites/default/files/2021/09/la_estimacion_de_la_abundancia_de_franciscana.pdf",
+   "https://www.cms.int/fr/project/key-aspects-biology-and-ecology-franciscana-dolphin-pontoporia-blainvillei",
+   "https://www.pick-upau.org.br/agencia_noticias/site_english/environmental_panorama/2005/2005.12.16/conserving_endangered_dolphins.htm",
+   "https://repositoriosdigitales.mincyt.gob.ar/vufind/Record/CONICETDig_d1edd5b4db8b5c3962f17b7e4658cc72"
+  ]
+ },
+ {
+  "common_name_es": "Tortuga olivácea",
+  "scientific_name": "Lepidochelys olivacea",
+  "category": "Océanos",
+  "continent": "América / Asia / África / Oceanía",
+  "countries": "Costa Rica, México, India (Odisha), entre otros; ocasional en Canarias",
+  "region": "Mares tropicales y subtropicales de todo el mundo",
+  "iucn_status": "Global: Vulnerable (VU A2bd), 2008 (año sin verificar; algunas fuentes antiguas la citan como En Peligro)",
+  "population_estimate": "~800.000 hembras anidantes/año (WWF, año no lo tengo)",
+  "trend": "En declive (30–50% a escala mundial según revisión de 2022)",
+  "taxonomy_note": "Familia Cheloniidae; la tortuga marina más abundante, conocida por las arribadas",
+  "foundations": [
+   {
+    "name": "WWF",
+    "hq_country": "no lo tengo",
+    "hq_city": "no lo tengo",
+    "website": "https://wwf.panda.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Programa de tortugas marinas a escala global.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Sea Turtle Foundation",
+    "hq_country": "Australia (sin verificar)",
+    "hq_city": "no lo tengo",
+    "website": "https://seaturtlefoundation.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Conservación de tortugas marinas (sin verificar).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Francis Pérez",
+    "nationality": "Española",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.worldpressphoto.org/francis-perez",
+    "note": "Fotógrafo submarino premiado en World Press Photo (perfil oficial en worldpressphoto.org). Galería específica de la especie sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Las arribadas masivas o un caparazón en primer plano: forma redonda y simétrica muy agradecida en el pecho.",
+  "sources": [
+   "https://wwf.panda.org/discover/our_focus/wildlife_practice/profiles/fish_marine/marine_turtles/olive_ridley_turtle",
+   "https://seaturtlefoundation.org/?p=359",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC9311662",
+   "https://accedacris.ulpgc.es/bitstream/10553/21037/3/Las_tortugas_en_Canarias.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Foca monje de Hawái",
+  "scientific_name": "Neomonachus schauinslandi",
+  "category": "Océanos",
+  "continent": "Oceanía",
+  "countries": "Estados Unidos (Hawái)",
+  "region": "Papahānaumokuākea (islas del noroeste de Hawái) e islas principales de Hawái",
+  "iucn_status": "Global: En Peligro (EN), 2015 (sin verificar). EE. UU.: Endangered (ESA)",
+  "population_estimate": "~1.600 focas (NOAA, 2022): ~1.200 en Papahānaumokuākea y ~400 en las islas principales",
+  "trend": "En lento aumento (1.564 en 2021; superó 1.600 en 2022)",
+  "taxonomy_note": "Familia Phocidae; género Neomonachus separado de Monachus en 2014 (sin verificar)",
+  "foundations": [
+   {
+    "name": "The Marine Mammal Center – Ke Kai Ola (hospital de foca monje)",
+    "hq_country": "EE. UU.",
+    "hq_city": "Sausalito, California (sede); hospital en Kailua-Kona, Hawái",
+    "website": "https://www.marinemammalcenter.org",
+    "project_page_url": "https://www.marinemammalcenter.org/news/ke-kai-ola-releases-20th-hawaiian-monk-seal-and-admits-first-seal-from-kauai",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Hospital Ke Kai Ola (abierto en 2014, 3,2 M$ de donaciones privadas) que rehabilita crías desnutridas con NOAA; más de 20 liberadas.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Ojos grandes y oscuros y pose tumbada en la arena: ternura inmediata, muy vendible.",
+  "sources": [
+   "https://www.fisheries.noaa.gov/species/hawaiian-monk-seal/science",
+   "https://fisheries.noaa.gov/feature-story/hawaiian-monk-seal-population-rounds-out-decade-growth",
+   "https://www.mmc.gov/priority-topics/species-of-concern/hawaiian-monk-seal/monk-seal-health-care-facilities/",
+   "https://mauinow.com/2024/09/30/3-hawaiian-monk-seal-pups-admitted-to-marine-mammal-hospital-in-kona/"
+  ]
+ },
+ {
+  "common_name_es": "Manatí del Caribe",
+  "scientific_name": "Trichechus manatus",
+  "category": "Océanos",
+  "continent": "América",
+  "countries": "EE. UU. (Florida), México, Belice, Colombia, Venezuela, Brasil y Caribe",
+  "region": "Costas, estuarios y ríos del Atlántico occidental tropical",
+  "iucn_status": "Global: Vulnerable (VU), 2008 (sin verificar). Subespecie antillana (T. m. manatus): En Peligro (EN), 2008",
+  "population_estimate": "Colombia: ~400 (estudio 2012) u 800–1.000 (prensa); global no lo tengo",
+  "trend": "no lo tengo",
+  "taxonomy_note": "Familia Trichechidae; subespecies T. m. latirostris (Florida) y T. m. manatus (antillano)",
+  "foundations": [
+   {
+    "name": "Fundación Omacha",
+    "hq_country": "Colombia",
+    "hq_city": "Bogotá (sin verificar)",
+    "website": "https://www.omacha.org",
+    "project_page_url": "https://www.omacha.org/descargas/2018/Plan-conservacion-manati-antillano-jurisdiccion-Corporinoquia-web.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Programa Nacional de manejo y conservación de manatíes con el Ministerio de Ambiente; planes de conservación regionales (Orinoquia).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Brian Skerry",
+    "nationality": "Estadounidense",
+    "website": "no lo tengo (dato sin verificar eliminado)",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de National Geographic; autor del libro 'Face to Face with Manatees' (2010) y fotos de manatíes en Crystal River (Florida), Belice y Brasil publicadas por Smithsonian Ocean.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Silueta redondeada y bondadosa flotando en agua clara: imagen tranquila y amable.",
+  "sources": [
+   "https://www.minambiente.gov.co/wp-content/uploads/2021/10/Programa-Nacional-de-manejo-y-conservacio%CC%81n-de-manati%CC%81es-de-Colombia.pdf",
+   "https://www.omacha.org/descargas/documentos/informe-gestion-anual-2023.pdf",
+   "https://es.mongabay.com/2022/10/conservacion-de-manaties-en-colombia-entrevista-dalila-caicedo/",
+   "https://ocean.si.edu/node/109195",
+   "https://www.nationalgeographic.com/travel/article/of-manatees-and-mermaids"
+  ]
+ },
+ {
+  "common_name_es": "Bosque de kelp gigante",
+  "scientific_name": "Macrocystis pyrifera",
+  "category": "Océanos",
+  "continent": "América",
+  "countries": "Argentina (≈60% Tierra del Fuego, 30% Santa Cruz, 10% Chubut), Chile; también Pacífico norteamericano",
+  "region": "Patagonia argentina; Península Mitre (Tierra del Fuego)",
+  "iucn_status": "Global: No Evaluado (NE) (sin verificar). Argentina: protegido por Ley 1589 de Tierra del Fuego (2024) y ley de Santa Cruz (2025); COFEMA Res. 533/2023 de interés federal",
+  "population_estimate": "Argentina: >170 km² de hábitat de kelp gigante (Por el Mar); Península Mitre >2.000 ha",
+  "trend": "Estable en Tierra del Fuego (sin cambios en abundancia en más de 45 años según Rewilding Argentina)",
+  "taxonomy_note": "Alga parda (Laminariales); conocida localmente como cachiyuyo",
+  "foundations": [
+   {
+    "name": "Fundación Por el Mar",
+    "hq_country": "Argentina",
+    "hq_city": "no lo tengo",
+    "website": "https://www.porelmar.org",
+    "project_page_url": "https://oceans5.org/project/creating-the-patagonic-marine-protected-areas-corridor/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Martina 'Martu' Sasso (fundadora y directora ejecutiva); Cristian Lagger (director científico, National Geographic Explorer)",
+    "what_they_do": "Protección y restauración de bosques de kelp; primer vivero de kelp de Argentina con GreenWave; impulsó leyes provinciales y áreas marinas protegidas.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Fundación Rewilding Argentina",
+    "hq_country": "Argentina",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Expediciones y conservación en Península Mitre; socia de Blue Marine Foundation.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "José Reyero",
+    "nationality": "no lo tengo (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo acreditado en la expedición de Por el Mar a los bosques de kelp de Península Mitre y en la ficha de Por el Mar en Oceans 5.",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Marko Magister",
+    "nationality": "no lo tengo",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo acreditado (Instagram) en la expedición de Por el Mar a Península Mitre (kelp).",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "La luz filtrándose entre frondas verticales doradas crea una 'catedral submarina' de gran impacto visual.",
+  "sources": [
+   "https://oceanographicmagazine.com/features/argentina-moved-faster-climate-collapse-to-save-its-kelp-forests/",
+   "https://www.legistdf.gob.ar/lp/leyes/Provinciales/LEYP1589.pdf",
+   "https://www.greenwave.org/blog-who-farms-matters/argentinas-underwater-forests",
+   "https://earth.org/to-the-end-of-the-world-eight-days-aboard-the-mission-to-protect-argentinas-kelp-forests/",
+   "https://www.minutouno.com/sociedad/tierra-del-fuego/como-es-peninsula-mitre-hogar-la-selva-marina-argentina-n5199276"
+  ]
+ },
+ {
+  "common_name_es": "Coral rojo mediterráneo",
+  "scientific_name": "Corallium rubrum",
+  "category": "Océanos",
+  "continent": "Europa / África",
+  "countries": "España (Cataluña, Baleares, Ceuta, Alborán), Francia, Italia, Croacia, Grecia, Túnez, Argelia, Marruecos",
+  "region": "Mediterráneo, sobre todo occidental; también Adriático, Grecia, Turquía y Chipre",
+  "iucn_status": "Global: no lo tengo con certeza. Mediterráneo: En Peligro (EN), 2015 (Lista Roja UICN del Mediterráneo). España: 'en peligro' (ficha MITECO)",
+  "population_estimate": "no lo tengo",
+  "trend": "En disminución, magnitud acusada (ficha MITECO); polémica por autorizaciones de extracción en Cataluña",
+  "taxonomy_note": "Octocoral, familia Coralliidae",
+  "foundations": [
+   {
+    "name": "Oceana Europa",
+    "hq_country": "España (oficina en Madrid; sin verificar)",
+    "hq_city": "Madrid (sin verificar)",
+    "website": "https://europe.oceana.org",
+    "project_page_url": "https://europe.oceana.org/our-work-marine-wildlife-corals-species-at-risk-mediterranean-red-coral",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Campaña de especies mediterráneas en riesgo; considera el coral rojo posiblemente la especie en peor estado.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Greenpeace España",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://es.greenpeace.org",
+    "project_page_url": "https://es.greenpeace.org/es/wp-content/uploads/sites/3/2018/11/20181126-Carta-Coral-Rojo-relación-entidades.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Lideró con más de 80 entidades la petición de moratoria de 10 años a la extracción de coral rojo.",
+    "accepts_corporate_partners": "No (Greenpeace no acepta financiación de empresas; sin verificar)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Ángel Fitor",
+    "nationality": "Española",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotoperiodista submarino desde finales de los 80; publicado en National Geographic y GEO; premiado en World Press Photo, Wildlife Photographer of the Year y Sony World Photography Awards. Especialista en Mediterráneo. Web/Instagram sin localizar.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Pólipos blancos sobre ramas rojo intenso: color icónico del Mediterráneo, muy elegante sobre fondo oscuro.",
+  "sources": [
+   "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/espacios-protegidos/corallium_rubrum_tcm30-196958.pdf",
+   "https://www.miteco.gob.es/es/biodiversidad/temas/conservacion-de-especies/dictamensobrecoralliumrubrum_tcm30-538186.pdf",
+   "https://www.elsaltodiario.com/saltamontes/el-coral-rojo-una-joya-del-mediterraneo-en-estado-critico-",
+   "https://europe.oceana.org/our-work-marine-wildlife-corals-species-at-risk-mediterranean-red-coral",
+   "https://es.greenpeace.org/es/wp-content/uploads/sites/3/2018/11/20181126-Carta-Coral-Rojo-relación-entidades.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Tiburón peregrino",
+  "scientific_name": "Cetorhinus maximus",
+  "category": "Océanos",
+  "continent": "Europa / América / Oceanía / Asia",
+  "countries": "España (Galicia, Cataluña, Andalucía), Irlanda, Reino Unido, Francia, Noruega, EE. UU., Chile, entre otros",
+  "region": "Aguas templadas de todos los océanos; nordeste atlántico y Mediterráneo",
+  "iucn_status": "Global: En Peligro (EN), 2018 (sin verificar; la CMS cita la reevaluación de 2018). Nordeste atlántico: En Peligro. CMS Apéndices I y II",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive (sin verificar); capturas accidentales y colisiones con buques",
+  "taxonomy_note": "Familia Cetorhinidae; segundo pez más grande del mundo, filtrador (hasta 11 m)",
+  "foundations": [
+   {
+    "name": "MARECO – Fundación para la Investigación y Conservación Marina",
+    "hq_country": "no lo tengo",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "https://www.cms.int/sites/default/files/document/2025-11/cms_cop15_doc.31.3.14_ca_basking-shark_s_0.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Coproponente, con el Irish Basking Shark Group, de la Acción Concertada CMS COP15 (2026) para reducir capturas incidentales y colisiones.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Irish Basking Shark Group",
+    "hq_country": "Irlanda",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Coproponente de la Acción Concertada CMS para el tiburón peregrino.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Rafael Fernández Caballero",
+    "nationality": "Española",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Underwater Photographer of the Year 2022 (tiburones ballena). Galería de la especie sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   },
+   {
+    "name": "Álvaro Herrero",
+    "nationality": "Española",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Underwater Photographer of the Year 2025 (ballena jorobada, Polinesia Francesa). Sin galería de la especie localizada.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "La enorme boca abierta filtrando plancton es una imagen sorprendente y gráfica, de gran impacto en camiseta.",
+  "sources": [
+   "https://www.cms.int/sites/default/files/document/2025-11/cms_cop15_doc.31.3.14_ca_basking-shark_s_0.pdf",
+   "https://www.cms.int/sites/default/files/document/2026-06/cms_cop15_ca.15.7_basking-shark_s.pdf",
+   "https://eunis.eea.europa.eu/species/9942",
+   "https://www.ecoticias.com/naturaleza/23385_shark-alliance-muestra-su-quot-indignacion-quot-ante-la-quot-continua-captura-ilegal-quot-de-tiburon-peregrino-en-espana",
+   "https://simbio.mma.gob.cl/Especies/Details/4451"
+  ]
+ }
+]
