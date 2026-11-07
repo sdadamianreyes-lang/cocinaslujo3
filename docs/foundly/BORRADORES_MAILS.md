@@ -7,7 +7,7 @@ Contactos tomados del Excel de 30 animales; confirmar en la web oficial antes de
 
 ## 1. WWF España — lince ibérico
 
-Para: marketing@wwf.es (página "Empresas por el planeta": wwf.es/colabora/empresas_por_el_planeta)
+Para: info@wwf.es · Tel. +34 91 354 05 78 (email verificado 07-nov-2026; marketing@wwf.es no se pudo confirmar) (página "Empresas por el planeta": wwf.es/colabora/empresas_por_el_planeta)
 Asunto: Propuesta de colaboración: camisetas del lince ibérico, 5 € por prenda para WWF
 
 Estimado equipo de WWF España:
