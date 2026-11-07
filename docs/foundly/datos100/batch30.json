@@ -1,0 +1,1123 @@
+[
+ {
+  "common_name_es": "Ualabí de roca de patas amarillas",
+  "scientific_name": "Petrogale xanthopus",
+  "category": "Oceanía y Antártida",
+  "continent": "Oceanía",
+  "countries": [
+   "Australia"
+  ],
+  "region": "Australia Meridional (Flinders Ranges), Nueva Gales del Sur (muy localizado) y suroeste de Queensland",
+  "iucn_status": "Global: Casi amenazado (NT), año no lo tengo; subespecies P. x. xanthopus Vulnerable en Australia (EPBC) y P. x. celeris Vulnerable (Queensland)",
+  "population_estimate": "no lo tengo (estimaciones antiguas: 5.000–10.000 para P. x. celeris en 1993; actualmente desconocida)",
+  "trend": "Incierta; recuperación de algunas poblaciones tras control de zorros y reintroducciones en los 90, pero amenazas persistentes (zorro, gato, cabras)",
+  "taxonomy_note": "Dos subespecies: P. x. xanthopus y P. x. celeris.",
+  "foundations": [
+   {
+    "name": "Foundation for Australia's Most Endangered Species (FAME) (sin verificar)",
+    "hq_country": "Australia",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Financia proyectos de conservación de ualabíes de roca en Australia Meridional (sin verificar)",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Ignacio Palacios",
+    "nationality": "España (Logroño, 1974); reside en Australia",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de naturaleza español residente en Australia; proyecto 'RGB' sobre desierto, bosques y costa australianos (EFE vía Telemetro). Web/IG no encontrados; galería de la especie sin confirmar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Cola anillada amarilla y patas doradas sobre roca roja: silueta muy gráfica y colorida.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yellow-footed_rock-wallaby",
+   "https://core-cms.cambridgecore.org/core/services/aop-cambridge-core/content/view/D976E61ABE458B9FADA059372117382E/S0030605324000760a.pdf/half-a-century-of-survey-data-reveal-population-recovery-but-persistent-threats-for-the-vulnerable-yellow-footed-rock-wallaby-in-queensland-australia.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Bilby",
+  "scientific_name": "Macrotis lagotis",
+  "category": "Oceanía y Antártida",
+  "continent": "Oceanía",
+  "countries": [
+   "Australia"
+  ],
+  "region": "Desiertos del Territorio del Norte, Australia Occidental y Queensland (antes 70 % de Australia)",
+  "iucn_status": "Global: Vulnerable (VU), año no lo tengo; EPBC Vulnerable; extinto en Nueva Gales del Sur, En Peligro en Queensland",
+  "population_estimate": "<10.000 en libertad (estimación citada por Save the Bilby Fund, sin año exacto)",
+  "trend": "Decreciente; ~10 % de su área original (Kevin Bradley, 2021)",
+  "taxonomy_note": "Única especie viva del género Macrotis (el bilby menor se extinguió).",
+  "foundations": [
+   {
+    "name": "Save the Bilby Fund",
+    "hq_country": "Australia",
+    "hq_city": "no lo tengo",
+    "website": "https://www.savethebilbyfund.com",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Kevin Bradley (CEO, citado en 2021)",
+    "what_they_do": "Organización benéfica nacional: recaudación, cría en cautividad para reintroducción, educación; secretaría del National Greater Bilby Recovery Team",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Australian Wildlife Conservancy (AWC)",
+    "hq_country": "Australia",
+    "hq_city": "no lo tengo",
+    "website": "https://www.australianwildlife.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Protege ~10 % de la población superviviente de bilbies en santuarios vallados (Yookamurra, Newhaven)",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Ignacio Palacios",
+    "nationality": "España (Logroño, 1974); reside en Australia",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de naturaleza español residente en Australia; proyecto 'RGB' sobre desierto, bosques y costa australianos (EFE vía Telemetro). Web/IG no encontrados; galería de la especie sin confirmar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Orejas enormes de conejo y hocico largo: icono 'tierno' australiano (alternativa al conejo de Pascua).",
+  "sources": [
+   "https://cavershamwildlife.com.au/conservation/wildlife-conservation-fundraiser/2019/save-the-bilby-fund",
+   "https://globalvoices.org/2024/10/21/saving-an-aussie-emblem-from-extinction-the-greater-bilby/",
+   "https://www.australiangeographic.com.au/land/2024/02/rescuing-an-emblem/"
+  ]
+ },
+ {
+  "common_name_es": "Loro nocturno",
+  "scientific_name": "Pezoporus occidentalis",
+  "category": "Oceanía y Antártida",
+  "continent": "Oceanía",
+  "countries": [
+   "Australia"
+  ],
+  "region": "Interior árido: suroeste de Queensland (Pullen Pullen, Diamantina) y Gran Desierto Arenoso (Australia Occidental)",
+  "iucn_status": "Global: En Peligro (EN), año no lo tengo (sin verificar); En Peligro en Australia",
+  "population_estimate": "no lo tengo a nivel global; 40–50 individuos en el IPA de Ngururrpa (2024); hasta ~30 en la reserva Pullen Pullen (estimación anterior)",
+  "trend": "Desconocida; especie redescubierta en 2013",
+  "taxonomy_note": "Una de las aves más esquivas del mundo; registros del fotógrafo John Young parcialmente retractados por AWC en 2019.",
+  "foundations": [
+   {
+    "name": "Bush Heritage Australia",
+    "hq_country": "Australia",
+    "hq_city": "Melbourne (sin verificar)",
+    "website": "https://www.bushheritage.org.au (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Gestiona la reserva Pullen Pullen (56.000 ha) en Queensland para el loro nocturno y colabora con rangers indígenas en Australia Occidental",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Australian Wildlife Conservancy (AWC)",
+    "hq_country": "Australia",
+    "hq_city": "no lo tengo",
+    "website": "https://www.australianwildlife.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Descubrió con QPWS la mayor población conocida en el PN Diamantina (2016)",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Verde musgo moteado de amarillo y negro: misterio de 'ave fantasma' del desierto.",
+  "sources": [
+   "https://inkl.com/news/breakthrough-discovery-indigenous-rangers-in-outback-wa-find-up-to-50-night-parrots-one-of-australia-s-most-elusive-birds",
+   "https://www.sbs.com.au/news/article/secret-reserve-protects-elusive-australian-night-parrot/ljvm5yr44",
+   "https://environmentnewspf.blogspot.com/2016/10/australian-wildlife-conservancy-news.html"
+  ]
+ },
+ {
+  "common_name_es": "Takahe",
+  "scientific_name": "Porphyrio hochstetteri",
+  "category": "Oceanía y Antártida",
+  "continent": "Oceanía",
+  "countries": [
+   "Nueva Zelanda"
+  ],
+  "region": "Isla Sur (Montes Murchison, valles Greenstone y Rees) e islas/santuarios libres de depredadores",
+  "iucn_status": "Global: En Peligro (EN), año no lo tengo (sin verificar); NZ: Nationally Vulnerable",
+  "population_estimate": "~500 aves (DOC, página sin fecha; 2025)",
+  "trend": "Creciente (>10 % anual según DOC/Fulton Hogan)",
+  "taxonomy_note": "Se creyó extinto hasta 1948; rascón no volador gigante.",
+  "foundations": [
+   {
+    "name": "Department of Conservation – Takahē Recovery Programme",
+    "hq_country": "Nueva Zelanda",
+    "hq_city": "no lo tengo",
+    "website": "https://www.doc.govt.nz",
+    "project_page_url": "https://www.doc.govt.nz/our-work/takahe-recovery-programme/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Programa nacional de recuperación: cría, translocaciones (Rees Valley 2025), trampeo de armiños",
+    "accepts_corporate_partners": "Sí: socio corporativo Fulton Hogan desde 2016"
+   },
+   {
+    "name": "New Zealand Nature Fund",
+    "hq_country": "Nueva Zelanda",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Socio financiador del programa de takahē",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Tui De Roy",
+    "nationality": "Nueva Zelanda (nacida en Bélgica)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafa de naturaleza de renombre internacional residente en NZ (ODT 2025); autora de 'New Zealand: A Natural World Revealed'. No confirmado que tenga fotos de esta especie concreta.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Azul-turquesa iridiscente con pico rojo enorme: ave 'dinosaurio' muy carismática.",
+  "sources": [
+   "https://www.doc.govt.nz/nature/native-animals/birds/birds-a-z/takahe/",
+   "https://www.doc.govt.nz/news/media-releases/2025-media-releases/takahe-released-to-grow-wild-population/",
+   "https://insidegovernment.co.nz/fulton-hogan-extends-takahe-support/"
+  ]
+ },
+ {
+  "common_name_es": "Delfín de Maui",
+  "scientific_name": "Cephalorhynchus hectori maui",
+  "category": "Oceanía y Antártida",
+  "continent": "Oceanía",
+  "countries": [
+   "Nueva Zelanda"
+  ],
+  "region": "Costa oeste de la Isla Norte",
+  "iucn_status": "Global: En Peligro Crítico (CR), año no lo tengo; NZ: Nationally Critical",
+  "population_estimate": "~54 individuos de ≥1 año (IC 95 % 48–66), 2020–21 (DOC); nuevo censo en 2026",
+  "trend": "Decreciente (63 en 2015–16; −14 %), aunque DOC dice que es difícil inferir tendencia",
+  "taxonomy_note": "Subespecie del delfín de Héctor; el delfín marino más raro del mundo.",
+  "foundations": [
+   {
+    "name": "WWF-New Zealand",
+    "hq_country": "Nueva Zelanda",
+    "hq_city": "Wellington (sin verificar)",
+    "website": "https://wwf.org.nz",
+    "project_page_url": "https://wwf.org.nz/news/species/more-about-maui-hectors-dolphins",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Campañas contra redes de enmalle y arrastre en su hábitat",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Department of Conservation (DOC)",
+    "hq_country": "Nueva Zelanda",
+    "hq_city": "no lo tengo",
+    "website": "https://www.doc.govt.nz",
+    "project_page_url": "https://dxcprod.doc.govt.nz/mauidolphin",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Estudios de abundancia genética cada 5 años",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Steve Dawson",
+    "nationality": "Nueva Zelanda",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Profesor emérito Univ. de Otago; investigador y fotógrafo de delfines de Héctor/Maui (Te Ara); premio Sir Peter Blake 2025 con Liz Slooten",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Aleta dorsal redondeada tipo 'oreja de Mickey': silueta única y fácil de reconocer.",
+  "sources": [
+   "https://www.rnz.co.nz/news/national/450240/only-54-maui-dolphins-remain-doc-survey-shows",
+   "https://wwf.org.nz/news/species/more-about-maui-hectors-dolphins",
+   "https://www.doc.govt.nz/news/media-releases/2026-media-releases/new-survey-continues-effort-to-safeguard-critically-endangered-maui-dolphins/",
+   "https://teara.govt.nz/en/photograph/4680/steve-dawson"
+  ]
+ },
+ {
+  "common_name_es": "Zorro volador de cabeza gris",
+  "scientific_name": "Pteropus poliocephalus",
+  "category": "Oceanía y Antártida",
+  "continent": "Oceanía",
+  "countries": [
+   "Australia"
+  ],
+  "region": "Costa este: Queensland, Nueva Gales del Sur, Victoria, sureste de Australia Meridional",
+  "iucn_status": "Global: Vulnerable (VU), año no lo tengo; EPBC Vulnerable",
+  "population_estimate": "~600.000 adultos (Programa Nacional de Monitoreo 2012–2022, CSIRO 2024); 680.000 ±164.500 en 2015",
+  "trend": "Estable (2012–2022), sin recuperación completa tras incendios 2019–20",
+  "taxonomy_note": "Murciélago endémico más grande de Australia.",
+  "foundations": [
+   {
+    "name": "Bat Conservation International (sin verificar)",
+    "hq_country": "EE. UU.",
+    "hq_city": "no lo tengo",
+    "website": "https://www.batcon.org",
+    "project_page_url": "https://www.batcon.org/bat/pteropus-poliocephalus/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Conservación global de murciélagos",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Australian Conservation Foundation",
+    "hq_country": "Australia",
+    "hq_city": "no lo tengo",
+    "website": "https://www.acf.org.au",
+    "project_page_url": "https://www.acf.org.au/grey-headed-flying-fox",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Campañas de protección del hábitat",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Doug Gimesy",
+    "nationality": "Australia (Melbourne)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotoperiodista de conservación; serie premiada (WPY Highly Commended) sobre zorro volador de cabeza gris; libro infantil 'Life Upside Down'. Web/IG no verificados en esta pasada.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Cara de 'zorrito' con collar anaranjado y alas abiertas: imagen tierna y sorprendente.",
+  "sources": [
+   "https://www.csiro.au/en/news/all/articles/2024/march/grey-headed-flying-fox-monitoring",
+   "https://cosmosmagazine.com/nature/animals/grey-headed-flying-fox-population",
+   "https://www.merlintuttle.org/renowned-photographer-aids-australias-flying-foxes/"
+  ]
+ },
+ {
+  "common_name_es": "Rana corroboree",
+  "scientific_name": "Pseudophryne corroboree",
+  "category": "Oceanía y Antártida",
+  "continent": "Oceanía",
+  "countries": [
+   "Australia"
+  ],
+  "region": "Alta montaña del PN Kosciuszko (Nueva Gales del Sur)",
+  "iucn_status": "Global: En Peligro Crítico (CR), año no lo tengo",
+  "population_estimate": "~50 adultos maduros en libertad (Taronga, página ~2024); población de seguro ~400",
+  "trend": "Muy baja/estabilizada artificialmente por liberaciones (hongo quitridio)",
+  "taxonomy_note": "Distinta de la rana corroboree del norte (P. pengilleyi).",
+  "foundations": [
+   {
+    "name": "Taronga Conservation Society Australia",
+    "hq_country": "Australia",
+    "hq_city": "Sídney",
+    "website": "https://taronga.org.au",
+    "project_page_url": "https://taronga.org.au/animals/corroboree-frog",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Cría y liberación: >11.100 huevos y 630 adultos liberados; 20 años del programa (2026)",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "NSW Saving Our Species / Zoos Victoria",
+    "hq_country": "Australia",
+    "hq_city": "no lo tengo",
+    "website": "https://www.environment.nsw.gov.au",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Lideran el programa de recuperación con NPWS y Zoos Victoria",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Rayas amarillo neón sobre negro: diseño gráfico tipo 'pop art' natural.",
+  "sources": [
+   "https://taronga.org.au/animals/corroboree-frog",
+   "https://www.taronga.org.au/about/newsroom/media-releases/marking-tarongas-20-years-on-the-frontline-for-one-of-australias-rarest-frogs"
+  ]
+ },
+ {
+  "common_name_es": "Zarigüeya de Leadbeater",
+  "scientific_name": "Gymnobelideus leadbeateri",
+  "category": "Oceanía y Antártida",
+  "continent": "Oceanía",
+  "countries": [
+   "Australia"
+  ],
+  "region": "Bosques de fresno de montaña de las Central Highlands (Victoria); población hallada en Kosciuszko (NSW) en 2025",
+  "iucn_status": "Global: En Peligro Crítico (CR), año no lo tengo; Victoria FFG y EPBC",
+  "population_estimate": "~1.500 (tras incendios de 2009, sin año exacto); IUCN ~2.000 maduros (sin verificar); EDGE 2.000–11.250",
+  "trend": "Decreciente (hasta −90 % desde 1980)",
+  "taxonomy_note": "Emblema faunístico de Victoria; especie EDGE.",
+  "foundations": [
+   {
+    "name": "Friends of Leadbeater's Possum",
+    "hq_country": "Australia",
+    "hq_city": "Victoria (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Grupo de defensa del hábitat frente a la tala (sin detalle en esta pasada)",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Zoos Victoria (sin verificar)",
+    "hq_country": "Australia",
+    "hq_city": "Melbourne",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "no lo tengo",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Ojos enormes y cuerpo diminuto: 'hada del bosque' muy tierna.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Leadbeater%27s_possum",
+   "https://www.edgeofexistence.org/species/leadbeaters-possum",
+   "https://www.wildlife.vic.gov.au/our-wildlife/leadbeaters-possum"
+  ]
+ },
+ {
+  "common_name_es": "Pájaro lira soberbio",
+  "scientific_name": "Menura novaehollandiae",
+  "category": "Oceanía y Antártida",
+  "continent": "Oceanía",
+  "countries": [
+   "Australia"
+  ],
+  "region": "Bosques del sureste (Victoria, NSW, sur de Queensland); introducido en Tasmania",
+  "iucn_status": "Global: Preocupación menor (LC), año no lo tengo",
+  "population_estimate": "no lo tengo (BirdLife: no cuantificada)",
+  "trend": "Sospecha de declive (BirdLife); creciente en Tasmania",
+  "taxonomy_note": "Famoso imitador vocal; aparece en la moneda de 10 céntimos australiana.",
+  "foundations": [
+   {
+    "name": "BirdLife Australia",
+    "hq_country": "Australia",
+    "hq_city": "no lo tengo",
+    "website": "https://birdlife.org.au",
+    "project_page_url": "https://birdlife.org.au/bird-profiles/superb-lyrebird",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Conservación y seguimiento de aves australianas",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Cola en forma de lira, de encaje plateado: silueta elegantísima.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Superb_lyrebird",
+   "https://datazone.birdlife.org/species/factsheet/superb-lyrebird-menura-novaehollandiae/text"
+  ]
+ },
+ {
+  "common_name_es": "Ave del paraíso de Raggi",
+  "scientific_name": "Paradisaea raggiana",
+  "category": "Oceanía y Antártida",
+  "continent": "Oceanía",
+  "countries": [
+   "Papúa Nueva Guinea",
+   "Indonesia (sin verificar)"
+  ],
+  "region": "Sur y noreste de Nueva Guinea",
+  "iucn_status": "Global: Preocupación menor (LC), año no lo tengo; CITES Apéndice II",
+  "population_estimate": "no lo tengo (común a localmente abundante)",
+  "trend": "no lo tengo",
+  "taxonomy_note": "Ave nacional de Papúa Nueva Guinea (bandera, 1971); 'kumul'.",
+  "foundations": [
+   {
+    "name": "Cornell Lab of Ornithology – Birds-of-Paradise Project (sin verificar)",
+    "hq_country": "EE. UU.",
+    "hq_city": "Ithaca",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Investigación y divulgación de las 39 especies de aves del paraíso",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Tim Laman",
+    "nationality": "EE. UU.",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Documentó todas las aves del paraíso con Edwin Scholes (Cornell); Wildlife Photographer of the Year 2016; fotos de Raggiana en Kiburu/Mendi (Harvard Magazine)",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Plumas rojo-anaranjadas en cascada: explosión de color perfecta para estampado.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Raggiana_bird-of-paradise",
+   "https://en.wikipedia.org/wiki/Tim_Laman",
+   "https://harvardmagazine.com/2013/01/paradise-found"
+  ]
+ },
+ {
+  "common_name_es": "Kākā",
+  "scientific_name": "Nestor meridionalis",
+  "category": "Oceanía y Antártida",
+  "continent": "Oceanía",
+  "countries": [
+   "Nueva Zelanda"
+  ],
+  "region": "Bosques nativos de islas Norte, Sur y Stewart; reintroducido en Wellington (Zealandia)",
+  "iucn_status": "Global: Vulnerable (VU), 2022 (no En Peligro); NZ: estado no confirmado",
+  "population_estimate": "2.500–9.999 maduros (BirdLife, 2016)",
+  "trend": "Decreciente (declive pasado >30 %), aumento local en Wellington",
+  "taxonomy_note": "Loro forestal emparentado con el kea.",
+  "foundations": [
+   {
+    "name": "Zealandia Ecosanctuary (Karori Sanctuary Trust)",
+    "hq_country": "Nueva Zelanda",
+    "hq_city": "Wellington",
+    "website": "https://www.visitzealandia.com (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Reintroducción del kākā de la Isla Norte en Wellington",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Tui De Roy",
+    "nationality": "Nueva Zelanda (nacida en Bélgica)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafa de naturaleza de renombre internacional residente en NZ (ODT 2025); autora de 'New Zealand: A Natural World Revealed'. No confirmado que tenga fotos de esta especie concreta.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Plumaje bronce con destellos rojos bajo las alas: tonos cálidos muy textiles.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/K%C4%81k%C4%81",
+   "https://datazone.birdlife.org/species/factsheet/new-zealand-kaka-nestor-meridionalis/details"
+  ]
+ },
+ {
+  "common_name_es": "Cocodrilo marino",
+  "scientific_name": "Crocodylus porosus",
+  "category": "Oceanía y Antártida",
+  "continent": "Oceanía / Asia",
+  "countries": [
+   "Australia",
+   "Papúa Nueva Guinea",
+   "Indonesia",
+   "India",
+   "y otros del sudeste asiático"
+  ],
+  "region": "Norte de Australia, Nueva Guinea, sudeste asiático y este de India",
+  "iucn_status": "Global: Preocupación menor (LC), 2019 (sin verificar); En Peligro Crítico local en Myanmar",
+  "population_estimate": "no lo tengo de fuente oficial; 400.000–500.000 adultos según fuentes secundarias (sin verificar)",
+  "trend": "Desconocida/variable: recuperado en Australia, en declive en partes de Asia",
+  "taxonomy_note": "Mayor reptil vivo.",
+  "foundations": [
+   {
+    "name": "IUCN SSC Crocodile Specialist Group",
+    "hq_country": "Australia (sin verificar)",
+    "hq_city": "no lo tengo",
+    "website": "https://www.iucncsg.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Grupo especialista de UICN en crocodilios",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Ignacio Palacios",
+    "nationality": "España (Logroño, 1974); reside en Australia",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de naturaleza español residente en Australia; proyecto 'RGB' sobre desierto, bosques y costa australianos (EFE vía Telemetro). Web/IG no encontrados; galería de la especie sin confirmar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Ojos y escamas emergiendo del agua: imagen potente y minimalista.",
+  "sources": [
+   "https://www.britannica.com/animal/estuarine-crocodile",
+   "https://doaj.org/article/25929d6d626e4fa68648025bd4315249"
+  ]
+ },
+ {
+  "common_name_es": "Pingüino azul",
+  "scientific_name": "Eudyptula minor",
+  "category": "Oceanía y Antártida",
+  "continent": "Oceanía",
+  "countries": [
+   "Australia",
+   "Nueva Zelanda"
+  ],
+  "region": "Costas del sur de Australia (Phillip Island) y Nueva Zelanda",
+  "iucn_status": "Global: Preocupación menor (LC), año no lo tengo",
+  "population_estimate": "469.760 adultos reproductores (BirdLife, año no lo tengo); ~40.000 en Phillip Island (2023)",
+  "trend": "Estable",
+  "taxonomy_note": "El pingüino más pequeño del mundo; algunos autores separan E. novaehollandiae (Australia).",
+  "foundations": [
+   {
+    "name": "Penguin Foundation (Phillip Island Nature Parks)",
+    "hq_country": "Australia",
+    "hq_city": "Phillip Island",
+    "website": "https://www.penguinfoundation.org.au",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Control de depredadores, restauración de hábitat e investigación; 'Penguin Parade'",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Pingüino diminuto azul pizarra: adorable y simple de leer en tela.",
+  "sources": [
+   "https://datazone.birdlife.org/species/factsheet/little-penguin-eudyptula-minor",
+   "https://penguins.org.au/assets/conservation/education/Nature-Notes/2024/2023_little-penguins_Nature-Note.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Canguro rojo",
+  "scientific_name": "Osphranter rufus",
+  "category": "Oceanía y Antártida",
+  "continent": "Oceanía",
+  "countries": [
+   "Australia"
+  ],
+  "region": "Llanuras áridas y semiáridas del interior",
+  "iucn_status": "Global: Preocupación menor (LC), 2015",
+  "population_estimate": "5,8 millones (2017, San Diego Zoo)",
+  "trend": "Fluctúa con sequías; sin dato global reciente",
+  "taxonomy_note": "Mayor marsupial vivo; antes Macropus rufus.",
+  "foundations": [
+   {
+    "name": "no lo tengo",
+    "hq_country": "no lo tengo",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Sin fundación específica identificada; especie no amenazada",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Ignacio Palacios",
+    "nationality": "España (Logroño, 1974); reside en Australia",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de naturaleza español residente en Australia; proyecto 'RGB' sobre desierto, bosques y costa australianos (EFE vía Telemetro). Web/IG no encontrados; galería de la especie sin confirmar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Silueta saltando sobre el horizonte rojo: icono absoluto de Australia.",
+  "sources": [
+   "https://ielc.libguides.com/sdzg/factsheets/redkangaroo/population"
+  ]
+ },
+ {
+  "common_name_es": "Emú",
+  "scientific_name": "Dromaius novaehollandiae",
+  "category": "Oceanía y Antártida",
+  "continent": "Oceanía",
+  "countries": [
+   "Australia"
+  ],
+  "region": "Todo el continente australiano",
+  "iucn_status": "Global: Preocupación menor (LC), año no lo tengo (sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "no lo tengo",
+  "taxonomy_note": "Segunda ave más grande del mundo; subespecies insulares extintas.",
+  "foundations": [
+   {
+    "name": "no lo tengo",
+    "hq_country": "no lo tengo",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "no lo tengo",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Ignacio Palacios",
+    "nationality": "España (Logroño, 1974); reside en Australia",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de naturaleza español residente en Australia; proyecto 'RGB' sobre desierto, bosques y costa australianos (EFE vía Telemetro). Web/IG no encontrados; galería de la especie sin confirmar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Mirada curiosa y plumaje despeinado: humor y carácter.",
+  "sources": []
+ },
+ {
+  "common_name_es": "Orquídea abeja",
+  "scientific_name": "Ophrys apifera",
+  "category": "Árboles y plantas",
+  "continent": "Europa",
+  "countries": [
+   "España",
+   "Reino Unido",
+   "Francia",
+   "Suiza",
+   "y resto de Europa y Mediterráneo"
+  ],
+  "region": "Europa, Norte de África y Oriente Próximo; en España en Cataluña, Valencia, Baleares, etc.",
+  "iucn_status": "Global: Preocupación menor (LC), año no lo tengo; Suiza: Vulnerable",
+  "population_estimate": "no lo tengo",
+  "trend": "no lo tengo (amenazas locales: pérdida de hábitat)",
+  "taxonomy_note": "Su flor imita a una abeja hembra (pseudocopulación), aunque es mayormente autógama.",
+  "foundations": [
+   {
+    "name": "Plantlife (sin verificar)",
+    "hq_country": "Reino Unido",
+    "hq_city": "no lo tengo",
+    "website": "https://www.plantlife.org.uk (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Conservación de flora silvestre y prados",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Flor que parece una abeja: curiosidad visual perfecta para camiseta.",
+  "sources": [
+   "https://herbarivirtual.uib.cat/en/general/209/especie/beiera",
+   "https://www.infoflora.ch/en/flora/ophrys-apifera.html"
+  ]
+ },
+ {
+  "common_name_es": "Nenúfar gigante amazónico",
+  "scientific_name": "Victoria amazonica",
+  "category": "Árboles y plantas",
+  "continent": "Sudamérica",
+  "countries": [
+   "Brasil",
+   "Perú",
+   "Colombia",
+   "Guyana"
+  ],
+  "region": "Cuenca del Amazonas",
+  "iucn_status": "Global: No evaluado formalmente; propuesto Preocupación menor (LC), 2022",
+  "population_estimate": "no lo tengo",
+  "trend": "no lo tengo",
+  "taxonomy_note": "En 2022 se describió V. boliviana como nueva especie (Kew).",
+  "foundations": [
+   {
+    "name": "no lo tengo",
+    "hq_country": "no lo tengo",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "no lo tengo",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Hojas circulares gigantes vistas desde arriba: patrón geométrico hipnótico.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Victoria_amazonica",
+   "https://tb.plazi.org/GgServer/html/03B287DBFFFBFFCBAD77FF414980FBBC"
+  ]
+ },
+ {
+  "common_name_es": "Pōhutukawa",
+  "scientific_name": "Metrosideros excelsa",
+  "category": "Árboles y plantas",
+  "continent": "Oceanía",
+  "countries": [
+   "Nueva Zelanda"
+  ],
+  "region": "Costas de la Isla Norte",
+  "iucn_status": "Global: no lo tengo; NZ: Not Threatened, pero Myrtaceae reclasificadas como Threatened – Nationally Vulnerable por la roya del mirto",
+  "population_estimate": "no lo tengo",
+  "trend": "Decreciente históricamente (>90 % de rodales costeros eliminados antes de 1990); amenaza actual roya del mirto",
+  "taxonomy_note": "'Árbol de Navidad de Nueva Zelanda'.",
+  "foundations": [
+   {
+    "name": "Project Crimson Trust",
+    "hq_country": "Nueva Zelanda",
+    "hq_city": "no lo tengo",
+    "website": "https://www.projectcrimson.org.nz (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Desde 1990 protege pōhutukawa y rātā; respuesta a la roya del mirto",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Tui De Roy",
+    "nationality": "Nueva Zelanda (nacida en Bélgica)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafa de naturaleza de renombre internacional residente en NZ (ODT 2025); autora de 'New Zealand: A Natural World Revealed'. No confirmado que tenga fotos de esta especie concreta.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Flores carmesí en pompón sobre el mar: rojo navideño muy vistoso.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/P%C5%8Dhutukawa",
+   "https://en.wikipedia.org/wiki/Project_Crimson",
+   "https://givealittle.co.nz/cause/myrtlerustresponse"
+  ]
+ },
+ {
+  "common_name_es": "Cedro del Líbano",
+  "scientific_name": "Cedrus libani",
+  "category": "Árboles y plantas",
+  "continent": "Asia",
+  "countries": [
+   "Líbano",
+   "Siria",
+   "Turquía"
+  ],
+  "region": "Montañas del Líbano y Tauro",
+  "iucn_status": "Global: Vulnerable (VU), año no lo tengo",
+  "population_estimate": "no lo tengo",
+  "trend": "Decreciente (sin verificar)",
+  "taxonomy_note": "Símbolo de la bandera del Líbano.",
+  "foundations": [
+   {
+    "name": "Al-Shouf Cedar Society",
+    "hq_country": "Líbano",
+    "hq_city": "Maasser El Shouf",
+    "website": "https://shoufcedar.org",
+    "project_page_url": "https://shoufcedar.org/our_programs",
+    "contact_email": "info@shoufcedar.org (sin verificar: guía turística)",
+    "phone": "+961 5 350 250 (sin verificar)",
+    "director_or_president": "Nizar Hani (sin verificar, posiblemente desactualizado)",
+    "what_they_do": "Gestiona desde 1994 la Reserva de la Biosfera del Shouf (UNESCO 2005) con el Ministerio de Medio Ambiente",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Beth Moon",
+    "nationality": "EE. UU. (San Francisco)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Proyecto de 14 años 'Ancient Trees: Portraits of Time' (Abbeville, 2014), platino/paladio; incluye secuoyas. Galería concreta de esta especie sin confirmar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Ramas en pisos horizontales: silueta icónica y majestuosa.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cedrus_libani",
+   "https://threatenedconifers.rbge.org.uk/conifers/cedrus-libani",
+   "https://www.lebanontraveler.com/?p=2349",
+   "https://iucn.org/node/34585"
+  ]
+ },
+ {
+  "common_name_es": "Lirio de mar / azucena de mar",
+  "scientific_name": "Pancratium maritimum",
+  "category": "Árboles y plantas",
+  "continent": "Europa",
+  "countries": [
+   "España",
+   "Italia",
+   "Grecia",
+   "Turquía",
+   "Francia"
+  ],
+  "region": "Dunas costeras del Mediterráneo y Atlántico; en España: Murcia (Calblanque, La Manga), Baleares, Andalucía",
+  "iucn_status": "Global: no lo tengo; Andalucía: Casi amenazada (2005); En peligro en Baleares (manual MMA 2007)",
+  "population_estimate": "no lo tengo",
+  "trend": "Decreciente con la pérdida de dunas",
+  "taxonomy_note": "Florece en verano, aroma nocturno; fija dunas.",
+  "foundations": [
+   {
+    "name": "no lo tengo",
+    "hq_country": "España",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Sin asociación específica encontrada; candidatas: gestores de PN Calblanque / Es Trenc",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Flor blanca estrellada sobre arena dorada: estética mediterránea perfecta para Madrid.",
+  "sources": [
+   "https://www.eldiario.es/sociedad/carmena-aparece-catalogo-amenazada-andalucia_1_2520405.html",
+   "https://www.turismoregiondemurcia.es/webs/murciaturistica/documentos/1/IYADOC31332023.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Ginkgo",
+  "scientific_name": "Ginkgo biloba",
+  "category": "Árboles y plantas",
+  "continent": "Asia",
+  "countries": [
+   "China"
+  ],
+  "region": "Poblaciones posiblemente silvestres en Guizhou y Zhejiang",
+  "iucn_status": "Global: En Peligro (EN B1+2c), 2021 (vía Kew POWO)",
+  "population_estimate": "no lo tengo",
+  "trend": "Incierta; quizá extinto en estado silvestre",
+  "taxonomy_note": "Fósil viviente, única especie de su división; nº 2 en la lista EDGE de gimnospermas.",
+  "foundations": [
+   {
+    "name": "Botanic Gardens Conservation International (BGCI) (sin verificar)",
+    "hq_country": "Reino Unido",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Global Tree Campaign (sin verificar)",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Beth Moon",
+    "nationality": "EE. UU. (San Francisco)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Proyecto de 14 años 'Ancient Trees: Portraits of Time' (Abbeville, 2014), platino/paladio; incluye secuoyas. Galería concreta de esta especie sin confirmar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Hoja en abanico dorado: icono gráfico minimalista.",
+  "sources": [
+   "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:262125-1/general-information",
+   "https://www.kew.org/plants/ginkgo-tree"
+  ]
+ },
+ {
+  "common_name_es": "Coco de mar",
+  "scientific_name": "Lodoicea maldivica",
+  "category": "Árboles y plantas",
+  "continent": "África",
+  "countries": [
+   "Seychelles"
+  ],
+  "region": "Islas Praslin y Curieuse (Vallée de Mai, Fond Ferdinand)",
+  "iucn_status": "Global: En Peligro (EN), 2011",
+  "population_estimate": "~8.200 individuos en 3 subpoblaciones (Fondation Franklinia)",
+  "trend": "Decreciente (−30 % en tres generaciones); machos estables en Fond Ferdinand",
+  "taxonomy_note": "Semilla más grande del mundo.",
+  "foundations": [
+   {
+    "name": "Seychelles Islands Foundation (SIF)",
+    "hq_country": "Seychelles",
+    "hq_city": "Victoria (sin verificar)",
+    "website": "https://www.sif.sc",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Gestiona Vallée de Mai (UNESCO) y >80 % de los adultos; lucha contra furtivismo",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Fondation Franklinia",
+    "hq_country": "Suiza",
+    "hq_city": "Ginebra (sin verificar)",
+    "website": "https://fondationfranklinia.org",
+    "project_page_url": "https://fondationfranklinia.org/en/conserving-coco-de-mer-seychelles/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Financia proyecto contra incendios y recolección ilegal",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Fruto de forma sugerente y palmeras prehistóricas: llamativo y con historia.",
+  "sources": [
+   "https://fondationfranklinia.org/en/conserving-coco-de-mer-seychelles/",
+   "https://en.wikipedia.org/wiki/Lodoicea"
+  ]
+ },
+ {
+  "common_name_es": "Secuoya roja costera",
+  "scientific_name": "Sequoia sempervirens",
+  "category": "Árboles y plantas",
+  "continent": "Norteamérica",
+  "countries": [
+   "Estados Unidos"
+  ],
+  "region": "Costa del norte de California y sur de Oregón",
+  "iucn_status": "Global: En Peligro (EN A2acd), 2013",
+  "population_estimate": "no lo tengo",
+  "trend": "Decreciente históricamente por la tala; bosque primario remanente protegido",
+  "taxonomy_note": "Árbol más alto del mundo.",
+  "foundations": [
+   {
+    "name": "Save the Redwoods League",
+    "hq_country": "Estados Unidos",
+    "hq_city": "San Francisco (sin verificar)",
+    "website": "https://www.savetheredwoods.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Compra y protección de bosques de secuoya; genoma secuenciado (2017)",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Beth Moon",
+    "nationality": "EE. UU. (San Francisco)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Proyecto de 14 años 'Ancient Trees: Portraits of Time' (Abbeville, 2014), platino/paladio; incluye secuoyas. Galería concreta de esta especie sin confirmar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Troncos colosales en perspectiva vertical: sensación de escala impactante.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sequoia_sempervirens",
+   "https://threatenedconifers.rbge.org.uk/conifers/sequoia-sempervirens"
+  ]
+ },
+ {
+  "common_name_es": "Pino longevo",
+  "scientific_name": "Pinus longaeva",
+  "category": "Árboles y plantas",
+  "continent": "Norteamérica",
+  "countries": [
+   "Estados Unidos"
+  ],
+  "region": "Gran Cuenca: California, Nevada, Utah",
+  "iucn_status": "Global: no lo tengo (no confirmado en esta pasada)",
+  "population_estimate": "no lo tengo",
+  "trend": "no lo tengo",
+  "taxonomy_note": "Uno de los seres vivos más longevos (>4.800 años).",
+  "foundations": [
+   {
+    "name": "no lo tengo",
+    "hq_country": "no lo tengo",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "no lo tengo",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Beth Moon",
+    "nationality": "EE. UU. (San Francisco)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Proyecto de 14 años 'Ancient Trees: Portraits of Time' (Abbeville, 2014), platino/paladio; incluye secuoyas. Galería concreta de esta especie sin confirmar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Madera retorcida y pulida por el viento: textura escultórica.",
+  "sources": []
+ },
+ {
+  "common_name_es": "Castaño de Indias",
+  "scientific_name": "Aesculus hippocastanum",
+  "category": "Árboles y plantas",
+  "continent": "Europa",
+  "countries": [
+   "Albania",
+   "Grecia",
+   "Macedonia del Norte",
+   "Bulgaria"
+  ],
+  "region": "Bosques de montaña de los Balcanes (silvestre)",
+  "iucn_status": "Global: Vulnerable (VU C2a(i)), 2017",
+  "population_estimate": "no lo tengo",
+  "trend": "Decreciente",
+  "taxonomy_note": "Muy cultivado en ciudades europeas (incluido Madrid), pero raro en estado silvestre.",
+  "foundations": [
+   {
+    "name": "no lo tengo",
+    "hq_country": "no lo tengo",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "no lo tengo",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Hoja palmeada y castaña brillante: icono otoñal urbano.",
+  "sources": [
+   "https://forestecosyst.springeropen.com/articles/10.1186/s40663-019-0170-6/tables/3"
+  ]
+ }
+]

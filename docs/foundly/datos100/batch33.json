@@ -1,0 +1,983 @@
+[
+ {
+  "common_name_es": "Grulla común",
+  "scientific_name": "Grus grus",
+  "category": "Europa",
+  "continent": "Europa (y Asia, invernada en N. África)",
+  "countries": "España (invernada/paso), norte y este de Europa (cría)",
+  "region": "Laguna de Gallocanta (Zaragoza/Teruel), Aragón",
+  "iucn_status": "Global: Preocupación Menor (LC) (año sin verificar)",
+  "population_estimate": "Gallocanta: récords de paso de ~114.700 grullas en un día (fecha sin verificar, Ecoticias); temporada 2024/25: 35.000-40.000 el 17/02/2025 (censo oficial reproducido por LPO)",
+  "trend": "Creciente en Europa occidental (sin verificar)",
+  "taxonomy_note": "Monotípica en uso común; algunos autores reconocen subespecie lilfordi (sin verificar).",
+  "foundations": [
+   {
+    "name": "Asociación de Amigos de la Laguna de Gallocanta",
+    "hq_country": "España",
+    "hq_city": "Gallocanta (Zaragoza) (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Censos de grullas en la laguna y divulgación; impulsó con ADRI el proyecto 'Grus Reto' (sin verificar)",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Gobierno de Aragón – Seguimiento de especies (no fundación)",
+    "hq_country": "España",
+    "hq_city": "Zaragoza",
+    "website": "https://www.aragon.es",
+    "project_page_url": "https://www.aragon.es/-/censos-de-especies",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Publica los censos oficiales de grulla por temporada (2025/2026 actualizado a 3/3/2026)",
+    "accepts_corporate_partners": "No aplica"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Andoni Canela",
+    "nationality": "España",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de naturaleza; su exposición 'La mirada salvaje' (Fundación Biodiversidad, 2010) incluye escenas de la Laguna de Gallocanta.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Silueta en V de bandadas sobre la laguna al amanecer: icónica y fácil de estampar.",
+  "sources": [
+   "https://www.aragon.es/-/censos-de-especies",
+   "https://champagne-ardenne.lpo.fr/grue-cendree/grus-en/gallocanta-en",
+   "https://www.ecoticias.com/naturaleza/43667_la-laguna-de-gallocanta-bate-record-historico-de-grullas-en-paso-con-unas-114-700-en-un-solo-dia",
+   "https://www.iagua.es/noticias/biodiversidad/13/03/10/la-laguna-de-gallocanta-bate-un-nuevo-record-historico-de-grullas-censadas-en-un-solo-dia-28165",
+   "https://fundacion-biodiversidad.es/en/actualidad_home/zaragoza-hosts-the-exhibition-la-mirada-salvaje-with-photographs-by-andoni-canela/"
+  ]
+ },
+ {
+  "common_name_es": "Abejaruco europeo",
+  "scientific_name": "Merops apiaster",
+  "category": "Europa",
+  "continent": "Europa, Asia occidental, África",
+  "countries": "España, Portugal, sur y centro de Europa; inverna en África subsahariana",
+  "region": "Toda la Península Ibérica (estival)",
+  "iucn_status": "Global: Preocupación Menor (LC) (año sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "Declive en España: -17,3% según SACRE de SEO/BirdLife (informe c. 2016)",
+  "taxonomy_note": "Monotípica.",
+  "foundations": [
+   {
+    "name": "SEO/BirdLife",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://seo.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Seguimiento de aves comunes (programa SACRE), conservación de hábitats agrarios",
+    "accepts_corporate_partners": "Sí, tiene programas de empresas colaboradoras (sin verificar)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Mario Cea",
+    "nationality": "España",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo español de aves; su martín pescador ganó el premio del público (People's Choice) de Wildlife Photographer of the Year 2016.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Plumaje multicolor (turquesa, amarillo, castaño) muy gráfico; ideal para camiseta llamativa.",
+  "sources": [
+   "https://www.ecoticias.com/naturaleza/ultimos-datos-de-seguimiento-de-aves-de-seo-birdlife",
+   "https://elmirondesoria.es/cyl/castilla-y-leon/el-numero-de-aves-comunes-en-declive-se-ha-triplicado-en-la-ultima-decada/amp"
+  ]
+ },
+ {
+  "common_name_es": "Martín pescador",
+  "scientific_name": "Alcedo atthis",
+  "category": "Europa",
+  "continent": "Europa, Asia, N. África",
+  "countries": "España y casi toda Europa",
+  "region": "Ríos y humedales de la Península",
+  "iucn_status": "Global: Preocupación Menor (LC) (año sin verificar); España: SEO/BirdLife lo describió en 2023 como 'En Peligro' en su Libro Rojo (sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "Declive fuerte en España: casi -50% desde 2000 según SACRE (SEO/BirdLife)",
+  "taxonomy_note": "Varias subespecies; en Iberia A. a. ispida (sin verificar).",
+  "foundations": [
+   {
+    "name": "SEO/BirdLife",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://seo.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Seguimiento SACRE; denuncia de la degradación de ríos, contaminación y sequía",
+    "accepts_corporate_partners": "Sí, tiene programas de empresas colaboradoras (sin verificar)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Mario Cea",
+    "nationality": "España",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo español de aves; su martín pescador ganó el premio del público (People's Choice) de Wildlife Photographer of the Year 2016.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Azul eléctrico y naranja con pez en el pico: imagen de máximo impacto.",
+  "sources": [
+   "https://www.ecoticias.com/naturaleza/ultimos-datos-de-seguimiento-de-aves-de-seo-birdlife",
+   "https://mymodernmet.com/es/mario-cea-foto-martin-pescador/"
+  ]
+ },
+ {
+  "common_name_es": "Abubilla",
+  "scientific_name": "Upupa epops",
+  "category": "Europa",
+  "continent": "Europa, Asia, África",
+  "countries": "España y Europa meridional/central",
+  "region": "Toda la Península; parcialmente residente en el sur",
+  "iucn_status": "Global: Preocupación Menor (LC) (año sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "no lo tengo (consultar SACRE de SEO/BirdLife)",
+  "taxonomy_note": "Taxonomía discutida: algunos autores separan la abubilla africana y la de Madagascar como especies (sin verificar).",
+  "foundations": [
+   {
+    "name": "SEO/BirdLife",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://seo.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Seguimiento de aves comunes y conservación de medios agrarios",
+    "accepts_corporate_partners": "Sí, tiene programas de empresas colaboradoras (sin verificar)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Mario Cea",
+    "nationality": "España",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo español de aves; su martín pescador ganó el premio del público (People's Choice) de Wildlife Photographer of the Year 2016.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Cresta en abanico y rayas blancas y negras: silueta inconfundible.",
+  "sources": [
+   "https://www.ecoticias.com/naturaleza/ultimos-datos-de-seguimiento-de-aves-de-seo-birdlife"
+  ]
+ },
+ {
+  "common_name_es": "Flamenco común",
+  "scientific_name": "Phoenicopterus roseus",
+  "category": "Europa",
+  "continent": "Europa, África, Asia",
+  "countries": "España, Francia, Italia, Turquía, N. África, etc.",
+  "region": "Laguna de Fuente de Piedra (Málaga), Andalucía",
+  "iucn_status": "Global: Preocupación Menor (LC) (año sin verificar)",
+  "population_estimate": "Fuente de Piedra 2025: 33.900 parejas reproductoras (récord desde 1984) y 22.700 pollos (sin verificar: fuente no oficial; Ecoticias da 15.500 pollos sin fecha clara)",
+  "trend": "Fluctuante: sin cría en 2023-2024 por sequía; récord en 2025",
+  "taxonomy_note": "Antes considerado subespecie de P. ruber.",
+  "foundations": [
+   {
+    "name": "Junta de Andalucía – Reserva Natural Laguna de Fuente de Piedra (no fundación)",
+    "hq_country": "España",
+    "hq_city": "Fuente de Piedra (Málaga)",
+    "website": "https://www.juntadeandalucia.es/medioambiente",
+    "project_page_url": "https://www.juntadeandalucia.es/medioambiente/portal/areas-tematicas/biodiversidad-y-vegetacion/fauna-amenazada/seguimiento-de-fauna/anillamiento-y-seguimiento-de-flamencos-en-la-reserva-natural-laguna-de-fuente-de-piedra",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Seguimiento y anillamiento anual de pollos (~600 con ~400 voluntarios)",
+    "accepts_corporate_partners": "No aplica"
+   },
+   {
+    "name": "SEO/BirdLife",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://seo.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Defensa de humedales (afinidad con la especie sin verificar)",
+    "accepts_corporate_partners": "Sí, tiene programas de empresas colaboradoras (sin verificar)"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Color rosa y siluetas en grupo: muy vendible y reconocible.",
+  "sources": [
+   "https://www.juntadeandalucia.es/medioambiente/portal/areas-tematicas/biodiversidad-y-vegetacion/fauna-amenazada/seguimiento-de-fauna/anillamiento-y-seguimiento-de-flamencos-en-la-reserva-natural-laguna-de-fuente-de-piedra",
+   "https://www.festivalesdeespana.com/festival/anillamiento-de-flamencos-fuente-de-piedra/2025",
+   "https://www.ecoticias.com/naturaleza/fuente-de-piedra-celebra-un-ano-historico-para-los-flamencos",
+   "https://www.elespanol.com/malaga/20260807/listo-anillamiento-flamencos-fuente-piedra-voluntarios-ficharan-pollos/1003744345107_0.html"
+  ]
+ },
+ {
+  "common_name_es": "Águila imperial oriental",
+  "scientific_name": "Aquila heliaca",
+  "category": "Europa",
+  "continent": "Europa oriental y Asia",
+  "countries": "Hungría, Eslovaquia, Bulgaria, Serbia, Rusia, Kazajistán, Turquía…",
+  "region": "Cuenca panónica/Cárpatos (núcleo europeo fuera de Rusia)",
+  "iucn_status": "Global: Vulnerable (VU) (año sin verificar)",
+  "population_estimate": "Hungría: 230-240 parejas en 2018 (150-160 en 2013); Europa: 1.000-1.600 parejas (estimación 2002)",
+  "trend": "Creciente en Hungría y Eslovaquia; en declive en otras zonas",
+  "taxonomy_note": "Distinta del águila imperial ibérica (Aquila adalberti), antes considerada conespecífica.",
+  "foundations": [
+   {
+    "name": "MME / BirdLife Hungary",
+    "hq_country": "Hungría",
+    "hq_city": "Budapest (sin verificar)",
+    "website": "https://www.mme.hu (sin verificar)",
+    "project_page_url": "https://webgate.ec.europa.eu/life/publicWebsite/project/LIFE15-NAT-HU-000902/conservation-of-the-eastern-imperial-eagle-by-decreasing-human-caused-mortality-in-the-pannonian-region",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Socio de proyectos LIFE (PannonEagle LIFE15 NAT/HU/000902; LIFE10 NAT/HU/000019) contra envenenamiento y electrocución",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Silueta majestuosa de rapaz con hombros blancos; da potencia al diseño. (Nota: especie europea no ibérica; valorar si encaja con foco España.)",
+  "sources": [
+   "https://webgate.ec.europa.eu/life/publicWebsite/project/LIFE15-NAT-HU-000902/conservation-of-the-eastern-imperial-eagle-by-decreasing-human-caused-mortality-in-the-pannonian-region",
+   "https://webgate.ec.europa.eu/life/publicWebsite/project/LIFE10-NAT-HU-000019/conservation-of-imperial-eagles-by-managing-human-eagle-conflicts-in-hungary",
+   "https://cyberleninka.ru/article/n/dinamika-chislennosti-i-izmeneniya-v-pitanii-orlov-mogilnikov-v-vengrii"
+  ]
+ },
+ {
+  "common_name_es": "Ciervo rojo",
+  "scientific_name": "Cervus elaphus",
+  "category": "Europa",
+  "continent": "Europa, N. África, Asia occidental",
+  "countries": "España y gran parte de Europa",
+  "region": "Montes de Toledo, Sierra Morena, Monfragüe, Cabañeros…",
+  "iucn_status": "Global: Preocupación Menor (LC) (año sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "no lo tengo",
+  "taxonomy_note": "En Iberia, subespecie C. e. hispanicus (sin verificar).",
+  "foundations": [
+   {
+    "name": "Fundación Artemisan",
+    "hq_country": "España",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Fundación privada (2016) de investigación y gestión de fauna cinegética; miembro ONG del CIC. Sin proyecto específico de ciervo confirmado (sin verificar)",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "La berrea: macho con cornamenta bramando, silueta poderosa en contraluz.",
+  "sources": [
+   "https://cic-wildlife.org/?p=12407",
+   "https://www.que.es/2021/08/11/artemisan-estudio-cabra-montes-espana/"
+  ]
+ },
+ {
+  "common_name_es": "Rana patilarga",
+  "scientific_name": "Rana iberica",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": "España y Portugal (endemismo ibérico)",
+  "region": "Noroeste peninsular y Sistema Central",
+  "iucn_status": "Global: Vulnerable (VU) (año sin verificar; según evaluación UICN regional citada); Directiva Hábitats Anexo IV",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive (sin verificar)",
+  "taxonomy_note": "Endemismo ibérico.",
+  "foundations": [
+   {
+    "name": "Asociación Herpetológica Española (AHE)",
+    "hq_country": "España",
+    "hq_city": "Madrid (sin verificar)",
+    "website": "https://www.herpetologica.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Atlas y seguimiento de anfibios y reptiles de España (afinidad con la especie sin verificar)",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Rana esbelta de patas largas sobre musgo de arroyo: delicada y original.",
+  "sources": [
+   "https://uicnmed.org/web2007/cd_rep_amp/materials/amph_summery/rana_iberica.pdf",
+   "https://en.wikipedia.org/wiki/Iberian_frog",
+   "https://www.nationalredlist.org/node/53594"
+  ]
+ },
+ {
+  "common_name_es": "Víbora de Seoane",
+  "scientific_name": "Vipera seoanei",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": "España, Portugal y extremo SO de Francia",
+  "region": "Cornisa cantábrica y Galicia",
+  "iucn_status": "Global: Casi Amenazada (NT), 2024 (antes LC)",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive por persecución directa (según evaluación 2024)",
+  "taxonomy_note": "Algunos autores reconocen subespecies (V. s. cantabrica) (sin verificar).",
+  "foundations": [
+   {
+    "name": "Asociación Herpetológica Española (AHE)",
+    "hq_country": "España",
+    "hq_city": "Madrid (sin verificar)",
+    "website": "https://www.herpetologica.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Herpetología y conservación de reptiles (afinidad con la especie sin verificar)",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Patrón en zigzag dorsal muy gráfico; mensaje contra la persecución de serpientes.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vipera_seoanei",
+   "https://investigacion.usc.gal/documentos/68d67e2f5f74ff434047477f?lang=en",
+   "https://www.uicnmed.org/web2007/cd_rep_amp/materials/reptile_summery/vipera_seoanei.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Murciélago mediterráneo de herradura",
+  "scientific_name": "Rhinolophus euryale",
+  "category": "Europa",
+  "continent": "Europa, N. África, Asia occidental",
+  "countries": "España, Portugal, Francia, Italia, Balcanes…",
+  "region": "Toda la Península salvo el tercio atlántico norte",
+  "iucn_status": "Global: Casi Amenazada (NT) (año sin verificar); España: Vulnerable (VU) 2006 (Atlas y Libro Rojo)",
+  "population_estimate": "España: <35.000 individuos (Atlas y Libro Rojo, 2007)",
+  "trend": "En declive (sin verificar)",
+  "taxonomy_note": "Monotípica.",
+  "foundations": [
+   {
+    "name": "SECEMU – Asociación Española para la Conservación y el Estudio de los Murciélagos",
+    "hq_country": "España",
+    "hq_city": "no lo tengo",
+    "website": "https://secemu.org",
+    "project_page_url": "https://secemu.org/wp-content/uploads/2022/06/Pardavila-et-al.2021.RHINOS_SECEMU-2021-1.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Estudio y conservación de murciélagos; trabajos sobre rinolófidos en Murcia",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Hoja nasal en herradura y orejas: retrato curioso y diferente.",
+  "sources": [
+   "https://secemu.org/wp-content/uploads/2022/06/Pardavila-et-al.2021.RHINOS_SECEMU-2021-1.pdf",
+   "https://secem.es/sites/default/files/mamiferos/rhinolophus-euryale/files/21.%20Rhinolophus%20euryale.pdf",
+   "https://iucn.org/node/47981"
+  ]
+ },
+ {
+  "common_name_es": "Colibrí abeja",
+  "scientific_name": "Mellisuga helenae",
+  "category": "América",
+  "continent": "América",
+  "countries": "Cuba (endémico)",
+  "region": "Ciénaga de Zapata, Guanahacabibes y otras zonas de Cuba",
+  "iucn_status": "Global: Casi Amenazada (NT) (año sin verificar, BirdLife)",
+  "population_estimate": "22.000-66.000 individuos maduros (BirdLife, 2012, calidad de datos baja)",
+  "trend": "Se infiere declive (20-29% en 10 años, tentativo)",
+  "taxonomy_note": "El ave más pequeña del mundo.",
+  "foundations": [],
+  "photographers": [],
+  "design_notes": "El ave más pequeña del mundo junto a una flor: historia irresistible.",
+  "sources": [
+   "https://datazone.birdlife.org/species/factsheet/bee-hummingbird-mellisuga-helenae/details",
+   "https://www.swissinfo.ch/spa/el-ave-m%C3%A1s-peque%C3%B1a-del-mundo-tiene-una-casa-con-jard%C3%ADn-en-cuba/83853039"
+  ]
+ },
+ {
+  "common_name_es": "Guacamayo de Spix",
+  "scientific_name": "Cyanopsitta spixii",
+  "category": "América",
+  "continent": "América",
+  "countries": "Brasil",
+  "region": "Caatinga, Curaçá y Juazeiro (Bahía)",
+  "iucn_status": "Global: Extinta en Estado Silvestre (EW) (año sin verificar)",
+  "population_estimate": "~360-400 en cautividad a finales de 2025 (fuente poco fiable, sin verificar); 20 liberados en 2022",
+  "trend": "Reintroducción en curso desde 2022; brote de circovirus detectado en mayo de 2025",
+  "taxonomy_note": "Género monotípico.",
+  "foundations": [
+   {
+    "name": "ACTP – Association for the Conservation of Threatened Parrots",
+    "hq_country": "Alemania",
+    "hq_city": "Berlín (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Construyó con socios el centro de cría y liberación de Curaçá (52 aves trasladadas en 2020)",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "ICMBio (organismo público, no fundación)",
+    "hq_country": "Brasil",
+    "hq_city": "no lo tengo",
+    "website": "https://www.gov.br/icmbio",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Lidera el programa de reintroducción",
+    "accepts_corporate_partners": "No aplica"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Azul intenso, especie de la película 'Rio': gran gancho narrativo.",
+  "sources": [
+   "https://www.birdguides.com/news/spixs-macaw-returns-to-wild/",
+   "https://www.iflscience.com/11-of-the-last-spixs-macaws-in-the-wild-struck-down-with-a-deadly-highly-contagious-virus-81733",
+   "https://revistapesquisa.fapesp.br/es/del-cautiverio-a-los-cielos-de-la-caatinga/",
+   "https://www.pairidaiza.eu/en/we-are-working-reintroduction-spixs-macaw-brazil"
+  ]
+ },
+ {
+  "common_name_es": "Armadillo de tres bandas (tatú bolita / quirquincho bola)",
+  "scientific_name": "Tolypeutes matacus",
+  "category": "América",
+  "continent": "América",
+  "countries": "Argentina, Bolivia, Paraguay, Brasil",
+  "region": "Gran Chaco y Monte",
+  "iucn_status": "Global: Casi Amenazada (NT) (año sin verificar); Argentina: NT (SAyDS-SAREM 2019)",
+  "population_estimate": "no lo tengo",
+  "trend": "Declive sospechado ~30% en 10-12 años (Argentina)",
+  "taxonomy_note": "Puede enrollarse en bola completa.",
+  "foundations": [
+   {
+    "name": "Centro de Rescate y Reserva Natural Tatú Carreta",
+    "hq_country": "Argentina",
+    "hq_city": "Córdoba (provincia)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Recibe ejemplares recuperados del tráfico ilegal (sin verificar alcance)",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Se enrolla en bola perfecta: forma geométrica muy gráfica.",
+  "sources": [
+   "https://cma.sarem.org.ar/sites/default/files/pdf_fichas/Tolypeutes%20matacus.pdf",
+   "https://www.lavozdesanjusto.com.ar/otro-mataco-bola-recuperado-del-trafico-ilegal-122139"
+  ]
+ },
+ {
+  "common_name_es": "Pichiciego menor",
+  "scientific_name": "Chlamyphorus truncatus",
+  "category": "América",
+  "continent": "América",
+  "countries": "Argentina (endémico)",
+  "region": "Región centro-oeste: Mendoza, San Juan, San Luis, La Pampa, Catamarca",
+  "iucn_status": "Global: Datos Insuficientes (DD) (año sin verificar); Argentina: DD (2019)",
+  "population_estimate": "no lo tengo",
+  "trend": "Desconocida",
+  "taxonomy_note": "Armadillo más pequeño del mundo ('hada rosa'); Monumento Natural Provincial en Mendoza (Ley 6.599).",
+  "foundations": [
+   {
+    "name": "Proyecto de investigación en Catamarca/La Pampa (financiado por Rufford Foundation)",
+    "hq_country": "Argentina",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Habib Delfino (biólogo, según prensa)",
+    "what_they_do": "Estudio de la especie (sin verificar estado actual)",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "CONICET Mendoza – Reserva de Biosfera Ñacuñán (no fundación)",
+    "hq_country": "Argentina",
+    "hq_city": "Mendoza",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Estudios ecológicos y de conservación",
+    "accepts_corporate_partners": "No aplica"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Caparazón rosado y aspecto de 'hada': rarísimo y viral.",
+  "sources": [
+   "https://cma.sarem.org.ar/sites/default/files/pdf_fichas/Chlamyphorus%20truncatus.pdf",
+   "https://www.elancasti.com.ar/revista-express/el-pichiciego-las-huellas-un-mamifero-invisible-n599014",
+   "https://www.unidiversidad.com.ar/diez-datos-sobre-el-pichiciego-y-su-importancia-en-la-reserva-de-biosfera-nacunan"
+  ]
+ },
+ {
+  "common_name_es": "Hornero",
+  "scientific_name": "Furnarius rufus",
+  "category": "América",
+  "continent": "América",
+  "countries": "Argentina, Uruguay, Paraguay, Bolivia, Brasil",
+  "region": "Pampa y centro-este de Sudamérica",
+  "iucn_status": "Global: Preocupación Menor (LC) (año sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "Estable (sin verificar)",
+  "taxonomy_note": "Ave nacional de Argentina (sin verificar en búsqueda).",
+  "foundations": [
+   {
+    "name": "Aves Argentinas (Asociación Ornitológica del Plata, socio BirdLife)",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires",
+    "website": "https://www.avesargentinas.org.ar (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Conservación de aves argentinas, socio de BirdLife International",
+    "accepts_corporate_partners": "Sí (sin verificar)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Darío Podestá",
+    "nationality": "Argentina",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Biólogo y fotógrafo de fauna en Puerto Madryn; expresidente y vocal de la Asociación Argentina de Fotógrafos de Naturaleza (AFNatura) (sin verificar galería de la especie).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Pájaro junto a su nido de barro: símbolo cultural argentino.",
+  "sources": [
+   "https://ecoregistros.org/site_en/imagen.php?id=453720"
+  ]
+ },
+ {
+  "common_name_es": "Huillín",
+  "scientific_name": "Lontra provocax",
+  "category": "América",
+  "continent": "América",
+  "countries": "Chile y Argentina",
+  "region": "Patagonia andina: La Araucanía a Magallanes; PN Nahuel Huapi",
+  "iucn_status": "Global: En Peligro (EN) (año sin verificar)",
+  "population_estimate": "~500 individuos en Chile y Argentina (Pew, 2022; sin verificar)",
+  "trend": "En declive; amenazas: visón invasor, pérdida de riberas",
+  "taxonomy_note": "Nutria endémica de Patagonia.",
+  "foundations": [
+   {
+    "name": "Parque Nacional Nahuel Huapi – Proyecto de Conservación del Huillín (no fundación)",
+    "hq_country": "Argentina",
+    "hq_city": "San Carlos de Bariloche",
+    "website": "no lo tengo",
+    "project_page_url": "https://www.anbariloche.com.ar/noticias/2025/11/27/101093-convocan-a-voluntarios-para-el-proyecto-de-conservacion-del-huillin",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Dra. Carla Pozzi (contacto del proyecto según prensa)",
+    "what_they_do": "Cámaras trampa y monitoreo de la única población dulceacuícola estable de Argentina",
+    "accepts_corporate_partners": "No aplica"
+   },
+   {
+    "name": "Plan RECOGE del Huillín (Ministerio del Medio Ambiente de Chile)",
+    "hq_country": "Chile",
+    "hq_city": "Santiago",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Plan de 15 años aprobado en 2025",
+    "accepts_corporate_partners": "No aplica"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Francisco Woloch",
+    "nationality": "Argentina",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo argentino residente en El Chaltén; ganó el Fotógrafo del Año de la Patagonia 2023 (Patagon Journal) con un huemul.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Nutria en río patagónico: tierna y con mensaje de urgencia.",
+  "sources": [
+   "https://www.anbariloche.com.ar/noticias/2025/11/27/101093-convocan-a-voluntarios-para-el-proyecto-de-conservacion-del-huillin",
+   "https://www.pewtrusts.org/en/research-and-analysis/articles/2022/03/03/plan-aims-to-save-emblematic-patagonian-otter-from-extinction",
+   "https://www.canal26.com/planeta/2025/12/19/chile-lanza-un-plan-de-15-anos-para-salvar-al-huillin-una-iconica-nutria-patagonica-en-peligro-de-extincion/"
+  ]
+ },
+ {
+  "common_name_es": "Chungungo",
+  "scientific_name": "Lontra felina",
+  "category": "América",
+  "continent": "América",
+  "countries": "Chile, Perú, (Argentina marginal)",
+  "region": "Costa del Pacífico, de Arica a Magallanes",
+  "iucn_status": "Global: En Peligro (EN) (año sin verificar); Chile: categoría variable según zona (verificar ficha MMA)",
+  "population_estimate": "<1.000 individuos globalmente (2024, según informe citado por Darwin200; sin verificar)",
+  "trend": "En declive",
+  "taxonomy_note": "La nutria marina más pequeña del mundo.",
+  "foundations": [
+   {
+    "name": "ONG Chinchimén",
+    "hq_country": "Chile",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Javier Trivelli (fundador, según Mongabay)",
+    "what_they_do": "Rescate y conservación de chungungos; trabaja con Fundación Ñanku desde 2017",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Fundación Lontra",
+    "hq_country": "Chile",
+    "hq_city": "Región de Valparaíso (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Primer centro de rehabilitación de chungungos en Chile",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Nutria flotando entre algas: adorable y 'embajadora' de la fauna chilena 2025.",
+  "sources": [
+   "https://es.mongabay.com/2019/10/chile-rehabilitacion-de-chungungos/",
+   "https://www.13.cl/c/programas/espacio-13c/fundacion-lontra-el-primer-y-unico-centro-de-rehabilitacion-para-chungungos",
+   "https://darwin200.com/wp-content/uploads/2025/05/DL49-Daniel-Caceres-Report-2.pdf",
+   "https://clasificacionespecies.mma.gob.cl/wp-content/uploads/2019/10/Ficha_Web_chungungo.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Rana de Darwin",
+  "scientific_name": "Rhinoderma darwinii",
+  "category": "América",
+  "continent": "América",
+  "countries": "Chile y Argentina",
+  "region": "Bosques templados del sur de Chile (incl. Chiloé) y Neuquén/Río Negro",
+  "iucn_status": "Global: En Peligro (EN) (año sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive (quitridiomicosis: ~1.300 muertes en un año en Chiloé)",
+  "taxonomy_note": "El macho incuba las crías en su saco vocal; R. rufum (norte) está en Peligro Crítico.",
+  "foundations": [
+   {
+    "name": "ONG Ranita de Darwin",
+    "hq_country": "Chile",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Andrés Valenzuela (presidente, según 24horas.cl)",
+    "what_they_do": "Conservación de las ranitas de Darwin; detección de quitridio en Chiloé con la U. Andrés Bello",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Plan RECOGE Ranitas de Darwin (MMA Chile, Decreto 38/2025)",
+    "hq_country": "Chile",
+    "hq_city": "Santiago",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Plan oficial de conservación",
+    "accepts_corporate_partners": "No aplica"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Pequeña rana-hoja con nariz puntiaguda y historia de 'padre gestante'.",
+  "sources": [
+   "https://www.24horas.cl/conciencia-24-7/sostenibilidad/chile-oficializa-plan-recoge-ranitas-de-darwin",
+   "https://www.cnnchile.com/pais/ranita-de-darwin-contraloria/",
+   "https://www.laestrellachiloe.cl/impresa/2025/04/07/full/cuerpo-principal/20",
+   "https://www.iucn.org/news/species-survival-commission/202007/new-action-plan-developed-conservation-darwins-frogs"
+  ]
+ },
+ {
+  "common_name_es": "Mono carayá (aullador negro y dorado)",
+  "scientific_name": "Alouatta caraya",
+  "category": "América",
+  "continent": "América",
+  "countries": "Argentina, Paraguay, Bolivia, Brasil",
+  "region": "Chaco húmedo y NE argentino (Corrientes, Chaco, Formosa, Misiones)",
+  "iucn_status": "Global: Casi Amenazada (NT) (año sin verificar); Misiones: Monumento Natural",
+  "population_estimate": "no lo tengo (no hay censos fiables según La Nación)",
+  "trend": "En declive por fiebre amarilla (brote 2007-2009), tráfico y pérdida de hábitat",
+  "taxonomy_note": "Dimorfismo sexual de color: machos negros, hembras doradas.",
+  "foundations": [
+   {
+    "name": "Proyecto Carayá",
+    "hq_country": "Argentina",
+    "hq_city": "La Cumbre (Córdoba)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Santuario de rescate y rehabilitación de monos carayá y capuchinos",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Contraste macho negro / hembra dorada; el aullido como concepto gráfico.",
+  "sources": [
+   "https://www.lanacion.com.ar/revista-lugares/proyecto-caraya-la-ong-que-se-dedica-a-recuperar-monos-carayas-y-capuchinos-en-las-sierras-nid11052023/",
+   "https://www.unidiversidad.com.ar/en-peligro-de-extincion-el-mono-aullador-fue-declarado-monumento-natural",
+   "https://www.conicet.gov.ar/tag/fiebre-amarilla/"
+  ]
+ },
+ {
+  "common_name_es": "Capuchino de frente amarilla (macaco-prego-galego)",
+  "scientific_name": "Sapajus flavius",
+  "category": "América",
+  "continent": "América",
+  "countries": "Brasil (endémico)",
+  "region": "Mata Atlántica al norte del río São Francisco: RN, Paraíba, Pernambuco, Alagoas",
+  "iucn_status": "Global: En Peligro (EN) (año sin verificar); Brasil (ICMBio): En Peligro",
+  "population_estimate": "~500 individuos maduros (ICMBio)",
+  "trend": "En declive (sin verificar)",
+  "taxonomy_note": "Redescubierto en 2006 (sin verificar).",
+  "foundations": [
+   {
+    "name": "Projeto Galego (programa de extensión universitaria, UFPE)",
+    "hq_country": "Brasil",
+    "hq_city": "Recife (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Investigación y educación ambiental ('Galego nas Escolas') en Paraíba y Pernambuco",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Pelaje dorado y cresta frontal amarilla: primate rubio, muy fotogénico.",
+  "sources": [
+   "https://www.gov.br/icmbio/pt-br/assuntos/centros-de-pesquisa/primatas-brasileiros/arquivos/fichas_primatas/CEBIDAE/ficha_sapajus_flavius.pdf",
+   "https://periodicos.unifesp.br/index.php/revbea/article/view/18722"
+  ]
+ },
+ {
+  "common_name_es": "Tamandúa (oso melero)",
+  "scientific_name": "Tamandua tetradactyla",
+  "category": "América",
+  "continent": "América",
+  "countries": "Desde Venezuela/Colombia hasta el norte de Argentina y Uruguay",
+  "region": "Norte y centro de Argentina (Misiones, Chaco, Córdoba, Mendoza…)",
+  "iucn_status": "Global: Preocupación Menor (LC) (año sin verificar); Argentina: NT o VU según fuente (sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "no lo tengo",
+  "taxonomy_note": "—",
+  "foundations": [
+   {
+    "name": "Fundación Ohana",
+    "hq_country": "Argentina",
+    "hq_city": "Misiones",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Rescate, rehabilitación y reinserción de fauna silvestre",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Centro de Rescate La Esmeralda (Santa Fe, público)",
+    "hq_country": "Argentina",
+    "hq_city": "Santa Fe",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Rehabilitación de osos meleros rescatados",
+    "accepts_corporate_partners": "No aplica"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Máscara de 'chaleco' negro y hocico alargado: silueta muy original.",
+  "sources": [
+   "https://www.mendoza.gov.ar/prensa/el-oso-melero-atendido-en-el-ecoparque-llego-en-perfectas-condiciones-al-centro-de-rescate-de-santa-fe-donde-sera-rehabilitado/",
+   "https://www.primeraedicion.com.ar/?p=224479"
+  ]
+ },
+ {
+  "common_name_es": "Cauquén colorado",
+  "scientific_name": "Chloephaga rubidiceps",
+  "category": "América",
+  "continent": "América",
+  "countries": "Argentina, Chile (población continental); Malvinas/Falklands",
+  "region": "Patagonia austral y Tierra del Fuego; inverna en sur de Buenos Aires",
+  "iucn_status": "Global: Preocupación Menor (LC) (año sin verificar); Argentina: En Peligro Crítico",
+  "population_estimate": "Continental: <800-1.200 individuos (Cambridge/CONICET/Historia Natural 2026); Malvinas: ~40.000",
+  "trend": "Población continental en declive crítico",
+  "taxonomy_note": "Dos poblaciones: continental (amenazada) y malvinense (estable).",
+  "foundations": [
+   {
+    "name": "Aves Argentinas (Asociación Ornitológica del Plata, socio BirdLife)",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires",
+    "website": "https://www.avesargentinas.org.ar (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Estrategia nacional de conservación del cauquén colorado (sin verificar fecha)",
+    "accepts_corporate_partners": "Sí (sin verificar)"
+   },
+   {
+    "name": "Fundación de Historia Natural Félix de Azara",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires",
+    "website": "https://www.fundacionazara.org.ar",
+    "project_page_url": "https://fundacionazara.org.ar/img/revista-historia-natural/tercera-serie-volumen-16-2-2026/HN_16_2_141-150.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Publicaciones científicas sobre la especie",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Darío Podestá",
+    "nationality": "Argentina",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Biólogo y fotógrafo de fauna en Puerto Madryn; expresidente y vocal de la Asociación Argentina de Fotógrafos de Naturaleza (AFNatura) (sin verificar galería de la especie).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Cabeza rojiza y cuerpo barrado: ave elegante, símbolo de urgencia patagónica.",
+  "sources": [
+   "https://www.conicet.gov.ar/el-cauquen-colorado-una-especie-al-borde-de-la-extincion/",
+   "https://es.mongabay.com/2022/10/la-lucha-para-salvar-al-cauquen-colorado-de-la-extincion-en-argentina/",
+   "https://www.cms.int/bukhara-deer/sites/default/files/document/ScC11_Doc03_1_Cauquen_Colorado_Spa.pdf",
+   "https://fundacionazara.org.ar/img/revista-historia-natural/tercera-serie-volumen-16-2-2026/HN_16_2_141-150.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Loro barranquero",
+  "scientific_name": "Cyanoliseus patagonus",
+  "category": "América",
+  "continent": "América",
+  "countries": "Argentina, Chile",
+  "region": "Colonia de El Cóndor (Viedma, Río Negro): la mayor del mundo",
+  "iucn_status": "Global: Preocupación Menor (LC) (año sin verificar)",
+  "population_estimate": "El Cóndor: ~34.000-37.000 nidos / >35.000 parejas (cifras divergentes); 71% de la población mundial",
+  "trend": "Mortandad de ≥800 adultos en 2020-2021; amenaza por destrucción de acantilados",
+  "taxonomy_note": "Subespecies; población chilena distinta (sin verificar).",
+  "foundations": [
+   {
+    "name": "Proyecto de Investigación y Conservación Loro Barranquero (El Cóndor)",
+    "hq_country": "Argentina",
+    "hq_city": "Viedma (Río Negro)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Juan Masello (coordinador desde 1998)",
+    "what_they_do": "Investigación y conservación de la colonia de El Cóndor; promueve reserva natural municipal",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Darío Podestá",
+    "nationality": "Argentina",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Biólogo y fotógrafo de fauna en Puerto Madryn; expresidente y vocal de la Asociación Argentina de Fotógrafos de Naturaleza (AFNatura) (sin verificar galería de la especie).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Verde oliva, amarillo y rojo sobre acantilado lleno de nidos: color y escala.",
+  "sources": [
+   "https://cordis.europa.eu/article/id/33639-the-parrots-that-crossed-the-andes/es",
+   "https://www.lanacion.com.ar/revista-lugares/loros-barranqueros-son-monogamos-e-integran-la-colonia-mas-grande-del-planeta-nid25062023/",
+   "https://www.rionegro.com.ar/?p=1662838"
+  ]
+ },
+ {
+  "common_name_es": "Yaguarundí",
+  "scientific_name": "Herpailurus yagouaroundi",
+  "category": "América",
+  "continent": "América",
+  "countries": "Desde México hasta el centro de Argentina",
+  "region": "Argentina: Chaco, Mesopotamia (Entre Ríos, Corrientes, Misiones), centro",
+  "iucn_status": "Global: Preocupación Menor (LC) (año sin verificar); Argentina: LC (2019)",
+  "population_estimate": "no lo tengo",
+  "trend": "Posible declive por avance agropecuario",
+  "taxonomy_note": "Antes en género Puma (P. yagouaroundi).",
+  "foundations": [
+   {
+    "name": "Proyecto Yaguarundí / Centro de Conservación El Potrero",
+    "hq_country": "Argentina",
+    "hq_city": "Gualeguaychú (Entre Ríos)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Rescate y atención veterinaria de yaguarundíes (sin verificar alcance del proyecto)",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Felino de cuerpo alargado tipo nutria: poco conocido y sorprendente.",
+  "sources": [
+   "https://noticiasambientales.com/animals/a-yaguarundi-an-endangered-species-was-found-in-entre-rios-in-the-backyard-of-a-house/",
+   "https://cma.sarem.org.ar/sites/default/files/pdf_fichas/Herpailurus%20yagouaroundi.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Kinkajú",
+  "scientific_name": "Potos flavus",
+  "category": "América",
+  "continent": "América",
+  "countries": "México a Bolivia y Brasil",
+  "region": "Bosques tropicales de Centro y Sudamérica",
+  "iucn_status": "Global: Preocupación Menor (LC) (año sin verificar); CITES Apéndice III (Honduras)",
+  "population_estimate": "no lo tengo",
+  "trend": "no lo tengo",
+  "taxonomy_note": "Prociónido con cola prensil.",
+  "foundations": [],
+  "photographers": [],
+  "design_notes": "Ojos enormes y cola prensil colgando de una rama: tierno y nocturno.",
+  "sources": [
+   "https://www.worldwildlife.org/our-work/wildlife/wildlife-crime/responsible-pet-guide/assessed-exotic-species/kinkajou/",
+   "https://en.wikipedia.org/wiki/Kinkajou"
+  ]
+ }
+]

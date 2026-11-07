@@ -1,0 +1,1179 @@
+[
+ {
+  "common_name_es": "Leopardo de Arabia",
+  "scientific_name": "Panthera pardus nimr",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Arabia Saudí",
+   "Omán",
+   "Yemen"
+  ],
+  "region": "Península arábiga (montañas de Dhofar, Hiyaz, Yemen)",
+  "iucn_status": "Global: la especie Panthera pardus es Vulnerable (VU); la subespecie nimr figura como En peligro crítico (CR) en el medio silvestre (sin verificar año)",
+  "population_estimate": "Hasta ~120 ejemplares silvestres, ~20 en Arabia Saudí (prensa, sin año claro; sin verificar)",
+  "trend": "Decreciente en libertad; población en cría en cautividad (Taif/AlUla, Sharjah) en aumento",
+  "taxonomy_note": "Subespecie de leopardo; estudios genómicos de 2023 lo relacionan con leopardos asiáticos.",
+  "foundations": [
+   {
+    "name": "Royal Commission for AlUla (RCU) – Global Fund for the Arabian Leopard",
+    "hq_country": "Arabia Saudí",
+    "hq_city": "AlUla",
+    "website": "https://www.rcu.gov.sa",
+    "project_page_url": "https://www.rcu.gov.sa/en/ArabianLeopard",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Programa de cría en cautividad (Taif → AlUla) con vistas a reintroducción; fondo dotado con 25 M$.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Arabian Leopard Fund (ALF)",
+    "hq_country": "Arabia Saudí",
+    "hq_city": "no lo tengo",
+    "website": "https://alf.org",
+    "project_page_url": "https://alf.org/media/5qwnq2p5/arabian-leopard-fact-sheet-english.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Fondo de conservación del leopardo árabe (vinculado a RCU) (sin verificar).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Aline Coquelle",
+    "nationality": "francesa (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.thenationalnews.com/gulf-news/2023/10/08/arabian-leopard-genome-sequencing-unveils-surprising-kinship-with-asian-cousins",
+    "note": "Acreditada en The National (2023) por foto de leopardo árabe en el centro de cría de Taif.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Felino raro y elegante con mirada intensa; símbolo de recuperación en Arabia.",
+  "sources": [
+   "https://www.rcu.gov.sa/en/fact-sheets/the-global-fund-for-the-arabian-leopard/",
+   "https://alf.org/media/5qwnq2p5/arabian-leopard-fact-sheet-english.pdf",
+   "https://arabnews.com/node/2446721/saudi-arabia",
+   "https://www.thenationalnews.com/gulf-news/2023/10/08/arabian-leopard-genome-sequencing-unveils-surprising-kinship-with-asian-cousins"
+  ]
+ },
+ {
+  "common_name_es": "Órix árabe",
+  "scientific_name": "Oryx leucoryx",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Omán",
+   "Arabia Saudí",
+   "Emiratos Árabes Unidos",
+   "Israel",
+   "Jordania"
+  ],
+  "region": "Desiertos de la península arábiga",
+  "iucn_status": "Global: Vulnerable (VU), 2011 (primera especie que pasó de Extinta en estado silvestre a Vulnerable)",
+  "population_estimate": "~1.000 en libertad (2011, UICN); EAU 8.016 ejemplares en cautividad + libertad (2023, EAD)",
+  "trend": "Creciente gracias a reintroducciones",
+  "taxonomy_note": "Antílope del desierto; extinguido en libertad en 1972 y reintroducido desde 1982.",
+  "foundations": [
+   {
+    "name": "Environment Agency – Abu Dhabi (EAD)",
+    "hq_country": "Emiratos Árabes Unidos",
+    "hq_city": "Abu Dabi",
+    "website": "https://www.ead.gov.ae (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Preside el Comité de Coordinación para la Conservación del órix árabe; reintroducción en la Arabian Oryx Protected Area.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Silueta blanca con cuernos rectos y largos: icónica y gráfica, el 'unicornio de Arabia'.",
+  "sources": [
+   "https://www.scientificamerican.com/blog/extinction-countdown/arabian-oryx-makes-history-as-first-species-to-be-upgraded-from-extinct-in-the-wild-to-vulnerable",
+   "https://gulfnews.com/uae/abu-dhabi-home-to-worlds-largest-arabian-oryx-population-1.500649592",
+   "https://iucn.org/sites/default/files/import/downloads/arabian_oryx_factsheet.pdf"
+  ]
+ },
+ {
+  "common_name_es": "León asiático",
+  "scientific_name": "Panthera leo leo (población de Gir)",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "India"
+  ],
+  "region": "Gujarat (Saurashtra): Parque Nacional de Gir y alrededores",
+  "iucn_status": "Global: Panthera leo Vulnerable (VU), 2023 (sin verificar); la población asiática figuraba como En peligro (EN) en evaluaciones anteriores (sin verificar)",
+  "population_estimate": "891 ejemplares (censo de Gujarat, mayo de 2025)",
+  "trend": "Creciente (674 en 2020 → 891 en 2025); 507 viven fuera del bosque de Gir",
+  "taxonomy_note": "Antes Panthera leo persica; hoy incluido en P. l. leo según la revisión de 2017 del Cat Specialist Group.",
+  "foundations": [
+   {
+    "name": "Gujarat Forest Department (Sasan Gir)",
+    "hq_country": "India",
+    "hq_city": "Gandhinagar / Sasan Gir",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Gestiona el Parque Nacional de Gir y realiza el censo quinquenal de leones.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Melena corta y pliegue ventral característico; último león salvaje de Asia, historia de éxito.",
+  "sources": [
+   "https://www.downtoearth.org.in/wildlife-biodiversity/asiatic-lion-population-in-gujarat-rises-from-674-to-891-in-5-years-spreading-beyond-traditional-habitats",
+   "https://india.mongabay.com/short-article/2025/06/asiatic-lion-population-has-grown-172-in-25-years/",
+   "https://www.drishtiias.com/daily-updates/daily-news-analysis/16th-asiatic-lion-census-2025"
+  ]
+ },
+ {
+  "common_name_es": "Ciervo almizclero",
+  "scientific_name": "Moschus spp. (p. ej. M. chrysogaster, M. leucogaster)",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Nepal",
+   "India",
+   "Bután",
+   "China",
+   "Pakistán"
+  ],
+  "region": "Himalaya y montañas de Asia central y oriental",
+  "iucn_status": "Global: Moschus chrysogaster En peligro (EN); M. leucogaster En peligro (EN) (año sin verificar); CITES Apéndice I (poblaciones himalayas)",
+  "population_estimate": "no lo tengo",
+  "trend": "Decreciente por caza furtiva para la glándula de almizcle",
+  "taxonomy_note": "Género de 7 especies difíciles de distinguir en campo; no son ciervos verdaderos (familia Moschidae).",
+  "foundations": [
+   {
+    "name": "no lo tengo (pendiente; posibles: autoridades de parques nacionales de Nepal / WWF Nepal)",
+    "hq_country": "no lo tengo",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Pendiente de identificar ONG específica.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Animal de colmillos largos tipo 'vampiro' y aspecto delicado: llamativo y poco conocido.",
+  "sources": [
+   "https://reference-global.com/article/10.2478/foecol-2019-0020",
+   "https://doaj.org/article/02731280d4254217b6c9f7b2f460f1e3",
+   "https://anantamias.com/himalayan-musk-deer/"
+  ]
+ },
+ {
+  "common_name_es": "Macaco de cola de león",
+  "scientific_name": "Macaca silenus",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "India"
+  ],
+  "region": "Ghats occidentales (Kerala, Tamil Nadu, Karnataka); meseta de Valparai",
+  "iucn_status": "Global: En peligro (EN) (listado como EN desde 1996; año de última evaluación sin verificar)",
+  "population_estimate": "~4.000 individuos; <2.500 maduros en 47 subpoblaciones aisladas (prensa, sin año claro; sin verificar)",
+  "trend": "Decreciente / estable en fragmentos",
+  "taxonomy_note": "Primate endémico de la India con melena plateada.",
+  "foundations": [
+   {
+    "name": "Nature Conservation Foundation (NCF)",
+    "hq_country": "India",
+    "hq_city": "Mysuru (sin verificar)",
+    "website": "https://www.ncf-india.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "En Valparai crea corredores de dosel, regula el tráfico y la alimentación y emplea guardas para evitar conflictos.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Kalyan Varma",
+    "nationality": "india",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo y cineasta de Bangalore; su documentación de los macacos de Valparai llamó la atención de las autoridades.",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Sandesh Kadur",
+    "nationality": "india",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://macaulaylibrary.org/asset/471016",
+    "note": "Crédito de foto de macaco de cola de león en Agumbe en Macaulay Library.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Melena plateada que enmarca una cara negra: retrato muy potente.",
+  "sources": [
+   "https://www.downtoearth.org.in/wildlife-biodiversity/the-macaque-that-refused-to-disappear",
+   "https://www.drishtiias.com/daily-updates/daily-news-analysis/lion-tailed-macaques/print_manually",
+   "https://jlrexplore.com/interview-kalyan-varma/"
+  ]
+ },
+ {
+  "common_name_es": "Langur de François",
+  "scientific_name": "Trachypithecus francoisi",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "China",
+   "Vietnam"
+  ],
+  "region": "Karst calizo del sur de China y norte de Vietnam",
+  "iucn_status": "Global: En peligro (EN), 2020",
+  "population_estimate": "China 2.026–2.044 en 263–265 grupos; Vietnam ≥156 en 16 grupos (estudio 2024)",
+  "trend": "Decreciente; poblaciones muy fragmentadas",
+  "taxonomy_note": "Langur negro con 'patillas' blancas; vive en acantilados kársticos.",
+  "foundations": [
+   {
+    "name": "People Resources and Conservation Foundation (PRCF)",
+    "hq_country": "Vietnam",
+    "hq_city": "Hanói",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Conservación del langur en el bosque protector de Lam Binh con apoyo de Fauna & Flora.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Endangered Primate Rescue Center (EPRC)",
+    "hq_country": "Vietnam",
+    "hq_city": "Cuc Phuong (sin verificar)",
+    "website": "https://www.eprc.asia",
+    "project_page_url": "https://www.eprc.asia/francois-langur/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Rescate y cría de primates amenazados de Vietnam.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Pelaje negro con patillas blancas: contraste gráfico ideal para camiseta.",
+  "sources": [
+   "https://www.cepf.net/resources/documents/conservation-status-and-needs-francois-langur",
+   "https://www.eprc.asia/francois-langur/",
+   "https://resourcelibrary.clemetzoo.com/Link/157"
+  ]
+ },
+ {
+  "common_name_es": "Gibón de mejillas blancas del norte",
+  "scientific_name": "Nomascus leucogenys",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Vietnam",
+   "Laos"
+  ],
+  "region": "Norte de Vietnam y norte de Laos (posiblemente extinto en China)",
+  "iucn_status": "Global: En peligro crítico (CR) (año sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "Decreciente",
+  "taxonomy_note": "Dimorfismo: machos negros con mejillas blancas, hembras doradas.",
+  "foundations": [
+   {
+    "name": "Fauna & Flora (FFI)",
+    "hq_country": "Reino Unido",
+    "hq_city": "Cambridge",
+    "website": "https://www.fauna-flora.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Evaluaciones poblacionales (p. ej. Pu Mat, 2011, con Conservation International).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Endangered Primate Rescue Center (EPRC)",
+    "hq_country": "Vietnam",
+    "hq_city": "Cuc Phuong (sin verificar)",
+    "website": "https://www.eprc.asia",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Rescate y cría de gibones y langures (sin verificar para esta especie).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Pareja negro/dorado y canto famoso: permite diseños duales macho-hembra.",
+  "sources": [
+   "https://en.wikipedia.com/wiki/Nomascus_leucogenys"
+  ]
+ },
+ {
+  "common_name_es": "Tortuga estrellada de Birmania",
+  "scientific_name": "Geochelone platynota",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Myanmar"
+  ],
+  "region": "Zona seca central de Myanmar",
+  "iucn_status": "Global: En peligro crítico (CR) (año sin verificar)",
+  "population_estimate": ">5.000 en libertad; >20.000 nacidas en cría y ~5.000 liberadas (Turtle Survival Alliance, fecha sin verificar)",
+  "trend": "Creciente gracias a la cría; fue 'ecológicamente extinta' a finales de los 90",
+  "taxonomy_note": "Endémica de Myanmar; recuperada desde ~175 ejemplares confiscados en tres colonias de seguridad.",
+  "foundations": [
+   {
+    "name": "Turtle Survival Alliance (TSA)",
+    "hq_country": "Estados Unidos",
+    "hq_city": "no lo tengo",
+    "website": "https://turtlesurvival.org",
+    "project_page_url": "https://turtlesurvival.org/?p=5117",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Colonias de seguridad, cría y reintroducción con WCS y el Gobierno de Myanmar.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Wildlife Conservation Society (WCS) Myanmar",
+    "hq_country": "Estados Unidos / Myanmar",
+    "hq_city": "Nueva York / Yangón",
+    "website": "no lo tengo",
+    "project_page_url": "https://newsroom.wcs.org/News-Releases/articleType/ArticleView/articleId/10600/Star-Tortoise-Makes-Meteoric-Comeback.aspx",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Coautor del programa de recuperación.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Caparazón con estrellas amarillas sobre negro: patrón geométrico precioso.",
+  "sources": [
+   "https://turtlesurvival.org/?p=5117",
+   "https://newsroom.wcs.org/News-Releases/articleType/ArticleView/articleId/10600/Star-Tortoise-Makes-Meteoric-Comeback.aspx",
+   "https://www.sciencedaily.com/releases/2017/10/171011120310.htm"
+  ]
+ },
+ {
+  "common_name_es": "Cocodrilo siamés",
+  "scientific_name": "Crocodylus siamensis",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Camboya",
+   "Laos",
+   "Indonesia",
+   "Tailandia",
+   "Vietnam"
+  ],
+  "region": "Montañas Cardamomo (Camboya) como bastión principal",
+  "iucn_status": "Global: En peligro crítico (CR) (año sin verificar)",
+  "population_estimate": "~400 en libertad (Fauna & Flora, 2024); UICN 500–1.000 según Boston Globe (sin verificar)",
+  "trend": "Señales de recuperación: 60 crías silvestres en 2024; 196 liberados desde 2012",
+  "taxonomy_note": "Cocodrilo de agua dulce de tamaño medio.",
+  "foundations": [
+   {
+    "name": "Fauna & Flora (programa Cardamomo)",
+    "hq_country": "Reino Unido / Camboya",
+    "hq_city": "Cambridge / Phnom Penh",
+    "website": "https://www.fauna-flora.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Cría en cautividad, reintroducción y protección de nidos con el Gobierno de Camboya.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Mirada a ras de agua en las Cardamomo: imagen poderosa con mensaje de esperanza.",
+  "sources": [
+   "https://phys.org/news/2024-07-rare-siamese-crocodiles-hatch-cambodia.pdf",
+   "https://www.bostonglobe.com/2024/07/20/world/these-nearly-extinct-crocodiles-life-found-way",
+   "https://earthsky.org/earth/nearly-extinct-siamese-crocodiles-hatch-in-wild/"
+  ]
+ },
+ {
+  "common_name_es": "Pitta de Gurney",
+  "scientific_name": "Hydrornis gurneyi (syn. Pitta gurneyi)",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Myanmar",
+   "Tailandia"
+  ],
+  "region": "Bosques de tierras bajas del sur de Myanmar y Khao Nor Chuchi (Tailandia)",
+  "iucn_status": "Global: En peligro (EN), 2012 (BirdLife; evaluación más reciente sin verificar)",
+  "population_estimate": "Myanmar 9.300–35.000 territorios (2009); Tailandia 15–20 territorios (2003–2007)",
+  "trend": "Decreciente por la expansión de la palma aceitera",
+  "taxonomy_note": "Antes en el género Pitta; ahora Hydrornis.",
+  "foundations": [
+   {
+    "name": "BirdLife International",
+    "hq_country": "Reino Unido",
+    "hq_city": "Cambridge",
+    "website": "https://www.birdlife.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Evaluación y planes de recuperación con socios en Tailandia y Myanmar (sin verificar).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Species on the Brink (plataforma)",
+    "hq_country": "no lo tengo",
+    "hq_city": "no lo tengo",
+    "website": "https://speciesonthebrink.org",
+    "project_page_url": "https://speciesonthebrink.org/species/gurneys-pitta/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Ficha de acciones de conservación; plan actualizado con cría en cautividad.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Colores joya (azul, negro, amarillo): perfecto para estampado vistoso.",
+  "sources": [
+   "https://speciesonthebrink.org/species/gurneys-pitta/",
+   "https://www.frontiermyanmar.net/en/a-bird-on-the-brink",
+   "https://www.birdguides.com/news/brighter-future-for-rainbow-bird/"
+  ]
+ },
+ {
+  "common_name_es": "Grulla de cuello negro",
+  "scientific_name": "Grus nigricollis",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "China",
+   "India",
+   "Bután",
+   "Nepal (sin verificar)"
+  ],
+  "region": "Meseta tibetana (cría); invernada en Bután, Yunnan y Guizhou",
+  "iucn_status": "Global: Casi amenazada (NT), 2020 (sin verificar; fuentes contradictorias con Vulnerable)",
+  "population_estimate": "10.000–10.200 aves (Estrategia de Conservación ICF/UICN, 2024); 6.600–6.800 maduros (BirdLife, 2019)",
+  "trend": "Estable o en aumento (sin verificar)",
+  "taxonomy_note": "Única grulla alpina; sagrada en el budismo de Bután y Ladakh.",
+  "foundations": [
+   {
+    "name": "International Crane Foundation (ICF)",
+    "hq_country": "Estados Unidos",
+    "hq_city": "Baraboo, Wisconsin (sin verificar)",
+    "website": "https://savingcranes.org",
+    "project_page_url": "https://savingcranes.org/wp-content/uploads/2024/10/crane_conservation_strategy_black-necked_crane.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Estrategia global de conservación de grullas.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Royal Society for Protection of Nature (RSPN)",
+    "hq_country": "Bután",
+    "hq_city": "Timbu (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Protección de la invernada en Phobjikha (sin verificar).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Cuello negro y corona roja sobre cuerpo gris: elegante y espiritual.",
+  "sources": [
+   "https://savingcranes.org/wp-content/uploads/2024/10/crane_conservation_strategy_black-necked_crane.pdf",
+   "https://datazone.birdlife.org/species/factsheet/black-necked-crane-grus-nigricollis",
+   "https://www.zoores.ac.cn/en/article/id/3588"
+  ]
+ },
+ {
+  "common_name_es": "Arowana asiática",
+  "scientific_name": "Scleropages formosus",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Indonesia",
+   "Malasia",
+   "Tailandia",
+   "Camboya",
+   "Vietnam",
+   "Myanmar"
+  ],
+  "region": "Ríos y turberas del Sudeste Asiático (Borneo, Sumatra)",
+  "iucn_status": "Global: En peligro (EN), 1996 (evaluación antigua; sin verificar); CITES Apéndice I",
+  "population_estimate": "no lo tengo",
+  "trend": "Decreciente en libertad; muy criada en granjas",
+  "taxonomy_note": "Complejo de varias variedades de color (roja, dorada, verde); taxonomía en debate.",
+  "foundations": [
+   {
+    "name": "no lo tengo (pendiente)",
+    "hq_country": "no lo tengo",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Sin ONG específica identificada en esta pasada.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Escamas metálicas grandes y 'barbillas': pez de aspecto de dragón, muy gráfico.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Asian_arowana",
+   "https://wildsingaporenews.blogspot.com/2008/03/arowana-threatened-by-demand-by-asian.html"
+  ]
+ },
+ {
+  "common_name_es": "Salamandra gigante china",
+  "scientific_name": "Andrias davidianus",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "China"
+  ],
+  "region": "Ríos de montaña del centro y sur de China",
+  "iucn_status": "Global: En peligro crítico (CR) (año sin verificar)",
+  "population_estimate": "No se confirmó ninguna población silvestre en 97 sitios muestreados (ZSL, 2013–2016)",
+  "trend": "Decreciente; poblaciones silvestres colapsadas por la cría y el consumo",
+  "taxonomy_note": "Al menos cinco linajes genéticos (posiblemente varias especies, p. ej. A. sligoi).",
+  "foundations": [
+   {
+    "name": "Zoological Society of London (ZSL)",
+    "hq_country": "Reino Unido",
+    "hq_city": "Londres",
+    "website": "https://www.zsl.org",
+    "project_page_url": "https://www.zsl.org/what-we-do/projects/chinese-giant-salamander-conservation",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Investigación de campo, genética y trabajo con granjas y autoridades chinas.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "El anfibio más grande del mundo, de aspecto prehistórico: original y sorprendente.",
+  "sources": [
+   "https://www.zsl.org/what-we-do/projects/chinese-giant-salamander-conservation",
+   "https://www.zsl.org/news-and-events/news/decline-in-giant-salamander",
+   "https://theecologist.org/2018/jun/04/worlds-largest-amphibian-heading-extinction"
+  ]
+ },
+ {
+  "common_name_es": "Delfín del Irrawaddy",
+  "scientific_name": "Orcaella brevirostris",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Camboya",
+   "Laos",
+   "Myanmar",
+   "Bangladés",
+   "India",
+   "Indonesia",
+   "Tailandia",
+   "Malasia"
+  ],
+  "region": "Costas, estuarios y ríos (Mekong, Irrawaddy, Mahakam)",
+  "iucn_status": "Global: En peligro (EN) (año sin verificar); subpoblación del Mekong En peligro crítico (CR)",
+  "population_estimate": "Mekong (Camboya): ~114 (2025–2026, Gobierno de Camboya); 89 en 2020 (censo WWF)",
+  "trend": "Creciente en el Mekong; 2025 sin muertes registradas",
+  "taxonomy_note": "Delfín de frente redondeada sin pico marcado.",
+  "foundations": [
+   {
+    "name": "WWF-Cambodia",
+    "hq_country": "Camboya",
+    "hq_city": "Phnom Penh",
+    "website": "no lo tengo",
+    "project_page_url": "https://www.worldwildlife.org/news/press-releases/numbers-of-critically-endangered-mekong-river-dolphin-stable/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Censos con la Administración de Pesca y patrullas contra redes ilegales.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Sirachai Arunrugstichai",
+    "nationality": "tailandés",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://oceanographicmagazine.com/opa-winner/human-connection-award-people-planet-ocean-2023-sa",
+    "note": "Finalista Ocean Photographer of the Year 2023 con cría rescatada de delfín del Irrawaddy en Rayong.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Cara redondeada y 'sonriente': entrañable y diferente a otros delfines.",
+  "sources": [
+   "https://www.worldwildlife.org/news/press-releases/numbers-of-critically-endangered-mekong-river-dolphin-stable/",
+   "https://fishbio.com/news/mekong-dolphin-population-in-cambodia-rises-to-114-officials-say/",
+   "https://www.thestar.com.my/aseanplus/aseanplus-news/2025/11/17/conservationists-celebrate-as-cambodia-records-first-dolphin-death-free-year-in-over-two-decades"
+  ]
+ },
+ {
+  "common_name_es": "Oso de Gobi (mazaalai)",
+  "scientific_name": "Ursus arctos gobiensis",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Mongolia"
+  ],
+  "region": "Gobi transaltaica (Gran Gobi A)",
+  "iucn_status": "Global: Ursus arctos Preocupación menor (LC); la subespecie no se evalúa por separado; En peligro crítico en la Lista Roja de Mongolia (sin verificar)",
+  "population_estimate": "52 ejemplares (censo oficial 2022); 22–31 según genética; ~17 según cámaras trampa (2024)",
+  "trend": "Estable o en ligero aumento (sin verificar)",
+  "taxonomy_note": "Población aislada de oso pardo del desierto; algunos autores lo consideran subespecie propia.",
+  "foundations": [
+   {
+    "name": "Gobi Bear Project (International Gobi Bear Project)",
+    "hq_country": "Mongolia / Estados Unidos",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Investigación genética, comederos suplementarios y monitoreo (sin verificar).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Oso del desierto, casi mítico: historia única para el pecho de una camiseta.",
+  "sources": [
+   "https://www.ubpost.mn/a/13366",
+   "https://www.mongoliajol.info/index.php/PIB/article/view/4010/3788",
+   "https://thestar.com.my/news/world/2025/02/20/feature-guardians-of-gobi-bear----china039s-role-in-mazaalai-conservation-in-mongolia"
+  ]
+ },
+ {
+  "common_name_es": "Gato de Pallas (manul)",
+  "scientific_name": "Otocolobus manul",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Mongolia",
+   "China",
+   "Rusia",
+   "Kazajistán",
+   "Irán",
+   "India",
+   "Nepal",
+   "Bután"
+  ],
+  "region": "Estepas y montañas de Asia central",
+  "iucn_status": "Global: Preocupación menor (LC), 2020; En peligro en China y Turkmenistán (listas nacionales)",
+  "population_estimate": "no lo tengo",
+  "trend": "Declives a escala nacional (Mongabay 2026)",
+  "taxonomy_note": "Felino pequeño de pelaje denso y pupilas redondas; género propio.",
+  "foundations": [
+   {
+    "name": "Pallas's Cat International Conservation Alliance (PICA)",
+    "hq_country": "Internacional (coordinado con Nordens Ark, Suecia, sin verificar)",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "https://www.tierpark-berlin.de/en/species-conservation/worldwide/manul",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Único proyecto mundial dedicado al manul; investigación y educación local. Apoyado por Zoo/Tierpark Berlín (Europa).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Batzaya",
+    "nationality": "mongol",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://gobigurvansaikhan.mpa.gov.mn/post/3",
+    "note": "Fotos de manul publicadas por el área protegida Gobi Gurvansaikhan.",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Thomas Vijayan",
+    "nationality": "no lo tengo",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://ndawards.net/winners-gallery/nd-awards-2018/non-professional/wildlife/hm/8931",
+    "note": "Mención de honor ND Awards 2018 con 'Pallas Look' (Mongolia).",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Cara gruñona de meme: alto potencial viral y de humor.",
+  "sources": [
+   "https://www.tierpark-berlin.de/en/species-conservation/worldwide/manul",
+   "https://news.mongabay.com/2026/07/meme-face-pallass-cat-traverses-a-complex-conservation-landscape/",
+   "https://www.catsg.org/living-species-pallasscat"
+  ]
+ },
+ {
+  "common_name_es": "Gacela persa",
+  "scientific_name": "Gazella subgutturosa",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Irán",
+   "Turquía",
+   "Azerbaiyán",
+   "Kazajistán",
+   "Turkmenistán",
+   "Uzbekistán",
+   "Mongolia",
+   "China"
+  ],
+  "region": "Estepas y semidesiertos de Oriente Medio y Asia central",
+  "iucn_status": "Global: Vulnerable (VU) (año sin verificar)",
+  "population_estimate": "<49.000 adultos (UICN citada por NABU; año sin verificar)",
+  "trend": "Decreciente",
+  "taxonomy_note": "Gacela de cuello abultado en machos en celo ('gacela de bocio').",
+  "foundations": [
+   {
+    "name": "NABU",
+    "hq_country": "Alemania",
+    "hq_city": "Berlín",
+    "website": "https://en.nabu.de",
+    "project_page_url": "https://en.nabu.de/topics/species/goitered-gazelle-project/species-profile.html",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Proyecto de protección de la gacela persa (Asia central).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Marwell Wildlife – Peaks to Plains",
+    "hq_country": "Reino Unido",
+    "hq_city": "Winchester (sin verificar)",
+    "website": "https://www.marwell.org.uk",
+    "project_page_url": "https://www.marwell.org.uk/?p=6832",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Restauración y reconexión de hábitats en Kazajistán.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Silueta grácil en manada sobre la estepa: diseño minimalista.",
+  "sources": [
+   "https://en.nabu.de/topics/species/goitered-gazelle-project/species-profile.html",
+   "https://iucnsos.org/protecting-the-goitered-gazelle-in-central-asia/",
+   "https://mongolia.wcs.org/Wildlife/Goitered-Gazelle.aspx"
+  ]
+ },
+ {
+  "common_name_es": "Onagro",
+  "scientific_name": "Equus hemionus",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Mongolia",
+   "China",
+   "Irán",
+   "Turkmenistán",
+   "Kazajistán",
+   "India"
+  ],
+  "region": "Desiertos y estepas de Asia; ~80% en el sur de Mongolia",
+  "iucn_status": "Global: Casi amenazada (NT), 2015; subespecie E. h. onager de Irán muy amenazada",
+  "population_estimate": "~23.000 maduros (2015, sin verificar); China ~4.000",
+  "trend": "Variable; incierto",
+  "taxonomy_note": "Subespecies: khulan (Mongolia), kiang no incluido, onagro persa (Irán), kulan (Turkmenistán).",
+  "foundations": [
+   {
+    "name": "Wildlife Conservation Society (WCS) Mongolia",
+    "hq_country": "Estados Unidos / Mongolia",
+    "hq_city": "Ulán Bator",
+    "website": "no lo tengo",
+    "project_page_url": "https://mongolia.wcs.org/Wildlife/Asiatic-Wild-Ass-Khulan.aspx",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Monitoreo y conservación del khulan.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Asno salvaje de líneas limpias y tonos arena: elegante en paleta cálida.",
+  "sources": [
+   "https://mongolia.wcs.org/Wildlife/Asiatic-Wild-Ass-Khulan.aspx",
+   "https://cms.int/lions/sites/default/files/document/II_12_Equus_hemionus_MNG.pdf",
+   "https://www.wikiwand.com/en/Onagers"
+  ]
+ },
+ {
+  "common_name_es": "Faisán de Edwards",
+  "scientific_name": "Lophura edwardsi",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Vietnam"
+  ],
+  "region": "Centro de Vietnam (Quang Binh, Quang Tri, Thua Thien Hue)",
+  "iucn_status": "Global: En peligro crítico (CR), posiblemente extinto en estado silvestre, 2011/2012 (sin verificar)",
+  "population_estimate": "Sin registros silvestres fiables desde 2000; existe solo en cautividad",
+  "trend": "Extinto en libertad probable; reintroducción en marcha",
+  "taxonomy_note": "Incluye el antiguo 'faisán de Imperial' y Lophura hatinhensis como formas relacionadas.",
+  "foundations": [
+   {
+    "name": "Viet Nature Conservation Centre",
+    "hq_country": "Vietnam",
+    "hq_city": "Hanói (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Centro de cría y reintroducción en Le Thuy (Quang Binh, 2024) y bosque de Khe Nuoc Trong.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Zoo y Tierpark Berlín (programa 'Bring Back Blue')",
+    "hq_country": "Alemania",
+    "hq_city": "Berlín",
+    "website": "https://www.tierpark-berlin.de",
+    "project_page_url": "https://www.tierpark-berlin.de/en/species-conservation/worldwide/edwardss-pheasant",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Coordina el envío de ejemplares de zoos europeos a Vietnam.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Plumaje azul eléctrico con cresta blanca: color espectacular.",
+  "sources": [
+   "https://www.tierpark-berlin.de/en/species-conservation/worldwide/edwardss-pheasant",
+   "https://engage.iucn.org/topic/bring-back-blue-species-possibly-extinct-wild-returns-vietnam",
+   "https://www.birdguides.com/webzine/article.asp?a=6433"
+  ]
+ },
+ {
+  "common_name_es": "Elefante pigmeo de Borneo",
+  "scientific_name": "Elephas maximus borneensis",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Malasia (Sabah)",
+   "Indonesia (Kalimantan Oriental)"
+  ],
+  "region": "Noreste de Borneo",
+  "iucn_status": "Global: En peligro (EN), 2024 (primera evaluación de los elefantes de Borneo)",
+  "population_estimate": "~1.000 en libertad, ~400 adultos reproductores (UICN 2024)",
+  "trend": "Decreciente",
+  "taxonomy_note": "Población de elefante asiático de menor tamaño; origen debatido.",
+  "foundations": [
+   {
+    "name": "WWF-Malaysia",
+    "hq_country": "Malasia",
+    "hq_city": "Petaling Jaya (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Estudios poblacionales en Sabah central (2022).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Malaysian Palm Oil Green Conservation Foundation (MPOGCF)",
+    "hq_country": "Malasia",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "https://www.malaymail.com/news/what-you-think/2024/07/06/mpogcf-and-conservation-efforts-of-the-bornean-pygmy-elephant-in-sabah-daniel-pamin/142812",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Censo con Sabah Wildlife Department y UMS desde 2023.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Elefante pequeño de orejas grandes y cara infantil: tierno y reconocible.",
+  "sources": [
+   "https://www.thejakartapost.com/culture/2024/06/29/first-assessment-finds-borneo-elephant-is-endangered",
+   "https://eprints.ums.edu.my/id/eprint/38186",
+   "https://www.malaymail.com/news/what-you-think/2024/07/06/mpogcf-and-conservation-efforts-of-the-bornean-pygmy-elephant-in-sabah-daniel-pamin/142812"
+  ]
+ },
+ {
+  "common_name_es": "Lobo de los Apeninos",
+  "scientific_name": "Canis lupus italicus",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": [
+   "Italia",
+   "Francia",
+   "Suiza (sin verificar)"
+  ],
+  "region": "Apeninos y Alpes",
+  "iucn_status": "Global: Canis lupus Preocupación menor (LC) (año sin verificar); en Italia protegido",
+  "population_estimate": "~3.300 (Italia, ISPRA 2020–2021; algunos citan 3.500 de media)",
+  "trend": "Creciente",
+  "taxonomy_note": "Subespecie italiana reconocida; linaje genético diferenciado del lobo ibérico.",
+  "foundations": [
+   {
+    "name": "Io non ho paura del lupo",
+    "hq_country": "Italia",
+    "hq_city": "no lo tengo",
+    "website": "https://iononhopauradellupo.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Asociación de promoción social: monitoreo, educación y convivencia en Apeninos y Alpes orientales.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "WWF Italia",
+    "hq_country": "Italia",
+    "hq_city": "Roma",
+    "website": "https://www.wwf.it (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Histórico: Operación San Francesco con el Parque de Abruzzo.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Mirada de lobo en la nieve apenina: clásico, muy vendible.",
+  "sources": [
+   "https://www.isprambiente.gov.it/it/attivita/biodiversita/monitoraggio-nazionale-del-lupo/notizie/a-superquark-il-monitoraggio-nazionale-del-lupo-coordinato-dallispra",
+   "https://rewildingeurope.com/rew-project/return-of-the-wolf-to-the-eastern-alps/",
+   "https://www.patagonia.com/actionworks/grantees/io-non-ho-paura-del-lupo/"
+  ]
+ },
+ {
+  "common_name_es": "Gato montés escocés",
+  "scientific_name": "Felis silvestris (población de Escocia)",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": [
+   "Reino Unido (Escocia)"
+  ],
+  "region": "Highlands; Parque Nacional de Cairngorms",
+  "iucn_status": "Global: Felis silvestris Preocupación menor (LC); en Gran Bretaña considerado funcionalmente extinto / en peligro crítico (sin verificar)",
+  "population_estimate": "100–300 en libertad (CNN, estimación antigua); 46 liberados hasta oct. 2025",
+  "trend": "Muy amenazado por hibridación; reintroducción en curso",
+  "taxonomy_note": "Antes F. s. grampia; amenaza principal: hibridación con gato doméstico.",
+  "foundations": [
+   {
+    "name": "Saving Wildcats (RZSS y socios)",
+    "hq_country": "Reino Unido",
+    "hq_city": "Edimburgo",
+    "website": "https://www.savingwildcats.org.uk",
+    "project_page_url": "https://www.savingwildcats.org.uk/news-events/2025/october/2025releases/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Cría en cautividad y liberación en Cairngorms (19 en 2023, 46 en total a oct. 2025).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Peter Cairns",
+    "nationality": "británico",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de conservación desde 1998, cofundador de Scotland: The Big Picture; fotos de gato montés en Cairngorms.",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Laurie Campbell",
+    "nationality": "británico",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Ilustró un libro sobre el gato montés escocés; fotógrafo residente de RZSS.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Gato salvaje rayado de cola gruesa anillada: fuerte identidad local.",
+  "sources": [
+   "https://www.savingwildcats.org.uk/news-events/2025/october/2025releases/",
+   "https://nature.scot/historic-milestone-reached-critically-endangered-wildcats-released-cairngorms-national-park",
+   "https://rzss.org.uk/conservation/conservation-projects/european-wildcat",
+   "https://www.horniman.ac.uk/story/about-the-art-peter-cairns/"
+  ]
+ },
+ {
+  "common_name_es": "Castor europeo",
+  "scientific_name": "Castor fiber",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": [
+   "España",
+   "Francia",
+   "Alemania",
+   "Polonia",
+   "Escandinavia",
+   "Rusia",
+   "Reino Unido"
+  ],
+  "region": "Ríos de Europa y Asia boreal; en España, cuenca del Ebro",
+  "iucn_status": "Global: Preocupación menor (LC) (año sin verificar); protegido en España desde 2020",
+  "population_estimate": "~1,5 millones en Europa (prensa española, sin verificar); 400–500 en La Rioja",
+  "trend": "Creciente",
+  "taxonomy_note": "En España procede de una liberación no autorizada en 2003 (18 ejemplares de Baviera).",
+  "foundations": [
+   {
+    "name": "SECEM – Sociedad Española para la Conservación y Estudio de los Mamíferos",
+    "hq_country": "España",
+    "hq_city": "no lo tengo",
+    "website": "https://secem.es",
+    "project_page_url": "https://secem.es/sites/default/files/2024-01/El%20castor%20europeo%20y%20el%20problema%20de%20las%20introducciones%20ilegales.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Sociedad científica; informe sobre el castor en España.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Ingeniero de ríos con cola plana: amable y con mensaje de restauración.",
+  "sources": [
+   "https://secem.es/sites/default/files/2024-01/El%20castor%20europeo%20y%20el%20problema%20de%20las%20introducciones%20ilegales.pdf",
+   "https://theobjective.com/sociedad/ciencia/2025-02-12/aumenta-presencia-castores-rios-espana-riesgo-especies/",
+   "https://www.eldebate.com/espana/castilla-y-leon/20250602/mayor-roedor-europa-asienta-castilla-leon-fracasar-intento-exterminio_302636.html"
+  ]
+ },
+ {
+  "common_name_es": "Búho nival",
+  "scientific_name": "Bubo scandiacus",
+  "category": "Europa",
+  "continent": "Europa (y Ártico circumpolar)",
+  "countries": [
+   "Noruega",
+   "Suecia",
+   "Finlandia",
+   "Rusia",
+   "Canadá",
+   "Estados Unidos",
+   "Groenlandia"
+  ],
+  "region": "Tundra ártica",
+  "iucn_status": "Global: Vulnerable (VU), 2017",
+  "population_estimate": "14.000–28.000 adultos reproductores (evaluación 2024); Europa 1.200–2.700 parejas (BirdLife)",
+  "trend": "Decreciente (~30% en tres generaciones)",
+  "taxonomy_note": "Antes Nyctea scandiaca; hoy incluido en Bubo.",
+  "foundations": [
+   {
+    "name": "International Snowy Owl Working Group / Project SNOWstorm",
+    "hq_country": "Estados Unidos",
+    "hq_city": "no lo tengo",
+    "website": "https://www.projectsnowstorm.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Seguimiento por GPS y evaluación global de estado.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Hawk Mountain Sanctuary",
+    "hq_country": "Estados Unidos",
+    "hq_city": "Kempton, Pensilvania (sin verificar)",
+    "website": "https://www.hawkmountain.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Coautores de la evaluación global de 2024.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Blanco puro con ojos amarillos: diseño limpio y muy popular.",
+  "sources": [
+   "https://www.cambridge.org/core/journals/bird-conservation-international/article/status-assessment-and-conservation-priorities-for-a-circumpolar-raptor-the-snowy-owl-bubo-scandiacus/8F3760C7DFF40ACE97989236F7CA03F9",
+   "https://www.projectsnowstorm.org/posts/first-ever-global-status-assessment-for-snowy-owls-raises-red-flags/",
+   "https://datazone.birdlife.org/species/factsheet/snowy-owl-bubo-scandiacus/text"
+  ]
+ },
+ {
+  "common_name_es": "Lagópodo alpino (perdiz nival)",
+  "scientific_name": "Lagopus muta",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": [
+   "España",
+   "Francia",
+   "Andorra",
+   "Italia",
+   "Suiza",
+   "Noruega",
+   "Islandia"
+  ],
+  "region": "Alta montaña alpina y tundra; en España, Pirineos",
+  "iucn_status": "Global: Preocupación menor (LC) (año sin verificar); Vulnerable en Aragón",
+  "population_estimate": "España ~6.770 aves (3.386 parejas, 1.826 en Pirineos; censo reciente, año sin verificar)",
+  "trend": "Posible declive por cambio climático",
+  "taxonomy_note": "La subespecie pirenaica (L. m. pyrenaica) es la población más meridional de Europa.",
+  "foundations": [
+   {
+    "name": "SEO/BirdLife",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://seo.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Seguimiento de aves alpinas (sin verificar para esta especie).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "MITECO – Inventario Español de Especies Terrestres",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "no lo tengo",
+    "project_page_url": "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/publicaciones/especies/lagopodo_alpino_tcm30-100054.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Ficha y seguimiento oficial (organismo público, no fundación).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Andoni Canela",
+    "nationality": "español",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de naturaleza; publicó 'Pirineos en invierno' en National Geographic España (sin verificar fotos de lagópodo).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Ave que cambia a blanco en invierno: diseño dual verano/invierno.",
+  "sources": [
+   "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/publicaciones/especies/lagopodo_alpino_tcm30-100054.pdf",
+   "https://www.ecoticias.com/naturaleza/declive-aves-alpinas-espana-cambio-climatico",
+   "https://pirineos.revistas.csic.es/index.php/pirineos/article/download/348/548/1701"
+  ]
+ }
+]

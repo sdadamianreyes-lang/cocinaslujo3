@@ -55,6 +55,24 @@
   ],
   "photographers": [
    {
+    "name": "Andreas Hemb",
+    "nationality": "no lo tengo",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://africageographic.com/stories/photographer-year-2019-weekly-selection-week-16-gallery-1/",
+    "note": "Ronda lanzamiento 07-nov-2026. Premio/evidencia: Retrato de licaón en una galería de 2019; no consta premio. no lo tengo. Evidencia débil. SOLO HAY 1 FOTÓGRAFO CONFIRMADO CON PREMIO.",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Nicholas Dyer",
+    "nationality": "keniano",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://nhm.ac.uk/wpy/gallery/2018-ahead-in-the-game",
+    "note": "Ronda lanzamiento 07-nov-2026. Premio/evidencia: Wildlife Photographer of the Year 2018: Highly Commended. salvaje. Dos licaones jóvenes jugando con la cabeza de un babuino. Fundó la Painted Wolf Foundation: es candidato ideal (fotógrafo y fundación). Pedir otras imágenes menos crudas.",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
     "name": "Nicholas (Nick) Dyer",
     "nationality": "Británico",
     "website": "no lo tengo (web personal no encontrada; perfil: https://naturalworldsafaris.com/nick-dyer)",
@@ -264,6 +282,33 @@
   ],
   "photographers": [
    {
+    "name": "James Lewin",
+    "nationality": "afincado en Kenia",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://monoawards.com/winners-gallery/monochrome-awards-2020/amateur/wildlife/hm/14260",
+    "note": "Ronda lanzamiento 07-nov-2026. Premio/evidencia: Monochrome Awards 2020: Honorable Mention. no lo tengo. Premio menor. No hay fotógrafos de cebra de Grevy en los grandes concursos; también se puede considerar a Andrew Peacock (documentó pro bono para el Grevy's Zebra Trust, sin premio).",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Deanna DeShea",
+    "nationality": "no lo tengo",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://refocus-awards.com/entry/shujaa",
+    "note": "Ronda lanzamiento 07-nov-2026. Premio/evidencia: One Shot Photo Contest 2022: oro (Wildlife, Non Professional). salvaje. Samburu National Reserve. Premio menor.",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Vicki Jauron",
+    "nationality": "estadounidense",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://exposureoneawards.com/entry/stripes",
+    "note": "Ronda lanzamiento 07-nov-2026. Premio/evidencia: One Shot Photo Contest 2026: plata (Wildlife, Non Professional). salvaje. Samburu (Kenia). Premio menor, de aficionado.",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
     "name": "Andrew Peacock",
     "nationality": "Australiano (sin verificar)",
     "website": "https://footloosefotography.com",
@@ -364,6 +409,24 @@
   ],
   "photographers": [
    {
+    "name": "Amar Guillen",
+    "nationality": "no lo tengo",
+    "website": "https://www.guillenphoto.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.guillenphoto.com/en/all-fine-art-prints-of-amar-guillen/ethiopian-wolf-238-2",
+    "note": "Ronda lanzamiento 07-nov-2026. Premio/evidencia: Sin premio en el snippet; vende copias fine-art. salvaje. Organiza talleres en Bale.",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Roberto Marchegiani",
+    "nationality": "italiano (Ancona)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.aol.com/news/25-award-winning-photos-wildlife-214525233.html",
+    "note": "Ronda lanzamiento 07-nov-2026. Premio/evidencia: Ganador en la categoría 'Fragile Wilderness' según una recopilación; parece ser WPY, pero concurso y año sin confirmar. salvaje. Sanetti Plateau, Bale Mountains.",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
     "name": "Will Burrard-Lucas",
     "nationality": "Británico",
     "website": "https://willbl.com",
@@ -463,6 +526,24 @@
   ],
   "photographers": [
    {
+    "name": "David Roberts",
+    "nationality": "no lo tengo",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.doncasterfreepress.co.uk/news/people/incredible-image-of-baby-lemur-at-yorkshire-wildlife-park-wins-award-476717",
+    "note": "Ronda lanzamiento 07-nov-2026. Premio/evidencia: BIAZA National Zoo & Aquarium Photo Awards 2019: Highly Commended. cautividad. Yorkshire Wildlife Park. Es una foto de zoo; usar solo como reserva.",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Frans Lanting",
+    "nationality": "no lo tengo",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.worldpressphoto.org/collection/photo-contest/1989/frans-lanting-nas/5",
+    "note": "Ronda lanzamiento 07-nov-2026. Premio/evidencia: World Press Photo 1989: Nature, 1.er premio. salvaje. Lémur de cola anillada con su cría (foto de 1988).",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
     "name": "Rhett A. Butler",
     "nationality": "Estadounidense (fundador de Mongabay; sin verificar)",
     "website": "https://photos.wildmadagascar.org",
@@ -559,6 +640,15 @@
    }
   ],
   "photographers": [
+   {
+    "name": "Jon Hrusa",
+    "nationality": "no lo tengo",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.worldpressphoto.org/collection/photo-contest/2001/jon-hrusa/1",
+    "note": "Ronda lanzamiento 07-nov-2026. Premio/evidencia: World Press Photo 2001: Nature, 3.er premio. salvaje. Pingüino africano empapado de fuel tras el hundimiento del MV Treasure (Ciudad del Cabo). Imagen de denuncia.",
+    "species_link": "Vinculado por la fuente"
+   },
    {
     "name": "Thomas P. Peschak",
     "nationality": "Alemán-sudafricano",

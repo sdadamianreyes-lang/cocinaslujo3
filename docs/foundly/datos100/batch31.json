@@ -1,0 +1,1352 @@
+[
+ {
+  "common_name_es": "Grulla del paraíso",
+  "scientific_name": "Grus paradisea",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Sudáfrica",
+   "Namibia",
+   "Lesoto",
+   "Esuatini"
+  ],
+  "region": "Sudáfrica (Karoo, Cabo Occidental, KwaZulu-Natal, Free State); población relicta en Etosha (Namibia)",
+  "iucn_status": "Global: Vulnerable (VU), año sin verificar (BirdLife lo cita como Anthropoides paradiseus); Sudáfrica (BirdLife SA 2025): Vulnerable; Namibia (2015): En Peligro Crítico",
+  "population_estimate": "34.000–68.000 individuos maduros en Sudáfrica (BirdLife South Africa, 2025); Namibia <50 aves desde 2007",
+  "trend": "En descenso (regional SA); Cabo Occidental −2–3 %/año (análisis 2020); KwaZulu-Natal en aumento",
+  "taxonomy_note": "Gruidae. Ave nacional de Sudáfrica; a menudo clasificada como Anthropoides paradiseus.",
+  "foundations": [
+   {
+    "name": "Endangered Wildlife Trust (EWT)",
+    "hq_country": "Sudáfrica",
+    "hq_city": "Johannesburgo (sin verificar)",
+    "website": "https://ewt.org.za",
+    "project_page_url": "https://ewt.org.za/what-we-do/saving-species",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Yolan Friedmann, CEO (sin verificar: firma 'Word from the CEO', fecha no clara)",
+    "what_they_do": "Programa Africano de Conservación de Grullas (con International Crane Foundation): monitoreo, censos aéreos y lucha contra envenenamientos.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "International Crane Foundation",
+    "hq_country": "EE. UU.",
+    "hq_city": "Baraboo, Wisconsin (sin verificar)",
+    "website": "https://savingcranes.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Socio del EWT en el African Crane Conservation Programme.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Pierre (pierrewildlife.com)",
+    "nationality": "no lo tengo",
+    "website": "https://pierrewildlife.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://pierrewildlife.com/?p=9847",
+    "note": "Ficha fotográfica de Grus paradisea en su web (nombre completo y nacionalidad sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Silueta elegante gris-azulada con plumas de cola largas y caídas: muy gráfica y reconocible como símbolo nacional.",
+  "sources": [
+   "https://www.birdlife.org.za/red-list/blue-crane/",
+   "https://datazone.birdlife.org/species/factsheet/blue-crane-anthropoides-paradiseus/details",
+   "https://iol.co.za/capetimes/news/2025-10-01-the-plight-of-the-blue-crane-protecting-south-africas-national-bird/",
+   "https://car.birdmap.africa/species/BC"
+  ]
+ },
+ {
+  "common_name_es": "Ibis calvo del sur",
+  "scientific_name": "Geronticus calvus",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Sudáfrica",
+   "Lesoto",
+   "Esuatini"
+  ],
+  "region": "Pastizales húmedos de montaña: NE del Free State, Mpumalanga, Drakensberg de KwaZulu-Natal",
+  "iucn_status": "Global: Casi Amenazado (NT), 2024; Sudáfrica: Vulnerable (2015)",
+  "population_estimate": "Mínimo 7.000 en época de cría y 11.000 fuera de ella (Lista Roja 2024; probablemente subestimado); BirdLife: 7.000–8.000 maduros",
+  "trend": "Estable (BirdLife); se prevé pérdida del 29 % de hábitat en 3 generaciones",
+  "taxonomy_note": "Threskiornithidae. Pariente del ibis eremita (Geronticus eremita), que España reintroduce (Proyecto Eremita).",
+  "foundations": [
+   {
+    "name": "BirdLife South Africa",
+    "hq_country": "Sudáfrica",
+    "hq_city": "Johannesburgo (sin verificar)",
+    "website": "https://www.birdlife.org.za",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Evaluación regional y conservación de pastizales y colonias.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Endangered Wildlife Trust (EWT)",
+    "hq_country": "Sudáfrica",
+    "hq_city": "Johannesburgo (sin verificar)",
+    "website": "https://ewt.org.za",
+    "project_page_url": "https://ewt.org.za/what-we-do/saving-species",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Yolan Friedmann, CEO (sin verificar: firma 'Word from the CEO', fecha no clara)",
+    "what_they_do": "Conservación de aves de pastizal (sin verificar que tenga proyecto específico).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Pierre (pierrewildlife.com)",
+    "nationality": "no lo tengo",
+    "website": "https://www.pierrewildlife.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.pierrewildlife.com/?p=8951",
+    "note": "Ficha fotográfica de la especie (sin verificar autoría completa).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   },
+   {
+    "name": "Dewet (dewetswild.com)",
+    "nationality": "no lo tengo",
+    "website": "https://dewetswild.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://dewetswild.com/2016/11/22/southern-bald-ibis/",
+    "note": "Blog fotográfico sudafricano con entrada sobre la especie.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Cabeza calva roja y plumaje negro iridiscente: retrato raro y llamativo; conecta con el ibis eremita europeo.",
+  "sources": [
+   "https://datazone.birdlife.org/species/factsheet/southern-bald-ibis-geronticus-calvus/text",
+   "https://en.wikipedia.org/wiki/Southern_bald_ibis",
+   "https://car.birdmap.africa/species/BI"
+  ]
+ },
+ {
+  "common_name_es": "Buitre de El Cabo",
+  "scientific_name": "Gyps coprotheres",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Sudáfrica",
+   "Botsuana",
+   "Lesoto",
+   "Namibia",
+   "Esuatini",
+   "Zimbabue",
+   "Mozambique"
+  ],
+  "region": "Sur de África; colonias en acantilados (Magaliesberg, Drakensberg, Eastern Cape)",
+  "iucn_status": "Global: Vulnerable (VU), 2021 (BirdLife/IUCN T22695225A197073171); algunas fuentes aún citan En Peligro",
+  "population_estimate": "~2.200–4.500 parejas reproductoras según fuente (Hirschauer et al. 2020: 2.200–2.500; VulPro 2025: ~4.500)",
+  "trend": "Colonias del norte aumentaron de 1.561 parejas (2012) a 2.152 (2019); amenazas: envenenamiento, electrocución",
+  "taxonomy_note": "Accipitridae, buitre leonado africano endémico del sur de África.",
+  "foundations": [
+   {
+    "name": "VulPro",
+    "hq_country": "Sudáfrica",
+    "hq_city": "Hartbeespoort (sin verificar)",
+    "website": "https://www.vulpro.com",
+    "project_page_url": "https://vulpro.com/wp-content/uploads/2024/12/VulPro-Monitoring-Report-2024-final.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Kerri Wolter, fundadora (sin verificar)",
+    "what_they_do": "Rescate, rehabilitación, cría en cautividad y suelta; monitoreo de colonias 3 veces al año.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Endangered Wildlife Trust (EWT)",
+    "hq_country": "Sudáfrica",
+    "hq_city": "Johannesburgo (sin verificar)",
+    "website": "https://ewt.org.za",
+    "project_page_url": "https://ewt.org.za/what-we-do/saving-species",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Yolan Friedmann, CEO (sin verificar: firma 'Word from the CEO', fecha no clara)",
+    "what_they_do": "Programa de Aves de Presa / Vultures for Africa (responsable citado: Gareth Tate, sin verificar).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Óscar Díez Martínez",
+    "nationality": "España",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.biosphoto.com/en/photographer/oscar-diez-martinez-1314",
+    "note": "Fotógrafo de fauna español premiado en Wildlife Photographer of the Year 2010 (retrato de buitre leonado en Pirineos). Sin confirmar que fotografió esta especie africana.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Buitre imponente de ojos claros: imagen potente que reivindica a los 'limpiadores' de la naturaleza.",
+  "sources": [
+   "https://www.vulpro.com/wp-content/uploads/2023/08/10.2305_IUCN.UK_.2021-3.RLTS_.T22695225A197073171.en-1.pdf",
+   "https://datazone.birdlife.org/species/factsheet/cape-vulture-gyps-coprotheres/text",
+   "https://www.fondationensemble.org/en/projet/rescue-rehabilitation-release-and-population-monitoring-of-the-endangered-cape-vulture/",
+   "https://projectvulture.org.za/the-vultures/cape-vulture/"
+  ]
+ },
+ {
+  "common_name_es": "Buitre torgo",
+  "scientific_name": "Torgos tracheliotos",
+  "category": "África",
+  "continent": "África y Asia (Oriente Medio)",
+  "countries": [
+   "Sudáfrica",
+   "Namibia",
+   "Botsuana",
+   "Zimbabue",
+   "Kenia",
+   "Tanzania",
+   "Egipto",
+   "Arabia Saudí"
+  ],
+  "region": "Sabanas y desiertos de África subsahariana y Arabia",
+  "iucn_status": "Global: En Peligro (EN), año sin verificar; Sudáfrica (BirdLife SA 2025): En Peligro Crítico",
+  "population_estimate": "~160 individuos maduros en Sudáfrica (BirdLife SA 2025); global: no lo tengo",
+  "trend": "Fuerte descenso: −80 % (rango 65–87 %) en 3 generaciones en África; KZN pasó de 15 nidos activos (2020) a 6 (2021)",
+  "taxonomy_note": "Accipitridae, género monotípico Torgos.",
+  "foundations": [
+   {
+    "name": "Project Vulture (Ezemvelo KZN Wildlife + Wildlife ACT)",
+    "hq_country": "Sudáfrica",
+    "hq_city": "KwaZulu-Natal (sin verificar)",
+    "website": "https://projectvulture.org.za",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Seguimiento con GPS, protección de nidos, comederos seguros y respuesta a envenenamientos.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "VulPro",
+    "hq_country": "Sudáfrica",
+    "hq_city": "Hartbeespoort (sin verificar)",
+    "website": "https://www.vulpro.com",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Rescate y cría de buitres africanos (sin verificar trabajo específico con torgo).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Neville Lance Photography",
+    "nationality": "no lo tengo",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.birdlife.org.za/?p=322670",
+    "note": "Crédito de la imagen en la ficha de BirdLife SA (sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Cabeza rosada desnuda con pliegues y envergadura enorme: retrato dramático y muy expresivo.",
+  "sources": [
+   "https://www.birdlife.org.za/?p=322670",
+   "https://datazone.birdlife.org/species/factsheet/lappet-faced-vulture-torgos-tracheliotos/text",
+   "https://www.kznwildlife.com/component/zoo/item/breaking-news-endangered-lappet-faced-vulture-nesting-sites-in-kzn-decline-by-60-in-2021.html?Itemid=101",
+   "https://www.edgeofexistence.org/species/lappet-faced-vulture"
+  ]
+ },
+ {
+  "common_name_es": "Loro de El Cabo",
+  "scientific_name": "Poicephalus robustus",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Sudáfrica"
+  ],
+  "region": "Bosques afromontanos de Eastern Cape, KwaZulu-Natal y Limpopo",
+  "iucn_status": "Global: año y categoría sin verificar (endémico de Sudáfrica); Sudáfrica (BirdLife SA 2025): Vulnerable",
+  "population_estimate": "1.839 aves en el censo Cape Parrot Big Birding Day 2025 (récord 1.952 en 2023); 1.483 maduros (BirdLife SA 2025); ~100 en Limpopo",
+  "trend": "En descenso (regional)",
+  "taxonomy_note": "Psittacidae; antes incluía a P. fuscicollis, hoy separado.",
+  "foundations": [
+   {
+    "name": "Cape Parrot Working Group (UKZN)",
+    "hq_country": "Sudáfrica",
+    "hq_city": "Pietermaritzburg (sin verificar)",
+    "website": "https://cpwg.ukzn.ac.za",
+    "project_page_url": "https://cpwg.ukzn.ac.za/wp-content/uploads/2026/08/CPBBD-report-72025-compressed.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Prof. Colleen Downs (coordinadora)",
+    "what_they_do": "Censo anual nacional desde 1997/98 e investigación.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "World Parrot Trust",
+    "hq_country": "Reino Unido",
+    "hq_city": "Hayle, Cornualles (sin verificar)",
+    "website": "https://www.parrots.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Ha apoyado los censos (PsittaScene).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Mark Anderson",
+    "nationality": "no lo tengo",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.birdlife.org.za/?p=322642",
+    "note": "Crédito de imagen en la ficha de BirdLife SA (sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Loro verde con frente naranja y pico enorme: color vivo y simpático para camiseta.",
+  "sources": [
+   "https://cpwg.ukzn.ac.za/wp-content/uploads/2026/08/CPBBD-report-72025-compressed.pdf",
+   "https://www.birdlife.org.za/?p=322642",
+   "https://datazone.birdlife.org/species/factsheet/cape-parrot-poicephalus-robustus/text",
+   "https://en.wikipedia.org/wiki/Cape_parrot"
+  ]
+ },
+ {
+  "common_name_es": "Turaco de Bannerman",
+  "scientific_name": "Tauraco bannermani",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Camerún"
+  ],
+  "region": "Tierras altas de Bamenda: bosque de Kilum-Ijim (Monte Oku), Bamboutos, Tofala Hill",
+  "iucn_status": "Global: En Peligro (EN), ficha BirdLife actualizada 2024",
+  "population_estimate": "1.500–7.000 maduros según fuente; BirdLife: probablemente no más de 1.000–1.500 parejas en Kilum-Ijim",
+  "trend": "Descenso rápido sospechado por pérdida de hábitat",
+  "taxonomy_note": "Musophagidae, endémico de Camerún; plumas rojas usadas en ceremonias locales.",
+  "foundations": [
+   {
+    "name": "ERuDeF (Environment and Rural Development Foundation)",
+    "hq_country": "Camerún",
+    "hq_city": "Buea (sin verificar)",
+    "website": "https://erudef.org",
+    "project_page_url": "https://erudef.org/cameroons-endemic-bannermans-turaco-in-steady-decline/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Investigación y conservación de la especie y su hábitat.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "BirdLife International / Cameroon Biodiversity Conservation Society",
+    "hq_country": "Reino Unido / Camerún",
+    "hq_city": "Cambridge / Yaundé (sin verificar)",
+    "website": "https://www.birdlife.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Histórico proyecto Kilum-Ijim de gestión forestal comunitaria (sin verificar vigencia).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Turaco verde con cresta roja y alas carmesí: colores intensos y especie casi desconocida, ideal para contar una historia.",
+  "sources": [
+   "https://erudef.org/cameroons-endemic-bannermans-turaco-in-steady-decline/",
+   "https://datazone.birdlife.org/species/factsheet/bannermans-turaco-tauraco-bannermani/text",
+   "https://edgeofexistence.org/species/bannermans-turaco",
+   "https://www.downtoearth.org.in/africa/saving-a-disappearing-forest-with-the-feather-of-a-bird-cameroon-s-unique-conservation-story-85238"
+  ]
+ },
+ {
+  "common_name_es": "Avestruz",
+  "scientific_name": "Struthio camelus",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Níger",
+   "Chad",
+   "Túnez",
+   "Marruecos",
+   "Kenia",
+   "Tanzania",
+   "Namibia",
+   "Sudáfrica",
+   "Botsuana"
+  ],
+  "region": "Sabanas y semidesiertos; subespecie norteafricana (S. c. camelus) en el Sahel",
+  "iucn_status": "Global: Preocupación Menor (LC), año sin verificar; subespecie norteafricana considerada en peligro crítico por Sahara Conservation (sin evaluación UICN propia, sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "Global no amenazada; subespecie norteafricana en fuerte declive (caza, recolección de huevos)",
+  "taxonomy_note": "Struthionidae. El avestruz somalí (S. molybdophanes) se separa como especie; se propone separar también al norteafricano.",
+  "foundations": [
+   {
+    "name": "Sahara Conservation",
+    "hq_country": "Francia (sin verificar)",
+    "hq_city": "no lo tengo",
+    "website": "https://saharaconservation.org",
+    "project_page_url": "https://saharaconservation.org/north-african-ostrich/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Proyecto de recuperación del avestruz norteafricano en Níger y Chad.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Marwell Wildlife",
+    "hq_country": "Reino Unido",
+    "hq_city": "Winchester (sin verificar)",
+    "website": "https://www.marwell.org.uk",
+    "project_page_url": "https://www.marwell.org.uk/conservation/action/species/north-african-ostrich/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Reintroducción en el P. N. Dghoumes (Túnez, 2014).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Ave más grande del mundo, de mirada cómica y pestañas largas: retrato divertido e icónico.",
+  "sources": [
+   "https://saharaconservation.org/north-african-ostrich/",
+   "https://www.marwell.org.uk/conservation/action/species/north-african-ostrich/",
+   "https://www.Wikipedia.org/wiki/Barbary_ostrich"
+  ]
+ },
+ {
+  "common_name_es": "Cebra de llanura",
+  "scientific_name": "Equus quagga",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Kenia",
+   "Tanzania",
+   "Botsuana",
+   "Zambia",
+   "Zimbabue",
+   "Sudáfrica",
+   "Namibia",
+   "Etiopía"
+  ],
+  "region": "Sabanas del este y sur de África",
+  "iucn_status": "Global: Casi Amenazado (NT), 2016",
+  "population_estimate": "no lo tengo (en fuentes consultadas)",
+  "trend": "En descenso: cae en 10 de 17 países del área (World Land Trust)",
+  "taxonomy_note": "Equidae. El quagga extinto (1883) era una subespecie (E. q. quagga), confirmado genéticamente en 2005.",
+  "foundations": [
+   {
+    "name": "World Land Trust",
+    "hq_country": "Reino Unido",
+    "hq_city": "Halesworth (sin verificar)",
+    "website": "https://www.worldlandtrust.org",
+    "project_page_url": "https://www.worldlandtrust.org/species/plains-zebra/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Compra y protección de hábitat con socios locales.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Frankfurt Zoological Society",
+    "hq_country": "Alemania",
+    "hq_city": "Fráncfort",
+    "website": "https://fzs.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Conservación del ecosistema Serengeti (sin verificar proyecto específico de cebra).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Rayas blanco y negro: diseño gráfico inmediato, perfecto para estampado.",
+  "sources": [
+   "https://www.worldlandtrust.org/species/plains-zebra/",
+   "https://en.wikipedia.org/wiki/Plains_zebra",
+   "https://ielc.libguides.com/sdzg/factsheets/plains_zebra"
+  ]
+ },
+ {
+  "common_name_es": "Ñu azul",
+  "scientific_name": "Connochaetes taurinus",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Tanzania",
+   "Kenia",
+   "Botsuana",
+   "Zambia",
+   "Sudáfrica",
+   "Namibia",
+   "Mozambique"
+  ],
+  "region": "Sabanas; gran migración Serengeti–Masái Mara",
+  "iucn_status": "Global: Preocupación Menor (LC), año sin verificar",
+  "population_estimate": "~1.550.000 en total, ~1.300.000 en el Serengeti (fuentes divulgativas, sin verificar año)",
+  "trend": "Estable globalmente; migraciones colapsadas en casi todos los ecosistemas salvo Serengeti-Mara (Reid et al. 2019)",
+  "taxonomy_note": "Bovidae, Alcelaphinae.",
+  "foundations": [
+   {
+    "name": "Frankfurt Zoological Society",
+    "hq_country": "Alemania",
+    "hq_city": "Fráncfort",
+    "website": "https://fzs.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Apoyo histórico al P. N. Serengeti (sin verificar en esta pasada).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Óscar Díez Martínez",
+    "nationality": "España",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.biosphoto.com/en/photographer/oscar-diez-martinez-1314",
+    "note": "Fotógrafo de fauna español premiado en Wildlife Photographer of the Year 2010 (retrato de buitre leonado en Pirineos). Sin confirmar que fotografió esta especie africana.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "La gran migración: manada cruzando el río Mara, imagen épica y muy reconocible.",
+  "sources": [
+   "https://www.biorxiv.org/content/10.1101/546747.full.pdf",
+   "https://media.hhmi.org/biointeractive/click/keystone/wildebeest.html",
+   "https://www.jungledragon.com/specie/527/blue-wildebeest.html"
+  ]
+ },
+ {
+  "common_name_es": "Gato dorado africano",
+  "scientific_name": "Caracal aurata",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Uganda",
+   "Gabón",
+   "Camerún",
+   "Congo",
+   "R. D. Congo",
+   "Sierra Leona",
+   "Liberia",
+   "Tanzania"
+  ],
+  "region": "Selvas de África central y occidental",
+  "iucn_status": "Global: Vulnerable (VU), 2015 (sin verificar año exacto)",
+  "population_estimate": "no lo tengo; primer censo continental con cámaras trampa en 30 sitios de 19 países en curso (2025)",
+  "trend": "En descenso (pérdida de hábitat, lazos de caza furtiva)",
+  "taxonomy_note": "Felidae; antes Profelis aurata, reubicado junto al caracal por datos moleculares.",
+  "foundations": [
+   {
+    "name": "African Golden Cat Conservation Alliance",
+    "hq_country": "no lo tengo",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Mwezi Mugerwa (líder, sin verificar)",
+    "what_they_do": "Censo continental con cámaras trampa y proyecto comunitario Embaka (8.000 hogares).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Panthera",
+    "hq_country": "EE. UU.",
+    "hq_city": "Nueva York (sin verificar)",
+    "website": "https://www.panthera.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Investigación con cámaras trampa e IA de identificación por pelaje.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "David Mills",
+    "nationality": "no lo tengo",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://news.mongabay.com/2015/08/feline-unseen-the-african-golden-cat/",
+    "note": "Investigador (Panthera/Kibale) autor de fotos con cámara trampa; sin confirmar si es fotógrafo profesional.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Felino misterioso y casi nunca visto: el 'gato fantasma' de la selva, gran historia para una prenda.",
+  "sources": [
+   "https://news.mongabay.com/2015/08/feline-unseen-the-african-golden-cat/",
+   "https://atta.travel/resource/ai-accelerates-first-census-of-africa-s-elusive-golden-cat.html",
+   "https://www.iucnsos.org/?p=5451"
+  ]
+ },
+ {
+  "common_name_es": "Nutria de cuello moteado",
+  "scientific_name": "Hydrictis maculicollis",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Uganda",
+   "Tanzania",
+   "Zambia",
+   "Botsuana",
+   "Namibia",
+   "Sudáfrica",
+   "Kenia"
+  ],
+  "region": "Lagos y ríos de aguas claras del África subsahariana (p. ej., lago Victoria, Okavango)",
+  "iucn_status": "Global: Casi Amenazado (NT), 2021 (Reed-Smith, Jacques & Somers)",
+  "population_estimate": "no lo tengo",
+  "trend": "En descenso; se sospecha declive ≥20 % en 3 generaciones",
+  "taxonomy_note": "Mustelidae, Lutrinae; antes Lutra maculicollis.",
+  "foundations": [
+   {
+    "name": "IUCN SSC Otter Specialist Group / African Otter Network",
+    "hq_country": "Internacional",
+    "hq_city": "no lo tengo",
+    "website": "https://www.otterspecialistgroup.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Red de especialistas africanos, registro de avistamientos y concienciación.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "International Otter Survival Fund",
+    "hq_country": "Reino Unido",
+    "hq_city": "Isla de Skye (sin verificar)",
+    "website": "https://www.otter.org",
+    "project_page_url": "https://www.otter.org/spotted-necked-otter",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Conservación de nutrias a nivel mundial.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Sean Braine",
+    "nationality": "no lo tengo",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.otterspecialistgroup.org/?p=2043",
+    "note": "Foto de Hydrictis maculicollis acreditada en el OSG.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Nutria con manchas blancas en el cuello, cara tierna: muy entrañable.",
+  "sources": [
+   "https://www.otterspecialistgroup.org/?p=2043",
+   "https://otterspecialistgroup.org/Species/Lutra_maculicollis.html",
+   "https://iucnosgbull.org/Volume32/Reed-Smith_et_al_2015.html",
+   "https://en.wikipedia.org/wiki/Spotted-necked_otter"
+  ]
+ },
+ {
+  "common_name_es": "Camaleón de Parson",
+  "scientific_name": "Calumma parsonii",
+  "category": "África",
+  "continent": "África (Madagascar)",
+  "countries": [
+   "Madagascar"
+  ],
+  "region": "Bosques húmedos primarios del norte y este de Madagascar",
+  "iucn_status": "Global: Casi Amenazado (NT), 2011",
+  "population_estimate": "no lo tengo",
+  "trend": "En descenso (comercio de mascotas y pérdida de bosque)",
+  "taxonomy_note": "Chamaeleonidae; uno de los camaleones más grandes del mundo; CITES Apéndice II.",
+  "foundations": [
+   {
+    "name": "Madagascar Fauna and Flora Group",
+    "hq_country": "Madagascar",
+    "hq_city": "Toamasina (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Conservación de fauna malgache (sin verificar proyecto específico).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Rhett A. Butler",
+    "nationality": "EE. UU.",
+    "website": "https://www.mongabay.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://es.mongabay.com/2018/03/fotos-animales-de-madagascar/",
+    "note": "Fundador de Mongabay, amplio archivo de fauna de Madagascar; sin confirmar foto de esta especie.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Camaleón gigante verde-turquesa con ojos giratorios: fascinante y muy fotogénico.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Parson%27s_chameleon",
+   "https://www.madcham.de/en/?p=854"
+  ]
+ },
+ {
+  "common_name_es": "Tortuga angonoka",
+  "scientific_name": "Astrochelys yniphora",
+  "category": "África",
+  "continent": "África (Madagascar)",
+  "countries": [
+   "Madagascar"
+  ],
+  "region": "P. N. Baly Bay, noroeste de Madagascar",
+  "iucn_status": "Global: En Peligro Crítico (CR), año sin verificar",
+  "population_estimate": "Posiblemente ~400 en libertad, ~200 adultos (estimación 2008); Durrell: 105 liberadas y ~800 criadas en cautividad",
+  "trend": "En descenso (caza furtiva para comercio ilegal)",
+  "taxonomy_note": "Testudinidae; la tortuga más amenazada del mundo, con escudo gular en forma de reja de arado.",
+  "foundations": [
+   {
+    "name": "Durrell Wildlife Conservation Trust",
+    "hq_country": "Jersey (Islas del Canal)",
+    "hq_city": "Trinity (sin verificar)",
+    "website": "https://www.durrell.org",
+    "project_page_url": "https://www.durrell.org/conservation/species/reptiles/ploughshare-tortoise/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Cría en cautividad, liberaciones y patrullas antifurtivos en Baly Bay.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Turtle Conservancy",
+    "hq_country": "EE. UU.",
+    "hq_city": "Nueva York (sin verificar)",
+    "website": "https://www.turtleconservancy.org",
+    "project_page_url": "https://www.turtleconservancy.org/outreach/born-to-be-wild:-first-ploughshare-tortoises-bred-outside-madagascar-for-rewilding",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Socio de Durrell desde 2009; cría fuera de Madagascar para reintroducción.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Caparazón dorado de patrón geométrico: precioso y con mensaje fuerte (tortuga más rara del mundo).",
+  "sources": [
+   "https://www.durrell.org/conservation/species/reptiles/ploughshare-tortoise/",
+   "https://chelonian.org/wp-content/uploads/file/CRM%206/08-RLA-Astrochelys_yniphora.pdf",
+   "https://www.scientificamerican.com/blog/extinction-countdown/two-years-ploughshare-tortoise"
+  ]
+ },
+ {
+  "common_name_es": "Lémur dorado del bambú",
+  "scientific_name": "Hapalemur aureus",
+  "category": "África",
+  "continent": "África (Madagascar)",
+  "countries": [
+   "Madagascar"
+  ],
+  "region": "P. N. Ranomafana y Andringitra, sureste de Madagascar",
+  "iucn_status": "Global: En Peligro Crítico (CR), 2020 (sin verificar año; 2012 taller UICN)",
+  "population_estimate": "<250 individuos maduros (taller UICN 2012)",
+  "trend": "En descenso (tala y quema, extracción de bambú)",
+  "taxonomy_note": "Lemuridae; se alimenta de bambú gigante con cianuro; descubierto en 1986 por Patricia Wright; CITES Apéndice I.",
+  "foundations": [
+   {
+    "name": "Centre ValBio (Stony Brook University)",
+    "hq_country": "Madagascar",
+    "hq_city": "Ranomafana (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Patricia Wright, fundadora (sin verificar)",
+    "what_they_do": "Centro de investigación y conservación en Ranomafana (sin verificar en esta pasada).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "New England Primate Conservancy",
+    "hq_country": "EE. UU.",
+    "hq_city": "no lo tengo",
+    "website": "https://neprimateconservancy.org",
+    "project_page_url": "https://neprimateconservancy.org/?p=16883",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Divulgación y apoyo a la conservación de primates.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Lémur de cara dorada abrazado a un bambú: tierno y muy raro.",
+  "sources": [
+   "https://neprimateconservancy.org/?p=16883",
+   "https://www.sfu.ca/biology/courses/bisc475/Lemurs2001/HTML/aureus.htm",
+   "https://en.wikipedia.com/wiki/Hapalemur_aureus"
+  ]
+ },
+ {
+  "common_name_es": "Mantella dorada",
+  "scientific_name": "Mantella aurantiaca",
+  "category": "África",
+  "continent": "África (Madagascar)",
+  "countries": [
+   "Madagascar"
+  ],
+  "region": "Pantanos de altitud del distrito de Moramanga, centro-este de Madagascar",
+  "iucn_status": "Global: En Peligro (EN), año sin verificar (antes En Peligro Crítico)",
+  "population_estimate": "no lo tengo",
+  "trend": "En descenso (pérdida de hábitat, minería, colecta ilegal)",
+  "taxonomy_note": "Mantellidae; rana dorada de pequeño tamaño; Estrategia de Conservación 2017–2021.",
+  "foundations": [
+   {
+    "name": "IUCN SSC Amphibian Specialist Group",
+    "hq_country": "Internacional",
+    "hq_city": "no lo tengo",
+    "website": "https://www.iucn-amphibians.org",
+    "project_page_url": "https://www.iucn-amphibians.org/wp-content/uploads/sites/4/2026/04/Golden-mantella-frog_SCS_2016_EN.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Coordina la estrategia de conservación de la especie.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Amphibian Ark",
+    "hq_country": "Internacional",
+    "hq_city": "no lo tengo",
+    "website": "https://www.amphibianark.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Cría en cautividad y programas ex situ.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Rhett A. Butler",
+    "nationality": "EE. UU.",
+    "website": "https://www.mongabay.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://photos.wildmadagascar.org",
+    "note": "Fotografió mantellas en La Mandraka para Wild Madagascar (sin verificar que sea M. aurantiaca).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Ranita naranja intenso: un punto de color brillante, minimalista y vistoso.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Golden_mantella",
+   "https://www.iucn-amphibians.org/wp-content/uploads/sites/4/2018/11/Mantella-aurantiaca-conservation-straegy-English.pdf",
+   "https://www.amphibianark.org/?p=4774"
+  ]
+ },
+ {
+  "common_name_es": "Tiburón toro",
+  "scientific_name": "Carcharias taurus",
+  "category": "África",
+  "continent": "Cosmopolita (costas templadas); foco África austral",
+  "countries": [
+   "Sudáfrica",
+   "Mozambique",
+   "Australia",
+   "EE. UU.",
+   "Brasil",
+   "Argentina"
+  ],
+  "region": "Costas de KwaZulu-Natal (Aliwal Shoal) y Atlántico; Mediterráneo (posiblemente extinto)",
+  "iucn_status": "Global: En Peligro Crítico (CR), 2020 (sin verificar; algunas fuentes citan Vulnerable); Mediterráneo/Europa: En Peligro Crítico, posiblemente extinto",
+  "population_estimate": "no lo tengo",
+  "trend": "En descenso",
+  "taxonomy_note": "Odontaspididae; en Sudáfrica 'raggedtooth shark'. En España, Listado de Especies Silvestres en Régimen de Protección Especial (2012).",
+  "foundations": [
+   {
+    "name": "CMS (Convención sobre Especies Migratorias) – Acción Concertada",
+    "hq_country": "Alemania",
+    "hq_city": "Bonn",
+    "website": "https://www.cms.int",
+    "project_page_url": "https://www.cms.int/sites/default/files/document/2026-06/cms_cop15_ca.15.6_sand-tiger-shark_e.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Acción concertada internacional para la especie (organismo intergubernamental, no fundación).",
+    "accepts_corporate_partners": "no lo tengo (organismo ONU)"
+   },
+   {
+    "name": "Save Our Seas Foundation",
+    "hq_country": "Suiza",
+    "hq_city": "Ginebra (sin verificar)",
+    "website": "https://saveourseas.com (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Financia investigación de elasmobranquios en Sudáfrica (sin verificar proyecto específico).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Ángel Fitor",
+    "nationality": "España",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo submarino español, Portfolio Award WPY 2021; sin confirmar que fotografió esta especie.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Tiburón de dientes desordenados y mirada intimidante: icónico para amantes del mar.",
+  "sources": [
+   "https://www.cms.int/sites/default/files/document/2025-11/cms_cop15_doc.31.3.13_ca_sand-tiger-shark_e.docx",
+   "https://en.wikipedia.org/wiki/Mediterranean_sand_tiger_shark",
+   "https://www.pewtrusts.org/en/about/news-room/press-releases-and-statements/2012/01/24/spain-protects-more-shark-and-ray-species-in-the-mediteranean"
+  ]
+ },
+ {
+  "common_name_es": "Pez guitarra gigante",
+  "scientific_name": "Rhynchobatus djiddensis",
+  "category": "África",
+  "continent": "África (océano Índico occidental)",
+  "countries": [
+   "Sudáfrica",
+   "Mozambique",
+   "Kenia",
+   "Tanzania",
+   "Mar Rojo"
+  ],
+  "region": "Aguas costeras someras del Índico occidental; foco sur de Mozambique y NE de Sudáfrica",
+  "iucn_status": "Global: En Peligro Crítico (CR), 2019 (sin verificar si global o regional; CMS cita Vulnerable)",
+  "population_estimate": "no lo tengo",
+  "trend": "En descenso (pesca dirigida y captura accesoria, aletas)",
+  "taxonomy_note": "Rhinidae; antes se le atribuía una distribución mucho mayor que correspondía a 4 especies.",
+  "foundations": [
+   {
+    "name": "Save Our Seas Foundation",
+    "hq_country": "Suiza",
+    "hq_city": "Ginebra (sin verificar)",
+    "website": "https://saveourseas.com",
+    "project_page_url": "https://saveourseas.com/update/fine-tuning-the-movement-patterns-of-the-giant-guitarfish/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Financia proyecto de marcaje y movimientos en KwaZulu-Natal y Mozambique.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Oceanographic Research Institute (uShaka)",
+    "hq_country": "Sudáfrica",
+    "hq_city": "Durban (sin verificar)",
+    "website": "https://aquarium.co.za",
+    "project_page_url": "https://aquarium.co.za/animals/giant-guitarfish",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Investigación y acuario (sin verificar programa).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Silueta híbrida tiburón-raya con manchas blancas: forma rara y muy gráfica.",
+  "sources": [
+   "https://saveourseas.com/update/fine-tuning-the-movement-patterns-of-the-giant-guitarfish/",
+   "https://en.wikipedia.org/wiki/Giant_guitarfish",
+   "https://elasmo.org/wp-content/uploads/2022/04/Report-on-the-AES-Global-Wedgefish-and-Guitarfish-Symposium.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Abejaruco carmesí del sur",
+  "scientific_name": "Merops nubicoides",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Zambia",
+   "Zimbabue",
+   "Botsuana",
+   "Namibia",
+   "Mozambique",
+   "Malaui",
+   "Sudáfrica",
+   "Angola"
+  ],
+  "region": "Riberas arenosas del Zambeze, Luangwa y Caprivi",
+  "iucn_status": "Global: Preocupación Menor (LC), 2024",
+  "population_estimate": "no lo tengo (total); ~37.500 en Zimbabue (años 90); colonias de 3.000–8.000 nidos en el Zambeze",
+  "trend": "En descenso (habitat; persecución en NE de Namibia)",
+  "taxonomy_note": "Meropidae; pariente del abejaruco europeo (Merops apiaster) que cría en España.",
+  "foundations": [
+   {
+    "name": "SANBI",
+    "hq_country": "Sudáfrica",
+    "hq_city": "Pretoria (sin verificar)",
+    "website": "https://www.sanbi.org",
+    "project_page_url": "https://www.sanbi.org/animal-of-the-week/carmine-bee-eater/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Instituto público de biodiversidad (divulgación); no lo tengo proyecto específico.",
+    "accepts_corporate_partners": "no lo tengo (organismo público)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Óscar Díez Martínez",
+    "nationality": "España",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.biosphoto.com/en/photographer/oscar-diez-martinez-1314",
+    "note": "Fotógrafo de fauna español premiado en Wildlife Photographer of the Year 2010 (retrato de buitre leonado en Pirineos). Sin confirmar que fotografió esta especie africana.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Ave rosa-carmín con turquesa: color espectacular, colonias multitudinarias en barrancos.",
+  "sources": [
+   "https://ielc.libguides.com/sdzg/factsheets/carminebee-eater/population",
+   "https://www.sanbi.org/animal-of-the-week/carmine-bee-eater/",
+   "https://journals.uct.ac.za/index.php/BO/article/view/860"
+  ]
+ },
+ {
+  "common_name_es": "Serval",
+  "scientific_name": "Leptailurus serval",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Tanzania",
+   "Kenia",
+   "Botsuana",
+   "Zambia",
+   "Sudáfrica",
+   "Senegal",
+   "Argelia",
+   "Marruecos"
+  ],
+  "region": "Sabanas húmedas y humedales del África subsahariana; relicto en el Magreb",
+  "iucn_status": "Global: Preocupación Menor (LC), 2014 (Thiel 2015, enmendado 2019); Norte de África: En Peligro (L. s. constantinus)",
+  "population_estimate": "no lo tengo",
+  "trend": "Estable globalmente; en declive en el oeste y sur de África y casi extinto en el Magreb",
+  "taxonomy_note": "Felidae; orejas enormes y patas largas.",
+  "foundations": [
+   {
+    "name": "IUCN SSC Cat Specialist Group",
+    "hq_country": "Suiza",
+    "hq_city": "Muri bei Bern (sin verificar)",
+    "website": "https://catsg.org",
+    "project_page_url": "https://catsg.org/living-species-serval",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Evaluación y estrategia de conservación de felinos.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Felidae Conservation Fund",
+    "hq_country": "EE. UU.",
+    "hq_city": "no lo tengo",
+    "website": "https://felidaefund.org",
+    "project_page_url": "https://felidaefund.org/learn/cats/serval",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Divulgación e investigación de felinos.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Óscar Díez Martínez",
+    "nationality": "España",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.biosphoto.com/en/photographer/oscar-diez-martinez-1314",
+    "note": "Fotógrafo de fauna español premiado en Wildlife Photographer of the Year 2010 (retrato de buitre leonado en Pirineos). Sin confirmar que fotografió esta especie africana.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Felino de orejas gigantes y manchas: elegante y muy fotogénico.",
+  "sources": [
+   "https://catsg.org/living-species-serval",
+   "https://en.wikipedia.org/wiki/Serval",
+   "https://ielc.libguides.com/sdzg/factsheets/serval/population"
+  ]
+ },
+ {
+  "common_name_es": "Hipopótamo pigmeo",
+  "scientific_name": "Choeropsis liberiensis",
+  "category": "África",
+  "continent": "África",
+  "countries": [
+   "Liberia",
+   "Costa de Marfil",
+   "Sierra Leona",
+   "Guinea"
+  ],
+  "region": "Bosques de la Alta Guinea; mayor fragmento en Liberia y Costa de Marfil (P. N. Sapo, Taï)",
+  "iucn_status": "Global: En Peligro (EN), año sin verificar",
+  "population_estimate": "~3.000 (estimación más reciente citada en Oryx); <3.000 a principios de los 90; ~22 en transectos de Sapo (2018)",
+  "trend": "En descenso; ha perdido ~75 % de su área",
+  "taxonomy_note": "Hippopotamidae; a veces Hexaprotodon liberiensis.",
+  "foundations": [
+   {
+    "name": "Fauna & Flora (FFI)",
+    "hq_country": "Reino Unido",
+    "hq_city": "Cambridge (sin verificar)",
+    "website": "https://www.fauna-flora.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Trabajo en Sapo NP (sin verificar en esta pasada).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Universidad de Jyväskylä (estudio Sapo NP)",
+    "hq_country": "Finlandia",
+    "hq_city": "Jyväskylä",
+    "website": "https://jyx.jyu.fi",
+    "project_page_url": "https://jyx.jyu.fi/handle/123456789/62096",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Investigación del estado de conservación en Sapo NP (no es fundación).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Hipopótamo en miniatura, brillante y adorable: muy viral y simpático para camiseta.",
+  "sources": [
+   "https://dx.doi.org/10.1017/S0030605310001444",
+   "https://jyx.jyu.fi/handle/123456789/62096",
+   "https://palmoildetectives.com/2021/02/15/pygmy-hippopotamus-choeropsis-liberiensis/"
+  ]
+ },
+ {
+  "common_name_es": "Abeja gigante de Wallace",
+  "scientific_name": "Megachile pluto",
+  "category": "Insectos y polinizadores",
+  "continent": "Asia (Indonesia)",
+  "countries": [
+   "Indonesia"
+  ],
+  "region": "Islas Molucas del Norte (Bacan, Halmahera, Tidore)",
+  "iucn_status": "Global: Vulnerable (VU), año sin verificar (según Re:wild)",
+  "population_estimate": "no lo tengo",
+  "trend": "Desconocida; amenazada por deforestación y comercio de coleccionistas",
+  "taxonomy_note": "Megachilidae; la abeja más grande del mundo (~6 cm de envergadura); nidifica en termiteros arbóreos; redescubierta en 2019 tras 38 años.",
+  "foundations": [
+   {
+    "name": "Re:wild (antes Global Wildlife Conservation)",
+    "hq_country": "EE. UU.",
+    "hq_city": "Austin, Texas (sin verificar)",
+    "website": "https://www.rewild.org",
+    "project_page_url": "https://rewild.org/lost-species/wallaces-giant-bee",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Programa 'Search for Lost Species'; financió la expedición de redescubrimiento.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Clay Bolt",
+    "nationality": "EE. UU.",
+    "website": "no lo tengo (dato sin verificar eliminado)",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.nationalgeographic.com/animals/article/wallaces-giant-bee-rediscovered-indonesia",
+    "note": "Autor de las primeras fotos y vídeo de un ejemplar vivo (2019).",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Abeja enorme con mandíbulas tipo escarabajo: imagen sorprendente y gran historia de redescubrimiento.",
+  "sources": [
+   "https://rewild.org/lost-species/wallaces-giant-bee",
+   "https://www.rewild.org/blog/rediscovering-wallaces-giant-bee-in-search-of-raja-ofu-the-king-of-bees",
+   "https://www.sydney.edu.au/news-opinion/news/2019/02/22/world-s-biggest-bee-found.html"
+  ]
+ },
+ {
+  "common_name_es": "Polilla cometa de Madagascar",
+  "scientific_name": "Argema mittrei",
+  "category": "Insectos y polinizadores",
+  "continent": "África (Madagascar)",
+  "countries": [
+   "Madagascar"
+  ],
+  "region": "Bosques húmedos del este de Madagascar",
+  "iucn_status": "Global: no evaluada formalmente por la UICN (sin verificar; una fuente de baja calidad cita LC)",
+  "population_estimate": "no lo tengo",
+  "trend": "Se considera en declive en libertad (tala, quema, carbón, recolección de huevos) (sin verificar)",
+  "taxonomy_note": "Saturniidae; una de las mayores polillas de seda del mundo, colas de hasta ~15 cm; se cría en cautividad.",
+  "foundations": [
+   {
+    "name": "no lo tengo",
+    "hq_country": "no lo tengo",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "No se encontró ONG específica; pendiente (posibles socios: parques nacionales de Madagascar).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Alas amarillas con colas larguísimas y ocelos: silueta espectacular para estampado.",
+  "sources": [
+   "https://a-z-animals.com/articles/the-comet-moth-may-be-the-worlds-most-stunning-silkmoth-heres-what-makes-it-extraordinary/",
+   "https://www.madamagazine.com/en/?p=3165",
+   "https://earthpedia.earth.com/animal-encyclopedia/arthropoda/saturniidae/argema-mittrei"
+  ]
+ },
+ {
+  "common_name_es": "Luciérnaga sincrónica",
+  "scientific_name": "Photinus carolinus",
+  "category": "Insectos y polinizadores",
+  "continent": "América del Norte",
+  "countries": [
+   "EE. UU."
+  ],
+  "region": "Apalaches: Great Smoky Mountains (Elkmont, Tennessee), también Pensilvania y Nueva York",
+  "iucn_status": "Global: evaluada en 2021 por la UICN (Walker & Faust 2021, e.T164076182A166771773), categoría no la tengo",
+  "population_estimate": "no lo tengo",
+  "trend": "no lo tengo; presión turística en Elkmont (lotería de acceso)",
+  "taxonomy_note": "Lampyridae; una de las dos luciérnagas sincrónicas conocidas en Norteamérica; espectáculo de ~2 semanas entre mayo y junio.",
+  "foundations": [
+   {
+    "name": "Xerces Society",
+    "hq_country": "EE. UU.",
+    "hq_city": "Portland, Oregón (sin verificar)",
+    "website": "https://xerces.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Conservación de invertebrados; prácticas sostenibles de observación de luciérnagas (Candace Fallon).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Great Smoky Mountains National Park (NPS)",
+    "hq_country": "EE. UU.",
+    "hq_city": "Gatlinburg, Tennessee (sin verificar)",
+    "website": "https://www.nps.gov/grsm (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Gestión del espectáculo y lotería de visitas.",
+    "accepts_corporate_partners": "no lo tengo (organismo público)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Radim Schreiber",
+    "nationality": "República Checa / EE. UU. (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Conocido por fotografías de luciérnagas (sin verificar en esta pasada).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Bosque nocturno lleno de destellos sincronizados: imagen mágica y luminosa.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Photinus_carolinus",
+   "https://extapps.dec.ny.gov/fs/programs/dfw/SWAP2025/Beetles/Photinus%20carolinus.pdf",
+   "https://assets.atlasobscura.com/articles/synchronous-fireflies-appalachia"
+  ]
+ },
+ {
+  "common_name_es": "Cigarra periódica",
+  "scientific_name": "Magicicada spp.",
+  "category": "Insectos y polinizadores",
+  "continent": "América del Norte",
+  "countries": [
+   "EE. UU."
+  ],
+  "region": "Este de EE. UU.; broods de 13 y 17 años",
+  "iucn_status": "Global: Casi Amenazado (NT), 1996 (especies de 17 años: M. cassini, M. septendecim, M. septendecula; evaluación antigua)",
+  "population_estimate": "no lo tengo (emergencias de millones por acre)",
+  "trend": "Algunas broods extintas (Brood XI) o en declive (Brood VII, X) por pérdida de hábitat",
+  "taxonomy_note": "Cicadidae; 7 especies; ciclos de 13 y 17 años.",
+  "foundations": [
+   {
+    "name": "UConn – Periodical Cicada research (cicadas.uconn.edu)",
+    "hq_country": "EE. UU.",
+    "hq_city": "Storrs, Connecticut",
+    "website": "https://cicadas.uconn.edu",
+    "project_page_url": "https://cicadas.uconn.edu/brood_09",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Investigación y mapeo de broods (universidad, no fundación).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Ojos rojos y alas doradas translúcidas: insecto rarísimo y mítico, ideal para diseño llamativo.",
+  "sources": [
+   "https://blog.biodiversitylibrary.org/2021/07/farewell-brood-x-2021",
+   "https://en.wikipedia.org/wiki/Magicicada_cassini",
+   "https://doi.org/10.1664/0028-7199(2004)112[0198:THCOPC]2.0.CO;2"
+  ]
+ },
+ {
+  "common_name_es": "Mariposa limonera",
+  "scientific_name": "Gonepteryx rhamni",
+  "category": "Insectos y polinizadores",
+  "continent": "Europa, Asia y norte de África",
+  "countries": [
+   "España",
+   "Francia",
+   "Reino Unido",
+   "Alemania",
+   "Marruecos",
+   "Rusia"
+  ],
+  "region": "Ampliamente distribuida en Europa; en España común, más localizada en el sur",
+  "iucn_status": "Global: Preocupación Menor (LC), año sin verificar; España (lista nacional 2025): Preocupación Menor",
+  "population_estimate": "no lo tengo",
+  "trend": "Estable (sin verificar)",
+  "taxonomy_note": "Pieridae; adulto hiberna; larvas en arraclán y espino cerval (Rhamnaceae); su congénere G. cleobule (Canarias) está En Peligro.",
+  "foundations": [
+   {
+    "name": "Asociación Zerynthia",
+    "hq_country": "España",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Asociación española de conservación de mariposas (sin verificar en esta pasada).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Butterfly Conservation Europe",
+    "hq_country": "Países Bajos (sin verificar)",
+    "hq_city": "no lo tengo",
+    "website": "https://butterfly-conservation-europe.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Red europea de seguimiento de mariposas (sin verificar).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Mariposa amarillo limón con alas en forma de hoja: alegre, primaveral y local para el público español.",
+  "sources": [
+   "https://www.nationalredlist.org/assessments?page=8",
+   "https://core.ac.uk/download/43094669.pdf",
+   "https://insects.at/index.php/en/lepidoptera/papilionoidea/pieridae/coliadinae/257-gonepteryx-rhamni-2?rCH=-2"
+  ]
+ }
+]
