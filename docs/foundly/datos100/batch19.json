@@ -1,0 +1,1143 @@
+[
+ {
+  "common_name_es": "Salamandra rabilarga",
+  "scientific_name": "Chioglossa lusitanica",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": [
+   "España",
+   "Portugal"
+  ],
+  "region": "Galicia y dos tercios septentrionales de Asturias; mitad norte de Portugal",
+  "iucn_status": "Global: Vulnerable (VU) (sin verificar año); Europa: Vulnerable (EUNIS/UICN); Directiva Hábitats",
+  "population_estimate": "no lo tengo",
+  "trend": "Decreciente (pérdida de bosques de ribera, eucaliptales, contaminación) (sin verificar)",
+  "taxonomy_note": "Endemismo ibérico; único representante de su género.",
+  "foundations": [
+   {
+    "name": "Asociación Herpetológica Española (AHE)",
+    "hq_country": "España",
+    "hq_city": "Madrid (C/ José Gutiérrez Abascal 2, sin verificar)",
+    "website": "https://www.herpetologica.es",
+    "project_page_url": "no lo tengo (programa SARE de seguimiento de anfibios y reptiles)",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Eva Graciá (presidenta según boletín SEH 2022, sin verificar si sigue)",
+    "what_they_do": "Coordina el programa SARE de seguimiento de anfibios y reptiles de España y asesora proyectos de conservación.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Guillermo Velo Antón",
+    "nationality": "española (Galicia)",
+    "website": "https://sites.google.com/view/guillermo-velo-anton/fieldwork-photos",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Herpetólogo con galería de fotos de campo de anfibios del NO ibérico; foto de rabilarga sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   },
+   {
+    "name": "Jaime Culebras",
+    "nationality": "española",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Biólogo y fotógrafo de anfibios y reptiles; ganador categoría anfibios/reptiles WPY 2020. Trabaja sobre todo en Ecuador; no consta foto de esta especie (sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Salamandra esbelta negra con dos franjas doradas: diseño gráfico y elegante, muy 'endemismo secreto' del norte.",
+  "sources": [
+   "https://www.miteco.gob.es/es/biodiversidad/temas/conservacion-de-especies-amenazadas/Salamandra_rabilarga_tcm30-194986.pdf",
+   "https://eunis.eea.europa.eu/species/650",
+   "https://uicnmed.org/web2007/cd_rep_amp/materials/amph_summery/chioglossa_lusitanica.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Tritón pigmeo",
+  "scientific_name": "Triturus pygmaeus",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": [
+   "España",
+   "Portugal"
+  ],
+  "region": "Centro y sur de España y centro-sur de Portugal",
+  "iucn_status": "Global: Casi amenazado (NT) (sin verificar año); España: Vulnerable (VU A2c) según inventario MITECO",
+  "population_estimate": "no lo tengo",
+  "trend": "Decreciente; reducción significativa en Las Tablas de Daimiel",
+  "taxonomy_note": "Separado del tritón jaspeado (T. marmoratus) como especie propia; debate taxonómico citado por fuentes portuguesas.",
+  "foundations": [
+   {
+    "name": "Asociación Herpetológica Española (AHE)",
+    "hq_country": "España",
+    "hq_city": "Madrid (C/ José Gutiérrez Abascal 2, sin verificar)",
+    "website": "https://www.herpetologica.es",
+    "project_page_url": "no lo tengo (programa SARE de seguimiento de anfibios y reptiles)",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Eva Graciá (presidenta según boletín SEH 2022, sin verificar si sigue)",
+    "what_they_do": "Seguimiento de anfibios (SARE) y asesoría técnica; en Daimiel hay reforzamientos (PIMA Adapta, desde 2017).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Jaime Culebras",
+    "nationality": "española",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Biólogo y fotógrafo de anfibios y reptiles; ganador categoría anfibios/reptiles WPY 2020. Trabaja sobre todo en Ecuador; no consta foto de esta especie (sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   },
+   {
+    "name": "Albert Masó i Pijoan",
+    "nationality": "española (Cataluña)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de naturaleza premiado en anfibios y reptiles (concurso OASIS); no consta foto de esta especie (sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Tritón verde jaspeado con cresta y vientre naranja: color vivo y aspecto 'dragón en miniatura'.",
+  "sources": [
+   "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/inventarios-nacionales/anfibios_9_tcm30-98884.pdf",
+   "https://www.miteco.gob.es/es/parques-nacionales-oapn/red-parques-nacionales/seguimiento/seguimiento-ecologico/red-seguimiento/pima-adapta/pima-daimiel-anfibios.html",
+   "https://uicnmed.org/web2007/cd_rep_amp/materials/amph_summery/triturus_pygmaeus.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Lagarto gigante de El Hierro",
+  "scientific_name": "Gallotia simonyi",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": [
+   "España"
+  ],
+  "region": "El Hierro (Canarias): risco de Tibataje (Fuga de Gorreta) y zonas de reintroducción (Roque Chico de Salmor, etc.)",
+  "iucn_status": "Global: En peligro crítico (CR) (sin verificar año); España: En peligro de extinción",
+  "population_estimate": "Población silvestre: no lo tengo (cifras recientes no encontradas); 98 crías nacidas en cautividad en 2024 (Cabildo de El Hierro)",
+  "trend": "Estabilizada gracias al plan de recuperación (sin verificar)",
+  "taxonomy_note": "Subespecie viva G. simonyi machadoi; la forma nominal del Roque Chico de Salmor se extinguió.",
+  "foundations": [
+   {
+    "name": "Cabildo de El Hierro – Centro de Recuperación del Lagarto Gigante",
+    "hq_country": "España",
+    "hq_city": "La Frontera (El Hierro)",
+    "website": "https://elhierro.es",
+    "project_page_url": "https://elhierro.es/es/98-crias-de-lagarto-gigante-de-el-hierro-en-2024",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Cría en cautividad desde 1995 y reintroducción (desde 1999), con fondos del Cabildo, Gobierno de Canarias y LIFE; nuevo centro en finca Los Palmeros.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Gobierno de Canarias – Plan de Recuperación del Lagarto Gigante de El Hierro",
+    "hq_country": "España",
+    "hq_city": "Santa Cruz de Tenerife / Las Palmas",
+    "website": "https://www.gobiernodecanarias.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Aprueba y financia el plan de recuperación para consolidar la población natural.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Albert Masó i Pijoan",
+    "nationality": "española (Cataluña)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de naturaleza premiado en anfibios y reptiles (concurso OASIS); no consta foto de esta especie (sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Lagarto robusto y prehistórico, casi un 'mini dinosaurio': icono canario muy potente en camiseta.",
+  "sources": [
+   "https://elhierro.es/es/98-crias-de-lagarto-gigante-de-el-hierro-en-2024",
+   "https://rtvc.es/nacen-98-crias-de-lagarto-gigante-de-el-hierro-en-2024/",
+   "https://www.consumer.es/medio-ambiente/la-poblacion-de-lagarto-gigante-de-el-hierro-se-estabiliza-gracias-a-la-labor-de-biologos-autoridades-y-ciudadanos.html",
+   "https://webgate.ec.europa.eu/life/publicWebsite/project/LIFE97-NAT-E-004190/reintroduction-of-el-hierro-giant-lizzard-in-its-former-natural-habitat",
+   "https://elhierro.travel/en/what-to-do/centro-de-recuperacion-del-lagarto-gigante-de-el-hierro/"
+  ]
+ },
+ {
+  "common_name_es": "Pinzón azul de Gran Canaria",
+  "scientific_name": "Fringilla polatzeki",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": [
+   "España"
+  ],
+  "region": "Gran Canaria: pinares de Inagua, Ojeda y Pajonales y Cumbre Central",
+  "iucn_status": "Global: En peligro (EN) (sin verificar año); España: En peligro de extinción",
+  "population_estimate": "~430 individuos (censo 2019: 362 en Inagua y 68 en la Cumbre)",
+  "trend": "Creciente tras LIFE+Pinzón (de ~300 a ~430), pero muy vulnerable a incendios (2007 redujo la población a la mitad)",
+  "taxonomy_note": "Antes subespecie de Fringilla teydea; hoy tratado como especie propia.",
+  "foundations": [
+   {
+    "name": "Gobierno de Canarias / Cabildo de Gran Canaria – proyecto LIFE+Pinzón (LIFE14 NAT/ES/000077)",
+    "hq_country": "España",
+    "hq_city": "Gran Canaria",
+    "website": "no lo tengo",
+    "project_page_url": "https://sidalc.net/search/Record/dig-ipna-es-10261-216374",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Cría en cautividad, liberación de 107 aves en la Cumbre y plantación de corredores de pinar.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "SEO/BirdLife (Sociedad Española de Ornitología)",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://seo.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "gestion@seo.org",
+    "phone": "+34 91 434 09 10",
+    "director_or_president": "Asunción Ruiz Guijosa (directora ejecutiva; BOE 2024)",
+    "what_they_do": "Divulgación y seguimiento de aves amenazadas de Canarias (sin verificar participación directa).",
+    "accepts_corporate_partners": "Sí, tiene programas de empresas (sin verificar)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Lars Petersson",
+    "nationality": "no lo tengo",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://oiseaux.net/photos/lars.petersson/gran.canaria.blue.chaffinch.4.html",
+    "note": "Tiene foto publicada del pinzón azul de Gran Canaria en oiseaux.net; nacionalidad no confirmada (no español probablemente).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Pájaro azul pizarra del pinar canario: color único y una historia de 'el pájaro más raro de Europa'.",
+  "sources": [
+   "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/inventarios-nacionales/pinzon_azul_tcm30-100026.pdf",
+   "https://sidalc.net/search/Record/dig-ipna-es-10261-216374",
+   "https://www.ecoticias.com/naturaleza/pinzon-azul-de-gran-canaria",
+   "https://www.biodiversidadcanarias.es/biota/documento/P02290?lang=en"
+  ]
+ },
+ {
+  "common_name_es": "Hubara canaria",
+  "scientific_name": "Chlamydotis undulata fuertaventurae",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": [
+   "España"
+  ],
+  "region": "Lanzarote, Fuerteventura y La Graciosa (Canarias)",
+  "iucn_status": "Global (especie C. undulata): Vulnerable (VU) (sin verificar año); España: En peligro de extinción (sin verificar)",
+  "population_estimate": "~1.100 aves (2003-2007, LIFE SEO/BirdLife: >700 Lanzarote, ~400 Fuerteventura, <20 La Graciosa); 527 en 1994",
+  "trend": "Declive local en 2011 en suelos arenosos (Schuster e Iglesias-Lebrija 2012)",
+  "taxonomy_note": "Subespecie endémica canaria de la avutarda hubara.",
+  "foundations": [
+   {
+    "name": "SEO/BirdLife (Sociedad Española de Ornitología)",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://seo.org",
+    "project_page_url": "https://webgate.ec.europa.eu/life/publicWebsite/project/LIFE03-NAT-E-000046/conservation-of-houbara-bustard-chlamydotis-undulata-fuertaventurae-in-the-spas-of-the-canary-islands",
+    "contact_email": "gestion@seo.org",
+    "phone": "+34 91 434 09 10",
+    "director_or_president": "Asunción Ruiz Guijosa (directora ejecutiva; BOE 2024)",
+    "what_they_do": "Coordinó el LIFE03 de conservación de la hubara en ZEPA canarias y censos 2004-2006.",
+    "accepts_corporate_partners": "Sí, tiene programas de empresas (sin verificar)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Francisco Mingorance",
+    "nationality": "española",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Descrito como el fotógrafo español más premiado en concursos internacionales; no consta foto de esta especie (sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Ave esteparia con collar de plumas negras y danza nupcial espectacular: silueta muy elegante sobre fondo volcánico.",
+  "sources": [
+   "https://webgate.ec.europa.eu/life/publicWebsite/project/LIFE03-NAT-E-000046/conservation-of-houbara-bustard-chlamydotis-undulata-fuertaventurae-in-the-spas-of-the-canary-islands",
+   "https://abc.museucienciesjournals.cat/abc/issue/35-1-2012-abc/tendencias-poblacionales-recientes-de-la-avutarda-hubara-en-las-islas-canarias-analisis-metodologico-y-estado-de-conservacion.pdf",
+   "https://www.miteco.gob.es:443/content/dam/miteco/es/biodiversidad/temas/inventarios-nacionales/16_hubara_2006_tcm30-208216.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Ganga ibérica",
+  "scientific_name": "Pterocles alchata",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": [
+   "España",
+   "Portugal",
+   "Francia"
+  ],
+  "region": "Llanuras cerealistas de Castilla-La Mancha (62 % de la población española), valle del Ebro, Extremadura",
+  "iucn_status": "Global: Preocupación menor (LC) (sin verificar año); España: Vulnerable (sin verificar)",
+  "population_estimate": "Censo 2019 (Mougeot et al. 2021, SEO/BirdLife): cifra total no lo tengo",
+  "trend": "Decreciente; marcado declive en el valle del Ebro",
+  "taxonomy_note": "Subespecie ibérica P. a. alchata.",
+  "foundations": [
+   {
+    "name": "SEO/BirdLife (Sociedad Española de Ornitología)",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://seo.org",
+    "project_page_url": "https://seo.org/boletin/seguimiento/censos/54%20ganga/54%20ganga.pdf",
+    "contact_email": "gestion@seo.org",
+    "phone": "+34 91 434 09 10",
+    "director_or_president": "Asunción Ruiz Guijosa (directora ejecutiva; BOE 2024)",
+    "what_they_do": "Censo nacional de gangas (2019) y proyectos agroesteparios.",
+    "accepts_corporate_partners": "Sí, tiene programas de empresas (sin verificar)"
+   },
+   {
+    "name": "Fundación Global Nature",
+    "hq_country": "España",
+    "hq_city": "Las Rozas de Madrid (C/ Tajo 2)",
+    "website": "https://fundacionglobalnature.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "info@fundacionglobalnature.org",
+    "phone": "+34 91 710 44 55 (sin verificar, base de datos de terceros)",
+    "director_or_president": "Eduardo de Miguel Beascoechea (gerente desde 1995)",
+    "what_they_do": "Proyectos de agricultura compatible con aves esteparias (sin verificar trabajo específico con la ganga).",
+    "accepts_corporate_partners": "Sí, trabaja con empresas en agricultura sostenible y biodiversidad (sin verificar)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Francisco Mingorance",
+    "nationality": "española",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Descrito como el fotógrafo español más premiado en concursos internacionales; no consta foto de esta especie (sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Ganga de plumaje ocre con collares negros y cola en punta: patrón geométrico precioso para estampar.",
+  "sources": [
+   "https://seo.org/boletin/seguimiento/censos/54%20ganga/54%20ganga.pdf",
+   "https://digital.csic.es/bitstream/10261/265110/1/gangiber19.pdf",
+   "https://www.ecoticias.com/naturaleza/candidatas-a-ave-del-ano-2023"
+  ]
+ },
+ {
+  "common_name_es": "Sisón común",
+  "scientific_name": "Tetrax tetrax",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": [
+   "España",
+   "Portugal",
+   "Francia",
+   "Italia",
+   "Rusia",
+   "Kazajistán"
+  ],
+  "region": "Llanuras cerealistas ibéricas (núcleo en Castilla-La Mancha y Extremadura)",
+  "iucn_status": "Global: Casi amenazado (NT) (sin verificar año); España: En peligro (dictamen comité científico MITECO 2020, sin verificar inclusión); Aragón: En peligro desde 2022",
+  "population_estimate": "Censo nacional 2016 (SEO/BirdLife): cifra no lo tengo",
+  "trend": "Fuerte declive: -46 % en Castilla-La Mancha (2005-2016), -80 % en ZEPA agroesteparias de Extremadura (2005-2022)",
+  "taxonomy_note": "Única especie del género Tetrax.",
+  "foundations": [
+   {
+    "name": "SEO/BirdLife (Sociedad Española de Ornitología)",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://seo.org",
+    "project_page_url": "https://www.ecoticias.com/naturaleza/el-sison-de-la-zepa-agroesteparias-de-extremadura-desaparece",
+    "contact_email": "gestion@seo.org",
+    "phone": "+34 91 434 09 10",
+    "director_or_president": "Asunción Ruiz Guijosa (directora ejecutiva; BOE 2024)",
+    "what_they_do": "Ave del Año 2017; coordina el proyecto Agroestepas Ibéricas y los censos nacionales (nuevo censo anunciado en 2026).",
+    "accepts_corporate_partners": "Sí, tiene programas de empresas (sin verificar)"
+   },
+   {
+    "name": "Fundación Global Nature",
+    "hq_country": "España",
+    "hq_city": "Las Rozas de Madrid (C/ Tajo 2)",
+    "website": "https://fundacionglobalnature.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "info@fundacionglobalnature.org",
+    "phone": "+34 91 710 44 55 (sin verificar, base de datos de terceros)",
+    "director_or_president": "Eduardo de Miguel Beascoechea (gerente desde 1995)",
+    "what_they_do": "Proyectos de agricultura sostenible y biodiversidad en llanuras cerealistas (sin verificar).",
+    "accepts_corporate_partners": "Sí, trabaja con empresas en agricultura sostenible y biodiversidad (sin verificar)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Francisco Mingorance",
+    "nationality": "española",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Descrito como el fotógrafo español más premiado en concursos internacionales; no consta foto de esta especie (sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   },
+   {
+    "name": "Mario Cea Sánchez",
+    "nationality": "española (Salamanca)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de aves de referencia; premio del público WPY 2016 ('The Blue Trail'). No consta foto de esta especie: preguntar (sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Macho con collar blanco y negro inflado en el cortejo: gesto cómico y gráfico perfecto.",
+  "sources": [
+   "https://www.ecoticias.com/naturaleza/el-sison-de-la-zepa-agroesteparias-de-extremadura-desaparece",
+   "https://www.agronewscastillayleon.com/el-futuro-del-sison-comun-pasa-por-afrontar-el-modelo-agrario-en-espana",
+   "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/conservacion-de-especies/comite-cientifico/Dictamen%20CC%2054_2020%20Tetrax%20tetrax_WEB.pdf",
+   "https://www.ecoticias.com/naturaleza/seo-birdlife-inicia-censos-nacionales-aves-declive-espana"
+  ]
+ },
+ {
+  "common_name_es": "Cabra montés",
+  "scientific_name": "Capra pyrenaica",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": [
+   "España",
+   "Portugal"
+  ],
+  "region": "Sierra Nevada, Gredos, Maestrazgo, Guadarrama y otras sierras ibéricas",
+  "iucn_status": "Global: Preocupación menor (LC) (sin verificar año)",
+  "population_estimate": "~50.000-60.000 ejemplares (estimaciones divulgativas y Galemys 2023)",
+  "trend": "Estable o creciente en la mayoría de núcleos",
+  "taxonomy_note": "Endemismo ibérico; subespecies bucardo (C. p. pyrenaica, extinto en 2000) y portuguesa (extinta); vivas victoriae e hispanica.",
+  "foundations": [
+   {
+    "name": "Fundación Artemisan",
+    "hq_country": "España",
+    "hq_city": "Ciudad Real (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Anunció en 2021 un estudio científico sobre la cabra montés en España (sin verificar resultados).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Mario Cea Sánchez",
+    "nationality": "española (Salamanca)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de aves de referencia; premio del público WPY 2016 ('The Blue Trail'). No consta foto de esta especie: preguntar (sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Macho con cuernos en lira sobre roca: silueta épica y muy reconocible de la montaña española.",
+  "sources": [
+   "https://www.uv.es/zoobot/huellas/pdf/capra_pyrenaica.pdf",
+   "https://secem.es/sites/default/files/2023-04/79.%20Capra%20pyrenaica.pdf",
+   "https://www.eldiario.es/aragon/sociedad/inevitable-extincion-bucardo-pirenaico-caza-endogamia-cabra_1_7380437.html",
+   "https://www.que.es/2021/08/11/artemisan-estudio-cabra-montes-espana/"
+  ]
+ },
+ {
+  "common_name_es": "Malvasía cabeciblanca",
+  "scientific_name": "Oxyura leucocephala",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": [
+   "España",
+   "Turquía",
+   "Kazajistán",
+   "Rusia",
+   "Argelia",
+   "Túnez"
+  ],
+  "region": "Humedales de Andalucía (Córdoba, Sevilla, Cádiz), La Mancha, Comunidad Valenciana",
+  "iucn_status": "Global: En peligro (EN) (sin verificar año); España: En peligro de extinción",
+  "population_estimate": "España: 2.175 ejemplares a finales de 2013 (máximo de 4.486 en 2000; informe Torres Esquivias)",
+  "trend": "Fluctuante; recuperada desde ~22 aves en 1977 en España (sin verificar), amenazada por hibridación con malvasía canela",
+  "taxonomy_note": "no lo tengo",
+  "foundations": [
+   {
+    "name": "Fundación Biodiversidad (MITECO)",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://fundacion-biodiversidad.es",
+    "project_page_url": "https://www.miteco.gob.es/es/biodiversidad/publicaciones/pbl-fauna-flora-estrategias-cerceta-focha-malvasia.html",
+    "contact_email": "no lo tengo",
+    "phone": "+34 91 121 09 20",
+    "director_or_president": "Félix Romero Cañizares (director desde mayo 2025)",
+    "what_they_do": "Apoya la Estrategia nacional de patos amenazados (cerceta, focha, malvasía, porrón pardo; actualizada 2024).",
+    "accepts_corporate_partners": "Sí, colabora con empresas vía programas de patrocinio y LIFE (sin verificar)"
+   },
+   {
+    "name": "SEO/BirdLife (Sociedad Española de Ornitología)",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://seo.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "gestion@seo.org",
+    "phone": "+34 91 434 09 10",
+    "director_or_president": "Asunción Ruiz Guijosa (directora ejecutiva; BOE 2024)",
+    "what_they_do": "Censos de aves acuáticas amenazadas (monografía 2007).",
+    "accepts_corporate_partners": "Sí, tiene programas de empresas (sin verificar)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Mario Cea Sánchez",
+    "nationality": "española (Salamanca)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de aves de referencia; premio del público WPY 2016 ('The Blue Trail'). No consta foto de esta especie: preguntar (sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Pato con pico azul celeste y cabeza blanca: cara simpática y muy original.",
+  "sources": [
+   "https://www.miteco.gob.es/es/biodiversidad/publicaciones/pbl-fauna-flora-estrategias-cerceta-focha-malvasia.html",
+   "https://miteco.gob.es/content/dam/miteco/es/biodiversidad/publicaciones/estrategias/Estrategia-patos-amenazados-2024.pdf",
+   "https://www.ecoticias.com/naturaleza/89308_noticia-medio-ambiente-poblacion-espanola-malvasia-cabeciblanca-crece"
+  ]
+ },
+ {
+  "common_name_es": "Focha moruna",
+  "scientific_name": "Fulica cristata",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": [
+   "España",
+   "Marruecos",
+   "África subsahariana"
+  ],
+  "region": "Marismas del Guadalquivir, humedales andaluces; reintroducciones en Castilla-La Mancha (Tablas de Daimiel), Valencia, Cataluña",
+  "iucn_status": "Global: Preocupación menor (LC) (sin verificar año); España: En peligro crítico/En peligro (sin verificar)",
+  "population_estimate": "Pocas decenas de parejas en España (cifra concreta no lo tengo)",
+  "trend": "Muy escasa y fluctuante; la más rara de las especies de la estrategia",
+  "taxonomy_note": "no lo tengo",
+  "foundations": [
+   {
+    "name": "Fundación Biodiversidad (MITECO)",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://fundacion-biodiversidad.es",
+    "project_page_url": "https://www.miteco.gob.es/es/biodiversidad/publicaciones/pbl-fauna-flora-estrategias-cerceta-focha-malvasia.html",
+    "contact_email": "no lo tengo",
+    "phone": "+34 91 121 09 20",
+    "director_or_president": "Félix Romero Cañizares (director desde mayo 2025)",
+    "what_they_do": "Estrategia nacional de conservación con la focha moruna incluida.",
+    "accepts_corporate_partners": "Sí, colabora con empresas vía programas de patrocinio y LIFE (sin verificar)"
+   },
+   {
+    "name": "SEO/BirdLife (Sociedad Española de Ornitología)",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://seo.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "gestion@seo.org",
+    "phone": "+34 91 434 09 10",
+    "director_or_president": "Asunción Ruiz Guijosa (directora ejecutiva; BOE 2024)",
+    "what_they_do": "Censos de aves acuáticas amenazadas.",
+    "accepts_corporate_partners": "Sí, tiene programas de empresas (sin verificar)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Mario Cea Sánchez",
+    "nationality": "española (Salamanca)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de aves de referencia; premio del público WPY 2016 ('The Blue Trail'). No consta foto de esta especie: preguntar (sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Ave negra con dos bolitas rojas sobre el escudo frontal blanco: detalle curioso y minimalista.",
+  "sources": [
+   "https://miteco.gob.es/content/dam/miteco/es/biodiversidad/publicaciones/estrategias/Estrategia-patos-amenazados-2024.pdf",
+   "https://www.ecoticias.com/naturaleza/cria-focha-moruna-tablas-daimiel"
+  ]
+ },
+ {
+  "common_name_es": "Cerceta pardilla",
+  "scientific_name": "Marmaronetta angustirostris",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": [
+   "España",
+   "Marruecos",
+   "Turquía",
+   "Irak",
+   "Irán"
+  ],
+  "region": "Marismas del Guadalquivir (Doñana), Comunidad Valenciana, Murcia, Castilla-La Mancha",
+  "iucn_status": "Global: Vulnerable (VU) o Casi amenazado (NT) (sin verificar categoría vigente); España: En peligro crítico (sin verificar)",
+  "population_estimate": "Récord de 130 parejas reproductoras en España en 2024 (Fundación Biodiversidad, abr. 2025); 480 pollos en 2023 frente a 740 en 2022",
+  "trend": "Muy fluctuante según sequía (-35 % de reproducción en 2023)",
+  "taxonomy_note": "Único miembro del género Marmaronetta.",
+  "foundations": [
+   {
+    "name": "Fundación Biodiversidad (MITECO)",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://fundacion-biodiversidad.es",
+    "project_page_url": "https://pre.fundacion-biodiversidad.es/wp-content/uploads/2025/04/25.04.03_La-reproduccion-de-la-cerceta-pardilla-en-Espana-bate-record-con-130-parejas-reproductoras-.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "+34 91 121 09 20",
+    "director_or_president": "Félix Romero Cañizares (director desde mayo 2025)",
+    "what_they_do": "Coordina con MITECO el seguimiento y la cría en cautividad de la cerceta pardilla.",
+    "accepts_corporate_partners": "Sí, colabora con empresas vía programas de patrocinio y LIFE (sin verificar)"
+   },
+   {
+    "name": "SEO/BirdLife (Sociedad Española de Ornitología)",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://seo.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "gestion@seo.org",
+    "phone": "+34 91 434 09 10",
+    "director_or_president": "Asunción Ruiz Guijosa (directora ejecutiva; BOE 2024)",
+    "what_they_do": "Censos de aves acuáticas amenazadas.",
+    "accepts_corporate_partners": "Sí, tiene programas de empresas (sin verificar)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Mario Cea Sánchez",
+    "nationality": "española (Salamanca)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de aves de referencia; premio del público WPY 2016 ('The Blue Trail'). No consta foto de esta especie: preguntar (sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Pato pardo moteado con 'antifaz' oscuro: estética sutil, vintage, muy de marisma.",
+  "sources": [
+   "https://www.miteco.gob.es/es/prensa/ultimas-noticias/2024/enero/la-reproduccion-de-la-cerceta-pardilla-cae-un-35--en-2023-debido.html",
+   "https://fundacion-biodiversidad.es/wp-content/uploads/2024/01/24.01.25-La-reproduccion-de-la-cerceta-pardilla-cae-un-35-en-2023-debido-a-la-sequia.pdf",
+   "https://pre.fundacion-biodiversidad.es/wp-content/uploads/2025/04/25.04.03_La-reproduccion-de-la-cerceta-pardilla-en-Espana-bate-record-con-130-parejas-reproductoras-.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Milano real",
+  "scientific_name": "Milvus milvus",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": [
+   "España",
+   "Alemania",
+   "Francia",
+   "Suiza",
+   "Reino Unido",
+   "Suecia"
+  ],
+  "region": "Castilla y León (54 % de la invernada), Navarra, Aragón, Extremadura; recuperación en Andalucía",
+  "iucn_status": "Global: Preocupación menor (LC) (sin verificar año); España: En peligro de extinción",
+  "population_estimate": "≥3.199 parejas reproductoras (censo nacional SEO/BirdLife 2024-25, estimación preliminar); 63.699 invernantes en 2024 (otra fuente da 73.353)",
+  "trend": "Recuperación de la población reproductora respecto a 2014 (~2.000 parejas en 2004)",
+  "taxonomy_note": "no lo tengo",
+  "foundations": [
+   {
+    "name": "SEO/BirdLife (Sociedad Española de Ornitología)",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://seo.org",
+    "project_page_url": "https://www.ecoticias.com/naturaleza/milano-real-en-espana-censo-invernal-record-europa",
+    "contact_email": "gestion@seo.org",
+    "phone": "+34 91 434 09 10",
+    "director_or_president": "Asunción Ruiz Guijosa (directora ejecutiva; BOE 2024)",
+    "what_they_do": "Censo nacional decenal, marcaje GPS y lucha contra venenos y tendidos.",
+    "accepts_corporate_partners": "Sí, tiene programas de empresas (sin verificar)"
+   },
+   {
+    "name": "AMUS (Acción por el Mundo Salvaje) – socio LIFE EUROKITE",
+    "hq_country": "España",
+    "hq_city": "Extremadura (sin verificar)",
+    "website": "https://amus.org.es",
+    "project_page_url": "https://amus.org.es/wp-content/uploads/2025/12/LIFE_EUROKITE_Newsletter_October_December_ES.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Recuperación de fauna y seguimiento de milanos en el proyecto europeo LIFE EUROKITE.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Mario Cea Sánchez",
+    "nationality": "española (Salamanca)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de aves de referencia; premio del público WPY 2016 ('The Blue Trail'). No consta foto de esta especie: preguntar (sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Rapaz rojiza con cola ahorquillada a contraluz: silueta inconfundible y cálida.",
+  "sources": [
+   "https://amus.org.es/wp-content/uploads/2025/12/LIFE_EUROKITE_Newsletter_October_December_ES.pdf",
+   "https://www.ecoticias.com/naturaleza/milano-real-en-espana-censo-invernal-record-europa",
+   "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/publicaciones/especies/milano_real_tcm30-100076.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Águila pescadora",
+  "scientific_name": "Pandion haliaetus",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": [
+   "España",
+   "cosmopolita"
+  ],
+  "region": "Cádiz y Huelva (reintroducción), Baleares, Canarias; Urdaibai (Bizkaia)",
+  "iucn_status": "Global: Preocupación menor (LC) (sin verificar año); España: Vulnerable (sin verificar)",
+  "population_estimate": "Andalucía: 18 parejas reproductoras y 26 pollos en 2022; ~23 parejas en Cádiz y Huelva (abril 2026)",
+  "trend": "Creciente en Andalucía tras la reintroducción iniciada en 2003",
+  "taxonomy_note": "no lo tengo",
+  "foundations": [
+   {
+    "name": "Fundación Migres",
+    "hq_country": "España",
+    "hq_city": "Algeciras/Tarifa (Cádiz) (sin verificar)",
+    "website": "https://www.fundacionmigres.org (sin verificar)",
+    "project_page_url": "https://www.endesa.com/es/la-cara-e/biodiversidad/carlos-torralvo-fundacion-migres-aguila-pescadora",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Reintroducción del águila pescadora en Andalucía desde 2003 con CSIC y Junta; ~30 nidos en postes con Endesa.",
+    "accepts_corporate_partners": "Sí: colaboración con Endesa documentada"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Mario Cea Sánchez",
+    "nationality": "española (Salamanca)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de aves de referencia; premio del público WPY 2016 ('The Blue Trail'). No consta foto de esta especie: preguntar (sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Rapaz sacando un pez del agua: imagen dinámica y llena de energía.",
+  "sources": [
+   "https://www.elespanol.com/ciencia/20260407/marismas-huelva-costa-cadiz-aguila-pescadora-encuentra-nuevo-hogar-reconquista-rios/1003744193828_0.html",
+   "https://www.ecoticias.com/naturaleza/67329_parejas-reproductoras-aguila-pescadora-suponen-exito-reintroduccion-andalucia",
+   "https://www.ecoticias.com/naturaleza/76425_euskadi-proyecto-recuperar-aguila-pescadora-urdaibai",
+   "https://www.endesa.com/es/la-cara-e/biodiversidad/carlos-torralvo-fundacion-migres-aguila-pescadora"
+  ]
+ },
+ {
+  "common_name_es": "Galápago europeo",
+  "scientific_name": "Emys orbicularis",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": [
+   "España",
+   "Portugal",
+   "Francia",
+   "Italia",
+   "Europa central y oriental"
+  ],
+  "region": "Disperso por la península; núcleos en Madrid (Cuenca Alta del Manzanares), Aragón (Galacho de Juslibol)",
+  "iucn_status": "Global: Casi amenazado (NT) (sin verificar año); Comunidad de Madrid: En peligro de extinción",
+  "population_estimate": "no lo tengo",
+  "trend": "Decreciente (degradación de humedales y competencia con galápago de Florida)",
+  "taxonomy_note": "no lo tengo",
+  "foundations": [
+   {
+    "name": "GREFA (Grupo de Rehabilitación de la Fauna Autóctona y su Hábitat)",
+    "hq_country": "España",
+    "hq_city": "Majadahonda (Monte del Pilar, Madrid)",
+    "website": "https://www.grefa.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "+34 916 38 75 50 (sin verificar, directorio de terceros)",
+    "director_or_president": "Fernando Garcés (secretario general según nota de 2021, sin verificar)",
+    "what_they_do": "Cría en cautividad en Majadahonda y suelta de galápagos (40 ejemplares en la Cuenca Alta del Manzanares), con asesoría de la AHE.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Asociación Herpetológica Española (AHE)",
+    "hq_country": "España",
+    "hq_city": "Madrid (C/ José Gutiérrez Abascal 2, sin verificar)",
+    "website": "https://www.herpetologica.es",
+    "project_page_url": "no lo tengo (programa SARE de seguimiento de anfibios y reptiles)",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Eva Graciá (presidenta según boletín SEH 2022, sin verificar si sigue)",
+    "what_they_do": "Asesoría técnica en reintroducciones y seguimiento SARE.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Jaime Culebras",
+    "nationality": "española",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Biólogo y fotógrafo de anfibios y reptiles; ganador categoría anfibios/reptiles WPY 2020. Trabaja sobre todo en Ecuador; no consta foto de esta especie (sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   },
+   {
+    "name": "Albert Masó i Pijoan",
+    "nationality": "española (Cataluña)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de naturaleza premiado en anfibios y reptiles (concurso OASIS); no consta foto de esta especie (sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Tortuga oscura punteada de amarillo: patrón de estrellas muy bonito en primer plano.",
+  "sources": [
+   "https://www.ecoticias.com/naturaleza/105395_grefa-libera-cuarenta-galapagos-europeos-regional-cuenca-alta-manzanares",
+   "https://www.zaragoza.es/sede/servicio/noticia/223754",
+   "https://zaguan.unizar.es/record/76829/files/TAZ-TFG-2018-2938.pdf?version=1"
+  ]
+ },
+ {
+  "common_name_es": "Pardela balear",
+  "scientific_name": "Puffinus mauretanicus",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": [
+   "España"
+  ],
+  "region": "Cría solo en Baleares (Sa Dragonera ~10 % de la población mundial); invernada en el Atlántico",
+  "iucn_status": "Global: En peligro crítico (CR) (sin verificar año); España: En peligro de extinción",
+  "population_estimate": "~3.000 parejas reproductoras (sin verificar fecha)",
+  "trend": "Declive estimado del 14 % anual por análisis demográficos; crecimiento local del 29 % en Sa Dragonera (IMEDEA 2024)",
+  "taxonomy_note": "Antes considerada subespecie de P. puffinus/P. yelkouan.",
+  "foundations": [
+   {
+    "name": "SEO/BirdLife (Sociedad Española de Ornitología)",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://seo.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "gestion@seo.org",
+    "phone": "+34 91 434 09 10",
+    "director_or_president": "Asunción Ruiz Guijosa (directora ejecutiva; BOE 2024)",
+    "what_they_do": "Identifica la captura accidental en pesca como principal amenaza; marcaje y conservación marina.",
+    "accepts_corporate_partners": "Sí, tiene programas de empresas (sin verificar)"
+   },
+   {
+    "name": "Fundación Biodiversidad (MITECO)",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://fundacion-biodiversidad.es",
+    "project_page_url": "https://www.ecoticias.com/naturaleza/209586_fundacion-biodiversidad-proteccion-pardela-balear",
+    "contact_email": "no lo tengo",
+    "phone": "+34 91 121 09 20",
+    "director_or_president": "Félix Romero Cañizares (director desde mayo 2025)",
+    "what_they_do": "Proyectos de protección y marcaje de la pardela balear.",
+    "accepts_corporate_partners": "Sí, colabora con empresas vía programas de patrocinio y LIFE (sin verificar)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Mario Cea Sánchez",
+    "nationality": "española (Salamanca)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de aves de referencia; premio del público WPY 2016 ('The Blue Trail'). No consta foto de esta especie: preguntar (sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Ave marina planeando a ras de ola: el ave marina más amenazada de Europa, historia mediterránea potente.",
+  "sources": [
+   "https://www.mallorcadiario.com/la-pardela-balear-es-el-ave-marina-mas-amenazada-de-europa",
+   "https://www.ecoticias.com/naturaleza/209507_arranca-campana-marcaje-pardela-balear",
+   "https://www.mallorcadiario.com/las-parejas-de-pardela-en-sa-dragonera-se-multiplican-por-cuatro-desde-2013",
+   "https://www.ecoticias.com/naturaleza/209586_fundacion-biodiversidad-proteccion-pardela-balear"
+  ]
+ },
+ {
+  "common_name_es": "Lirón careto",
+  "scientific_name": "Eliomys quercinus",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": [
+   "España",
+   "Portugal",
+   "Francia",
+   "Italia",
+   "Alemania"
+  ],
+  "region": "Toda la península y Baleares",
+  "iucn_status": "Global: Casi amenazado (NT) (sin verificar año); España: Preocupación menor (LC), Lista Roja de España 2025",
+  "population_estimate": "no lo tengo",
+  "trend": "Fuerte contracción en Europa central y oriental; estable en España (sin verificar)",
+  "taxonomy_note": "no lo tengo",
+  "foundations": [
+   {
+    "name": "SECEM (Sociedad Española para la Conservación y Estudio de los Mamíferos)",
+    "hq_country": "España",
+    "hq_city": "no lo tengo",
+    "website": "https://www.secem.es",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Sociedad científica de mamíferos; publica fichas y evaluaciones de la especie.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Mario Cea Sánchez",
+    "nationality": "española (Salamanca)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de aves de referencia; premio del público WPY 2016 ('The Blue Trail'). No consta foto de esta especie: preguntar (sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Roedor con antifaz negro tipo 'bandido': carita adorable, ideal para camiseta.",
+  "sources": [
+   "https://www.secem.es/sites/default/files/2023-04/86.Eliomys_quercinus_web.pdf",
+   "https://iris.unito.it/bitstream/2318/1631371/1/Bertolino%20-%20Eliomys%20quercinus%20status_4aperto.pdf",
+   "https://link.springer.com/article/10.1007/s10344-026-02063-1"
+  ]
+ },
+ {
+  "common_name_es": "Conejo de monte",
+  "scientific_name": "Oryctolagus cuniculus",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": [
+   "España",
+   "Portugal",
+   "Francia"
+  ],
+  "region": "Península ibérica (área nativa); clave para lince ibérico y águila imperial",
+  "iucn_status": "Global: En peligro (EN), 2019 (sin verificar año exacto; fuentes citan 2018/2019)",
+  "population_estimate": "no lo tengo",
+  "trend": "Decreciente en su área nativa (~70 % según WWF; -90 % en 70 años) por mixomatosis y enfermedad hemorrágica",
+  "taxonomy_note": "Especie nativa ibérica; base de la cadena trófica mediterránea.",
+  "foundations": [
+   {
+    "name": "Fundación CBD-Hábitat",
+    "hq_country": "España",
+    "hq_city": "Madrid (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Conservación del lince ibérico con actuaciones que han recuperado el conejo donde había desaparecido.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "WWF España",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://www.wwf.es (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Pide recuperar el conejo de monte como prioridad para consolidar al lince.",
+    "accepts_corporate_partners": "Sí, programas de empresas (sin verificar)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Mario Cea Sánchez",
+    "nationality": "española (Salamanca)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de aves de referencia; premio del público WPY 2016 ('The Blue Trail'). No consta foto de esta especie: preguntar (sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "El conejo como 'héroe que sostiene al lince': mensaje claro y simpático.",
+  "sources": [
+   "https://www.elindependiente.com/futuro/medio-ambiente/2019/12/11/espana-de-ser-tierra-de-conejos-a-ser-considerada-especie-en-extincion/",
+   "https://iucn.org/es/node/41648",
+   "https://www.publico.es/sociedad/conejo-peligro-extincion.html"
+  ]
+ },
+ {
+  "common_name_es": "Topillo de Cabrera",
+  "scientific_name": "Iberomys cabrerae",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": [
+   "España",
+   "Portugal"
+  ],
+  "region": "Poblaciones fragmentadas en el centro, este y sur peninsular (Madrid, Murcia, Andalucía, etc.)",
+  "iucn_status": "Global: Casi amenazado (NT), 2008 (posible reevaluación 2019 sin verificar); España: propuesto Vulnerable (dictamen MITECO)",
+  "population_estimate": "no lo tengo",
+  "trend": "Fragmentada con extinciones locales (sin verificar tendencia global)",
+  "taxonomy_note": "Antes Microtus cabrerae; endemismo ibérico.",
+  "foundations": [
+   {
+    "name": "SECEM (Sociedad Española para la Conservación y Estudio de los Mamíferos)",
+    "hq_country": "España",
+    "hq_city": "no lo tengo",
+    "website": "https://www.secem.es",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Estudio y conservación de mamíferos ibéricos.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Mario Cea Sánchez",
+    "nationality": "española (Salamanca)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de aves de referencia; premio del público WPY 2016 ('The Blue Trail'). No consta foto de esta especie: preguntar (sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Topillo regordete entre juncales: especie desconocida que sorprende y genera conversación.",
+  "sources": [
+   "https://www.miteco.gob.es:443/content/dam/miteco/es/biodiversidad/temas/conservacion-de-especies/dictamen_iberomys_cabrerae_tcm30-201177.pdf",
+   "https://conocimientoabierto.carm.es/jspui/bitstream/20.500.11914/3806/1/Distribuci%c3%b3n_topillo_Cabrera_2019.pdf",
+   "https://dspace.uevora.pt/rdpc/bitstream/10174/28367/1/10.2305_IUCN.UK.2019-1.RLTS.T13418A90931498.en.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Alondra ricotí",
+  "scientific_name": "Chersophilus duponti",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": [
+   "España",
+   "Marruecos",
+   "Argelia",
+   "Túnez",
+   "Libia"
+  ],
+  "region": "Páramos de Guadalajara, Soria, Teruel, Burgos; Andalucía casi extinta (10 machos en 2019)",
+  "iucn_status": "Global: Vulnerable (VU) (sin verificar año); España: En peligro de extinción (sin verificar)",
+  "population_estimate": "3.116 machos territoriales (último censo nacional); 544 en Castilla-La Mancha",
+  "trend": "Decreciente (-4,6 % respecto al II censo nacional; otra fuente cifra -30,8 %)",
+  "taxonomy_note": "no lo tengo",
+  "foundations": [
+   {
+    "name": "Universidad Autónoma de Madrid – LIFE Connect Ricotí / LIFE Iber-RICOTÍ",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "no lo tengo",
+    "project_page_url": "https://www.uam.es/uam/noticias/uam-comienza-nuevo-proyecto-life-para-conservacion-alondra-ricoti-",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Conectividad de poblaciones; de 4 machos (2022-23) a 35 machos reproductores (primavera 2026) en zonas de actuación; LIFE Iber-RICOTÍ hasta 2032.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "SEO/BirdLife (Sociedad Española de Ornitología)",
+    "hq_country": "España",
+    "hq_city": "Madrid",
+    "website": "https://seo.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "gestion@seo.org",
+    "phone": "+34 91 434 09 10",
+    "director_or_president": "Asunción Ruiz Guijosa (directora ejecutiva; BOE 2024)",
+    "what_they_do": "Seguimiento de aves esteparias amenazadas.",
+    "accepts_corporate_partners": "Sí, tiene programas de empresas (sin verificar)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Francisco Mingorance",
+    "nationality": "española",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Descrito como el fotógrafo español más premiado en concursos internacionales; no consta foto de esta especie (sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Alondra discreta de canto misterioso: 'el fantasma de los páramos', historia muy narrativa.",
+  "sources": [
+   "https://laadministracionaldia.inap.es/noticia.asp?id=1270010",
+   "https://www.ecoticias.com/naturaleza/life-connect-ricoti-alondra-ricoti",
+   "https://www.ecoticias.com/naturaleza/211073_alondra-ricoti-desaparecer-andalucia",
+   "https://www.uam.es/uam/noticias/uam-comienza-nuevo-proyecto-life-para-conservacion-alondra-ricoti-"
+  ]
+ },
+ {
+  "common_name_es": "Fartet",
+  "scientific_name": "Aphanius iberus",
+  "category": "Europa",
+  "continent": "Europa",
+  "countries": [
+   "España"
+  ],
+  "region": "Costa mediterránea: Mar Menor y salinas de Murcia, Alicante, Valencia, Cataluña, Almería",
+  "iucn_status": "Global: En peligro (EN) (sin verificar año); España y Región de Murcia: En peligro de extinción; Anexo II Directiva Hábitats",
+  "population_estimate": "no lo tengo",
+  "trend": "Variable: poblaciones excelentes en salinas y extinciones locales en el Mar Menor",
+  "taxonomy_note": "Antes en Aphanius; algunas revisiones lo sitúan en Apricaphanius (sin verificar).",
+  "foundations": [
+   {
+    "name": "ANSE (Asociación de Naturalistas del Sureste)",
+    "hq_country": "España",
+    "hq_city": "Murcia (sin verificar)",
+    "website": "https://www.asociacionanse.org",
+    "project_page_url": "https://www.asociacionanse.org/wp-content/uploads/2014/08/fartet.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Voluntariado en ríos del Segura; confirmó fartet en la Rambla de las Moreras y rescató ejemplares de Marchamalo.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Región de Murcia – Consejería (LIFE04 NAT/ES/000035 Fartet)",
+    "hq_country": "España",
+    "hq_city": "Murcia",
+    "website": "https://cazaypesca.carm.es",
+    "project_page_url": "https://webgate.ec.europa.eu/life/publicWebsite/project/LIFE04-NAT-ES-000035/conservation-of-aphanius-iberus-genetic-stocks-murcia",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Recuperación de subpoblaciones in situ y ex situ (2005-2008).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Albert Masó i Pijoan",
+    "nationality": "española (Cataluña)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de naturaleza premiado en anfibios y reptiles (concurso OASIS); no consta foto de esta especie (sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Pececillo plateado con bandas azules (machos): joya diminuta del Mediterráneo, original y poco visto.",
+  "sources": [
+   "https://webgate.ec.europa.eu/life/publicWebsite/project/LIFE04-NAT-ES-000035/conservation-of-aphanius-iberus-genetic-stocks-murcia",
+   "https://www.asociacionanse.org/wp-content/uploads/2014/08/fartet.pdf",
+   "https://portalinvestigacion.um.es/documentos/666351e6b2c1d52ac040f8bd"
+  ]
+ }
+]

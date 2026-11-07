@@ -1,0 +1,908 @@
+[
+ {
+  "category": "Oceanía y Antártida",
+  "common_name_es": "Koala",
+  "scientific_name": "Phascolarctos cinereus",
+  "continent": "Oceanía",
+  "countries": [
+   "Australia"
+  ],
+  "region": "Este y sureste de Australia (Queensland, Nueva Gales del Sur, ACT, Victoria, Australia Meridional)",
+  "iucn_status": "Global: Vulnerable (VU), 2016. Australia (EPBC): poblaciones de Queensland, NSW y ACT listadas como Vulnerable en 2012 y elevadas a En Peligro en 2022 (sin verificar)",
+  "population_estimate": "La Australian Koala Foundation estimó en 2019 no más de 80.000 koalas (cifra discutida; estimaciones gubernamentales mayores)",
+  "trend": "En declive",
+  "taxonomy_note": "Única especie viva de la familia Phascolarctidae.",
+  "foundations": [
+   {
+    "name": "Australian Koala Foundation",
+    "hq_country": "Australia",
+    "hq_city": "Brisbane (sin verificar)",
+    "website": "https://www.savethekoala.com",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Deborah Tabart (CEO) (sin verificar)",
+    "what_they_do": "ONG dedicada en exclusiva al koala y su hábitat; mapeo de hábitat y campañas por una Koala Protection Act.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "WWF-Australia",
+    "hq_country": "Australia",
+    "hq_city": "Sídney (sin verificar)",
+    "website": "https://wwf.org.au (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Programas de restauración de hábitat de koala tras los incendios 2019-20 (sin verificar); red WWF con oficina en España (WWF España).",
+    "accepts_corporate_partners": "sí (sin verificar)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Doug Gimesy",
+    "nationality": "australiana",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotoperiodista de conservación australiano (zoólogo de formación); trabajo documentado sobre koalas (atropellos y conservación urbana). Premio Prince Albert II de Monaco 2026 con imagen de koalas; WPY 2022 con wombats.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Icono universal, rostro tierno y reconocible al instante: vende solo.",
+  "sources": [
+   "https://ielc.libguides.com/sdzg/factsheets/koala/population",
+   "https://www.pbs.org/newshour/science/koalas-may-be-functionally-extinct-but-what-does-that-mean",
+   "https://www.vistazo.com/sostenibilidad/australia-declara-a-los-koalas-como-especie-en-peligro-EH1328701",
+   "https://www.capturemag.com.au/news/australian-photographer-recognised-in-2026-environmental-photography-award"
+  ]
+ },
+ {
+  "category": "Oceanía y Antártida",
+  "common_name_es": "Canguro arborícola de Goodfellow",
+  "scientific_name": "Dendrolagus goodfellowi",
+  "continent": "Oceanía",
+  "countries": [
+   "Papúa Nueva Guinea"
+  ],
+  "region": "Bosques montanos de Nueva Guinea",
+  "iucn_status": "Global: En Peligro (EN), año no confirmado (declive ≥50 % en tres generaciones)",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive",
+  "taxonomy_note": "Dos subespecies: D. g. goodfellowi y D. g. buergersi.",
+  "foundations": [
+   {
+    "name": "Tree Kangaroo Conservation Program (Woodland Park Zoo)",
+    "hq_country": "Estados Unidos",
+    "hq_city": "Seattle",
+    "website": "https://www.zoo.org/tkcp (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Programa in situ prioritario del GSMP de WAZA; ha protegido más de 750 km² de hábitat de canguros arborícolas en PNG.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Tenkile Conservation Alliance",
+    "hq_country": "Papúa Nueva Guinea",
+    "hq_city": "Lumi (sin verificar)",
+    "website": "https://tenkile.com",
+    "project_page_url": "https://tenkile.com/goodfellows-tree-kangaroo/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Conservación comunitaria de canguros arborícolas en las montañas Torricelli; programa in situ prioritario según WAZA.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Pelaje rojizo y cola larga y anillada sobre fondo de selva: muy gráfico y poco visto.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Goodfellow%27s_tree-kangaroo",
+   "https://tenkile.com/goodfellows-tree-kangaroo/",
+   "https://www.waza.org/?p=288",
+   "https://www.belfastcity.gov.uk/Zoo/Our-animals/Mammals/Goodfellow-s-tree-kangaroo"
+  ]
+ },
+ {
+  "category": "Oceanía y Antártida",
+  "common_name_es": "Kiwi pardo de la Isla Norte",
+  "scientific_name": "Apteryx mantelli",
+  "continent": "Oceanía",
+  "countries": [
+   "Nueva Zelanda"
+  ],
+  "region": "Isla Norte de Nueva Zelanda",
+  "iucn_status": "Global: Vulnerable (VU) (criterios A2bce, BirdLife), año no confirmado. Nueva Zelanda (NZTCS): No Amenazada – dependiente de conservación",
+  "population_estimate": "Unos 26.000 individuos (DOC); 26.600 en estimación de 2015, con 10.000–19.999 maduros",
+  "trend": "En declive (más lento gracias al control de depredadores)",
+  "taxonomy_note": "Separado de Apteryx australis; especie de kiwi más numerosa.",
+  "foundations": [
+   {
+    "name": "Save the Kiwi (antes Kiwis for kiwi)",
+    "hq_country": "Nueva Zelanda",
+    "hq_city": "no lo tengo",
+    "website": "https://savethekiwi.nz",
+    "project_page_url": "https://savethekiwi.nz/about-us/who-we-are/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Michelle Impey (CEO)",
+    "what_they_do": "Organización benéfica nacional que financia y coordina la recuperación de las cinco especies de kiwi (control de depredadores, Operation Nest Egg).",
+    "accepts_corporate_partners": "sí (Whittaker's es socio de larga duración)"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Silueta redonda y pico largo: forma icónica y nacional, perfecta para estampar.",
+  "sources": [
+   "https://datazone.birdlife.org/species/factsheet/north-island-brown-kiwi-apteryx-mantelli/text",
+   "https://www.doc.govt.nz/nature/native-animals/birds/birds-a-z/kiwi/brown-kiwi/",
+   "https://en.wikipedia.org/wiki/North_Island_brown_kiwi",
+   "https://savethekiwi.nz/about-us/who-we-are/"
+  ]
+ },
+ {
+  "category": "Oceanía y Antártida",
+  "common_name_es": "Kakapo",
+  "scientific_name": "Strigops habroptilus",
+  "continent": "Oceanía",
+  "countries": [
+   "Nueva Zelanda"
+  ],
+  "region": "Islas libres de depredadores (Whenua Hou/Codfish, Anchor, Hauturu)",
+  "iucn_status": "Global: En Peligro Crítico (CR), año no confirmado",
+  "population_estimate": "325 aves (DOC, 1 sept. 2026, tras añadir 90 pollos de 2026); 242 a 30/06/2025",
+  "trend": "En aumento",
+  "taxonomy_note": "Único loro no volador del mundo; familia Strigopidae.",
+  "foundations": [
+   {
+    "name": "Kākāpō Recovery (Department of Conservation)",
+    "hq_country": "Nueva Zelanda",
+    "hq_city": "no lo tengo",
+    "website": "https://www.doc.govt.nz/kakapo (sin verificar)",
+    "project_page_url": "https://www.doc.govt.nz/news/media-releases/2026-media-releases/kakapo-population-reaches-new-milestone/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Programa estatal de recuperación desde 1995 (empezó con 51 aves): manejo intensivo de cría, alimentación suplementaria y genética.",
+    "accepts_corporate_partners": "sí (patrocinio corporativo histórico; detalle sin verificar)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Tui De Roy",
+    "nationality": "neozelandesa (nacida en Bélgica)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafa y autora de naturaleza afincada en Nueva Zelanda desde 1992; libros sobre albatros y pingüinos; tiene imagen de kakapo de Whenua Hou en Nature Picture Library.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Verde musgo y cara de búho entrañable; historia de remontada récord en 2026.",
+  "sources": [
+   "https://www.doc.govt.nz/news/media-releases/2026-media-releases/kakapo-population-reaches-new-milestone/",
+   "https://www.doc.govt.nz/globalassets/system/ar-reporting/reporting-ar-2024-25/kakapo-population-2024-2025.html",
+   "https://prints.aap.com.au/nature-picture-library/tui-roy/kakapo-strigops-habroptilus-close-showing-19310187.html"
+  ]
+ },
+ {
+  "category": "Oceanía y Antártida",
+  "common_name_es": "Ornitorrinco",
+  "scientific_name": "Ornithorhynchus anatinus",
+  "continent": "Oceanía",
+  "countries": [
+   "Australia"
+  ],
+  "region": "Ríos del este de Australia y Tasmania",
+  "iucn_status": "Global: Casi Amenazado (NT), 2016. Listado como amenazado en Victoria y Australia Meridional; no a nivel nacional",
+  "population_estimate": "30.000–50.000 maduros (IUCN; cifra muy incierta)",
+  "trend": "En declive (−32 % NSW, −27 % Qld desde 1990 según registros)",
+  "taxonomy_note": "Monotrema ovíparo; única especie viva de Ornithorhynchidae.",
+  "foundations": [
+   {
+    "name": "Australian Platypus Conservancy",
+    "hq_country": "Australia",
+    "hq_city": "Victoria (ciudad sin verificar)",
+    "website": "https://platypus.asn.au",
+    "project_page_url": "https://platypus.asn.au/conservation-status/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Investigación, rescate y educación sobre el ornitorrinco; campaña contra trampas de cangrejo (yabby traps).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Doug Gimesy",
+    "nationality": "australiana",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotoperiodista de conservación australiano (zoólogo de formación); trabajo documentado sobre la conservación del ornitorrinco en Victoria. Premio Prince Albert II de Monaco 2026 con imagen de koalas; WPY 2022 con wombats.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Animal imposible y simpático; silueta inconfundible bajo el agua.",
+  "sources": [
+   "https://platypus.asn.au/conservation-status/",
+   "https://www.smithsonianmag.com/smart-news/platypuses-lost-22-their-habitat-over-last-30-years-180976404/",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC6479513"
+  ]
+ },
+ {
+  "category": "Oceanía y Antártida",
+  "common_name_es": "Demonio de Tasmania",
+  "scientific_name": "Sarcophilus harrisii",
+  "continent": "Oceanía",
+  "countries": [
+   "Australia"
+  ],
+  "region": "Tasmania (pequeña población reintroducida en Australia continental en 2020)",
+  "iucn_status": "Global: En Peligro (EN), 2008",
+  "population_estimate": "Miles de maduros, sin estimación global (DPIPWE 2019)",
+  "trend": "En declive (−77 % de media en zonas con DFTD)",
+  "taxonomy_note": "Mayor marsupial carnívoro vivo; amenazado por el tumor facial transmisible (DFTD).",
+  "foundations": [
+   {
+    "name": "Save the Tasmanian Devil Program",
+    "hq_country": "Australia",
+    "hq_city": "Hobart (sin verificar)",
+    "website": "https://www.tassiedevil.com.au (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Programa del gobierno de Tasmania (desde 2003) para investigar el DFTD y mantener una población de seguro libre de enfermedad.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Aussie Ark",
+    "hq_country": "Australia",
+    "hq_city": "Barrington Tops, NSW (sin verificar)",
+    "website": "https://www.aussieark.org.au (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Cría y reintroducción del demonio en Australia continental (reintroducción de 2020) (sin verificar).",
+    "accepts_corporate_partners": "sí (sin verificar)"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Bostezo de dientes y orejas rojas: carácter rebelde muy de camiseta.",
+  "sources": [
+   "https://ielc.libguides.com/sdzg/factsheets/tasmaniandevil/population",
+   "https://www.eurekalert.org/news-releases/765708",
+   "https://explore.britannica.com/explore/savingearth/saving-taz"
+  ]
+ },
+ {
+  "category": "Oceanía y Antártida",
+  "common_name_es": "Casuario austral",
+  "scientific_name": "Casuarius casuarius",
+  "continent": "Oceanía",
+  "countries": [
+   "Australia",
+   "Papúa Nueva Guinea",
+   "Indonesia"
+  ],
+  "region": "Nueva Guinea y trópicos húmedos de Queensland (Daintree, Mission Beach, Cabo York)",
+  "iucn_status": "Global: Preocupación Menor (LC), 2018 (población decreciente). Australia (EPBC): En Peligro",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive",
+  "taxonomy_note": "Ave corredora de gran tamaño; casco (casque) característico.",
+  "foundations": [
+   {
+    "name": "Rainforest Rescue",
+    "hq_country": "Australia",
+    "hq_city": "no lo tengo",
+    "website": "https://www.rainforestrescue.org.au (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Compra y restauración de selva en el Daintree, hábitat del casuario (sin verificar).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "BirdLife Australia",
+    "hq_country": "Australia",
+    "hq_city": "Melbourne (sin verificar)",
+    "website": "https://birdlife.org.au",
+    "project_page_url": "https://birdlife.org.au/bird-profiles/southern-cassowary/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Socio australiano de BirdLife International (red con socios europeos como SEO/BirdLife).",
+    "accepts_corporate_partners": "sí (sin verificar)"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Cabeza azul eléctrico con casco y barbas rojas: aspecto de dinosaurio, color brutal.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Southern_cassowary",
+   "https://birdlife.org.au/bird-profiles/southern-cassowary/",
+   "https://australian.museum/learn/animals/birds/southern-cassowary/"
+  ]
+ },
+ {
+  "category": "Oceanía y Antártida",
+  "common_name_es": "Wombat de nariz peluda del norte",
+  "scientific_name": "Lasiorhinus krefftii",
+  "continent": "Oceanía",
+  "countries": [
+   "Australia"
+  ],
+  "region": "Queensland: P. N. Epping Forest, Richard Underwood Nature Refuge y Powrunna State Forest",
+  "iucn_status": "Global: En Peligro Crítico (CR), año no confirmado",
+  "population_estimate": "Unos 400 (gobierno de Queensland, 2024); 35 a principios de los 80",
+  "trend": "En aumento",
+  "taxonomy_note": "Uno de los mamíferos más raros del mundo; antes también en NSW y Victoria.",
+  "foundations": [
+   {
+    "name": "The Wombat Foundation",
+    "hq_country": "Australia",
+    "hq_city": "no lo tengo",
+    "website": "https://wombatfoundation.com.au",
+    "project_page_url": "https://www.wombatfoundation.com.au/2024/07/15/abc-news-critically-endangered-northern-hairy-nosed-wombat-now-calls-powrunna-state-forest-home/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Recaudación y apoyo a la recuperación de la especie; socio de la translocación a Powrunna (2024).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Australian Wildlife Conservancy (AWC UK)",
+    "hq_country": "Reino Unido / Australia",
+    "hq_city": "no lo tengo",
+    "website": "https://uk.australianwildlife.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Rama británica (benéfica registrada en 2008) que apoya proyectos de AWC; relación con el wombat del norte sin verificar.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Doug Gimesy",
+    "nationality": "australiana",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotoperiodista de conservación australiano (zoólogo de formación); trabajo documentado sobre wombats (WPY 2022 con wombats comunes; especie concreta sin verificar). Premio Prince Albert II de Monaco 2026 con imagen de koalas; WPY 2022 con wombats.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Cuerpo redondo y achatado, cara bonachona: humor y ternura.",
+  "sources": [
+   "https://wombatfoundation.com.au/",
+   "https://qld.gov.au/environment/plants-animals/conservation/threatened-species/recovery-in-action/northern-hairy-nosed-wombats-find-a-new-home-in-powrunna-state-forest",
+   "https://statements.qld.gov.au/statements/100509",
+   "https://www.nhm.ac.uk/wpy/gallery/2022-wombat-lockdown"
+  ]
+ },
+ {
+  "category": "Oceanía y Antártida",
+  "common_name_es": "Tuatara",
+  "scientific_name": "Sphenodon punctatus",
+  "continent": "Oceanía",
+  "countries": [
+   "Nueva Zelanda"
+  ],
+  "region": "Unas 30 islas del estrecho de Cook y noreste de la Isla Norte; santuario Zealandia (Wellington)",
+  "iucn_status": "Global: Preocupación Menor (LC), año no confirmado (sin verificar)",
+  "population_estimate": "Unos 55.000 maduros (atribuido a IUCN, sin verificar); otras fuentes 60.000–100.000",
+  "trend": "Estable (sin verificar)",
+  "taxonomy_note": "Único superviviente del orden Rhynchocephalia; S. guntheri sinonimizado con S. punctatus.",
+  "foundations": [
+   {
+    "name": "Zealandia Te Māra a Tāne",
+    "hq_country": "Nueva Zelanda",
+    "hq_city": "Wellington",
+    "website": "https://www.zealandia.co.nz (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Santuario continental vallado contra depredadores donde se reintrodujo el tuatara en 2005.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Reptil 'fósil viviente' con cresta espinosa: textura y prehistoria.",
+  "sources": [
+   "https://www.doc.govt.nz:443/globalassets/documents/science-and-technical/tsrp09.pdf",
+   "https://reptiles.org.nz/node/21",
+   "https://www.ebsco.com/research-starters/zoology/tuatara/"
+  ]
+ },
+ {
+  "category": "Oceanía y Antártida",
+  "common_name_es": "Pingüino de Adelia",
+  "scientific_name": "Pygoscelis adeliae",
+  "continent": "Antártida",
+  "countries": [
+   "Antártida"
+  ],
+  "region": "Costa antártica e islas cercanas (mar de Ross, Antártida Oriental, Península Antártica)",
+  "iucn_status": "Global: Preocupación Menor (LC), 2020",
+  "population_estimate": "3,79 millones de parejas (Lynch y LaRue, 2014, censo por satélite)",
+  "trend": "En aumento global; declive en Orcadas del Sur y norte de la Península",
+  "taxonomy_note": "Dependiente del hielo marino; uno de los dos pingüinos verdaderamente antárticos.",
+  "foundations": [
+   {
+    "name": "Antarctic and Southern Ocean Coalition (ASOC)",
+    "hq_country": "Bélgica / Estados Unidos (sin verificar)",
+    "hq_city": "no lo tengo",
+    "website": "https://www.asoc.org",
+    "project_page_url": "https://www.asoc.org/learn/adelie-penguins/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Coalición de ONG que defiende áreas marinas protegidas y regulación del kril en el Océano Austral; presencia europea (sin verificar).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Oceanites",
+    "hq_country": "Estados Unidos",
+    "hq_city": "no lo tengo",
+    "website": "https://oceanites.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Censos de pingüinos en la Península Antártica (Antarctic Site Inventory) (sin verificar).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Albert Dros",
+    "nationality": "neerlandesa",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de paisaje europeo con serie de pingüinos en la Antártida centrada en el cambio climático (especie exacta sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Esmoquin clásico con anillo ocular blanco: gráfico, minimalista, muy vendible.",
+  "sources": [
+   "https://www.asoc.org/learn/adelie-penguins/",
+   "https://datazone.birdlife.org/species/factsheet/adelie-penguin-pygoscelis-adeliae/text",
+   "https://www.audubon.org/articles/birds/one-two-379-million-how-many-penguins-are-there",
+   "https://mymodernmet.com/es/pinguinos-antartida-albert-dros/"
+  ]
+ },
+ {
+  "category": "Oceanía y Antártida",
+  "common_name_es": "Albatros de Ámsterdam",
+  "scientific_name": "Diomedea amsterdamensis",
+  "continent": "Antártida / Océano Índico austral",
+  "countries": [
+   "Francia (TAAF)"
+  ],
+  "region": "Plateau des Tourbières, isla Ámsterdam (sur del Índico)",
+  "iucn_status": "Global: En Peligro (EN), 2018 (antes CR) (sin verificar)",
+  "population_estimate": "c. 170 aves y 46 parejas reproductoras (BirdLife, 2014)",
+  "trend": "En aumento lento",
+  "taxonomy_note": "Separado del albatros viajero; se reproduce en una sola meseta.",
+  "foundations": [
+   {
+    "name": "Terres australes et antarctiques françaises (TAAF) – Réserve naturelle",
+    "hq_country": "Francia",
+    "hq_city": "Saint-Pierre, La Reunión (sin verificar)",
+    "website": "https://taaf.fr",
+    "project_page_url": "https://taaf.fr/content/uploads/2023/09/PNA_albatros_amsterdam_2018-2027_V5.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Cédric Marteau (director de la reserva natural, según el PNA)",
+    "what_they_do": "Coordina el Plan Nacional de Acción 2018-2027 (seguimiento, pesca con palangre, enfermedades).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "LPO – Ligue pour la Protection des Oiseaux (BirdLife Francia)",
+    "hq_country": "Francia",
+    "hq_city": "Rochefort (sin verificar)",
+    "website": "https://www.lpo.fr (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Coautora de los planes de acción (Thierry Micol); gestionó fondos de la ciudad de Ámsterdam para el plan.",
+    "accepts_corporate_partners": "sí (sin verificar)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Christopher Taylor",
+    "nationality": "no lo tengo",
+    "website": "https://www.kiwifoto.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.kiwifoto.com/galleries/birds/amsterdam_albatross/index.html",
+    "note": "Galería propia del albatros de Ámsterdam.",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Tui De Roy",
+    "nationality": "neozelandesa (nacida en Bélgica)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafa y autora de naturaleza afincada en Nueva Zelanda desde 1992; libros sobre albatros y pingüinos; autora del libro 'Albatross: Their World, Their Ways'; especie concreta sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Ave rarísima y francesa (europea): envergadura enorme y mirada serena, historia única.",
+  "sources": [
+   "https://datazone.birdlife.org/species/factsheet/amsterdam-albatross-diomedea-amsterdamensis/text",
+   "https://taaf.fr/content/uploads/2023/09/PNA_albatros_amsterdam_2018-2027_V5.pdf",
+   "https://www.acap.aq/news/news-archive/2011-news-archive/the-worlds-rarest-albatross-gets-an-action-plan-with-help-from-the-city-of-amsterdam.md",
+   "https://www.kiwifoto.com/galleries/birds/amsterdam_albatross/index.html"
+  ]
+ },
+ {
+  "category": "Oceanía y Antártida",
+  "common_name_es": "Cacatúa de Carnaby",
+  "scientific_name": "Zanda latirostris",
+  "continent": "Oceanía",
+  "countries": [
+   "Australia"
+  ],
+  "region": "Suroeste de Australia Occidental (incl. Perth-Peel)",
+  "iucn_status": "Global: En Peligro (EN) (sin verificar año). Australia (EPBC) y Australia Occidental: En Peligro",
+  "population_estimate": "Unos 34.000 (Saunders et al. 2021)",
+  "trend": "En declive (−35 % desde 2010 en Perth-Peel, aprox.)",
+  "taxonomy_note": "Antes Calyptorhynchus latirostris; ahora género Zanda.",
+  "foundations": [
+   {
+    "name": "BirdLife Australia (Great Cocky Count)",
+    "hq_country": "Australia",
+    "hq_city": "Melbourne (sin verificar)",
+    "website": "https://birdlife.org.au",
+    "project_page_url": "https://direct.birdlife.org.au/documents/GCC_report_2019_final.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Organiza desde 2009 el Great Cocky Count, único censo de abundancia de la especie.",
+    "accepts_corporate_partners": "sí (sin verificar)"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Negro con mejillas y cola blancas: elegante, contraste fuerte en tela clara u oscura.",
+  "sources": [
+   "https://direct.birdlife.org.au/documents/GCC_report_2019_final.pdf",
+   "https://www.mepau.com.au/2025-great-cocky-count-protecting-the-carnabys-black-cockatoo-in-wa/",
+   "https://inaturalist.laji.fi/projects/saving-our-black-cockatoos-southwest-australia/journal/archives/2021/09"
+  ]
+ },
+ {
+  "category": "Oceanía y Antártida",
+  "common_name_es": "Equidna de hocico largo",
+  "scientific_name": "Zaglossus spp.",
+  "continent": "Oceanía",
+  "countries": [
+   "Indonesia (Papúa)",
+   "Papúa Nueva Guinea"
+  ],
+  "region": "Montañas de Nueva Guinea (Z. attenboroughi en los montes Cyclops)",
+  "iucn_status": "Global: Z. attenboroughi En Peligro Crítico (CR); Z. bruijnii En Peligro Crítico (CR); Z. bartoni Vulnerable o CR según fuente (sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive",
+  "taxonomy_note": "Tres especies (attenboroughi, bruijnii, bartoni); Z. attenboroughi filmado vivo por primera vez en 2023 (sin verificar).",
+  "foundations": [
+   {
+    "name": "EDGE of Existence (Zoological Society of London)",
+    "hq_country": "Reino Unido",
+    "hq_city": "Londres",
+    "website": "https://www.edgeofexistence.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Programa de ZSL para especies evolutivamente únicas; financió trabajo de campo en los Cyclops (2007) y seguimiento comunitario.",
+    "accepts_corporate_partners": "sí (ZSL, sin verificar)"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Mamífero ovíparo con pico curvo y púas: rareza total, gancho de 'Attenborough'.",
+  "sources": [
+   "https://www.cambridge.org/core/journals/oryx/article/survival-of-attenboroughs-long-beaked-echidna-zaglossus-attenboroughi-in-new-guinea/210C8830AF08C7EBFFAB9F786B9344AD",
+   "https://www.Wikipedia.org/wiki/Zaglossus"
+  ]
+ },
+ {
+  "category": "Oceanía y Antártida",
+  "common_name_es": "Quol del norte",
+  "scientific_name": "Dasyurus hallucatus",
+  "continent": "Oceanía",
+  "countries": [
+   "Australia"
+  ],
+  "region": "Norte de Australia (Kimberley, Pilbara, Territorio del Norte, Queensland)",
+  "iucn_status": "Global: En Peligro (EN) (sin verificar año)",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive (>90 % en algunas zonas por el sapo de caña)",
+  "taxonomy_note": "El más pequeño de los cuatro quolls australianos.",
+  "foundations": [
+   {
+    "name": "Australian Wildlife Conservancy (AWC) / AWC United Kingdom",
+    "hq_country": "Australia / Reino Unido",
+    "hq_city": "no lo tengo",
+    "website": "https://uk.australianwildlife.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Protege tres poblaciones; entrenamiento de aversión al sapo ('toad sausages') y translocación a Mount Zero-Taravale con Colossal.",
+    "accepts_corporate_partners": "sí (sin verificar)"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Pelaje moteado de lunares blancos: patrón precioso y estampable.",
+  "sources": [
+   "https://uk.australianwildlife.org/?p=5306",
+   "https://colossalfoundation.org/project/northern-quoll/",
+   "https://www.biorxiv.org/content/10.1101/181149v1",
+   "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/4041638/full-print"
+  ]
+ },
+ {
+  "category": "Oceanía y Antártida",
+  "common_name_es": "Numbat",
+  "scientific_name": "Myrmecobius fasciatus",
+  "continent": "Oceanía",
+  "countries": [
+   "Australia"
+  ],
+  "region": "Suroeste de Australia Occidental (Dryandra, Perup) y santuarios de AWC (Scotia, Yookamurra, Mount Gibson)",
+  "iucn_status": "Global: En Peligro (EN) (sin verificar año). EPBC y Australia Occidental: En Peligro",
+  "population_estimate": "Menos de 1.500 (documento DBCA, fecha sin verificar)",
+  "trend": "Estable o en declive",
+  "taxonomy_note": "Único miembro de la familia Myrmecobiidae; marsupial diurno que come termitas.",
+  "foundations": [
+   {
+    "name": "Project Numbat",
+    "hq_country": "Australia",
+    "hq_city": "Perth (sin verificar)",
+    "website": "https://www.numbat.org.au (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Grupo comunitario de apoyo a la recuperación del numbat; socio del programa Numbat Neighbourhood (2018-2023).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Australian Wildlife Conservancy United Kingdom",
+    "hq_country": "Reino Unido",
+    "hq_city": "no lo tengo",
+    "website": "https://uk.australianwildlife.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Apoya reintroducciones de numbat en santuarios de AWC (Scotia 1999, Mount Gibson).",
+    "accepts_corporate_partners": "sí (sin verificar)"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Rayas blancas en el lomo y cola de plumero: animal precioso y desconocido.",
+  "sources": [
+   "https://peel-harvey.org.au/wp-content/uploads/2019/05/Numbat-Project_2022.pdf",
+   "https://library.dbca.wa.gov.au/FullTextFiles/017919.pdf",
+   "https://bioone.org/journals/Australian-Journal-of-Zoology/volume-63/issue-4/ZO15028/Numbat-nirvana--conservation-ecology-of-the-endangered-numbat-Myrmecobius/10.1071/ZO15028.full"
+  ]
+ },
+ {
+  "category": "Oceanía y Antártida",
+  "common_name_es": "Tortuga del río Mary",
+  "scientific_name": "Elusor macrurus",
+  "continent": "Oceanía",
+  "countries": [
+   "Australia"
+  ],
+  "region": "Cuenca del río Mary, sureste de Queensland",
+  "iucn_status": "Global: En Peligro (EN) (sin verificar año); nominada a En Peligro Crítico en Australia (sin confirmar). Queensland y EPBC: En Peligro",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive del reclutamiento; perspectiva mejorada según estudio 2023",
+  "taxonomy_note": "Género monotípico; famosa como 'tortuga punk' por las algas en la cabeza.",
+  "foundations": [
+   {
+    "name": "Tiaro & District Landcare Group",
+    "hq_country": "Australia",
+    "hq_city": "Tiaro, Queensland",
+    "website": "no lo tengo",
+    "project_page_url": "https://www.speciesconservation.org/case-studies-projects/mary-river-turtle/1270",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Desde 1996 protege nidos: 631 nidos y 9.465 crías protegidas; cría con FAME.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "'Tortuga punk' con cresta de algas verdes: imagen viral y divertida.",
+  "sources": [
+   "https://www.bmrg.org.au/news/outlook-improves-for-endangered-mary-river-turtle",
+   "https://www.speciesconservation.org/case-studies-projects/mary-river-turtle/1270",
+   "https://www.fame.org.au/donate/saving-the-mary-river-punk-turtle"
+  ]
+ },
+ {
+  "category": "Oceanía y Antártida",
+  "common_name_es": "Kea",
+  "scientific_name": "Nestor notabilis",
+  "continent": "Oceanía",
+  "countries": [
+   "Nueva Zelanda"
+  ],
+  "region": "Alpes del Sur, Isla Sur",
+  "iucn_status": "Global: En Peligro (EN), 2017 (sin verificar año). NZ: Nationally Endangered",
+  "population_estimate": "Unos 4.000 maduros (BirdLife); Kea Conservation Trust: menos de 7.000",
+  "trend": "En declive",
+  "taxonomy_note": "Único loro alpino del mundo.",
+  "foundations": [
+   {
+    "name": "Kea Conservation Trust",
+    "hq_country": "Nueva Zelanda",
+    "hq_city": "no lo tengo",
+    "website": "https://keaconservation.co.nz",
+    "project_page_url": "https://keaconservation.co.nz/about-us",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Benéfica registrada (CC29701) desde 2006: investigación, mitigación de conflictos, plomo y cría en cautividad.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Loro verde oliva con alas naranja fuego sobre nieve: color y carácter juguetón.",
+  "sources": [
+   "https://datazone.birdlife.org/species/factsheet/kea-nestor-notabilis/text",
+   "https://keaconservation.co.nz/about-us",
+   "https://www.keaconservation.co.nz/wp-content/uploads/2013/11/All-about-kea-a-framework-to-guide-kea-conservation-initiatives-nov2019.docx.pdf"
+  ]
+ },
+ {
+  "category": "Oceanía y Antártida",
+  "common_name_es": "Pingüino de ojo amarillo",
+  "scientific_name": "Megadyptes antipodes",
+  "continent": "Oceanía",
+  "countries": [
+   "Nueva Zelanda"
+  ],
+  "region": "Península de Otago, Rakiura (Stewart), islas Auckland y Campbell",
+  "iucn_status": "Global: En Peligro (EN) (sin verificar año). Descrito como 'críticamente amenazado' en NZ",
+  "population_estimate": "143 nidos en la población norte (DOC, 2024/25, frente a 739 en 2008/09); ~570 parejas en islas Auckland (2017)",
+  "trend": "En fuerte declive",
+  "taxonomy_note": "Hoiho en maorí; ave del año en NZ en 2019 y 2024.",
+  "foundations": [
+   {
+    "name": "Yellow-eyed Penguin Trust",
+    "hq_country": "Nueva Zelanda",
+    "hq_city": "Dunedin (sin verificar)",
+    "website": "https://yellow-eyedpenguin.org.nz",
+    "project_page_url": "https://yellow-eyedpenguin.org.nz/news/yellow-eyed-penguin-nest-numbers-down-media-release",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Restauración de hábitat costero, seguimiento de nidos y defensa ante la pesca de enmalle.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Tui De Roy",
+    "nationality": "neozelandesa (nacida en Bélgica)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafa y autora de naturaleza afincada en Nueva Zelanda desde 1992; libros sobre albatros y pingüinos; fotografió el pingüino de ojo amarillo en la península de Otago para su libro de pingüinos.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Banda amarilla alrededor del ojo: detalle de color único y elegante.",
+  "sources": [
+   "https://www.doc.govt.nz/news/media-releases/2025-media-releases/hoihoyellow-eyed-penguin-nest-numbers-down/",
+   "https://yellow-eyedpenguin.org.nz/news/yellow-eyed-penguin-nest-numbers-down-media-release",
+   "https://www.odt.co.nz/node/274571"
+  ]
+ },
+ {
+  "category": "Oceanía y Antártida",
+  "common_name_es": "León marino de Nueva Zelanda",
+  "scientific_name": "Phocarctos hookeri",
+  "continent": "Oceanía",
+  "countries": [
+   "Nueva Zelanda"
+  ],
+  "region": "Islas Auckland y Campbell; recolonizando Otago y Rakiura",
+  "iucn_status": "Global: En Peligro (EN) (sin verificar año). NZ: Nationally Vulnerable (DOC 2024)",
+  "population_estimate": "Producción de 1.679 crías en islas Auckland (2018/19)",
+  "trend": "En declive en subantártico; en aumento en Otago",
+  "taxonomy_note": "Única especie del género Phocarctos.",
+  "foundations": [
+   {
+    "name": "New Zealand Sea Lion Trust",
+    "hq_country": "Nueva Zelanda",
+    "hq_city": "Dunedin (sin verificar)",
+    "website": "https://www.sealiontrust.org.nz (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Mike Neill (portavoz; cargo sin verificar)",
+    "what_they_do": "Seguimiento y educación sobre la población que recoloniza la costa de Otago.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Mirada curiosa y pose en la arena: fácil de leer y simpático.",
+  "sources": [
+   "https://www.doc.govt.nz/our-work/conservation-services-programme/csp-reports/201819/sea-lion-monitoring-and-pup-production-at-the-auckland-islands-2018-19/",
+   "https://www.doc.govt.nz/news/media-releases/2024-media-releases/record-sea-lion-pup-numbers-in-dunedin/",
+   "https://www.odt.co.nz/news/dunedin/record-number-sea-lion-pups"
+  ]
+ },
+ {
+  "category": "Oceanía y Antártida",
+  "common_name_es": "Dragón de mar foliáceo",
+  "scientific_name": "Phycodurus eques",
+  "continent": "Oceanía",
+  "countries": [
+   "Australia"
+  ],
+  "region": "Costas templadas del sur de Australia (Australia Meridional y Occidental)",
+  "iucn_status": "Global: Preocupación Menor (LC), 2016 (Australian Geographic indica Casi Amenazado en 2025, sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "Desconocida",
+  "taxonomy_note": "Familia Syngnathidae (como los caballitos de mar); emblema marino de Australia Meridional.",
+  "foundations": [
+   {
+    "name": "The Seahorse Trust",
+    "hq_country": "Reino Unido",
+    "hq_city": "Devon (sin verificar)",
+    "website": "https://www.theseahorsetrust.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Benéfica británica de conservación de signátidos (caballitos y dragones de mar); labor con esta especie sin verificar.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Project Seahorse",
+    "hq_country": "Canadá / Reino Unido (ZSL, sin verificar)",
+    "hq_city": "no lo tengo",
+    "website": "https://www.projectseahorse.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Grupo de especialistas IUCN de signátidos; evaluaciones y comercio (sin verificar).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Scott Portelli",
+    "nationality": "australiana",
+    "website": "https://www.scottportelli.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.scottportelli.com/australian-geographic-nature-photographer-year/",
+    "note": "Ganó el Australian Geographic Nature Photographer of the Year 2021 con 'Leafy night', un dragón foliáceo en Second Valley.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Apéndices como hojas: obra de arte natural, espectacular en camiseta.",
+  "sources": [
+   "https://www.dbca.wa.gov.au/wildlife-and-ecosystems/marine/marine-parks/fun-facts/leafy-sea-dragon",
+   "https://www.australiangeographic.com.au/fact-file/leafy-seadragon-phycodurus-eques/",
+   "https://www.australiangeographic.com.au/news/2021/08/2021-australian-geographic-nature-photographer-of-the-year-winners/"
+  ]
+ }
+]

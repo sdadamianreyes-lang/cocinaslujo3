@@ -1,0 +1,653 @@
+[
+ {
+  "common_name_es": "Leopardo nublado",
+  "scientific_name": "Neofelis nebulosa",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "India",
+   "Nepal",
+   "Bután",
+   "Bangladés",
+   "Myanmar",
+   "China",
+   "Tailandia",
+   "Laos",
+   "Camboya",
+   "Vietnam",
+   "Malasia peninsular"
+  ],
+  "region": "Himalaya oriental, Indochina y sur de China; bosques tropicales y subtropicales",
+  "iucn_status": "Global: Vulnerable (VU), 2021 (sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "Decreciente (sin verificar)",
+  "taxonomy_note": "La especie de Borneo y Sumatra (Neofelis diardi, leopardo nublado de la Sonda) se separó en 2006; WildCRU (Oxford) estudia esta última en Sabah (~750 individuos según Oryx 2017).",
+  "foundations": [
+   {
+    "name": "Clouded Leopard Project",
+    "hq_country": "Estados Unidos",
+    "hq_city": "Tacoma (Point Defiance Zoo & Aquarium)",
+    "website": "https://www.pdza.org/clouded-leopard-conservation/",
+    "project_page_url": "https://www.pdza.org/clouded-leopard-conservation/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Fundado en 2000 por cuidadores del Point Defiance Zoo; financia investigación, lucha contra el furtivismo y educación en países del área de distribución (Tailandia, Borneo, Sumatra) y apoya un programa de cría en Tailandia.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "WildCRU - Wildlife Conservation Research Unit (Universidad de Oxford)",
+    "hq_country": "Reino Unido",
+    "hq_city": "Oxford",
+    "website": "https://www.wildcru.org",
+    "project_page_url": "https://www.wildcru.org/species/clouded-leopards/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Unidad de investigación europea con estudio a largo plazo de leopardos nublados (fototrampeo y collares satélite en Sabah, Borneo); trabajo centrado sobre todo en N. diardi.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Sebastian Kennerknecht",
+    "nationality": "no lo tengo (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.discoverwildlife.com/people/sebastian-kennerknecht-interview",
+    "note": "Fotógrafo especializado en felinos salvajes y fototrampeo; preseleccionado en Wildlife Photographer of the Year; premio NANPA Emerging Photographer 2019; fotos de leopardo nublado en entrevista de BBC Wildlife.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Pelaje con grandes 'nubes' geométricas: patrón gráfico espectacular a pecho completo.",
+  "sources": [
+   "https://www.pdza.org/clouded-leopard-conservation/",
+   "https://www.wildcru.org/species/clouded-leopards/",
+   "https://www.cambridge.org/core/blog/2017/10/16/clouded-leopard-population-down-to-around-750-in-key-region-of-borneo",
+   "https://www.discoverwildlife.com/people/sebastian-kennerknecht-interview"
+  ]
+ },
+ {
+  "common_name_es": "Oso negro asiático (oso luna)",
+  "scientific_name": "Ursus thibetanus",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Afganistán",
+   "Pakistán",
+   "India",
+   "Nepal",
+   "Bután",
+   "Bangladés",
+   "Myanmar",
+   "Tailandia",
+   "Laos",
+   "Camboya",
+   "Vietnam",
+   "China",
+   "Taiwán",
+   "Corea del Sur",
+   "Rusia",
+   "Japón",
+   "Irán"
+  ],
+  "region": "Bosques de montaña de Asia, del Himalaya a Japón",
+  "iucn_status": "Global: Vulnerable (VU), 2016 (sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "Decreciente (sin verificar)",
+  "taxonomy_note": "Conocido como 'oso luna' por la media luna blanca del pecho; amenazado por las granjas de bilis y el furtivismo.",
+  "foundations": [
+   {
+    "name": "Animals Asia Foundation",
+    "hq_country": "Hong Kong (China)",
+    "hq_city": "Hong Kong",
+    "website": "https://www.animalsasia.org",
+    "project_page_url": "https://www.animalsasia.org/support-us/help-rescue-and-care-for-desperate-bears/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Jill Robinson (fundadora) (sin verificar)",
+    "what_they_do": "Rescata osos luna de granjas de bilis desde 1994 y gestiona santuarios en China y Vietnam. Presencia europea: Animals Asia Foundation (Reino Unido, charity nº 1086903), Animals Asia Foundation e.V. (Múnich, Alemania, VR17355) y Animals Asia Foundation Italia ONLUS.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Joel Sartore (National Geographic Photo Ark)",
+    "nationality": "Estadounidense",
+    "website": "https://www.joelsartore.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.joelsartore.com/bea018-00026/",
+    "note": "Retratos de estudio de oso negro asiático en Photo Ark (sin verificar la especie exacta de la ficha).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "La media luna blanca sobre el pecho negro es un icono inmediato y muy legible en camiseta.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Animals_Asia_Foundation",
+   "https://www.animalsasia.org/support-us/help-rescue-and-care-for-desperate-bears/",
+   "https://volunteer.charitynavigator.org/organizations/animals-asia-foundation-limited-los-angeles-ca",
+   "https://www.joelsartore.com/bea018-00026/"
+  ]
+ },
+ {
+  "common_name_es": "Mono dorado de nariz chata",
+  "scientific_name": "Rhinopithecus roxellana",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "China"
+  ],
+  "region": "Montañas de Qinling (Shaanxi), Minshan (Sichuan, Gansu) y Shennongjia (Hubei)",
+  "iucn_status": "Global: En Peligro (EN), 2020 (sin verificar; algunas fuentes citan VU 2015)",
+  "population_estimate": "16.470–16.500 en libertad (Lista Roja, Long & Richardson 2020, citado en PMC 2022); Shennongjia: 501 en 1985 y >1.300 en 2016; Zhouzhi ~2.000 (2025)",
+  "trend": "Estable o en aumento local en reservas (Shennongjia, Zhouzhi)",
+  "taxonomy_note": "Tres subespecies: roxellana (Sichuan/Gansu), qinlingensis (Qinling) y hubeiensis (Shennongjia). Protección nacional en China; caza prohibida desde 1975.",
+  "foundations": [
+   {
+    "name": "Shennongjia National Park (centro nacional de investigación del mono dorado, base de Dalongtan)",
+    "hq_country": "China",
+    "hq_city": "Shennongjia (Hubei)",
+    "website": "no lo tengo",
+    "project_page_url": "https://panorama.solutions/en/solution/conservation-golden-snub-nosed-monkey-basis-research-and-education",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Organismo público, no fundación: investigación, educación y protección del hábitat; en 2011 la Administración Forestal convirtió Dalongtan en centro nacional de investigación. No se encontró fundación europea específica.",
+    "accepts_corporate_partners": "no lo tengo (organismo público)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Marsel van Oosten",
+    "nationality": "Neerlandés",
+    "website": "no lo tengo (sin verificar: squiver.com)",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://nhm.ac.uk/wpy/gallery/2018-the-golden-couple",
+    "note": "Ganó el gran título Wildlife Photographer of the Year 2018 con 'The Golden Couple', pareja de monos dorados en Qinling. Fotógrafo europeo: encaje ideal.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Cara azul y manto dorado: contraste cromático único, y existe una foto ganadora mundialmente célebre.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Golden_snub-nosed_monkey",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC9700498",
+   "https://www.unep.org/en/news-and-stories/story/china-iconic-national-park-redefining-conservation",
+   "https://covid-19.chinadaily.com.cn/usa/china/2016-06/11/content_25669007_3.htm",
+   "https://en.shaanxi.gov.cn/as/photos/202512/t20251215_3595881.html",
+   "https://nhm.ac.uk/wpy/gallery/2018-the-golden-couple"
+  ]
+ },
+ {
+  "common_name_es": "Dhole / perro salvaje asiático",
+  "scientific_name": "Cuon alpinus",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "India",
+   "Nepal",
+   "Bután",
+   "Bangladés",
+   "Myanmar",
+   "Tailandia",
+   "Laos",
+   "Camboya",
+   "Vietnam",
+   "Malasia",
+   "Indonesia (Sumatra, Java)",
+   "China"
+  ],
+  "region": "Sur y sudeste de Asia; bosques y praderas",
+  "iucn_status": "Global: En Peligro (EN), 2015 (sin verificar el año)",
+  "population_estimate": "no lo tengo",
+  "trend": "Decreciente (sin verificar)",
+  "taxonomy_note": "Único representante del género Cuon; caza en manadas cooperativas. Según WCS-India no existen planes de gestión específicos en India.",
+  "foundations": [
+   {
+    "name": "Dhole Conservation Fund",
+    "hq_country": "Estados Unidos",
+    "hq_city": "no lo tengo",
+    "website": "https://www.dholes.org",
+    "project_page_url": "https://www.dholes.org/projects-and-partners.html",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Chelsea Davis (fundadora y CEO) (sin verificar)",
+    "what_they_do": "ONG 501(c)3 que cubre déficits de financiación en investigación, educación y conservación del dhole; proyectos en tres paisajes de Nepal y conflicto humano-dhole.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Wildlife Conservation Society - India (Dhole Project)",
+    "hq_country": "India",
+    "hq_city": "Bengaluru (sin verificar)",
+    "website": "https://www.wcsindia.org (sin verificar)",
+    "project_page_url": "https://give.do/fundraisers/the-dhole-project",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Estudia la ecología y comportamiento del dhole en paisajes dominados por humanos.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Prashant Joshi",
+    "nationality": "Indio (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://photocontest.smithsonianmag.com/photocontest/detail/the-last-of-us-1",
+    "note": "Foto 'The Last of Us' de una manada de dholes en Pench (India), 2021, en el concurso de Smithsonian Magazine.",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Navoniloy Bhaumik",
+    "nationality": "Indio (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.shutterbug.com/node/586569",
+    "note": "Foto del día de Shutterbug (abril 2021) con dholes.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Cánido rojizo de cola negra, en manada: dinámico y poco conocido, despierta curiosidad.",
+  "sources": [
+   "https://www.dholes.org/who-we-are.html",
+   "https://www.dholes.org/projects-and-partners.html",
+   "https://give.do/fundraisers/the-dhole-project",
+   "https://biaza.org.uk/news/detail/blog-promoting-asias-underdog",
+   "https://photocontest.smithsonianmag.com/photocontest/detail/the-last-of-us-1"
+  ]
+ },
+ {
+  "common_name_es": "Binturong",
+  "scientific_name": "Arctictis binturong",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "India",
+   "Bangladés",
+   "Bután",
+   "Nepal",
+   "Myanmar",
+   "China",
+   "Tailandia",
+   "Laos",
+   "Camboya",
+   "Vietnam",
+   "Malasia",
+   "Indonesia",
+   "Filipinas (Palawan)"
+  ],
+  "region": "Bosques tropicales del sur y sudeste asiático",
+  "iucn_status": "Global: Vulnerable (VU), 2016 (sin verificar el año; VU confirmado por Pairi Daiza Foundation)",
+  "population_estimate": "no lo tengo",
+  "trend": "Decreciente (sin verificar)",
+  "taxonomy_note": "Vivérrido ('gato-oso'); la población de Palawan se ha descrito como subespecie/taxón distinto (Arctictis whitei), de distribución muy reducida.",
+  "foundations": [
+   {
+    "name": "ABConservation (AB Conservation)",
+    "hq_country": "Francia (sin verificar sede exacta)",
+    "hq_city": "no lo tengo",
+    "website": "https://abconservation.org",
+    "project_page_url": "https://abconservation.org/en/?p=610",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Única asociación dedicada íntegramente al binturong; Bearcat Study Program en Palawan desde 2015 (Irawan, El Nido), sensibilización escolar y apoyo al Palawan Wildlife Rescue & Conservation Centre. Oficina en Puerto Princesa.",
+    "accepts_corporate_partners": "Sí: apoyada por Pairi Daiza Foundation y Giardino Zoologico di Pistoia"
+   },
+   {
+    "name": "Pairi Daiza Foundation",
+    "hq_country": "Bélgica",
+    "hq_city": "Brugelette",
+    "website": "https://www.pairidaiza.eu",
+    "project_page_url": "https://pairidaiza.eu/en/together-for-the-animals/foundation-vision/fondation-projects/project-binturong",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Fundación del parque Pairi Daiza; financia el proyecto binturong de ABConservation en Palawan.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Joel Sartore (National Geographic Photo Ark)",
+    "nationality": "Estadounidense",
+    "website": "https://www.joelsartore.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Probable retrato Photo Ark (sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Cara de bigotes largos y expresión simpática: muy 'carismático raro', ideal para despertar preguntas.",
+  "sources": [
+   "https://abconservation.org/en/?p=610",
+   "https://pairidaiza.eu/en/together-for-the-animals/foundation-vision/fondation-projects/project-binturong",
+   "https://www.zoodipistoia.it/en/gzp-mondo/studies-on-the-binturongs/",
+   "https://palawandailynews.com/city-news/conservation-group-raises-public-awareness-about-binturong/",
+   "https://hal.sorbonne-universite.fr/hal-02985775/file/Veron%20et%20al%20binturong.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Pangolín chino",
+  "scientific_name": "Manis pentadactyla",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "China",
+   "Taiwán",
+   "Hong Kong",
+   "Nepal",
+   "India",
+   "Bután",
+   "Bangladés",
+   "Myanmar",
+   "Tailandia",
+   "Laos",
+   "Vietnam"
+  ],
+  "region": "Sur de China, Taiwán, Himalaya oriental e Indochina septentrional",
+  "iucn_status": "Global: En Peligro Crítico (CR), desde 2014 (sin verificar reevaluación 2019)",
+  "population_estimate": "Sin cifra global; 237 ejemplares vivos registrados en 11 provincias chinas (2010–junio 2023, Liu et al. 2023)",
+  "trend": "Fuerte declive: >80% en tres generaciones (21 años)",
+  "taxonomy_note": "Elevado a protección de Clase I en China. La CBCGDF afirmó su 'extinción funcional' en China, afirmación muy criticada.",
+  "foundations": [
+   {
+    "name": "China Biodiversity Conservation and Green Development Foundation (CBCGDF)",
+    "hq_country": "China",
+    "hq_city": "Pekín (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "https://dialogue.earth/en/digest/sharp-criticism-of-chinese-pangolin-extinction-claim",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Fundación china que impulsó la subida a protección de Clase I; posición controvertida (declaró extinción funcional). Revisar antes de asociarse.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Save Pangolins",
+    "hq_country": "no lo tengo",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Organización internacional dedicada a pangolines; su papel concreto en el pangolín chino no se confirmó (sin verificar).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Escamas en espiral tipo piña: silueta única y mensaje potente contra el tráfico de fauna.",
+  "sources": [
+   "https://dialogue.earth/en/digest/sharp-criticism-of-chinese-pangolin-extinction-claim",
+   "https://www.zrdc.ac.cn/article/cstr/32249.14.zrdc.2023.297",
+   "https://www.threatenedtaxa.org/JoTT/article/view/5149",
+   "https://doaj.org/article/7dfe67e03f47482dac4f90768fadd028",
+   "https://eastmojo.com/national-news/2024/11/28/critically-endangered-chinese-pangolin-found-in-assams-raimona-national-park/"
+  ]
+ },
+ {
+  "common_name_es": "Tortuga gigante de caparazón blando del Yangtsé",
+  "scientific_name": "Rafetus swinhoei",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Vietnam",
+   "China"
+  ],
+  "region": "Lagos de Dong Mo y Xuan Khanh (cerca de Hanói); antes cuenca del Yangtsé y río Rojo",
+  "iucn_status": "Global: En Peligro Crítico (CR) (año no confirmado); funcionalmente extinta en libertad según Turtle Survival Alliance",
+  "population_estimate": "Población conocida: 2 machos (Live Science, tras la muerte de la última hembra conocida); WCS: 10–20 adultos incluyendo cautivos y no confirmados (probablemente sobrestimado)",
+  "trend": "Declive >99%; al borde de la extinción",
+  "taxonomy_note": "Probablemente la tortuga más rara del mundo. CITES Apéndice II; protegida en China y Vietnam.",
+  "foundations": [
+   {
+    "name": "Asian Turtle Program (Indo-Myanmar Conservation)",
+    "hq_country": "Reino Unido (charity registrada) / Vietnam",
+    "hq_city": "Hanói (oficina de campo)",
+    "website": "https://asianturtleprogram.org",
+    "project_page_url": "https://asianturtleprogram.org/category/atp-news/rafetus_project/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Programa de Indo-Myanmar Conservation (charity británica, integrado en 2015): seguimiento de Rafetus en Dong Mo y Xuan Khanh, mejoras de hábitat y educación escolar.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Turtle Survival Alliance",
+    "hq_country": "Estados Unidos",
+    "hq_city": "no lo tengo",
+    "website": "https://turtlesurvival.org",
+    "project_page_url": "https://turtlesurvival.org/species/swinhoes-giant-softshell-turtle/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Alianza para salvar tortugas al borde de la extinción; colabora con ATP en Rafetus.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Tim McCormack (ATP/IMC)",
+    "nationality": "no lo tengo",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://asianturtleprogram.org/2020-05-updates-on-rafetus-swinhoei-conservation/",
+    "note": "Crédito de foto de Rafetus en la web de ATP (ubicación no confirmada).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   },
+   {
+    "name": "Joel Sartore (National Geographic Photo Ark)",
+    "nationality": "Estadounidense",
+    "website": "https://www.joelsartore.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.joelsartore.com/ani080-00416/",
+    "note": "Retratos de ejemplares cautivos en el zoo de Suzhou (China).",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Historia de 'último de su especie' muy potente; silueta plana y cabeza de cerdo memorable.",
+  "sources": [
+   "https://turtlesurvival.org/species/swinhoes-giant-softshell-turtle/",
+   "https://www.livescience.com/animals/turtles/largest-freshwater-turtle-species-doomed-to-extinction-after-last-female-washes-up-dead",
+   "https://library.wcs.org/en-us/doi/ctl/view/mid/33065/pubid/DMX4934500000.aspx",
+   "https://asianturtleprogram.org/category/atp-news/rafetus_project/",
+   "https://www.joelsartore.com/ani080-00416/"
+  ]
+ },
+ {
+  "common_name_es": "Marsopa sin aleta del Yangtsé",
+  "scientific_name": "Neophocaena asiaeorientalis asiaeorientalis",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "China"
+  ],
+  "region": "Cauce principal del Yangtsé y lagos Poyang y Dongting",
+  "iucn_status": "Global: En Peligro Crítico (CR) (subespecie; año sin verificar); Clase I de protección nacional en China",
+  "population_estimate": "1.249 ejemplares (censo 2022: 595 en el cauce principal, 492 en Poyang, 162 en Dongting); 1.012 en 2017",
+  "trend": "En aumento (primer incremento registrado, ~23% 2017–2022)",
+  "taxonomy_note": "Único cetáceo superviviente del Yangtsé tras la extinción funcional del baiji. Veda de pesca de 10 años desde 2020; 8 reservas naturales y 3 áreas de conservación ex situ.",
+  "foundations": [
+   {
+    "name": "WWF China",
+    "hq_country": "China",
+    "hq_city": "Pekín",
+    "website": "https://www.wwfchina.org (sin verificar)",
+    "project_page_url": "https://myaction.wwf.org.uk/?p=42216",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Lunyan Lu (CEO de WWF-China)",
+    "what_they_do": "Apoya el censo y la protección de la marsopa en el Yangtsé; WWF-UK (Europa) difunde y recauda para el proyecto.",
+    "accepts_corporate_partners": "Sí (sin verificar)"
+   },
+   {
+    "name": "Instituto de Hidrobiología, Academia China de Ciencias (IHB-CAS)",
+    "hq_country": "China",
+    "hq_city": "Wuhan",
+    "website": "https://english.ihb.cas.cn",
+    "project_page_url": "https://english.ihb.cas.cn/sy/202210/t20221020_321887.html",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Centro científico de referencia: censos, cría en cautividad y conservación ex situ.",
+    "accepts_corporate_partners": "no lo tengo (institución pública)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Yang He",
+    "nationality": "Chino",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://news.cgtn.com/news/2023-06-14/Yang-He-a-photographer-and-follower-of-Yangtze-finless-porpoises-1kD1CfLYCdi/index.html",
+    "note": "Jubilado de Yichang que lleva una década fotografiando marsopas ('soy fotógrafo de marsopas').",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Wei Ye (韦晔)",
+    "nationality": "Chino",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://thenanjinger.com/news/nanjing-news/finless-porpoise-photography-competition-winners-announced/",
+    "note": "Segundo premio en concurso de Nanjing con marsopa y el puente del Yangtsé.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "La 'sonrisa' de la marsopa y una historia de recuperación positiva: mensaje optimista.",
+  "sources": [
+   "https://globaltimes.cn/page/202303/1286403.shtml",
+   "https://myaction.wwf.org.uk/?p=42216",
+   "https://humanprogress.org/critically-endangered-porpoise-shows-signs-of-recovery/",
+   "https://english.cas.cn/newsroom/news--archives/2022/cas-in-media/202210/t20221020_1126149.shtml",
+   "https://news.cgtn.com/news/2023-06-14/Yang-He-a-photographer-and-follower-of-Yangtze-finless-porpoises-1kD1CfLYCdi/index.html"
+  ]
+ },
+ {
+  "common_name_es": "Tapir malayo",
+  "scientific_name": "Tapirus indicus",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "Malasia",
+   "Tailandia",
+   "Myanmar",
+   "Indonesia (Sumatra)"
+  ],
+  "region": "Península malaya, sur de Myanmar y Tailandia, Sumatra",
+  "iucn_status": "Global: En Peligro (EN), 2016 (sin verificar el año)",
+  "population_estimate": "no lo tengo",
+  "trend": "Decreciente (sin verificar)",
+  "taxonomy_note": "El tapir más grande del mundo y el único asiático; Malasia tiene plan nacional MATCAP de 20 años (2013).",
+  "foundations": [
+   {
+    "name": "Copenhagen Zoo (programa de conservación del tapir malayo)",
+    "hq_country": "Dinamarca",
+    "hq_city": "Copenhague",
+    "website": "https://www.zoo.dk (sin verificar)",
+    "project_page_url": "https://scandasia.com/copenhagen-zoo-and-malaysia-strengthens-collaboration-further/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Carl Traeholt (investigador/coordinador) (sin verificar cargo actual)",
+    "what_they_do": "Principal financiador del Malay Tapir Conservation Project desde 2002 con el departamento de fauna de Malasia (Krau, Taman Negara, Sungai Dusun) y redacción del MATCAP. Carl Traeholt coordina el tapir malayo en el Tapir Specialist Group.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "IUCN SSC Tapir Specialist Group",
+    "hq_country": "Internacional",
+    "hq_city": "no lo tengo",
+    "website": "https://tapirs.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Grupo de especialistas de la UICN para las cuatro especies de tapir.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Joel Sartore (National Geographic Photo Ark)",
+    "nationality": "Estadounidense",
+    "website": "https://www.joelsartore.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.joelsartore.com/keyword/asian-tapir/",
+    "note": "Retratos de tapir asiático en Photo Ark.",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Rhett A. Butler (Mongabay)",
+    "nationality": "Estadounidense",
+    "website": "https://pictures.butlernature.com",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://pictures.butlernature.com/animals/images/animals_03168.html",
+    "note": "Archivo fotográfico con tapir malayo.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Diseño blanco y negro tipo 'panda de bosque': bicolor perfecto para serigrafía.",
+  "sources": [
+   "https://scandasia.com/5485-copenhagen-zoo-fight-for-surviving-of-the-malaysian-tapir/",
+   "https://scandasia.com/copenhagen-zoo-and-malaysia-strengthens-collaboration-further/",
+   "https://cpsg.org/sites/cbsg.org/files/documents/MalayTapir_Final%20Report.pdf",
+   "https://news.mongabay.com/2016/09/black-white-and-unique-the-malayan-tapir-struggles-for-recognition/",
+   "https://wildsingaporenews.blogspot.com/2013/04/malaysia-start-action-plan-for-tapir.html"
+  ]
+ },
+ {
+  "common_name_es": "Ciervo de Eld",
+  "scientific_name": "Rucervus eldii",
+  "category": "Asia",
+  "continent": "Asia",
+  "countries": [
+   "India",
+   "Myanmar",
+   "China (Hainan)",
+   "Camboya",
+   "Laos",
+   "Vietnam",
+   "Tailandia (reintroducido)"
+  ],
+  "region": "Manipur (India), Myanmar, Indochina y Hainán; bosques secos de dipterocarpáceas",
+  "iucn_status": "Global: En Peligro (EN) (año sin verificar); subespecie thamin citada como Casi Amenazada en algunas fuentes",
+  "population_estimate": "~3.000 en libertad (taller 2018); Siem Pang (Camboya) 272 (IC95% 169–435, 2025); Xonnabouly (Laos) 173",
+  "trend": "Decreciente (Camboya en declive rápido según BirdLife)",
+  "taxonomy_note": "Tres subespecies: eldii (Manipur, sangai), thamin (Myanmar) y siamensis (Indochina/Hainán); algunos autores tratan siamensis como especie aparte.",
+  "foundations": [
+   {
+    "name": "Réserve zoologique de la Haute-Touche (Muséum national d'Histoire naturelle)",
+    "hq_country": "Francia",
+    "hq_city": "Obterre (Indre)",
+    "website": "https://www.zoodelahautetouche.fr",
+    "project_page_url": "https://www.zoodelahautetouche.fr/en/node/2557",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Único parque fuera de Asia con la subespecie siamensis; programa genético con el zoo de Bangkok (semen congelado, inseminación).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Knowsley Safari (con Wildlife Alliance)",
+    "hq_country": "Reino Unido",
+    "hq_city": "Prescot (Merseyside)",
+    "website": "https://knowsleysafariexperience.co.uk",
+    "project_page_url": "https://knowsleysafariexperience.co.uk/conservation/in-action/elds-deer",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Trabaja en Camboya con Wildlife Alliance para crear población cautiva sana; financió un recinto en Phnom Tamao (2018).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Cuernas en arco tipo lira: silueta elegante y muy reconocible.",
+  "sources": [
+   "https://wwf.org.la/about/why_important/elds_deer",
+   "https://kfbg.org/en/press-release/article/Delegates-from-six-Southeast-Asian-countries-gather-in-Phnom-Penh-to-plan-a-better-future-for-the-globally-endangered-Eld’s-deer",
+   "https://www.zoodelahautetouche.fr/en/node/2557",
+   "https://knowsleysafariexperience.co.uk/conservation/in-action/elds-deer",
+   "https://www.thainationalparks.com/species/elds-deer",
+   "https://sg.smujo.id/biodiv/article/view/11707"
+  ]
+ }
+]

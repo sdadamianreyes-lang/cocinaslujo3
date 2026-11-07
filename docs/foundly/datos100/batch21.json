@@ -1,0 +1,702 @@
+[
+ {
+  "common_name_es": "Abeja negra canaria",
+  "scientific_name": "Apis mellifera (ecotipo canario; a veces citada como A. m. canariensis, sin consenso)",
+  "category": "Insectos y polinizadores",
+  "continent": "Europa (Macaronesia)",
+  "countries": [
+   "España"
+  ],
+  "region": "Islas Canarias (Tenerife, Gran Canaria, La Palma y otras islas)",
+  "iucn_status": "Global: Apis mellifera — Datos insuficientes (DD), 2014 (sin verificar; Lista Roja Europea de abejas). El ecotipo canario no tiene evaluación UICN propia; protegido por el Gobierno de Canarias (plan de conservación 2001; medidas especiales en Gran Canaria 2014)",
+  "population_estimate": "no lo tengo",
+  "trend": "Amenazada por hibridación con razas foráneas importadas (raza autóctona con programas de recuperación)",
+  "taxonomy_note": "Estudios genéticos de La Palma la tratan como ecotipo diferenciado dentro de A. m. iberiensis (linaje africano/ibérico); otros autores usan A. m. canariensis. Raza autóctona protegida, no especie silvestre independiente.",
+  "foundations": [
+   {
+    "name": "Asociación de Criadores de la Abeja Negra Canaria (Crianca)",
+    "hq_country": "España",
+    "hq_city": "Granadilla de Abona (Tenerife)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Juan Morales (presidente)",
+    "what_they_do": "Promueve la cría, protección y aprovechamiento de la abeja negra canaria; colabora en la Escuela de Apicultura del Sur (Las Crucitas, Granadilla).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Casa de la Miel (Cabildo de Tenerife)",
+    "hq_country": "España",
+    "hq_city": "El Sauzal (Tenerife)",
+    "website": "https://www.casadelamiel.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Antonio Bentabol (director, sin verificar vigencia)",
+    "what_they_do": "Centro del Cabildo de Tenerife (desde 1996) de apoyo al sector apícola, control de calidad de la miel DOP Tenerife y conservación de la abeja negra canaria.",
+    "accepts_corporate_partners": "no lo tengo (entidad pública)"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Abeja oscura casi negra sobre flor endémica canaria (tajinaste): historia local española, cercana y potente para público madrileño.",
+  "sources": [
+   "https://www.eldiario.es/canariasahora/ciencia_y_medio_ambiente/abeja-negra-canaria-miel-premio-raza-amenazada_1_10782302.html",
+   "https://www.casadelamiel.org/sites/default/files/abeja-negra-canaria.pdf",
+   "https://www.casadelamiel.org/sites/default/files/boc-a-2014-086-1889.pdf",
+   "https://www.apiservices.biz/documents/articles-en/origin_evolution_and_conservation_of_the_honey_bees_from_la_palma_island.pdf",
+   "https://diariodeavisos.elespanol.com/2026/04/granadilla-escuela-apicultura-sur/",
+   "https://rtvc.es/piden-declarar-a-tenerife-reserva-unica-de-la-abeja-negra/"
+  ]
+ },
+ {
+  "common_name_es": "Mariposa arlequín",
+  "scientific_name": "Zerynthia rumina",
+  "category": "Insectos y polinizadores",
+  "continent": "Europa / África",
+  "countries": [
+   "España",
+   "Portugal",
+   "Francia",
+   "Marruecos",
+   "Argelia",
+   "Túnez"
+  ],
+  "region": "Península Ibérica, sur de Francia y Magreb",
+  "iucn_status": "Global: Preocupación menor (LC), sin año verificado (sin verificar). No incluida en el Catálogo Español de Especies Amenazadas (no se encontró)",
+  "population_estimate": "no lo tengo",
+  "trend": "Poblaciones locales en regresión (sin verificar); muy dependiente de Aristolochia spp.",
+  "taxonomy_note": "Familia Papilionidae, subfamilia Parnassiinae. Monófaga de plantas del género Aristolochia (p. ej. A. pistolochia). Literatura científica la describe como especialista amenazada.",
+  "foundations": [
+   {
+    "name": "Asociación ZERYNTHIA",
+    "hq_country": "España",
+    "hq_city": "no lo tengo",
+    "website": "https://asociacion-zerynthia.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Asociación sin ánimo de lucro (2007), ámbito nacional, dedicada a la investigación, divulgación y conservación de las mariposas españolas; organiza la 'Mariposa del Año'.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Butterfly Conservation Europe",
+    "hq_country": "Países Bajos (sin verificar)",
+    "hq_city": "no lo tengo",
+    "website": "https://bc-europe.eu",
+    "project_page_url": "no lo tengo",
+    "contact_email": "info@bc-europe.eu",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo (Chris van Swaay fue presidente en 2016; Miguel Munguira figura como presidente posterior, sin verificar cargo actual)",
+    "what_they_do": "Red europea de organizaciones de conservación de mariposas: seguimiento (BMS), listas rojas y políticas europeas.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Diseño arlequinado rojo, amarillo y negro muy gráfico; da nombre a la asociación española de mariposas: icono perfecto.",
+  "sources": [
+   "https://complete.bioone.org/journals/journal-of-insect-science/volume-14/issue-51/031.014.51/Comparison-of-Trends-in-Habitat-and-Resource-Selection-by-the/10.1673/031.014.51.full",
+   "https://old.gbif.es/wp-content/uploads/2017/12/09_Zerynthia_Botanico.pdf",
+   "https://www.deia.eus/vivir/2022/01/07/elige-mariposa-ano-2022-1742521.html",
+   "https://nieuw.vlinderstichting.nl/app/uploads/docs/5a036c98-62f5-4003-8ba3-c082abc0336b.pdf"
+  ]
+ },
+ {
+  "common_name_es": "Saga pedo (saltamontes depredador)",
+  "scientific_name": "Saga pedo",
+  "category": "Insectos y polinizadores",
+  "continent": "Europa / Asia",
+  "countries": [
+   "España",
+   "Francia",
+   "Italia",
+   "Hungría",
+   "Rusia",
+   "Kazajistán"
+  ],
+  "region": "Sur y centro de Europa hasta Asia central (en España, poblaciones dispersas)",
+  "iucn_status": "Global: Vulnerable (VU), 1996; Europa: Preocupación menor (LC), 2016. Anexo IV Directiva Hábitats y Anexo II Convenio de Berna",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive local por fragmentación (avance del bosque e intensificación agrícola)",
+  "taxonomy_note": "Ortóptero Tettigoniidae (Saginae); una de las mayores especies europeas; partenogenética (solo hembras).",
+  "foundations": [
+   {
+    "name": "Buglife – The Invertebrate Conservation Trust",
+    "hq_country": "Reino Unido",
+    "hq_city": "Peterborough",
+    "website": "https://www.buglife.org.uk",
+    "project_page_url": "https://buglife.org.uk/about-us/contact-us",
+    "contact_email": "info@buglife.org.uk",
+    "phone": "0300 102 7375",
+    "director_or_president": "Matt Shardlow (Chief Executive, sin verificar vigencia)",
+    "what_they_do": "ONG británica dedicada a la conservación de invertebrados y sus hábitats.",
+    "accepts_corporate_partners": "sí (ha colaborado con empresas, p. ej. Viña Aresti, 2020)"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Depredador alargado y verde con patas espinosas: silueta inusual y 'monstruosa' que llama la atención.",
+  "sources": [
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC11103639",
+   "https://www.miteco.gob.es/es/biodiversidad/temas/inventarios-nacionales/Saga_pedo_tcm30-198514.pdf",
+   "https://ouci.dntb.gov.ua/works/4VZypOe4"
+  ]
+ },
+ {
+  "common_name_es": "Escarabajo rinoceronte europeo",
+  "scientific_name": "Oryctes nasicornis",
+  "category": "Insectos y polinizadores",
+  "continent": "Europa / Asia / África",
+  "countries": [
+   "España",
+   "Francia",
+   "Alemania",
+   "Italia",
+   "Marruecos"
+  ],
+  "region": "Europa, norte de África y Asia occidental",
+  "iucn_status": "Global: no evaluada (NE) (sin verificar). Europa: categoría no confirmada en la Lista Roja Europea de Coleópteros Saproxílicos (2010/2018)",
+  "population_estimate": "no lo tengo",
+  "trend": "no lo tengo",
+  "taxonomy_note": "Scarabaeidae, Dynastinae. Larva saproxílica en madera muerta y compost; macho con cuerno cefálico.",
+  "foundations": [
+   {
+    "name": "Buglife – The Invertebrate Conservation Trust",
+    "hq_country": "Reino Unido",
+    "hq_city": "Peterborough",
+    "website": "https://www.buglife.org.uk",
+    "project_page_url": "https://buglife.org.uk/about-us/contact-us",
+    "contact_email": "info@buglife.org.uk",
+    "phone": "0300 102 7375",
+    "director_or_president": "Matt Shardlow (Chief Executive, sin verificar vigencia)",
+    "what_they_do": "ONG británica dedicada a la conservación de invertebrados y sus hábitats.",
+    "accepts_corporate_partners": "sí (ha colaborado con empresas, p. ej. Viña Aresti, 2020)"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Escarabajo marrón brillante con gran cuerno: silueta icónica y reconocible, ideal en estampado monocromo.",
+  "sources": [
+   "https://www.iucn.org/sites/default/files/import/downloads/european_red_list_of_saproxylic_beetles_new.pdf",
+   "https://portals.iucn.org/library/efiles/documents/RL-4-023-Suppl.pdf",
+   "https://lepus.infofauna.ch/carto/23017"
+  ]
+ },
+ {
+  "common_name_es": "Mariposa Morpho azul",
+  "scientific_name": "Morpho menelaus",
+  "category": "Insectos y polinizadores",
+  "continent": "América",
+  "countries": [
+   "Brasil",
+   "Perú",
+   "Ecuador",
+   "Colombia",
+   "Venezuela",
+   "Guayanas"
+  ],
+  "region": "Bosques tropicales de Centroamérica y Sudamérica (Amazonía)",
+  "iucn_status": "Global: No evaluada (NE) (sin verificar). La subespecie M. m. eberti (NE de Brasil) se describe como en peligro en literatura científica",
+  "population_estimate": "no lo tengo",
+  "trend": "Presionada por deforestación y colecta para comercio de alas (sin verificar)",
+  "taxonomy_note": "Nymphalidae, Morphinae. Varias subespecies (p. ej. occidentalis en Amazonía peruana, eberti en Brasil). Color azul estructural, no pigmentario.",
+  "foundations": [],
+  "photographers": [
+   {
+    "name": "Javier Aznar González de Rueda",
+    "nationality": "española",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.sony.ie/alphauniverse/ambassadors/javier-aznar",
+    "note": "Biólogo y fotoperiodista, National Geographic Explorer y Associate Fellow iLCP; especializado en insectos neotropicales (Ecuador, Amazonía). No consta foto concreta de esta especie (sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Azul metálico estructural: el insecto más 'eléctrico' del catálogo, impacto visual inmediato.",
+  "sources": [
+   "https://lasnubes.euc.yorku.ca/species/blue-morpho-butterfly/",
+   "https://journals.flvc.org/troplep/article/view/90320",
+   "https://revistas.iiap.gob.pe/index.php/foliaamazonica/article/download/826/682/2974"
+  ]
+ },
+ {
+  "common_name_es": "Alas de pájaro de la reina Alejandra",
+  "scientific_name": "Ornithoptera alexandrae",
+  "category": "Insectos y polinizadores",
+  "continent": "Oceanía",
+  "countries": [
+   "Papúa Nueva Guinea"
+  ],
+  "region": "Provincia de Oro (selva costera cerca de Popondetta, ~100 km²)",
+  "iucn_status": "Global: En Peligro (EN), año no verificado. CITES Apéndice I (sin verificar)",
+  "population_estimate": "Muy baja: ~10 hembras por km² en muestreos cerca de Popondetta (año no verificado)",
+  "trend": "En declive (palma aceitera, tala, comercio ilegal)",
+  "taxonomy_note": "Papilionidae; mayor mariposa del mundo. Endémica de Papúa Nueva Guinea.",
+  "foundations": [
+   {
+    "name": "Save the British Butterfly Trust (SBBT)",
+    "hq_country": "Reino Unido",
+    "hq_city": "no lo tengo",
+    "website": "https://www.sbbt.org.uk",
+    "project_page_url": "https://www.sbbt.org.uk/latest-news/birdwing-project-confirmed/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Lanzó en 2017 con la Sime Darby Foundation un programa de cría en cautividad y liberación, protección de hábitat y desarrollo comunitario en PNG.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Sime Darby Foundation",
+    "hq_country": "Malasia",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Fundación corporativa financiadora del programa de cría de 2017 (laboratorio en Higaturu, New Britain Palm Oil).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "La mayor mariposa del mundo, verde-turquesa y negro: gancho narrativo 'récord' y colores muy gráficos.",
+  "sources": [
+   "https://www.cambridgenetwork.co.uk/news/worlds-biggest-butterfly-given-lifeline-new-captive-breeding-initiative",
+   "https://theecologist.org/2017/sep/27/survival-worlds-largest-butterfly-no-longer-dependent-wing-and-prayer",
+   "https://www.sbbt.org.uk/latest-news/birdwing-project-confirmed/",
+   "https://www.downtoearth.org.in/wildlife-biodiversity/world-s-largest-butterfly-faces-extinction-due-to-papua-new-guinea-s-palm-oil-industry-58757"
+  ]
+ },
+ {
+  "common_name_es": "Abejorro de Franklin",
+  "scientific_name": "Bombus franklini",
+  "category": "Insectos y polinizadores",
+  "continent": "América",
+  "countries": [
+   "Estados Unidos"
+  ],
+  "region": "Sur de Oregón y norte de California (área muy reducida)",
+  "iucn_status": "Global: En Peligro Crítico (CR), 2008. EE. UU.: En Peligro (ESA, 2021); California: protegido (CESA, 2019)",
+  "population_estimate": "Sin registros confirmados desde el 9 de agosto de 2006 (un ejemplar en Mount Ashland, Oregón); posiblemente extinto",
+  "trend": "Desconocida / posiblemente extinto",
+  "taxonomy_note": "Apidae, subgénero Bombus s. str.; una de las distribuciones más restringidas de cualquier abejorro.",
+  "foundations": [
+   {
+    "name": "The Xerces Society for Invertebrate Conservation",
+    "hq_country": "Estados Unidos",
+    "hq_city": "Portland (Oregón)",
+    "website": "https://xerces.org",
+    "project_page_url": "https://xerces.org/about",
+    "contact_email": "scott.black@xerces.org (perfil de staff, sin verificar)",
+    "phone": "(503) 232-6639 (sin verificar)",
+    "director_or_president": "Scott Hoffman Black (Executive Director)",
+    "what_they_do": "ONG de conservación de invertebrados y polinizadores; promovió las peticiones de protección del abejorro de Franklin (2010, 2018).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Robbin Thorp",
+    "nationality": "estadounidense",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://ucanr.edu/blog/bug-squad/article/robbin-thorp-and-franklins-bumble-bee",
+    "note": "Entomólogo (UC Davis, fallecido, sin verificar); autor de fotos de B. franklini (1999, Mt. Ashland). Derechos a gestionar con UC Davis/herederos.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Historia de 'último avistamiento': abejorro negro y amarillo con mensaje de urgencia muy potente.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Franklin%27s_bumblebee",
+   "https://biologicaldiversity.org/w/news/press-releases/elusive-pacific-northwest-bumblebee-listed-as-endangered-2021-08-23/",
+   "https://ucanr.edu/blog/bug-squad/article/robbin-thorp-and-franklins-bumble-bee",
+   "https://xerces.org/about"
+  ]
+ },
+ {
+  "common_name_es": "Insecto palo de la isla de Lord Howe",
+  "scientific_name": "Dryococelus australis",
+  "category": "Insectos y polinizadores",
+  "continent": "Oceanía",
+  "countries": [
+   "Australia"
+  ],
+  "region": "Ball's Pyramid (islote a 23 km de la isla de Lord Howe, Nueva Gales del Sur)",
+  "iucn_status": "Global: En Peligro Crítico (CR), año no verificado",
+  "population_estimate": "Silvestre: población diminuta en Ball's Pyramid (cifra no confirmada). Cautividad: ~800 adultos y 3.500 ninfas en Melbourne Zoo (página NSW sin fecha)",
+  "trend": "Estable en cautividad; reintroducción pendiente de erradicación de ratas",
+  "taxonomy_note": "Phasmatodea, Lonchodidae. Se creía extinto desde ~1920; redescubierto en 2001. Apodado 'langosta de árbol'.",
+  "foundations": [
+   {
+    "name": "Zoos Victoria (Melbourne Zoo)",
+    "hq_country": "Australia",
+    "hq_city": "Melbourne",
+    "website": "https://www.zoo.org.au",
+    "project_page_url": "https://cdn-site.zoo.org.au/media/5nnhkdzg/lord-howe-island-stick-insect.pdf",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Programa de cría en cautividad desde 2003 a partir de dos parejas; especie prioritaria de conservación.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Lord Howe Island Board",
+    "hq_country": "Australia",
+    "hq_city": "Lord Howe Island",
+    "website": "https://www.lhib.nsw.gov.au",
+    "project_page_url": "https://www.lhib.nsw.gov.au/news/householder-have-your-say-plans-bring-phasmid-home",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Autoridad de la isla: erradicación de roedores (plan aprobado 2018) y planes de reintroducción del fásmido.",
+    "accepts_corporate_partners": "no lo tengo (entidad pública)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Rohan Cleave",
+    "nationality": "australiana",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.eurekalert.org/multimedia/897814",
+    "note": "Cuidador de invertebrados en Melbourne Zoo; fotos de la especie con crédito obligatorio; autor del libro infantil 'Phasmid'.",
+    "species_link": "Vinculado por la fuente"
+   }
+  ],
+  "design_notes": "Insecto negro brillante y robusto con historia de 'Lázaro' (extinto y redescubierto): narrativa irresistible.",
+  "sources": [
+   "https://www.environment.nsw.gov.au/news/rediscovering-the-lord-howe-island-phasmid",
+   "https://en.wikipedia.org/wiki/Dryococelus",
+   "https://www.nespthreatenedspecies.edu.au/media/o2lbuowj/6-4-hope_lord-howe-island-phasmid-case-study-factsheet_v4.pdf",
+   "https://arr.news/2023/11/30/20-years-of-captive-care-for-dryococelus-australis/",
+   "https://www.eurekalert.org/multimedia/897814"
+  ]
+ },
+ {
+  "common_name_es": "Escarabajo hércules",
+  "scientific_name": "Dynastes hercules",
+  "category": "Insectos y polinizadores",
+  "continent": "América",
+  "countries": [
+   "Guadalupe (Francia)",
+   "Dominica",
+   "Martinica (Francia)",
+   "Santa Lucía",
+   "Venezuela",
+   "Colombia",
+   "Ecuador",
+   "Perú",
+   "Brasil"
+  ],
+  "region": "Antillas Menores y bosques tropicales de Centro y Sudamérica",
+  "iucn_status": "Global: No evaluada (NE) (sin verificar). Protegido legalmente en Guadalupe (desde 2007; orden ministerial de 24/01/2020)",
+  "population_estimate": "no lo tengo",
+  "trend": "no lo tengo",
+  "taxonomy_note": "Scarabaeidae, Dynastinae. La forma nominal D. h. hercules es de Guadalupe y Dominica; D. h. reidi de Martinica y Santa Lucía; varias formas continentales a veces elevadas a especie.",
+  "foundations": [],
+  "photographers": [],
+  "design_notes": "Uno de los escarabajos más largos del mundo, élitros oliva y gran cuerno: silueta épica para camiseta.",
+  "sources": [
+   "https://www.guadeloupe.developpement-durable.gouv.fr/IMG/pdf/2023_09_01_avis_csrpn_protection_especes_insectes.pdf",
+   "https://www.guadeloupe.developpement-durable.gouv.fr/IMG/pdf/2019_02_08_avis_2019-04_insectes_protection_guadeloupe.pdf",
+   "https://wikipedia.com/wiki/Hercules_beetle"
+  ]
+ },
+ {
+  "common_name_es": "Libélula emperador",
+  "scientific_name": "Anax imperator",
+  "category": "Insectos y polinizadores",
+  "continent": "Europa / África / Asia",
+  "countries": [
+   "España",
+   "Francia",
+   "Reino Unido",
+   "Marruecos",
+   "Sudáfrica"
+  ],
+  "region": "Europa, África y Asia occidental",
+  "iucn_status": "Global: Preocupación menor (LC), año no verificado; Europa: LC (sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "Estable; en expansión hacia el norte de Europa (sin verificar)",
+  "taxonomy_note": "Odonata, Aeshnidae; una de las mayores libélulas europeas.",
+  "foundations": [
+   {
+    "name": "Grupo Ibérico de Odonatología",
+    "hq_country": "España / Portugal",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Red de especialistas en odonatos ibéricos; promovió una lista consensuada de especies (2023).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Buglife – The Invertebrate Conservation Trust",
+    "hq_country": "Reino Unido",
+    "hq_city": "Peterborough",
+    "website": "https://www.buglife.org.uk",
+    "project_page_url": "https://buglife.org.uk/about-us/contact-us",
+    "contact_email": "info@buglife.org.uk",
+    "phone": "0300 102 7375",
+    "director_or_president": "Matt Shardlow (Chief Executive, sin verificar vigencia)",
+    "what_they_do": "ONG británica dedicada a la conservación de invertebrados y sus hábitats.",
+    "accepts_corporate_partners": "sí (ha colaborado con empresas, p. ej. Viña Aresti, 2020)"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Cuerpo azul celeste y tórax verde con alas transparentes: elegante y luminosa sobre tejido claro.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Emperor_dragonfly",
+   "https://www.dragonflypix.com/speciespages/anax_imperator_fr.html",
+   "https://digibuo.uniovi.es/dspace/handle/10651/69035"
+  ]
+ },
+ {
+  "common_name_es": "Abeja melipona",
+  "scientific_name": "Melipona beecheii",
+  "category": "Insectos y polinizadores",
+  "continent": "América",
+  "countries": [
+   "México",
+   "Guatemala",
+   "Belice",
+   "Honduras",
+   "El Salvador",
+   "Nicaragua",
+   "Costa Rica"
+  ],
+  "region": "Península de Yucatán y Mesoamérica",
+  "iucn_status": "Global: No evaluada (NE) (sin verificar)",
+  "population_estimate": "Colonias en meliponicultura: descenso del 93 % en Quintana Roo en 25 años (Bee World, 2005)",
+  "trend": "En declive (deforestación, competencia con Apis mellifera africanizada, pérdida de la meliponicultura tradicional)",
+  "taxonomy_note": "Apidae, Meliponini (abeja sin aguijón). 'Xunán kab' maya; especie sagrada en la cultura maya.",
+  "foundations": [
+   {
+    "name": "ICDO – International Cultural Diversity Organization",
+    "hq_country": "Austria",
+    "hq_city": "no lo tengo",
+    "website": "https://www.icdo.at",
+    "project_page_url": "https://www.icdo.at/melipona-beecheii-conservation/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Proyecto 'Melipona Beecheii Conservation' en José María Morelos (Q. Roo) con más de 20 comunidades mayas; recauda vía GlobalGiving.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Melipona Maya Foundation (sin verificar)",
+    "hq_country": "México",
+    "hq_city": "no lo tengo",
+    "website": "https://meliponamaya.org (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Compra de colonias madre y cajas para meliponicultores (datos de 2014).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Abeja maya sin aguijón con raíces culturales: historia ancestral y mensaje de solidaridad comunitaria.",
+  "sources": [
+   "https://www.icdo.at/melipona-beecheii-conservation-mexico2/",
+   "https://www.globalgiving.org/projects/melipona-beecheii-conservation/reports/",
+   "https://www.worldwildlife.org/news/stories/in-the-yucatan-stingless-bees-provide-sustainable-livelihoods-and-a-connection-to-mayan-culture/",
+   "https://www.poresto.com/yucatan/2026/8/17/desde-mani-gobierno-de-mexico-y-de-yucatan-anuncian-esfuerzos-para-obtener-la-indicacion-geografica-de-la-miel-melipona.html",
+   "https://www.playaresorts.com/playacares/posts/Beeing-Good"
+  ]
+ },
+ {
+  "common_name_es": "Hormiga roja de bosque",
+  "scientific_name": "Formica rufa",
+  "category": "Insectos y polinizadores",
+  "continent": "Europa / Asia",
+  "countries": [
+   "España",
+   "Francia",
+   "Reino Unido",
+   "Alemania",
+   "Bélgica",
+   "Finlandia"
+  ],
+  "region": "Bosques templados y boreales de Eurasia (en España, montañas del norte: Pirineos)",
+  "iucn_status": "Global: Casi amenazada (NT), 1996 (evaluación antigua)",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive (p. ej. colonias reducidas a menos de la mitad en 20 años en el NO de Bélgica)",
+  "taxonomy_note": "Formicidae; grupo Formica rufa (hormigas rojas de bosque), con especies afines difíciles de separar (F. polyctena, F. pratensis).",
+  "foundations": [
+   {
+    "name": "Buglife – The Invertebrate Conservation Trust",
+    "hq_country": "Reino Unido",
+    "hq_city": "Peterborough",
+    "website": "https://www.buglife.org.uk",
+    "project_page_url": "https://buglife.org.uk/about-us/contact-us",
+    "contact_email": "info@buglife.org.uk",
+    "phone": "0300 102 7375",
+    "director_or_president": "Matt Shardlow (Chief Executive, sin verificar vigencia)",
+    "what_they_do": "ONG británica dedicada a la conservación de invertebrados y sus hábitats.",
+    "accepts_corporate_partners": "sí (ha colaborado con empresas, p. ej. Viña Aresti, 2020)"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Hormiguero-cúpula y trabajo colectivo: ilustra bien la idea de comunidad y solidaridad.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Formica_rufa",
+   "https://www.pubmed.gov/35638587/",
+   "https://wildlifetrusts.org/wildlife-explorer/invertebrates/ants/southern-wood-ant",
+   "https://search.fid-benelux.de/Record/base-26609298"
+  ]
+ },
+ {
+  "common_name_es": "Mariposa macaón",
+  "scientific_name": "Papilio machaon",
+  "category": "Insectos y polinizadores",
+  "continent": "Europa / Asia / África / América",
+  "countries": [
+   "España",
+   "Francia",
+   "Reino Unido",
+   "Marruecos",
+   "China",
+   "Canadá"
+  ],
+  "region": "Holártica, de la Península Ibérica a Japón y Norteamérica",
+  "iucn_status": "Global: Preocupación menor (LC), año no verificado; España: LC, 2025 (Lista Roja Nacional)",
+  "population_estimate": "no lo tengo",
+  "trend": "Estable (sin verificar)",
+  "taxonomy_note": "Papilionidae. Muchas subespecies; en Reino Unido la ssp. britannicus está restringida a Norfolk.",
+  "foundations": [
+   {
+    "name": "Asociación ZERYNTHIA",
+    "hq_country": "España",
+    "hq_city": "no lo tengo",
+    "website": "https://asociacion-zerynthia.org",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Asociación sin ánimo de lucro (2007), ámbito nacional, dedicada a la investigación, divulgación y conservación de las mariposas españolas; organiza la 'Mariposa del Año'.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Butterfly Conservation Europe",
+    "hq_country": "Países Bajos (sin verificar)",
+    "hq_city": "no lo tengo",
+    "website": "https://bc-europe.eu",
+    "project_page_url": "no lo tengo",
+    "contact_email": "info@bc-europe.eu",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo (Chris van Swaay fue presidente en 2016; Miguel Munguira figura como presidente posterior, sin verificar cargo actual)",
+    "what_they_do": "Red europea de organizaciones de conservación de mariposas: seguimiento (BMS), listas rojas y políticas europeas.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Amarillo y negro con 'colas' y ocelos rojo-azules: la mariposa europea más reconocible.",
+  "sources": [
+   "https://www.nationalredlist.org/node/54656",
+   "https://www.insects.at/index.php/de/lepidoptera/papilionoidea/papilionidae/papilioninae/301-papilio-machaon-3?rCH=-2"
+  ]
+ },
+ {
+  "common_name_es": "Abejorro patagónico",
+  "scientific_name": "Bombus dahlbomii",
+  "category": "Insectos y polinizadores",
+  "continent": "América",
+  "countries": [
+   "Argentina",
+   "Chile"
+  ],
+  "region": "Bosques templados de Patagonia y centro-sur de Chile",
+  "iucn_status": "Global: En Peligro (EN), 2016",
+  "population_estimate": "no lo tengo",
+  "trend": "En fuerte declive desde la invasión de B. terrestris y B. ruderatus introducidos en Chile (~1997)",
+  "taxonomy_note": "Apidae; abejorro más grande del mundo, de pelaje rojo-anaranjado. Patógenos traídos por los abejorros europeos son causa probable del declive.",
+  "foundations": [
+   {
+    "name": "Proyecto 'Salvemos nuestro abejorro' (Chile) (sin verificar)",
+    "hq_country": "Chile",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Ciencia ciudadana: registro fotográfico de avistamientos para un mapa de distribución.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Bumblebee Conservation Trust",
+    "hq_country": "Reino Unido",
+    "hq_city": "no lo tengo",
+    "website": "https://www.bumblebeeconservation.org",
+    "project_page_url": "https://www.bumblebeeconservation.org/bumblebees-of-the-world-1-bombus-dahlbomii/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "ONG británica de conservación de abejorros; divulga la situación de B. dahlbomii (sin proyecto propio en Chile verificado).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Eduardo E. Zattara",
+    "nationality": "argentina (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.eurekalert.org/multimedia/751832",
+    "note": "Investigador (CONICET, sin verificar) con foto de prensa de la especie; impulsa el proyecto ciudadano argentino 'Vi un abejorro' (sin verificar).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "'Ratón volador' naranja y peludo, el mayor abejorro del mundo: adorable y con historia de invasión clara.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bombus_dahlbomii",
+   "https://www.bumblebeeconservation.org/bumblebees-of-the-world-1-bombus-dahlbomii/",
+   "https://blogs.scientificamerican.com/extinction-countdown/biggest-bumblebee-threatened/",
+   "https://noticiasambientales.com/animals/the-worlds-largest-bumblebee-native-to-argentina-and-chile-at-risk-of-extinction-due-to-an-invasive-species/",
+   "https://speciesconservation.org/small-grant/giant-patagonian-bumblebee/27048",
+   "https://uchile.cl/dam/jcr:0aa1d848-e01d-4523-9801-a90a91112977/BASES%20DEL%20CONCURSO%20Bombus%20dahlbomii.pdf",
+   "https://www.eurekalert.org/multimedia/751832"
+  ]
+ },
+ {
+  "common_name_es": "Esfinge colibrí",
+  "scientific_name": "Macroglossum stellatarum",
+  "category": "Insectos y polinizadores",
+  "continent": "Europa / Asia / África",
+  "countries": [
+   "España",
+   "Portugal",
+   "Francia",
+   "Italia",
+   "Marruecos",
+   "Japón"
+  ],
+  "region": "Paleártico, del Mediterráneo a Japón; migradora hacia el norte de Europa",
+  "iucn_status": "Global: Preocupación menor (LC), año no verificado (sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "Estable (sin verificar)",
+  "taxonomy_note": "Sphingidae; polilla diurna que liba en vuelo estacionario como un colibrí.",
+  "foundations": [
+   {
+    "name": "Butterfly Conservation Europe",
+    "hq_country": "Países Bajos (sin verificar)",
+    "hq_city": "no lo tengo",
+    "website": "https://bc-europe.eu",
+    "project_page_url": "no lo tengo",
+    "contact_email": "info@bc-europe.eu",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo (Chris van Swaay fue presidente en 2016; Miguel Munguira figura como presidente posterior, sin verificar cargo actual)",
+    "what_they_do": "Red europea de organizaciones de conservación de mariposas: seguimiento (BMS), listas rojas y políticas europeas.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Polilla que vuela como un colibrí con la trompa extendida: imagen sorprendente y muy fotogénica en jardines españoles.",
+  "sources": [
+   "https://karits.eu/index.php/wp-json/wp/v2/posts/7868"
+  ]
+ }
+]

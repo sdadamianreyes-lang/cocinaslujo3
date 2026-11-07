@@ -1,0 +1,885 @@
+[
+ {
+  "category": "América",
+  "common_name_es": "Yacaré overo",
+  "scientific_name": "Caiman latirostris",
+  "continent": "América del Sur",
+  "countries": [
+   "Argentina",
+   "Brasil",
+   "Paraguay",
+   "Uruguay",
+   "Bolivia"
+  ],
+  "region": "Humedales del Litoral argentino (Santa Fe, Corrientes, Entre Ríos, Chaco, Formosa), Mata Atlántica y Pantanal",
+  "iucn_status": "Global: Preocupación menor (LC), año sin verificar; en Argentina salió de la lista de especies amenazadas gracias al Proyecto Yacaré (sin verificar categoría nacional)",
+  "population_estimate": "no lo tengo",
+  "trend": "Recuperación en Argentina gracias al manejo por rancheo (sin verificar cifras)",
+  "taxonomy_note": "Cocodrilo de hocico ancho; familia Alligatoridae.",
+  "foundations": [
+   {
+    "name": "Proyecto Yacaré (Laboratorio de Zoología Aplicada: Anexo Vertebrados, FHUC-Universidad Nacional del Litoral / Ministerio de Ambiente de Santa Fe)",
+    "hq_country": "Argentina",
+    "hq_city": "Santa Fe (Granja La Esmeralda)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Desde 1990 recupera la población silvestre de yacaré overo mediante cosecha de huevos, incubación y liberación (rancheo), con educación ambiental y voluntariado.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Fundación Rewilding Argentina",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires",
+    "website": "https://www.rewildingargentina.org",
+    "project_page_url": "https://www.rewildingargentina.org",
+    "contact_email": "no lo tengo",
+    "phone": "+54 11 4807 3976 (general); prensa +54 9 11 3038 2684 (pie de web; sin verificar)",
+    "director_or_president": "Sofía Heinonen, directora ejecutiva",
+    "what_they_do": "Restauración de humedales del Iberá y reintroducción de fauna; el yacaré es parte del ecosistema que protege (sin proyecto específico verificado).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Matías Rebak",
+    "nationality": "Argentina (Corrientes)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de Fundación Rewilding Argentina en Iberá; fotos de esta especie concretas sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Ojos y escamas sobre el agua: silueta prehistórica muy gráfica, potente en tinta oscura.",
+  "sources": [
+   "https://mote.org/news/argentinas-caiman-conservationists-get-helping-hand-from-mote-aquarium-biologist/",
+   "https://www.elsol.com.ar/mendoza/el-yacare-y-las-tortugas-ya-estan-en-su-nuevo-hogar-que-sigue-para-el-ex-acuario-de-mendoza/",
+   "https://es.mongabay.com/2019/07/cocodrilos-de-argentina/"
+  ]
+ },
+ {
+  "category": "América",
+  "common_name_es": "Ñandú",
+  "scientific_name": "Rhea americana",
+  "continent": "América del Sur",
+  "countries": [
+   "Argentina",
+   "Brasil",
+   "Paraguay",
+   "Uruguay",
+   "Bolivia"
+  ],
+  "region": "Pastizales y sabanas: Pampa, Chaco, Espinal, Cerrado",
+  "iucn_status": "Global: Casi amenazado (NT), 2022 (según fuente secundaria; BirdLife confirma NT)",
+  "population_estimate": "no lo tengo (BirdLife: tamaño desconocido)",
+  "trend": "En declive (BirdLife), por pérdida de hábitat y caza",
+  "taxonomy_note": "Ave corredora no voladora (Rheidae); distinta del choique (Rhea pennata), que es LC.",
+  "foundations": [
+   {
+    "name": "Aves Argentinas (Asociación Ornitológica del Plata, socio de BirdLife International)",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires",
+    "website": "https://www.avesargentinas.org.ar",
+    "project_page_url": "https://www.avesargentinas.org.ar",
+    "contact_email": "info@avesargentinas.org.ar (perfil UNCCD; sin verificar en web oficial)",
+    "phone": "+54 11 4943-7216 (perfil UNCCD; sin verificar)",
+    "director_or_president": "Hernán Casañas, director ejecutivo (citado por BirdLife en feb. 2024; cargo actual sin verificar)",
+    "what_they_do": "Conservación de aves y pastizales naturales en Argentina; red de reservas y ciencia ciudadana (sin proyecto específico de ñandú verificado).",
+    "accepts_corporate_partners": "Probablemente sí (alianzas con empresas, p. ej. JetSMART en proyecto cardenal amarillo) (sin verificar)"
+   },
+   {
+    "name": "Fundación Rewilding Argentina",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires",
+    "website": "https://www.rewildingargentina.org",
+    "project_page_url": "https://www.rewildingargentina.org",
+    "contact_email": "no lo tengo",
+    "phone": "+54 11 4807 3976 (general); prensa +54 9 11 3038 2684 (pie de web; sin verificar)",
+    "director_or_president": "Sofía Heinonen, directora ejecutiva",
+    "what_they_do": "Reintroducción de fauna nativa en Iberá, Chaco y Patagonia (participación con ñandú no verificada).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Tomás Thibaud",
+    "nationality": "Argentina",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.nationalgeographicla.com/fotografia/2020/10/descubre-la-belleza-de-las-aves-de-argentina",
+    "note": "Fotógrafo de naturaleza y documentalista; reportaje de aves argentinas en National Geographic Latinoamérica (2020). Fotos de esta especie sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Silueta alta, cuello largo y plumaje gris: icono pampeano reconocible y elegante.",
+  "sources": [
+   "https://datazone.birdlife.org/species/factsheet/greater-rhea-rhea-americana/text"
+  ]
+ },
+ {
+  "category": "América",
+  "common_name_es": "Guanaco",
+  "scientific_name": "Lama guanicoe",
+  "continent": "América del Sur",
+  "countries": [
+   "Argentina",
+   "Chile",
+   "Perú",
+   "Bolivia",
+   "Paraguay"
+  ],
+  "region": "Estepa patagónica, Andes, Monte; reintroducido en Chaco seco (P.N. El Impenetrable)",
+  "iucn_status": "Global: Preocupación menor (LC), año sin verificar",
+  "population_estimate": "no lo tengo",
+  "trend": "Estable a localmente creciente en Patagonia; extinto localmente en Chaco hasta reintroducción 2025-2026 (sin verificar tendencia global)",
+  "taxonomy_note": "Camélido silvestre antecesor de la llama.",
+  "foundations": [
+   {
+    "name": "Fundación Rewilding Argentina",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires",
+    "website": "https://www.rewildingargentina.org",
+    "project_page_url": "https://rewildingargentina.org/?p=11748",
+    "contact_email": "no lo tengo",
+    "phone": "+54 11 4807 3976 (general); prensa +54 9 11 3038 2684 (pie de web; sin verificar)",
+    "director_or_president": "Sofía Heinonen, directora ejecutiva",
+    "what_they_do": "Translocación de guanacos de Santa Cruz a La Pampa y reintroducción en el P.N. El Impenetrable (Chaco) tras 110 años de ausencia; proyecto debatido por algunos científicos.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Freyja Foundation",
+    "hq_country": "Suiza (sin verificar)",
+    "hq_city": "no lo tengo",
+    "website": "https://freyjafoundation.org",
+    "project_page_url": "https://freyjafoundation.org/news/guanacos-move-from-santa-cruz-to-la-pampa-to-recover-their-population/index.html",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Financia/comunica la translocación de guanacos a La Pampa junto a Rewilding Argentina (sin verificar rol exacto).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Darío Podestá",
+    "nationality": "Argentina",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://nhm.ac.uk/wpy/gallery/2016-mara-mama-calls (obra general, no de esta especie)",
+    "note": "Biólogo y fotógrafo de fauna en Puerto Madryn (CENPAT-CONICET); finalista Wildlife Photographer of the Year; ex presidente de la Asociación Argentina de Fotógrafos de Naturaleza. Galería específica de la especie sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   },
+   {
+    "name": "Mariel Vega",
+    "nationality": "Argentina (Perito Moreno, Santa Cruz)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://rewildingargentina.org/blog-camaracamp/",
+    "note": "Fotógrafa de naturaleza; ganadora de un concurso de fotografía de Rewilding Argentina en Parque Patagonia (sin verificar especie fotografiada).",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Perfil esbelto a contraluz sobre la estepa: muy limpio para una camiseta minimalista.",
+  "sources": [
+   "https://news.mongabay.com/2026/02/guanacos-return-to-gran-chaco-restirs-debate-around-wildlife-translocations/",
+   "https://rewildingargentina.org/?p=11748",
+   "https://news.climate.columbia.edu/2024/10/22/plans-to-rewild-guanacos-in-argentina-trigger-scientific-debate-and-legal-threats"
+  ]
+ },
+ {
+  "category": "América",
+  "common_name_es": "Vicuña",
+  "scientific_name": "Vicugna vicugna",
+  "continent": "América del Sur",
+  "countries": [
+   "Perú",
+   "Bolivia",
+   "Argentina",
+   "Chile",
+   "Ecuador (introducida)"
+  ],
+  "region": "Puna y altiplano andino (Jujuy, Catamarca, Salta en Argentina)",
+  "iucn_status": "Global: Preocupación menor (LC), 2012 según ficha oficial argentina (posible reevaluación posterior sin verificar)",
+  "population_estimate": "Argentina: ~127.072 individuos (INTA, fecha sin verificar)",
+  "trend": "Recuperada tras casi extinguirse; uso sustentable de fibra mediante chaku (esquila en vivo) autorizado por CITES en Jujuy y Catamarca",
+  "taxonomy_note": "Camélido silvestre más pequeño; antecesor de la alpaca.",
+  "foundations": [
+   {
+    "name": "INTA (Instituto Nacional de Tecnología Agropecuaria) - programa vicuña Abra Pampa",
+    "hq_country": "Argentina",
+    "hq_city": "Abra Pampa (Jujuy)",
+    "website": "https://www.inta.gob.ar (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Manejo y uso sustentable de la vicuña con comunidades andinas (chaku); organismo público, no fundación.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Fundación Vida Silvestre Argentina (asociada a WWF)",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires",
+    "website": "https://www.vidasilvestre.org.ar",
+    "project_page_url": "https://www.vidasilvestre.org.ar",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Manuel Jaramillo, director general (citado en prensa 2021; sin verificar vigencia)",
+    "what_they_do": "Conservación de ecosistemas argentinos (proyecto específico de vicuña no verificado).",
+    "accepts_corporate_partners": "Probablemente sí (programas corporativos WWF) (sin verificar)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Tomás Thibaud",
+    "nationality": "Argentina",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.nationalgeographicla.com/fotografia/2020/10/descubre-la-belleza-de-las-aves-de-argentina",
+    "note": "Fotógrafo de naturaleza y documentalista; reportaje de aves argentinas en National Geographic Latinoamérica (2020). Fotos de esta especie sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Color canela y fondo de altiplano: estética andina cálida y muy vendible.",
+  "sources": [
+   "https://repositorio.inta.gob.ar/handle/20.500.12123/14760",
+   "https://www.argentina.gob.ar/sites/default/files/ficha-vicuna72-1.pdf",
+   "https://conicet.gov.ar/wp-content/uploads/divulgacion/2013/01/Gacetilla-El-manejo-sustentable-revaloriza-la-produccion-local-y-contribuye-a-la-conservacion-de-la-vicuña.pdf"
+  ]
+ },
+ {
+  "category": "América",
+  "common_name_es": "Macá tobiano",
+  "scientific_name": "Podiceps gallardoi",
+  "continent": "América del Sur",
+  "countries": [
+   "Argentina"
+  ],
+  "region": "Lagunas de mesetas basálticas de Santa Cruz (Patagonia); inverna en estuarios atlánticos",
+  "iucn_status": "Global: En peligro crítico (CR), año sin verificar",
+  "population_estimate": "471 individuos en 2010-2011 (vs. 2.691 en 1984-85, Gobierno argentino); prensa cita ~800 ejemplares (sin verificar)",
+  "trend": "Caída ~80% en 25 años; estabilizada en la última década según Aves Argentinas",
+  "taxonomy_note": "Endémico de Argentina; descubierto en 1974.",
+  "foundations": [
+   {
+    "name": "Aves Argentinas (Asociación Ornitológica del Plata, socio de BirdLife International)",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires",
+    "website": "https://www.avesargentinas.org.ar",
+    "project_page_url": "https://www.avesargentinas.org.ar",
+    "contact_email": "info@avesargentinas.org.ar (perfil UNCCD; sin verificar en web oficial)",
+    "phone": "+54 11 4943-7216 (perfil UNCCD; sin verificar)",
+    "director_or_president": "Hernán Casañas, director ejecutivo (citado por BirdLife en feb. 2024; cargo actual sin verificar)",
+    "what_they_do": "Programa Macá Tobiano con Ambiente Sur desde 2009: censos anuales, control de visón americano, guardianes de colonias, incubación ex situ.",
+    "accepts_corporate_partners": "Probablemente sí (alianzas con empresas, p. ej. JetSMART en proyecto cardenal amarillo) (sin verificar)"
+   },
+   {
+    "name": "Asociación Ambiente Sur",
+    "hq_country": "Argentina",
+    "hq_city": "Río Gallegos (Santa Cruz) (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Socio local del Programa Macá Tobiano junto a Aves Argentinas.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Matías Torreguitar",
+    "nationality": "Argentina (sin verificar)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://macaulaylibrary.org/de/asset/348434971",
+    "note": "Autor de un registro de macá tobiano en Meseta del Tobiano en Macaulay Library.",
+    "species_link": "Vinculado por la fuente"
+   },
+   {
+    "name": "Darío Podestá",
+    "nationality": "Argentina",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://nhm.ac.uk/wpy/gallery/2016-mara-mama-calls (obra general, no de esta especie)",
+    "note": "Biólogo y fotógrafo de fauna en Puerto Madryn (CENPAT-CONICET); finalista Wildlife Photographer of the Year; ex presidente de la Asociación Argentina de Fotógrafos de Naturaleza. Galería específica de la especie sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Contraste blanco-negro con cresta dorada y ojo rojo: muy gráfico y con historia de rescate.",
+  "sources": [
+   "https://www.argentina.gob.ar/node/56507",
+   "https://www.avesargentinas.org.ar/sites/default/files/documentos/Impacto%20represas%20Informe.pdf",
+   "https://www.lanacion.com.ar/sociedad/recuperan-al-maca-tobiano-el-ave-acuatica-mas-amenazada-del-pais-nid1818396/",
+   "https://elhornero.avesargentinas.org.ar/home/article/download/1529/1517/2395"
+  ]
+ },
+ {
+  "category": "América",
+  "common_name_es": "Gallito de las rocas",
+  "scientific_name": "Rupicola peruvianus",
+  "continent": "América del Sur",
+  "countries": [
+   "Perú",
+   "Colombia",
+   "Ecuador",
+   "Bolivia",
+   "Venezuela"
+  ],
+  "region": "Bosques nubosos y quebradas de la vertiente oriental andina (Manu, Tingo María, Yanachaga-Chemillén)",
+  "iucn_status": "Global: Preocupación menor (LC), según BirdLife vía EcoRegistros (año sin verificar); prensa peruana lo cita como amenazado (sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "Presión por pérdida de hábitat (sin verificar tendencia)",
+  "taxonomy_note": "Cotíngido; ave nacional del Perú (Resolución Suprema 983 de 1941).",
+  "foundations": [
+   {
+    "name": "SERFOR (Servicio Nacional Forestal y de Fauna Silvestre)",
+    "hq_country": "Perú",
+    "hq_city": "Lima",
+    "website": "https://www.gob.pe/serfor (sin verificar)",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Autoridad pública que rescata y libera ejemplares (no es fundación; falta ONG específica).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Naranja intenso con cresta en disco: impacto cromático máximo sobre camiseta negra o crudo.",
+  "sources": [
+   "https://caretas.pe/?p=9652",
+   "https://elperuano.pe/noticia/44474-ave-nacional",
+   "https://www.actualidadambiental.pe/puno-liberan-gallito-de-las-rocas-que-se-encontraba-aturdido-al-costado-de-una-via/",
+   "https://www.ecoregistros.org/sheet/Rupicola-peruvianus&idpais=46"
+  ]
+ },
+ {
+  "category": "América",
+  "common_name_es": "Pato serrucho",
+  "scientific_name": "Mergus octosetaceus",
+  "continent": "América del Sur",
+  "countries": [
+   "Brasil",
+   "Argentina (posiblemente extinto o casi)",
+   "Paraguay (histórico)"
+  ],
+  "region": "Ríos rápidos de aguas claras: Serra da Canastra, Jalapão, Chapada dos Veadeiros (Brasil); Misiones (Argentina, registros escasos)",
+  "iucn_status": "Global: En peligro crítico (CR), año sin verificar; monumento natural de Misiones (Ley 3320, 1996)",
+  "population_estimate": "50-249 individuos maduros (BirdLife, rango precautorio); Serra da Canastra 140-200 maduros",
+  "trend": "En declive",
+  "taxonomy_note": "Una de las anátidas más raras del mundo.",
+  "foundations": [
+   {
+    "name": "Instituto Terra Brasilis",
+    "hq_country": "Brasil",
+    "hq_city": "Belo Horizonte (Minas Gerais) (dirección de 2009, sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Sônia Rigueira, presidenta (Agência Minas)",
+    "what_they_do": "Programa de manejo más amplio del pato-mergulhão en Serra da Canastra; educación ambiental 'Pato aqui, água acolá'; miembro del PAN de ICMBio.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Aves Argentinas (Asociación Ornitológica del Plata, socio de BirdLife International)",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires",
+    "website": "https://www.avesargentinas.org.ar",
+    "project_page_url": "https://www.avesargentinas.org.ar",
+    "contact_email": "info@avesargentinas.org.ar (perfil UNCCD; sin verificar en web oficial)",
+    "phone": "+54 11 4943-7216 (perfil UNCCD; sin verificar)",
+    "director_or_president": "Hernán Casañas, director ejecutivo (citado por BirdLife en feb. 2024; cargo actual sin verificar)",
+    "what_they_do": "Referente de búsqueda y registros del pato serrucho en Misiones (sin proyecto vigente verificado).",
+    "accepts_corporate_partners": "Probablemente sí (alianzas con empresas, p. ej. JetSMART en proyecto cardenal amarillo) (sin verificar)"
+   }
+  ],
+  "photographers": [],
+  "design_notes": "Cresta despeinada y pico serrado: rareza extrema con mucho relato.",
+  "sources": [
+   "https://datazone.birdlife.org/species/factsheet/brazilian-merganser-mergus-octosetaceus/details",
+   "https://www.agenciaminas.mg.gov.br/noticia/projeto-promove-educacao-ambiental-no-sudoeste-de-minas-41965",
+   "https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-pato-mergulhao/1-ciclo/pan-pato-mergulhao-portaria-gat.pdf",
+   "https://datazone.birdlife.org/userfiles/file/Species/AmRDBPDFs/Mergus_octosetaceus_spa.pdf"
+  ]
+ },
+ {
+  "category": "América",
+  "common_name_es": "Carpincho",
+  "scientific_name": "Hydrochoerus hydrochaeris",
+  "continent": "América del Sur",
+  "countries": [
+   "Argentina",
+   "Brasil",
+   "Uruguay",
+   "Paraguay",
+   "Bolivia",
+   "Venezuela",
+   "Colombia y otros"
+  ],
+  "region": "Humedales; en Argentina, Delta del Paraná, Iberá y Litoral",
+  "iucn_status": "Global: Preocupación menor (LC), año sin verificar; protegido por ley nacional de fauna y decreto bonaerense",
+  "population_estimate": "no lo tengo",
+  "trend": "Estable globalmente (sin verificar); conflicto en barrios sobre humedales (Nordelta)",
+  "taxonomy_note": "Roedor más grande del mundo.",
+  "foundations": [
+   {
+    "name": "Fundación Vida Silvestre Argentina (asociada a WWF)",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires",
+    "website": "https://www.vidasilvestre.org.ar",
+    "project_page_url": "https://www.vidasilvestre.org.ar",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Manuel Jaramillo, director general (citado en prensa 2021; sin verificar vigencia)",
+    "what_they_do": "Conservación de humedales del Delta y defensa de la Ley de Humedales; voz pública en el caso Nordelta.",
+    "accepts_corporate_partners": "Probablemente sí (programas corporativos WWF) (sin verificar)"
+   },
+   {
+    "name": "Fundación Rewilding Argentina",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires",
+    "website": "https://www.rewildingargentina.org",
+    "project_page_url": "https://www.rewildingargentina.org",
+    "contact_email": "no lo tengo",
+    "phone": "+54 11 4807 3976 (general); prensa +54 9 11 3038 2684 (pie de web; sin verificar)",
+    "director_or_president": "Sofía Heinonen, directora ejecutiva",
+    "what_they_do": "Restauración de los Esteros del Iberá, hábitat clave del carpincho.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Matías Rebak",
+    "nationality": "Argentina (Corrientes)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Fotógrafo de Fundación Rewilding Argentina en Iberá; fotos de esta especie concretas sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Fenómeno meme global y cara serena: alto atractivo comercial y simpatía.",
+  "sources": [
+   "https://www.tiempoar.com.ar/ta_article/desmonte-barrios-sobre-humedales-y-fauna-desplazada-los-carpinchos-de-nordelta-y-sus-razones/",
+   "https://www.conicet.gov.ar/carpinchos-cientificos-y-cientificas-del-conicet-reflexionan-sobre-los-acontecimientos-de-nordelta/",
+   "https://www.baenegocios.com/sociedad/la-justicia-fallo-a-favor-de-los-carpinchos-de-nordelta-20251005-0059.html"
+  ]
+ },
+ {
+  "category": "América",
+  "common_name_es": "Tortuga terrestre argentina",
+  "scientific_name": "Chelonoidis chilensis",
+  "continent": "América del Sur",
+  "countries": [
+   "Argentina",
+   "Paraguay",
+   "Bolivia"
+  ],
+  "region": "Chaco seco, Monte y norte de Patagonia (tortuga terrestre más austral del mundo)",
+  "iucn_status": "Global: Vulnerable (VU), 1996 (Mongabay 2025 informa reclasificación a En peligro, sin publicar en web UICN; sin verificar)",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive por tráfico ilegal (una de las especies más traficadas de Argentina), pérdida de hábitat y ganadería",
+  "taxonomy_note": "Antes considerada varias especies (C. donosobarrosi, C. petersi), hoy sinonimizadas (sin verificar).",
+  "foundations": [
+   {
+    "name": "Fundación de Historia Natural Félix de Azara",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires (Hidalgo 775, CABA, según ficha FishBase; sin verificar)",
+    "website": "https://www.fundacionazara.org.ar",
+    "project_page_url": "https://es.mongabay.com/2025/05/cientificas-tecnologia-perros-entrenados-salvar-tortuga-terrestre-mas-austral-del-mundo-argentina/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Apoya con CONICET el Programa de Conservación de la Tortuga Terrestre en Patagonia (relevamientos con perros entrenados).",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Fondation Franz Weber (FFW) - centro San Acan",
+    "hq_country": "Suiza (centro en Córdoba, Argentina)",
+    "hq_city": "Montreux (sin verificar)",
+    "website": "https://www.ffw.ch",
+    "project_page_url": "https://www.ffw.ch/en/projects/san-acan/",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Impulsa San Acan, primer centro especializado de rescate y rehabilitación de tortuga terrestre argentina.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Darío Podestá",
+    "nationality": "Argentina",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://nhm.ac.uk/wpy/gallery/2016-mara-mama-calls (obra general, no de esta especie)",
+    "note": "Biólogo y fotógrafo de fauna en Puerto Madryn (CENPAT-CONICET); finalista Wildlife Photographer of the Year; ex presidente de la Asociación Argentina de Fotógrafos de Naturaleza. Galería específica de la especie sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Caparazón geométrico y ritmo lento: mensaje claro contra el tráfico de mascotas.",
+  "sources": [
+   "https://es.mongabay.com/2025/05/cientificas-tecnologia-perros-entrenados-salvar-tortuga-terrestre-mas-austral-del-mundo-argentina/",
+   "https://www.ffw.ch/en/projects/san-acan/",
+   "https://www.lanacion.com.ar/sociedad/crean-el-primer-centro-de-rescate-de-tortugas-en-el-pais-por-que-es-importante-y-no-solo-para-ellas-nid17032026/",
+   "https://en.wikipedia.org/wiki/Chaco_tortoise"
+  ]
+ },
+ {
+  "category": "América",
+  "common_name_es": "Pudú",
+  "scientific_name": "Pudu puda",
+  "continent": "América del Sur",
+  "countries": [
+   "Chile",
+   "Argentina"
+  ],
+  "region": "Bosques templados valdivianos y andino-patagónicos (Maule a Aysén; Neuquén, Río Negro, Chubut)",
+  "iucn_status": "Global: Casi amenazado (NT), 2016; Argentina: Vulnerable (SAREM 2019); Chile: Vulnerable",
+  "population_estimate": "~10.000 individuos (Reuters; sin verificar)",
+  "trend": "En declive (hasta 20% en 12-15 años, UICN 2016)",
+  "taxonomy_note": "Ciervo más pequeño del mundo (35-45 cm).",
+  "foundations": [
+   {
+    "name": "Fundación Temaikèn",
+    "hq_country": "Argentina",
+    "hq_city": "Escobar (Buenos Aires)",
+    "website": "https://www.temaiken.org.ar (sin verificar)",
+    "project_page_url": "https://www.temaiken.org.ar (sin verificar)",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Cría en Temaikèn Biopark (nacimiento de 'Lenga', nov. 2024), investigación reproductiva y concienciación.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Nicolás Piwonka",
+    "nationality": "Chile",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Biólogo y fotógrafo de naturaleza residente en Villarrica; obra ligada a fauna chilena. Fotos de esta especie sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   },
+   {
+    "name": "@ekelundfotos",
+    "nationality": "no lo tengo",
+    "website": "no lo tengo",
+    "instagram": "@ekelundfotos",
+    "species_gallery_url": "https://chile.travel/en/blog/theyre-so-cute-chiles-most-adorable-animals-and-where-to-find-them/",
+    "note": "Autor de fotos de pudú usadas por chile.travel; nombre completo sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Ciervo diminuto con cara tierna: ternura inmediata, ideal para público familiar.",
+  "sources": [
+   "https://cma.sarem.org.ar/sites/default/files/pdf_fichas/Pudu%20puda.pdf",
+   "https://www.euronews.com/2024/12/16/rare-birth-of-one-of-the-smallest-deer-in-the-world",
+   "https://theprint.in/environment/rare-pudu-birth-in-argentina-sparks-conservation-hopes-for-tiny-enigmatic-deer/2375127"
+  ]
+ },
+ {
+  "category": "América",
+  "common_name_es": "Chinchilla de cola corta",
+  "scientific_name": "Chinchilla chinchilla",
+  "continent": "América del Sur",
+  "countries": [
+   "Chile",
+   "Argentina",
+   "Bolivia (posiblemente extinta)",
+   "Perú (posiblemente extinta)"
+  ],
+  "region": "Puna y altiplano andino: Atacama (Chile), Salta y Catamarca (Antofalla) en Argentina",
+  "iucn_status": "Global: En peligro (EN), año sin verificar; Chile: En peligro crítico (CR A2cd)",
+  "population_estimate": "no lo tengo (colonias pequeñas y dispersas)",
+  "trend": "En declive; redescubrimientos recientes (Salta 2022, Atacama 2023)",
+  "taxonomy_note": "Distinta de la chinchilla de cola larga (C. lanigera); casi exterminada por el comercio de pieles.",
+  "foundations": [
+   {
+    "name": "Save the Wild Chinchillas",
+    "hq_country": "Chile (sin verificar sede legal)",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Amy Deane, fundadora y directora",
+    "what_they_do": "Restauración de hábitat de chinchilla silvestre (replantación cerca de Illapel) y educación; enfocada sobre todo en C. lanigera (sin verificar trabajo con C. chinchilla).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Jean Paul de la Harpe",
+    "nationality": "Chile",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Biólogo y fotógrafo que documenta biodiversidad y áreas naturales de Chile. Fotos de esta especie sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Bola de pelo con orejas grandes: muy tierna y con historia de redescubrimiento.",
+  "sources": [
+   "https://clasificacionespecies.mma.gob.cl/wp-content/uploads/2019/10/Chinchilla_chinchilla.pdf",
+   "https://www.eldinamo.cl/pais/2023/12/28/fotos-por-que-es-importante-el-avistamiento-de-la-chinchilla-cola-corta-en-atacama/",
+   "https://wec.ifas.ufl.edu/pdf/branch/Croce_et_al2023_Notas_Sobre_Mam_Sud.pdf",
+   "https://www.bcn.cl/leychile/navegar?idNorma=1155782"
+  ]
+ },
+ {
+  "category": "América",
+  "common_name_es": "Cardenal amarillo",
+  "scientific_name": "Gubernatrix cristata",
+  "continent": "América del Sur",
+  "countries": [
+   "Argentina",
+   "Uruguay",
+   "Brasil (casi extinto)"
+  ],
+  "region": "Espinal y Monte: La Pampa, Río Negro, Mendoza, San Luis, Entre Ríos, Corrientes",
+  "iucn_status": "Global: En peligro (EN), año sin verificar (EN desde al menos 2000)",
+  "population_estimate": "1.000-2.000 individuos maduros (BirdLife, estimación 2007)",
+  "trend": "En declive (tráfico ilegal y pérdida de hábitat); liberaciones recientes",
+  "taxonomy_note": "Paseriforme de la familia Thraupidae.",
+  "foundations": [
+   {
+    "name": "Aves Argentinas (Asociación Ornitológica del Plata, socio de BirdLife International)",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires",
+    "website": "https://www.avesargentinas.org.ar",
+    "project_page_url": "https://www.avesargentinas.org.ar/sites/default/files/documentos/Cardenal_amarillo_Ciencia_Ciudadana.pdf",
+    "contact_email": "info@avesargentinas.org.ar (perfil UNCCD; sin verificar en web oficial)",
+    "phone": "+54 11 4943-7216 (perfil UNCCD; sin verificar)",
+    "director_or_president": "Hernán Casañas, director ejecutivo (citado por BirdLife en feb. 2024; cargo actual sin verificar)",
+    "what_they_do": "Coordina el Proyecto/Alianza Cardenal Amarillo: rescate de aves decomisadas, liberaciones, censos nacionales de ciencia ciudadana.",
+    "accepts_corporate_partners": "Probablemente sí (alianzas con empresas, p. ej. JetSMART en proyecto cardenal amarillo) (sin verificar)"
+   },
+   {
+    "name": "Fundación Temaikèn",
+    "hq_country": "Argentina",
+    "hq_city": "Escobar (Buenos Aires)",
+    "website": "https://www.temaiken.org.ar (sin verificar)",
+    "project_page_url": "https://www.temaiken.org.ar (sin verificar)",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Socio de la Alianza Cardenal Amarillo; rehabilitación y liberación (p. ej. La Pampa, 2026, con Ecoparque Buenos Aires).",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Tomás Thibaud",
+    "nationality": "Argentina",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.nationalgeographicla.com/fotografia/2020/10/descubre-la-belleza-de-las-aves-de-argentina",
+    "note": "Fotógrafo de naturaleza y documentalista; reportaje de aves argentinas en National Geographic Latinoamérica (2020). Fotos de esta especie sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Amarillo y negro con cresta punk: color fuerte y mensaje contra el tráfico.",
+  "sources": [
+   "https://datazone.birdlife.org/species/factsheet/yellow-cardinal-gubernatrix-cristata/details",
+   "https://es.mongabay.com/2022/02/argentina-el-cardenal-amarillo-le-da-batalla-al-trafico-de-animales-y-comienza-a-recuperarse/",
+   "https://www.canal26.com/planeta/2026/06/01/argentina-hace-historia-tras-reinsertar-a-un-ave-en-peligro-de-extincion-es-una-especie-exclusiva-de-sudamerica/",
+   "https://aviacionline.com/pajaros-que-salvan-pajaros-una-historia-detras-de-la-cola-del-avion-numero-40-de-jetsmart"
+  ]
+ },
+ {
+  "category": "América",
+  "common_name_es": "Flamenco andino (parina grande)",
+  "scientific_name": "Phoenicoparrus andinus",
+  "continent": "América del Sur",
+  "countries": [
+   "Argentina",
+   "Bolivia",
+   "Chile",
+   "Perú"
+  ],
+  "region": "Salares y lagunas altoandinas de la Puna",
+  "iucn_status": "Global: Vulnerable (VU), año sin verificar",
+  "population_estimate": "~78.000 individuos (Biotempo; año sin verificar); Argentina feb. 2014: 4.459 contados",
+  "trend": "Población más pequeña de los seis flamencos; amenazas por minería de litio y agua (sin verificar tendencia)",
+  "taxonomy_note": "Único flamenco con patas amarillas y sin dedo posterior.",
+  "foundations": [
+   {
+    "name": "Grupo de Conservación Flamencos Altoandinos (GCFA)",
+    "hq_country": "Internacional (Argentina, Bolivia, Chile, Perú)",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Red científica que coordina censos simultáneos internacionales (cada 5 años) y acciones de conservación de flamencos altoandinos.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "Aves Argentinas (Asociación Ornitológica del Plata, socio de BirdLife International)",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires",
+    "website": "https://www.avesargentinas.org.ar",
+    "project_page_url": "https://www.avesargentinas.org.ar",
+    "contact_email": "info@avesargentinas.org.ar (perfil UNCCD; sin verificar en web oficial)",
+    "phone": "+54 11 4943-7216 (perfil UNCCD; sin verificar)",
+    "director_or_president": "Hernán Casañas, director ejecutivo (citado por BirdLife en feb. 2024; cargo actual sin verificar)",
+    "what_they_do": "Conservación de humedales altoandinos y aves de la Puna (proyecto específico sin verificar).",
+    "accepts_corporate_partners": "Probablemente sí (alianzas con empresas, p. ej. JetSMART en proyecto cardenal amarillo) (sin verificar)"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Tomás Thibaud",
+    "nationality": "Argentina",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.nationalgeographicla.com/fotografia/2020/10/descubre-la-belleza-de-las-aves-de-argentina",
+    "note": "Fotógrafo de naturaleza y documentalista; reportaje de aves argentinas en National Geographic Latinoamérica (2020). Fotos de esta especie sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   },
+   {
+    "name": "Hugo Giraudo",
+    "nationality": "Argentina (Miramar, Córdoba)",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.lavozdesanjusto.com.ar/impactantes-imagenes-de-los-flamencos-en-la-laguna-mar-chiquita-35212",
+    "note": "Fotógrafo de flamencos en Mar Chiquita (Ansenuza), miembro del Club de Observadores de Aves Miramar; sin verificar fotos de P. andinus.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Rosa con patas amarillas sobre salar blanco: paleta pastel muy atractiva.",
+  "sources": [
+   "https://datazone.birdlife.org/species/factsheet/andean-flamingo-phoenicoparrus-andinus/text",
+   "https://revistas.urp.edu.pe/index.php/Biotempo/article/download/5557/7832",
+   "https://www.argentina.gob.ar/node/163904",
+   "https://ri.conicet.gov.ar/handle/11336/139945"
+  ]
+ },
+ {
+  "category": "América",
+  "common_name_es": "Loro hablador",
+  "scientific_name": "Amazona aestiva",
+  "continent": "América del Sur",
+  "countries": [
+   "Argentina",
+   "Brasil",
+   "Paraguay",
+   "Bolivia"
+  ],
+  "region": "Chaco (Impenetrable), Yungas y Cerrado",
+  "iucn_status": "Global: Casi amenazado (NT), 2019",
+  "population_estimate": "1.000.000-10.000.000 individuos maduros (BirdLife)",
+  "trend": "En declive (captura para mascotismo y deforestación)",
+  "taxonomy_note": "Subespecie argentina A. a. xanthopteryx.",
+  "foundations": [
+   {
+    "name": "Fundación Vida Silvestre Argentina (asociada a WWF)",
+    "hq_country": "Argentina",
+    "hq_city": "Buenos Aires",
+    "website": "https://www.vidasilvestre.org.ar",
+    "project_page_url": "https://www.vidasilvestre.org.ar",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "Manuel Jaramillo, director general (citado en prensa 2021; sin verificar vigencia)",
+    "what_they_do": "Participó en el Proyecto Elé de conservación y uso sustentable del loro hablador con la Dirección de Fauna y CITES (vigencia sin verificar).",
+    "accepts_corporate_partners": "Probablemente sí (programas corporativos WWF) (sin verificar)"
+   },
+   {
+    "name": "Proyecto de protección del loro hablador - Facultad de Ciencias Veterinarias, Universidad Nacional del Litoral",
+    "hq_country": "Argentina",
+    "hq_city": "Esperanza / Santa Fe (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "https://www.ellitoral.com/informacion-general/loro-hablador-santa-fe-proyecto-especie-proteccion-cuidado-ambiente_0_nEws33nU3Z.html",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Educación ambiental y protección de la especie en el centro-norte de Santa Fe.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Tomás Thibaud",
+    "nationality": "Argentina",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "https://www.nationalgeographicla.com/fotografia/2020/10/descubre-la-belleza-de-las-aves-de-argentina",
+    "note": "Fotógrafo de naturaleza y documentalista; reportaje de aves argentinas en National Geographic Latinoamérica (2020). Fotos de esta especie sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Verde con frente turquesa y hombros amarillos: colorido tropical muy alegre.",
+  "sources": [
+   "https://datazone.birdlife.org/species/factsheet/turquoise-fronted-amazon-amazona-aestiva/details",
+   "https://elhornero.avesargentinas.org.ar/home/article/view/672",
+   "https://www.ellitoral.com/informacion-general/loro-hablador-santa-fe-proyecto-especie-proteccion-cuidado-ambiente_0_nEws33nU3Z.html"
+  ]
+ },
+ {
+  "category": "América",
+  "common_name_es": "Monito del monte",
+  "scientific_name": "Dromiciops gliroides",
+  "continent": "América del Sur",
+  "countries": [
+   "Chile",
+   "Argentina"
+  ],
+  "region": "Bosques templados valdivianos (Biobío a Chiloé y Aysén; Neuquén, Río Negro y Chubut)",
+  "iucn_status": "Global: Casi amenazado (NT), año sin verificar (fuentes secundarias discrepan: algunas citan VU); Chile: Casi amenazada",
+  "population_estimate": "no lo tengo",
+  "trend": "En declive por fragmentación del bosque, incendios y especies exóticas (sin verificar cifra)",
+  "taxonomy_note": "Único superviviente del orden Microbiotheria; 'fósil viviente' más emparentado con marsupiales australianos.",
+  "foundations": [
+   {
+    "name": "ONG Chiloé Protegido",
+    "hq_country": "Chile",
+    "hq_city": "Chiloé (sin verificar)",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Colaboró con la Universidad Austral de Chile en estudio de salud de poblaciones de monito del monte.",
+    "accepts_corporate_partners": "no lo tengo"
+   },
+   {
+    "name": "ONG Mamíferos de Chile",
+    "hq_country": "Chile",
+    "hq_city": "no lo tengo",
+    "website": "no lo tengo",
+    "project_page_url": "no lo tengo",
+    "contact_email": "no lo tengo",
+    "phone": "no lo tengo",
+    "director_or_president": "no lo tengo",
+    "what_they_do": "Divulgación sobre mamíferos chilenos, incluida la familia Microbiotheriidae.",
+    "accepts_corporate_partners": "no lo tengo"
+   }
+  ],
+  "photographers": [
+   {
+    "name": "Nicolás Piwonka",
+    "nationality": "Chile",
+    "website": "no lo tengo",
+    "instagram": "no lo tengo",
+    "species_gallery_url": "no lo tengo",
+    "note": "Biólogo y fotógrafo de naturaleza residente en Villarrica; obra ligada a fauna chilena. Fotos de esta especie sin verificar.",
+    "species_link": "Sin confirmar que fotografió esta especie"
+   }
+  ],
+  "design_notes": "Ojos enormes y cola enroscada: ternura máxima y relato de 'fósil viviente'.",
+  "sources": [
+   "https://eol.org/pages/129538",
+   "https://www.theclinic.cl/2026/03/25/camaras-trampa-logran-capturar-la-presencia-del-monito-del-monte-en-el-parque-nacional-queulat-en-aysen-marsupial-chileno-se-encuentra-en-problemas-de-conservacion/",
+   "https://www.t13.cl/noticia/nacional/extraen-ilegal-20-monitos-monte-fundo-san-martin-03-06-2021"
+  ]
+ }
+]
