@@ -18,7 +18,7 @@ const certezas = [
   {
     icono: CalendarCheck,
     titulo: 'Tienes una fecha',
-    texto: 'Al confirmar el pedido te damos por escrito la fecha de tu cocina terminada, con el montaje incluido.',
+    texto: 'Cuando tu pedido entra en fabricación te confirmamos por escrito la fecha de tu cocina terminada, con el montaje incluido.',
   },
 ]
 
@@ -35,13 +35,13 @@ const pasos = [
   },
   {
     icono: MessageCircle,
-    titulo: 'Fabricamos a medida',
-    texto: 'Tus frentes se fabrican a la medida de tus muebles. Te avisamos de cada paso y una persona del equipo te responde de principio a fin.',
+    titulo: 'Se fabrica a medida',
+    texto: 'Tus frentes se fabrican a la medida de tus muebles. Te avisamos de cada paso y la misma persona te responde de principio a fin.',
   },
   {
     icono: Hammer,
     titulo: 'Montaje incluido',
-    texto: 'Montamos y te entregamos la cocina terminada en la fecha acordada por escrito.',
+    texto: 'Montamos y repasamos la cocina contigo, en la fecha que te dimos por escrito.',
   },
 ]
 
@@ -65,7 +65,7 @@ const preguntas = [
   },
   {
     p: '¿Cuándo estará terminada?',
-    r: 'Al confirmar el pedido te damos la fecha por escrito, con el montaje incluido.',
+    r: 'Antes de confirmar te decimos en qué semana estaría terminada. Cuando el pedido entra en fabricación te confirmamos la fecha por escrito, con el montaje incluido.',
   },
   {
     p: '¿Tenéis tienda?',
@@ -230,7 +230,7 @@ export default function HomePage() {
           <span className="text-lg tracking-[0.2em]" style={{ fontFamily: 'Georgia, serif' }}>
             COCINAS LUJO
           </span>
-          <p>Madrid · WhatsApp {TELEFONO_VISIBLE} · info@cocinaslujo.com</p>
+          <p>Madrid · WhatsApp {TELEFONO_VISIBLE} · cocinaslujoadm@gmail.com</p>
           <p>Lunes a viernes, de 9:00 a 18:00</p>
           <p className="opacity-70">© 2026 Cocinas Lujo</p>
         </div>
