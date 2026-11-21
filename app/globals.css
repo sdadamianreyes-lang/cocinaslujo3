@@ -2,38 +2,40 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Identidad de Cocinas Lujo: café latte, espresso, dorado y hueso. Georgia en títulos, Helvetica en texto. */
+:root {
+  --latte: #c8ad87;
+  --espresso: #3f2e22;
+  --dorado: #a9823a;
+  --hueso: #fbf7ee;
+}
+
 @layer base {
   body {
-    @apply antialiased text-gray-900;
+    @apply antialiased;
+    background: var(--hueso);
+    color: var(--espresso);
+    font-family: Helvetica, Arial, sans-serif;
   }
-  
-  h1, h2, h3, h4, h5, h6 {
-    @apply font-bold;
+  h1, h2, h3 {
+    font-family: Georgia, 'Times New Roman', serif;
+    font-weight: 400;
+    letter-spacing: -0.01em;
   }
 }
 
 @layer components {
-  .btn-primary {
-    @apply bg-blue-600 hover:bg-blue-700 text-white font-semibold px-6 py-3 rounded-xl transition-all duration-200 shadow-lg hover:shadow-xl hover:scale-105;
+  .btn-foto {
+    @apply inline-flex items-center justify-center gap-2 rounded-full px-7 py-4 text-lg font-semibold text-white shadow-lg transition hover:brightness-95;
+    background: #25d366;
   }
-  
-  .btn-whatsapp {
-    @apply bg-green-500 hover:bg-green-600 text-white font-semibold px-6 py-3 rounded-xl transition-all duration-200 shadow-lg hover:shadow-xl flex items-center gap-2;
+  .tarjeta {
+    @apply rounded-2xl bg-white p-7 shadow-sm;
+    border: 1px solid rgba(63, 46, 34, 0.1);
   }
-  
-  .section-title {
-    @apply text-3xl md:text-4xl font-bold mb-6 text-gray-900;
-  }
-  
-  .card {
-    @apply bg-white rounded-2xl p-6 shadow-md hover:shadow-xl transition-all duration-300;
-  }
-  
-  .plan-card {
-    @apply bg-white rounded-2xl p-8 shadow-lg hover:shadow-2xl transition-all duration-300 border-2 border-gray-200 hover:border-blue-500;
-  }
-  
-  .plan-card.featured {
-    @apply border-blue-600 ring-4 ring-blue-100 transform scale-105;
+  .rotulo {
+    @apply text-sm font-semibold uppercase;
+    letter-spacing: 0.14em;
+    color: var(--dorado);
   }
 }
