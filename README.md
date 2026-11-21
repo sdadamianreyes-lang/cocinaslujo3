@@ -39,5 +39,6 @@ npm run build
 ## Pendiente antes de publicar
 
 - Confirmar dónde se publica (la web actual está en otro servicio) y a qué dominio apunta.
-- Aviso legal y política de privacidad en el pie (a revisar con abogado).
+- Aviso legal, titular y política de privacidad en el pie, y la etiqueta de imagen generada (a revisar con abogado).
+- Si la visita la hace solo el carpintero, cambiar "Un decorador y un carpintero" en el paso 2.
 - Fotos reales de cocinas terminadas, con permiso del cliente.

@@ -13,7 +13,7 @@ const certezas = [
   {
     icono: Scale,
     titulo: 'Sabes qué mueve el precio',
-    texto: 'Desde el primer presupuesto te explicamos qué incluye y qué hace que suba o baje. Lo que se añade lo eliges tú.',
+    texto: 'Desde el primer presupuesto ves qué incluye y qué queda aparte. Lo que se añade lo eliges tú.',
   },
   {
     icono: CalendarCheck,
@@ -41,7 +41,7 @@ const pasos = [
   {
     icono: Hammer,
     titulo: 'Montaje incluido',
-    texto: 'Montamos y repasamos la cocina contigo, en la fecha que te dimos por escrito.',
+    texto: 'Montamos y repasamos la cocina contigo. La fecha la tienes por escrito.',
   },
 ]
 
@@ -61,7 +61,7 @@ const preguntas = [
   },
   {
     p: '¿Cuánto cuesta?',
-    r: 'Depende de tu cocina. Por eso te enviamos un presupuesto orientativo gratis a partir de tus fotos, y el precio exacto se cierra en la visita.',
+    r: 'Depende de tu cocina. Por eso te enviamos un presupuesto orientativo gratis a partir de tus fotos, y el precio exacto te lo enviamos después de la visita, ya con las medidas reales.',
   },
   {
     p: '¿Cuándo estará terminada?',
